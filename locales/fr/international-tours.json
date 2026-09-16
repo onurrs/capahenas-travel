@@ -1,0 +1,549 @@
+{
+  "header": {
+    "internationalTours": "Circuits Internationaux"
+  },
+  "international": {
+    "title": "Circuits Internationaux",
+    "view": "Découvrir",
+    "popularBadge": "★ Le plus populaire",
+    "japan-express": {
+      "title": "Circuit Japon Express",
+      "desc": "8 Jours • 7 Nuits",
+      "metaTitle": "Circuit Japon Express - Capahenas Travel",
+      "metaDescription": "Circuit Japon Express de 8 jours et 7 nuits sur l'itinéraire Istanbul, Tokyo, Kyoto, Tokyo ; un programme captivant incluant Odaiba, TeamLab, la tour de Tokyo, Asakusa, Meiji Jingu, Shibuya et Ginza.",
+      "badge": "Circuit Japon Express",
+      "galleryTitle": "Galerie du Circuit",
+      "gallerySubtitle": "Istanbul • Tokyo • Kyoto • Tokyo",
+      "aboutTitle": "Aperçu du Circuit",
+      "aboutSubtitle": "8 Jours • 7 Nuits",
+      "aboutDuration": "8 Jours • 7 Nuits",
+      "aboutDestinations": "Istanbul, Tokyo, Kyoto, Tokyo",
+      "introText": "<span class=\"inline-block px-3 py-1 bg-green-100 text-green-700 rounded-full text-sm font-medium mr-2\">Départs Quotidiens</span><span class=\"inline-block px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm font-medium\">Personnalisable</span>",
+      "highlights": [
+        "Découvrez le visage moderne de Tokyo avec vue sur Odaiba, le Rainbow Bridge et la tour de Tokyo.",
+        "Vivez l'expérience d'art numérique TeamLab au cœur de l'ambiance animée de Shibuya et Harajuku.",
+        "Visitez les temples emblématiques de Kyoto, la forêt de bambous et la culture traditionnelle à Gion.",
+        "Profitez d'un agréable itinéraire à pied entre Asakusa, Fushimi Inari et Kiyomizu-dera.",
+        "Profitez d'un voyage confortable au Japon avec visites guidées de la ville, shopping et temps libre."
+      ],
+      "itinerary": [
+        {
+          "title": "JOUR 1 | Istanbul – Tokyo",
+          "content": "Rendez-vous à l'aéroport d'Istanbul et vol vers Tokyo après les formalités d'enregistrement, de bagages et de contrôle des passeports."
+        },
+        {
+          "title": "JOUR 2 | Arrivée à Tokyo – Odaiba – TeamLab – Tour de Tokyo",
+          "content": "Dès notre arrivée à Tokyo, nous commençons notre visite de la ville. Nous visitons d'abord le quartier d'Odaiba, qui illustre le visage moderne de la baie de Tokyo, et passons d'agréables moments devant la Statue de la Liberté et le Rainbow Bridge. Ensuite, nous visitons TeamLab, l'un des musées d'art numérique les plus impressionnants au monde, pour une expérience unique mêlant lumière, couleur et technologie. En fin de journée, pause photo devant la tour de Tokyo illuminée, puis installation à l'hôtel."
+        },
+        {
+          "title": "JOUR 3 | Asakusa – Meiji Jingu – Harajuku – Shibuya",
+          "content": "Après le petit-déjeuner à l'hôtel, départ pour Asakusa, le centre historique de Tokyo. Nous visitons le temple Senso-ji, nous promenons dans la rue commerçante historique Nakamise et profitons d'un temps libre pour le shopping. L'après-midi, visite du sanctuaire Meiji Jingu et promenade dans la rue Takeshita, symbole de Harajuku. Pour conclure la journée, nous rejoignons Shibuya pour admirer la statue d'Hachiko et découvrir le célèbre carrefour de Shibuya illuminé en soirée. Retour à l'hôtel le soir."
+        },
+        {
+          "title": "JOUR 4 | Tokyo – Kyoto – Kinkaku-ji – Arashiyama – Gion",
+          "content": "Tôt le matin, départ pour Kyoto à bord du train à grande vitesse Shinkansen. À l'arrivée, visite du Pavillon d'Or (Kinkaku-ji), emblème de Kyoto. Découverte de la forêt de bambous d'Arashiyama et du pont historique Togetsukyo pour profiter de l'atmosphère naturelle unique de la région. Poursuite de la journée avec la visite du quartier des geishas de Gion, cœur de la culture japonaise traditionnelle, et agréable promenade dans ses ruelles historiques. Installation à l'hôtel en soirée."
+        },
+        {
+          "title": "JOUR 5 | Fushimi Inari – Kiyomizu-dera – Sannenzaka",
+          "content": "Après le petit-déjeuner, visite du sanctuaire Fushimi Inari Taisha, célèbre pour ses milliers de portes torii rouges. Ensuite, visite du temple Kiyomizu-dera, classé au patrimoine mondial de l'UNESCO, et promenade dans les ruelles historiques de Sannenzaka pour s'imprégner de l'ambiance traditionnelle de Kyoto. Retour à l'hôtel en soirée."
+        },
+        {
+          "title": "JOUR 6 | Kyoto – Tokyo – Kisarazu Outlet – Ginza",
+          "content": "Le matin, retour à Tokyo en train à grande vitesse Shinkansen. À l'arrivée, temps libre pour le shopping dans les boutiques de marques internationales au Kisarazu Outlet. Après le shopping, départ pour Ginza, le quartier le plus prestigieux de Tokyo pour le shopping et l'art de vivre, afin de profiter de ses avenues scintillantes et de ses boutiques haut de gamme. Installation à l'hôtel en soirée."
+        },
+        {
+          "title": "JOUR 7 | Palais Impérial – Gare de Tokyo – Akihabara – Ueno – Ameyoko – Shinjuku",
+          "content": "Après le petit-déjeuner à l'hôtel, promenade autour du Palais Impérial et arrêt photo devant la gare historique de Tokyo. Ensuite, découverte du quartier d'Akihabara, célèbre pour ses produits électroniques et sa culture manga/anime. Poursuite de la journée avec du temps libre au parc d'Ueno et sur le marché animé d'Ameyoko. Dernière étape dans le quartier de Shinjuku, symbole du Tokyo contemporain, pour explorer ses gratte-ciel, ses rues commerçantes et son ambiance urbaine trépidante. Retour à l'hôtel le soir."
+        },
+        {
+          "title": "JOUR 8 | Tokyo – Istanbul",
+          "content": "Départ de l'hôtel le matin. Accompagnés de notre guide, transfert à l'aéroport pour le vol retour. Fin de notre voyage au Japon la tête pleine de souvenirs inoubliables, arrivée à Istanbul et adieux en espérant vous retrouver pour un prochain séjour."
+        }
+      ],
+      "inclusions": [
+        "Billet d'avion aller-retour en classe économique (THY – ANA – China)",
+        "Service de guide touristique",
+        "Billet de train à grande vitesse Shinkansen",
+        "Hôtels 3* et 4 étoiles",
+        "1 Dîner",
+        "Transferts aéroport",
+        "Frais d'entrée aux musées et sites",
+        "Excursions quotidiennes",
+        "Transport pour les excursions quotidiennes"
+      ],
+      "exclusions": [
+        "Taxe de sortie du territoire",
+        "Repas et boissons non mentionnés",
+        "Dépenses personnelles",
+        "Entrées des musées et temples non inclus dans le circuit",
+        "Excursions indiquées comme optionnelles"
+      ],
+      "cancellationPolicy": [
+        {
+          "title": "Droit d'Annulation sans Pénalité",
+          "content": "Droit d'annulation sans pénalité jusqu'à 30 jours (1 mois) avant la date de début du circuit."
+        },
+        {
+          "title": "Nombre Minimum de Participants",
+          "content": "Si le nombre minimum de participants n'est pas atteint jusqu'à 20 jours avant la date de départ, le circuit sera annulé et les clients en seront dûment informés."
+        },
+        {
+          "title": "Modifications Indépendantes",
+          "content": "Notre agence décline toute responsabilité pour toute modification (vol, hôtel, etc.) effectuée sans son accord préalable."
+        },
+        {
+          "title": "Conditions Météorologiques et Décisions Gouvernementales",
+          "content": "Notre agence ne peut être tenue responsable de l'impossibilité d'effectuer des visites en raison des conditions météorologiques ou de la fermeture de sites et d'itinéraires par les autorités locales ou le gouvernement japonais."
+        }
+      ],
+      "visaInfo": [
+        {
+          "title": "Visa pour les Citoyens Turcs",
+          "content": "Aucun visa requis pour les citoyens turcs (exemption jusqu'à 90 jours)."
+        },
+        {
+          "title": "Conditions de Passeport",
+          "content": "Assurez-vous que votre passeport est valide pour au moins 6 mois et dispose d'au moins 6 pages vierges. Les passeports usés ou déchirés ne sont pas acceptés."
+        },
+        {
+          "title": "Demande de Visa Électronique",
+          "content": "Faire une demande d'e-visa avant de partir au Japon facilitera votre entrée sur le territoire : https://www.evisa.mofa.go.jp/index"
+        }
+      ],
+      "cancellationPolicyTitle": "Conditions d'Annulation",
+      "visaInfoTitle": "Informations sur les Visas"
+    },
+    "7-day-8-night-japan": {
+      "title": "7 Nuits 8 Jours au Japon",
+      "desc": "Tokyo - Osaka - Kyoto - Nara",
+      "metaTitle": "7 Nuits 8 Jours au Japon - Capahenas Travel",
+      "metaDescription": "Un circuit de 7 nuits et 8 jours au Japon couvrant Tokyo, Osaka, Kyoto et Nara ; un itinéraire riche en temples, quartiers commerçants et vues citadines.",
+      "badge": "Circuit Japon Classique",
+      "galleryTitle": "Galerie du Circuit",
+      "gallerySubtitle": "Tokyo • Kyoto • Nara • Osaka",
+      "aboutTitle": "Aperçu du Circuit",
+      "aboutSubtitle": "Forfait 7 Nuits / 8 Jours",
+      "aboutDuration": "7 Nuits / 8 Jours",
+      "aboutDestinations": "Tokyo, Osaka, Kyoto, Nara",
+      "introText": "<span class=\"inline-block px-3 py-1 bg-green-100 text-green-700 rounded-full text-sm font-medium mr-2\">Départs Quotidiens</span><span class=\"inline-block px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm font-medium\">Personnalisable</span>",
+      "highlights": [
+        "Arrivée à Tokyo et exploration d'Odaiba, TeamLab et la tour de Tokyo.",
+        "Journée shopping au Kisarazu Outlet et à Ginza.",
+        "Découverte du Tokyo moderne avec Gotokuji, Nakano, Shinjuku, Kabukicho et Tokyo Skytree.",
+        "Incontournables de Kyoto comme Kinkaku-ji, Arashiyama et Gion.",
+        "Visite du temple Todai-ji et rencontre avec les daims du parc de Nara."
+      ],
+      "itinerary": [
+        {
+          "title": "JOUR 1 | Istanbul – Tokyo",
+          "content": "Rendez-vous à l'aéroport d'Istanbul et vol vers Tokyo après les formalités d'enregistrement, de bagages et de passeports."
+        },
+        {
+          "title": "JOUR 2 | Arrivée à Tokyo – Odaiba – TeamLab – Tour de Tokyo",
+          "content": "À l'arrivée à Tokyo, début de notre visite guidée. Nous commençons par Odaiba, vitrine moderne de la baie de Tokyo, avec une agréable balade face à la Statue de la Liberté et au Rainbow Bridge. Ensuite, visite de TeamLab pour une expérience d'art numérique saisissante. Fin de journée avec pause photo devant la tour de Tokyo illuminée, puis installation à l'hôtel."
+        },
+        {
+          "title": "JOUR 3 | Kisarazu Outlet – Ginza",
+          "content": "Après le petit-déjeuner, départ pour Kisarazu Outlet de l'autre côté de la baie de Tokyo. Temps libre pour faire du shopping dans les enseignes de renommée mondiale, puis direction Ginza, quartier chic et prestigieux de Tokyo. Soirée libre au cœur de l'effervescence urbaine. Retour à l'hôtel le soir."
+        },
+        {
+          "title": "JOUR 4 | Gotokuji – Nakano – Shinjuku – Kabukicho – Tokyo Skytree – Asakusa",
+          "content": "Après le petit-déjeuner, visite du temple Gotokuji, berceau du célèbre Maneki Neko. Découverte de Nakano, paradis de l'anime, du manga et des objets de collection. Promenade au cœur de Shinjuku et immersion dans l'ambiance animée de Kabukicho. Ensuite, visite du temple Senso-ji et flânerie le long de la rue historique Nakamise. La journée s'achève près de la Tokyo Skytree pour admirer le panorama nocturne sur la ville. Retour à l'hôtel le soir."
+        },
+        {
+          "title": "JOUR 5 | Tokyo – Kyoto",
+          "content": "Le matin, départ en train à grande vitesse Shinkansen pour Kyoto. Visite du Pavillon d'Or (Kinkaku-ji), de la forêt de bambous d'Arashiyama et du pont historique Togetsukyo. Poursuite de l'itinéraire dans le quartier de Gion et balade dans les rues traditionnelles de Kawaramachi et Pontocho. Installation à l'hôtel en soirée."
+        },
+        {
+          "title": "JOUR 6 | Kyoto",
+          "content": "Après le petit-déjeuner, visite du sanctuaire Fushimi Inari Taisha et de ses milliers de torii rouges. Découverte du temple Kiyomizu-dera, classé par l'UNESCO, et promenade dans les ruelles pavées de Sannenzaka. En soirée, retour dans l'atmosphère envoûtante de Gion pour profiter de la vie nocturne de Kyoto. Retour à l'hôtel."
+        },
+        {
+          "title": "JOUR 7 | Nara – Osaka",
+          "content": "Départ matinal de Kyoto vers Nara, ancienne capitale impériale. Visite du temple Todai-ji et moments privilégiés avec les daims en liberté du parc de Nara. Route vers Osaka pour découvrir le château d'Osaka, puis immersion dans le quartier animé de Dotonbori, célèbre pour ses néons et sa gastronomie. Installation à l'hôtel le soir."
+        },
+        {
+          "title": "JOUR 8 | Osaka – Istanbul",
+          "content": "Départ de l'hôtel le matin. Transfert à l'aéroport pour le vol retour vers Istanbul. Au plaisir de vous retrouver pour un prochain séjour au Japon !"
+        }
+      ],
+      "cancellationPolicy": [
+        {
+          "title": "Droit d'Annulation sans Pénalité",
+          "content": "Droit d'annulation sans pénalité jusqu'à 30 jours (1 mois) avant la date de début du circuit."
+        },
+        {
+          "title": "Nombre Minimum de Participants",
+          "content": "Si le nombre minimum de participants n'est pas atteint jusqu'à 20 jours avant la date de départ, le circuit sera annulé et les clients en seront dûment informés."
+        },
+        {
+          "title": "Modifications Indépendantes",
+          "content": "Notre agence décline toute responsabilité pour toute modification (vol, hôtel, etc.) effectuée sans son accord préalable."
+        },
+        {
+          "title": "Conditions Météorologiques et Décisions Gouvernementales",
+          "content": "Notre agence ne peut être tenue responsable de l'impossibilité d'effectuer des visites en raison des conditions météorologiques ou de la fermeture de sites et d'itinéraires par les autorités locales ou le gouvernement japonais."
+        }
+      ],
+      "visaInfo": [
+        {
+          "title": "Visa pour les Citoyens Turcs",
+          "content": "Aucun visa requis pour les citoyens turcs (exemption jusqu'à 90 jours)."
+        },
+        {
+          "title": "Conditions de Passeport",
+          "content": "Assurez-vous que votre passeport est valide pour au moins 6 mois et dispose d'au moins 6 pages vierges. Les passeports usés ou déchirés ne sont pas acceptés."
+        },
+        {
+          "title": "Demande de Visa Électronique",
+          "content": "Faire une demande d'e-visa avant de partir au Japon facilitera votre entrée sur le territoire : https://www.evisa.mofa.go.jp/index"
+        }
+      ],
+      "inclusions": [
+        "Billet d'avion aller-retour en classe économique (THY – ANA – China)",
+        "Service de guide touristique",
+        "Billet de train à grande vitesse Shinkansen",
+        "Hôtels 3* et 4 étoiles",
+        "1 Dîner",
+        "Transferts aéroport",
+        "Frais d'entrée aux musées et sites",
+        "Excursions quotidiennes",
+        "Transport pour les excursions quotidiennes"
+      ],
+      "exclusions": [
+        "Taxe de sortie du territoire",
+        "Repas et boissons non mentionnés",
+        "Dépenses personnelles",
+        "Entrées des musées et temples non inclus dans le circuit",
+        "Excursions indiquées comme optionnelles"
+      ],
+      "cancellationPolicyTitle": "Conditions d'Annulation",
+      "visaInfoTitle": "Informations sur les Visas"
+    },
+    "6-day-7-night-japan": {
+      "title": "7 Jours / 6 Nuits au Japon",
+      "desc": "Exploration et immersion urbaine à Tokyo",
+      "metaTitle": "7 Jours / 6 Nuits au Japon - Capahenas Travel",
+      "metaDescription": "Un circuit de 7 jours et 6 nuits centré sur Tokyo avec Odaiba, Asakusa, Meiji Jingu, Shibuya, Ginza et les facettes modernes de la métropole.",
+      "badge": "Circuit Découverte du Japon",
+      "galleryTitle": "Galerie du Circuit",
+      "gallerySubtitle": "Tokyo • Odaiba • Ginza • Shibuya",
+      "aboutTitle": "Aperçu du Circuit",
+      "aboutSubtitle": "Forfait 7 Jours / 6 Nuits",
+      "aboutDuration": "7 Jours / 6 Nuits",
+      "aboutDestinations": "Tokyo",
+      "introText": "<span class=\"inline-block px-3 py-1 bg-green-100 text-green-700 rounded-full text-sm font-medium mr-2\">Départs Quotidiens</span><span class=\"inline-block px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm font-medium\">Personnalisable</span>",
+      "highlights": [
+        "Visite d'Odaiba et de la tour de Tokyo.",
+        "Circuit Asakusa, Meiji Jingu, Harajuku et Shibuya.",
+        "Parcours shopping au Kisarazu Outlet et à Ginza.",
+        "Découverte culinaire et technologique à Akihabara et Tsukiji.",
+        "Une découverte condensée et intense de Tokyo."
+      ],
+      "itinerary": [
+        {
+          "title": "JOUR 1 | Istanbul – Tokyo",
+          "content": "Rendez-vous à l'aéroport d'Istanbul. Avec l'aide de notre représentant, finalisation de l'enregistrement, du dépôt des bagages et du contrôle des passeports avant le départ pour Tokyo."
+        },
+        {
+          "title": "JOUR 2 | Arrivée à Tokyo – Odaiba – Tour de Tokyo – TeamLab",
+          "content": "08:55 Arrivée à l'aéroport international de Tokyo Narita/Haneda. Après le passage de l'immigration et la récupération des bagages, début de la visite. Premier arrêt à Odaiba pour photographier la réplique de la Statue de la Liberté, la baie de Tokyo et le Rainbow Bridge. Après le déjeuner, visite de la tour de Tokyo, puis immersion dans l'art numérique futuriste au TeamLab Azabudai Hills. Installation à l'hôtel."
+        },
+        {
+          "title": "JOUR 3 | Asakusa – Meiji Jingu – Harajuku – Shibuya",
+          "content": "Après le petit-déjeuner, départ à 09:30 vers Asakusa. Visite du temple Senso-ji et promenade dans la rue commerçante traditionnelle Nakamise. Après le déjeuner, visite du sanctuaire shintoïste Meiji Jingu, suivie d'une balade dans le quartier branché d'Harajuku et sur l'avenue Omotesando. Découverte de la statue du chien Hachiko et traversée du mythique carrefour de Shibuya. 19:30 – Retour à l'hôtel."
+        },
+        {
+          "title": "JOUR 4 | Kisarazu Outlet – Shinjuku",
+          "content": "Après le petit-déjeuner, départ pour Kisarazu Outlet. Temps libre pour vos achats de grandes marques, puis route vers Shinjuku. Découverte de ce quartier vibrant avec ses gratte-ciel imposants et ses enseignes lumineuses. 19:30 – Retour à l'hôtel."
+        },
+        {
+          "title": "JOUR 5 | Akihabara – Tsukiji – Ginza – Restaurant Gonpachi",
+          "content": "09:30 Départ pour Akihabara, le quartier culte de l'électronique et de la pop culture japonaise. Visite du marché extérieur de Tsukiji pour déguster des spécialités locales et déjeuner. L'après-midi, exploration des boutiques prestigieuses de Ginza. 18:00 – Dîner au restaurant Gonpachi, célèbre pour avoir inspiré une scène emblématique du film Kill Bill de Quentin Tarantino. 20:30 – Retour à l'hôtel."
+        },
+        {
+          "title": "JOUR 6 | Tokyo – Istanbul",
+          "content": "05:00 Départ de l'hôtel vers l'aéroport international de Narita. Accompagnés de notre guide, accomplissement des formalités et embarquement pour le vol retour vers Istanbul."
+        },
+        {
+          "title": "JOUR 7 | Istanbul",
+          "content": "Arrivée à l'aéroport d'Istanbul. Nous vous disons au revoir en espérant vous revoir très bientôt pour un nouveau voyage !"
+        }
+      ],
+      "cancellationPolicy": [
+        {
+          "title": "Droit d'Annulation sans Pénalité",
+          "content": "Droit d'annulation sans pénalité jusqu'à 30 jours (1 mois) avant la date de début du circuit."
+        },
+        {
+          "title": "Nombre Minimum de Participants",
+          "content": "Si le nombre minimum de participants n'est pas atteint jusqu'à 20 jours avant la date de départ, le circuit sera annulé et les clients en seront dûment informés."
+        },
+        {
+          "title": "Modifications Indépendantes",
+          "content": "Notre agence décline toute responsabilité pour toute modification (vol, hôtel, etc.) effectuée sans son accord préalable."
+        },
+        {
+          "title": "Conditions Météorologiques et Décisions Gouvernementales",
+          "content": "Notre agence ne peut être tenue responsable de l'impossibilité d'effectuer des visites en raison des conditions météorologiques ou de la fermeture de sites et d'itinéraires par les autorités locales ou le gouvernement japonais."
+        }
+      ],
+      "visaInfo": [
+        {
+          "title": "Visa pour les Citoyens Turcs",
+          "content": "Aucun visa requis pour les citoyens turcs (exemption jusqu'à 90 jours)."
+        },
+        {
+          "title": "Conditions de Passeport",
+          "content": "Assurez-vous que votre passeport est valide pour au moins 6 mois et dispose d'au moins 6 pages vierges. Les passeports usés ou déchirés ne sont pas acceptés."
+        },
+        {
+          "title": "Demande de Visa Électronique",
+          "content": "Faire une demande d'e-visa avant de partir au Japon facilitera votre entrée sur le territoire : https://www.evisa.mofa.go.jp/index"
+        }
+      ],
+      "inclusions": [
+        "Billet d'avion aller-retour en classe économique (THY – ANA – China)",
+        "Service de guide touristique",
+        "Billet de train à grande vitesse Shinkansen",
+        "Hôtels 3* et 4 étoiles",
+        "1 Dîner",
+        "Transferts aéroport",
+        "Frais d'entrée aux musées et sites",
+        "Excursions quotidiennes",
+        "Transport pour les excursions quotidiennes"
+      ],
+      "exclusions": [
+        "Taxe de sortie du territoire",
+        "Repas et boissons non mentionnés",
+        "Dépenses personnelles",
+        "Entrées des musées et temples non inclus dans le circuit",
+        "Excursions indiquées comme optionnelles"
+      ],
+      "cancellationPolicyTitle": "Conditions d'Annulation",
+      "visaInfoTitle": "Informations sur les Visas"
+    },
+    "japan-big-tokyo": {
+      "title": "Grand Tour (Tokyo)",
+      "desc": "Grand voyage de 8 nuits et 9 jours au départ de Tokyo\nTOKYO - KYOTO - NARA - OSAKA",
+      "metaTitle": "8 Nuits 9 Jours au Japon - Capahenas Travel",
+      "metaDescription": "Grand tour de 8 nuits et 9 jours au Japon englobant Tokyo, Kyoto, Nara et Osaka ; temples, shopping, paysages urbains et découvertes culturelles.",
+      "badge": "Grand Tour du Japon",
+      "galleryTitle": "Galerie du Circuit",
+      "gallerySubtitle": "Tokyo • Kyoto • Nara • Osaka",
+      "aboutTitle": "Aperçu du Circuit",
+      "aboutSubtitle": "Forfait 8 Nuits / 9 Jours",
+      "aboutDuration": "8 Nuits / 9 Jours",
+      "aboutDestinations": "Tokyo, Kyoto, Nara, Osaka",
+      "introText": "<span class=\"inline-block px-3 py-1 bg-green-100 text-green-700 rounded-full text-sm font-medium mr-2\">Départs Quotidiens</span><span class=\"inline-block px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm font-medium\">Personnalisable</span>",
+      "highlights": [
+        "Exploration d'Odaiba, TeamLab et la tour de Tokyo à Tokyo.",
+        "Parcours Palais Impérial, Gare de Tokyo, Tsukiji, Meiji Jingu et Shibuya.",
+        "Journée shopping à Kisarazu Outlet et Ginza.",
+        "Kinkaku-ji, Arashiyama et Gion à Kyoto.",
+        "Todai-ji à Nara, château d'Osaka et Dotonbori."
+      ],
+      "itinerary": [
+        {
+          "title": "JOUR 1 | Istanbul – Tokyo",
+          "content": "Rendez-vous à l'aéroport d'Istanbul et vol pour Tokyo après les formalités d'enregistrement et de contrôle des passeports."
+        },
+        {
+          "title": "JOUR 2 | Arrivée à Tokyo – Odaiba – TeamLab – Tour de Tokyo",
+          "content": "À l'arrivée à Tokyo, début du circuit à Odaiba avec vue sur la baie, la Statue de la Liberté et le Rainbow Bridge. Visite de TeamLab pour une expérience immersive d'art numérique. Arrêt photo devant la tour de Tokyo illuminée et installation à l'hôtel."
+        },
+        {
+          "title": "JOUR 3 | Palais Impérial – Gare de Tokyo – Tsukiji – Meiji Jingu – Harajuku – Omotesando – Shibuya",
+          "content": "Après le petit-déjeuner, promenade autour du Palais Impérial et photos devant la gare historique de Tokyo. Déjeuner et street food au marché extérieur de Tsukiji. L'après-midi, visite du sanctuaire Meiji Jingu, balade dans la rue Takeshita à Harajuku et le long des boutiques élégantes d'Omotesando. Soirée à Shibuya avec la statue d'Hachiko et son mythique carrefour illuminé. Retour à l'hôtel."
+        },
+        {
+          "title": "JOUR 4 | Kisarazu Outlet – Ginza",
+          "content": "Après le petit-déjeuner, départ pour Kisarazu Outlet pour une session shopping de grandes marques. Poursuite de la journée à Ginza pour flâner parmi ses enseignes de luxe. Retour à l'hôtel en soirée."
+        },
+        {
+          "title": "JOUR 5 | Gotokuji – Nakano – Shinjuku – Kabukicho – Tokyo Skytree – Asakusa",
+          "content": "Visite matinale du temple Gotokuji (sanctuaire du Maneki Neko), suivie du quartier pop-culture de Nakano. Promenade à Shinjuku et Kabukicho. Visite du temple Senso-ji à Asakusa et admiration des vues nocturnes depuis le secteur de la Tokyo Skytree. Retour à l'hôtel."
+        },
+        {
+          "title": "JOUR 6 | Tokyo – Kyoto",
+          "content": "Trajet en Shinkansen vers Kyoto. Visite du Pavillon d'Or (Kinkaku-ji), de la bambouseraie d'Arashiyama et du pont Togetsukyo. Découverte du quartier traditionnel de Gion ainsi que des rues Kawaramachi et Pontocho. Installation à l'hôtel en soirée."
+        },
+        {
+          "title": "JOUR 7 | Kyoto",
+          "content": "Visite du sanctuaire Fushimi Inari Taisha aux milliers de torii, suivie du temple Kiyomizu-dera et des ruelles préservées de Sannenzaka. Soirée libre pour savourer le charme nocturne de Gion. Retour à l'hôtel."
+        },
+        {
+          "title": "JOUR 8 | Nara – Osaka",
+          "content": "Départ pour Nara pour visiter le temple Todai-ji et le parc aux daims en liberté. Trajet vers Osaka, visite du célèbre château d'Osaka et exploration du quartier animé de Dotonbori. Installation à l'hôtel en soirée."
+        },
+        {
+          "title": "JOUR 9 | Osaka – Istanbul",
+          "content": "Départ de l'hôtel le matin, transfert vers l'aéroport et vol retour vers Istanbul. Au plaisir de vous accueillir pour un prochain voyage !"
+        }
+      ],
+      "cancellationPolicy": [
+        {
+          "title": "Droit d'Annulation sans Pénalité",
+          "content": "Droit d'annulation sans pénalité jusqu'à 30 jours (1 mois) avant la date de début du circuit."
+        },
+        {
+          "title": "Nombre Minimum de Participants",
+          "content": "Si le nombre minimum de participants n'est pas atteint jusqu'à 20 jours avant la date de départ, le circuit sera annulé et les clients en seront dûment informés."
+        },
+        {
+          "title": "Modifications Indépendantes",
+          "content": "Notre agence décline toute responsabilité pour toute modification (vol, hôtel, etc.) effectuée sans son accord préalable."
+        },
+        {
+          "title": "Conditions Météorologiques et Décisions Gouvernementales",
+          "content": "Notre agence ne peut être tenue responsable de l'impossibilité d'effectuer des visites en raison des conditions météorologiques ou de la fermeture de sites et d'itinéraires par les autorités locales ou le gouvernement japonais."
+        }
+      ],
+      "visaInfo": [
+        {
+          "title": "Visa pour les Citoyens Turcs",
+          "content": "Aucun visa requis pour les citoyens turcs (exemption jusqu'à 90 jours)."
+        },
+        {
+          "title": "Conditions de Passeport",
+          "content": "Assurez-vous que votre passeport est valide pour au moins 6 mois et dispose d'au moins 6 pages vierges. Les passeports usés ou déchirés ne sont pas acceptés."
+        },
+        {
+          "title": "Demande de Visa Électronique",
+          "content": "Faire une demande d'e-visa avant de partir au Japon facilitera votre entrée sur le territoire : https://www.evisa.mofa.go.jp/index"
+        }
+      ],
+      "inclusions": [
+        "Billet d'avion aller-retour en classe économique (THY – ANA – China)",
+        "Service de guide touristique",
+        "Billet de train à grande vitesse Shinkansen",
+        "Hôtels 3* et 4 étoiles",
+        "1 Dîner",
+        "Transferts aéroport",
+        "Frais d'entrée aux musées et sites",
+        "Excursions quotidiennes",
+        "Transport pour les excursions quotidiennes"
+      ],
+      "exclusions": [
+        "Taxe de sortie du territoire",
+        "Repas et boissons non mentionnés",
+        "Dépenses personnelles",
+        "Entrées des musées et temples non inclus dans le circuit",
+        "Excursions indiquées comme optionnelles"
+      ],
+      "cancellationPolicyTitle": "Conditions d'Annulation",
+      "visaInfoTitle": "Informations sur les Visas"
+    },
+    "japan-big-osaka": {
+      "title": "Grand Tour (Osaka)",
+      "desc": "Grand voyage de 8 nuits et 9 jours au départ d'Osaka\nOSAKA - NARA - KYOTO - TOKYO",
+      "metaTitle": "Grand Tour (Osaka) - Capahenas Travel",
+      "metaDescription": "Découvrez des temples, du shopping et les lieux emblématiques lors d'un circuit de 8 nuits et 9 jours au Japon, à travers Osaka, Kyoto, Nara et Tokyo.",
+      "badge": "Grand Tour du Japon",
+      "galleryTitle": "Galerie du Circuit",
+      "gallerySubtitle": "Osaka • Kyoto • Tokyo",
+      "aboutTitle": "Aperçu du Circuit",
+      "aboutSubtitle": "Formule 8 Nuits / 9 Jours",
+      "aboutDuration": "8 Nuits / 9 Jours",
+      "aboutDestinations": "Osaka, Kyoto, Nara, Tokyo",
+      "introText": "<span class=\"inline-block px-3 py-1 bg-green-100 text-green-700 rounded-full text-sm font-medium mr-2\">Départs Quotidiens</span><span class=\"inline-block px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm font-medium\">Personnalisable</span>",
+      "highlights": [
+        "Le château d'Osaka et l'atmosphère animée de Dotonbori.",
+        "Le temple Todai-ji à Nara et le parc de Nara, célèbre pour ses cerfs en liberté.",
+        "Fushimi Inari Taisha, Kiyomizu-dera et Gion à Kyoto.",
+        "Kisarazu Outlet, Asakusa, Meiji Jingu, Harajuku et Shibuya.",
+        "Tsukiji, Ginza, teamLab, la tour de Tokyo, Akihabara et Ueno à Tokyo."
+      ],
+      "itinerary": [
+        {
+          "title": "JOUR 1 | Istanbul – Osaka",
+          "content": "Rendez-vous à l'aéroport d'Istanbul et, après les formalités d'enregistrement, de bagages et de passeport, départ pour le vol à destination d'Osaka."
+        },
+        {
+          "title": "JOUR 2 | Arrivée à Osaka – Château d'Osaka – Dotonbori",
+          "content": "À notre arrivée à Osaka, nous commençons notre visite de la ville. Nous visitons d'abord l'un des emblèmes de la cité, le château d'Osaka, et faisons une courte promenade dans le parc environnant. Ensuite, nous rejoignons Dotonbori, l'un des quartiers les plus animés d'Osaka, pour flâner le long du canal et profiter d'un temps libre au milieu des enseignes lumineuses colorées. Installation à l'hôtel en soirée."
+        },
+        {
+          "title": "JOUR 3 | Nara – Kyoto",
+          "content": "Après le petit-déjeuner, court trajet à destination de Nara. Nous visitons le temple Todai-ji et passons d'agréables moments dans le parc de Nara, réputé pour ses cerfs en liberté. Dans l'après-midi, route vers Kyoto et installation à l'hôtel. Soirée libre à Kyoto."
+        },
+        {
+          "title": "JOUR 4 | Kyoto",
+          "content": "Après le petit-déjeuner, nous visitons l'un des monuments les plus célèbres de Kyoto, Fushimi Inari Taisha, pour marcher parmi des milliers de portes torii vermillon. Ensuite, visite du temple Kiyomizu-dera et agréable promenade le long des ruelles historiques de Sannenzaka et Ninenzaka. Poursuite de la journée avec la découverte de l'ambiance traditionnelle du quartier de Gion, puis retour à l'hôtel en soirée."
+        },
+        {
+          "title": "JOUR 5 | Kyoto – Tokyo – Kisarazu Outlet",
+          "content": "Le matin, départ pour Tokyo à bord du train à grande vitesse (Shinkansen). Dès notre arrivée à Tokyo, transfert vers le Kisarazu Outlet avec un temps libre pour le shopping. Ensuite, départ pour l'hôtel et enregistrement."
+        },
+        {
+          "title": "JOUR 6 | Asakusa – Meiji Jingu – Harajuku – Shibuya",
+          "content": "Après le petit-déjeuner, départ pour le quartier d'Asakusa à la découverte du visage historique de Tokyo. Visite du temple Senso-ji, suivie d'une balade matinale et d'un temps libre pour le shopping le long de la rue commerçante traditionnelle Nakamise. Dans l'après-midi, visite du sanctuaire Meiji Jingu, puis promenade sur la célèbre rue Takeshita à Harajuku. Poursuite de l'exploration à travers Harajuku et Shibuya pour s'imprégner de l'atmosphère nocturne près de la statue d'Hachiko et du mondialement célèbre carrefour de Shibuya. Retour à l'hôtel en soirée."
+        },
+        {
+          "title": "JOUR 7 | Palais Impérial – Gare de Tokyo – Tsukiji – Ginza – teamLab – Tour de Tokyo",
+          "content": "Après le petit-déjeuner à l'hôtel, promenade autour des extérieurs du Palais Impérial de Tokyo et arrêt photo devant la gare historique de Tokyo. Nous rejoignons ensuite le quartier de Tsukiji pour le déjeuner et du temps libre, avant d'explorer Ginza, le quartier le plus prestigieux de Tokyo pour le shopping et l'art de vivre. En fin de journée, visite de teamLab Planets Tokyo pour une expérience immersive combinant lumière, couleurs et art numérique. Clôture de la journée à la tour de Tokyo avec une pause photo sous les illuminations nocturnes. Retour à l'hôtel."
+        },
+        {
+          "title": "JOUR 8 | Akihabara – Ueno – Ameyoko",
+          "content": "Après le petit-déjeuner, découverte d'Akihabara, le quartier mythique de Tokyo dédié à l'électronique et à la culture anime. Temps libre ensuite dans le parc d'Ueno ainsi que dans l'effervescente rue commerçante d'Ameyoko. Retour à l'hôtel en soirée."
+        },
+        {
+          "title": "JOUR 9 | Tokyo – Istanbul",
+          "content": "Départ de l'hôtel en matinée. Transfert vers l'aéroport pour le vol retour. Nous vous disons au revoir en espérant vous retrouver lors d'un prochain voyage au Japon."
+        }
+      ],
+      "cancellationPolicy": [
+        {
+          "title": "Droit d'Annulation Sans Frais",
+          "content": "Vous bénéficiez d'une annulation sans frais jusqu'à 30 jours (1 mois) avant la date de départ du circuit."
+        },
+        {
+          "title": "Nombre Minimum de Participants",
+          "content": "Si le nombre minimum de participants n'est pas atteint jusqu'à 20 jours avant la date de départ, le circuit sera annulé et nos chers voyageurs en seront informés."
+        },
+        {
+          "title": "Modifications Indépendantes",
+          "content": "Notre agence décline toute responsabilité concernant les modifications (vols, hôtels, etc.) effectuées sans notre connaissance ou approbation."
+        },
+        {
+          "title": "Conditions Climatiques et Décisions Gouvernementales",
+          "content": "Notre agence ne pourra être tenue responsable en cas d'impossibilité de visite due à des intempéries ou à la fermeture de sites et d'itinéraires par le gouvernement japonais ou les autorités locales."
+        }
+      ],
+      "visaInfo": [
+        {
+          "title": "Visa pour les Citoyens Turcs",
+          "content": "Les ressortissants turcs sont exemptés de visa pour les séjours de moins de 90 jours."
+        },
+        {
+          "title": "Exigences Concernant le Passeport",
+          "content": "Assurez-vous que votre passeport dispose d'une validité restante d'au moins 6 mois et d'au moins 6 pages vierges. Les passeports abîmés ou déchirés ne sont pas acceptés."
+        },
+        {
+          "title": "Demande de Visa Électronique (E-Visa)",
+          "content": "Effectuer une démarche de visa électronique avant votre départ facilitera vos formalités d'entrée au Japon : https://www.evisa.mofa.go.jp/index"
+        }
+      ],
+      "inclusions": [
+        "Billets d'avion aller-retour en classe économique (THY – ANA – Air China)",
+        "Service de guide professionnel turcophone",
+        "Billet pour le train à grande vitesse Shinkansen",
+        "Hôtels 3 et 4 étoiles",
+        "1 dîner",
+        "Transferts aéroport",
+        "Droits d'entrée des musées au programme",
+        "Excursions quotidiennes",
+        "Véhicule pour les visites quotidiennes"
+      ],
+      "exclusions": [
+        "Taxe de sortie du territoire",
+        "Repas et boissons non mentionnés",
+        "Dépenses personnelles",
+        "Frais d'entrée des musées et temples non inclus dans le programme",
+        "Excursions indiquées en option"
+      ],
+      "cancellationPolicyTitle": "Conditions d'Annulation",
+      "visaInfoTitle": "Informations sur les Visas"
+    }
+  }
+}

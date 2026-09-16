@@ -1,0 +1,301 @@
+{
+    "balloon": {
+        "standard": {
+            "hero": {
+                "badge": "✨ Premium Experience",
+                "title1": "Standard Flight",
+                "title2": "Cappadocia Dreams Come True",
+                "subtitle": "Experience the magical landscapes of Cappadocia from above in our carefully curated standard balloon flight. Where every moment becomes an unforgettable memory.",
+                "duration": "60 Minutes Flight",
+                "capacity": "Up to 32 Guests",
+                "launch": "Sunrise Launch"
+            },
+            "main": {
+                "title": "Flight Experience",
+                "subtitle": "Your journey through the clouds",
+                "premium": "Premium",
+                "experience": "Experience",
+                "desc": {
+                    "desc": "Embark on an extraordinary journey through the sky with our ",
+                    "highlight": "Standard Balloon Flight",
+                    "rest": "This carefully crafted experience offers the perfect introduction to Cappadocia's breathtaking beauty, combining adventure with comfort in our premium hot air balloons."
+                },
+                "inclusions": {
+                    "title": "Premium Inclusions",
+                    "transfer": {
+                        "title": "Premium Transfer Service",
+                        "desc": "Luxury hotel pickup and drop-off"
+                    },
+                    "safety": {
+                        "title": "Safety & Insurance",
+                        "desc": "Comprehensive passenger protection"
+                    },
+                    "champagne": {
+                        "title": "Champagne Celebration",
+                        "desc": "Traditional post-flight toast"
+                    },
+                    "certificate": {
+                        "title": "Flight Certificate",
+                        "desc": "Personalized achievement memento"
+                    },
+                    "breakfast": {
+                        "title": "Light Breakfast",
+                        "desc": "Pre-flight refreshments included"
+                    }
+                },
+                "stats": {
+                    "flight_duration": {
+                        "label": "Minutes",
+                        "desc": "Flight Duration"
+                    },
+                    "max_guests": {
+                        "label": "Max Guests",
+                        "desc": "Per Basket"
+                    },
+                    "launch_time": {
+                        "label": "AM Launch",
+                        "desc": "Sunrise Time"
+                    }
+                },
+                "gallery": {
+                    "title": "Experience Gallery",
+                    "desc": "See what awaits you in the sky"
+                }
+            },
+            "booking": {
+                "header": "Reserve Your Flight",
+                "desc": "Secure your spot in paradise",
+                "date": "Select Your Date",
+                "passengers": {
+                    "title": "Choose Passengers",
+                    "adults": {
+                        "title": "Adults",
+                        "desc": "Age 13+"
+                    },
+                    "children": {
+                        "title": "Children",
+                        "desc": "Age 6-12"
+                    }
+                },
+                "details": {
+                    "title": "Your Details",
+                    "name": "Full Name",
+                    "email": "Email Address",
+                    "phone": "Phone Number",
+                    "phonedesc": "This field is optional, but we recommend filling it out so we can respond to you faster."
+                },
+                "summary": {
+                    "title": "Booking Summary",
+                    "date": "Selected Date:",
+                    "guests": "Total Guests:",
+                    "price": "Price details will be provided upon inquiry",
+                    "reserve_button": "Reserve Your Adventure",
+                    "secure_booking": "🔒 Secure booking • No payment required now",
+                    "cancellation": {
+                        "title": "Free Cancellation & Refund",
+                        "description": "The tour can be canceled up to 24 hours before the start time"
+                    },
+                    "whatsapp_contact": "Contact us on WhatsApp"
+                }
+            }
+        },
+        "comfort": {
+            "hero": {
+                "badge": "✨ Enhanced Comfort Experience",
+                "title1": "Comfort Flight",
+                "title2": "Enhanced Performance & Comfort",
+                "subtitle": "Experience Cappadocia's stunning valleys with enhanced comfort in our spacious 28-person baskets, featuring 500,000 cuft balloons for superior performance and stability.",
+                "duration": "60 Minutes Flight",
+                "capacity": "Up to 28 Guests",
+                "launch": "Sunrise Launch"
+            },
+            "main": {
+                "title": "Comfort Flight Experience",
+                "subtitle": "Enhanced comfort and performance",
+                "premium": "Premium",
+                "experience": "Experience",
+                "desc": {
+                    "desc": "Experience the enhanced",
+                    "highlight": "Comfort Balloon Flight",
+                    "rest": "featuring spacious 28-person baskets and our powerful 500,000 cuft balloons. This premium experience offers a minimum of 1 hour in the air with enhanced performance and stability, ensuring a comfortable and memorable journey through Cappadocia's stunning valleys and unique formations."
+                },
+                "inclusions": {
+                    "title": "Premium Inclusions",
+                    "transfer": {
+                        "title": "Premium Transfer Service",
+                        "desc": "Luxury hotel pickup and drop-off"
+                    },
+                    "breakfast": {
+                        "title": "Light Breakfast",
+                        "desc": "Pre-flight refreshments included"
+                    },
+                    "safety": {
+                        "title": "Safety & Insurance",
+                        "desc": "Comprehensive passenger protection"
+                    },
+                    "champagne": {
+                        "title": "Champagne Celebration",
+                        "desc": "Traditional post-flight toast"
+                    },
+                    "certificate": {
+                        "title": "Flight Certificate",
+                        "desc": "Personalized achievement memento"
+                    }
+                },
+                "stats": {
+                    "flight_duration": {
+                        "label": "Minutes",
+                        "desc": "Flight Duration"
+                    },
+                    "max_guests": {
+                        "label": "Max Guests",
+                        "desc": "Per Basket"
+                    },
+                    "launch_time": {
+                        "label": "AM Launch",
+                        "desc": "Sunrise Time"
+                    }
+                },
+                "gallery": {
+                    "title": "Experience Gallery",
+                    "desc": "See what awaits you in the sky"
+                }
+            },
+            "booking": {
+                "header": "Reserve Your Flight",
+                "desc": "Secure your spot in paradise",
+                "date": "Select Your Date",
+                "passengers": {
+                    "title": "Choose Passengers",
+                    "adults": {
+                        "title": "Adults",
+                        "desc": "Age 13+"
+                    },
+                    "children": {
+                        "title": "Children",
+                        "desc": "Age 6-12"
+                    }
+                },
+                "details": {
+                    "title": "Your Details",
+                    "name": "Full Name *",
+                    "email": "Email Address *",
+                    "phone": "Phone Number",
+                    "phonedesc": "This field is optional, but we recommend filling it out so we can respond to you faster."
+                },
+                "summary": {
+                    "title": "Booking Summary",
+                    "date": "Selected Date:",
+                    "guests": "Total Guests:",
+                    "price": "Price details will be provided upon inquiry",
+                    "reserve_button": "Reserve Your Adventure",
+                    "secure_booking": "🔒 Secure booking • No payment required now",
+                    "cancellation": {
+                        "title": "Free Cancellation & Refund",
+                        "description": "The tour can be canceled up to 24 hours before the start time"
+                    },
+                    "whatsapp_contact": "Contact us on WhatsApp"
+                }
+            }
+        },
+        "private": {
+            "hero": {
+                "badge": "✨ Ultimate Luxury Experience",
+                "title1": "Private Flight",
+                "title2": "Intimate & Exclusive Adventure",
+                "subtitle": "Experience the ultimate in luxury and intimacy with our Private Flight. Limited to just 20 guests in a specially designed 24-person basket for maximum comfort and personal space.",
+                "duration": "60 Minutes Flight",
+                "capacity": "Max 20 Guests",
+                "launch": "Sunrise Launch"
+            },
+            "main": {
+                "title": "Private Flight Experience",
+                "subtitle": "Ultimate luxury and intimacy",
+                "premium": "Premium",
+                "experience": "Experience",
+                "desc": {
+                    "desc": "Discover the pinnacle of luxury with our",
+                    "highlight": "Private Balloon Flight",
+                    "rest": "This exclusive experience offers maximum comfort and personal space in a specially designed 24-person basket limited to just 20 guests, creating the perfect intimate atmosphere for witnessing Cappadocia's breathtaking beauty from above."
+                },
+                "inclusions": {
+                    "title": "Exclusive Inclusions",
+                    "transfer": {
+                        "title": "Premium Transfer Service",
+                        "desc": "Luxury hotel pickup and drop-off"
+                    },
+                    "safety": {
+                        "title": "Safety & Insurance",
+                        "desc": "Comprehensive passenger protection"
+                    },
+                    "champagne": {
+                        "title": "Champagne Celebration",
+                        "desc": "Traditional post-flight toast"
+                    },
+                    "certificate": {
+                        "title": "Flight Certificate",
+                        "desc": "Personalized achievement memento"
+                    },
+                    "breakfast": {
+                        "title": "Light Breakfast",
+                        "desc": "Pre-flight refreshments included"
+                    }
+                },
+                "stats": {
+                    "flight_duration": {
+                        "label": "Minutes",
+                        "desc": "Flight Duration"
+                    },
+                    "max_guests": {
+                        "label": "Max Guests",
+                        "desc": "Per Basket"
+                    },
+                    "launch_time": {
+                        "label": "AM Launch",
+                        "desc": "Sunrise Time"
+                    }
+                },
+                "gallery": {
+                    "title": "Experience Gallery",
+                    "desc": "See what awaits you in the sky"
+                }
+            },
+            "booking": {
+                "header": "Reserve Your Flight",
+                "desc": "Secure your spot in paradise",
+                "date": "Select Your Date",
+                "passengers": {
+                    "title": "Choose Passengers",
+                    "adults": {
+                        "title": "Adults",
+                        "desc": "Age 13+"
+                    },
+                    "children": {
+                        "title": "Children",
+                        "desc": "Age 6-12"
+                    }
+                },
+                "details": {
+                    "title": "Your Details",
+                    "name": "Full Name *",
+                    "email": "Email Address *",
+                    "phone": "Phone Number",
+                    "phonedesc": "This field is optional, but we recommend filling it out so we can respond to you faster."
+                },
+                "summary": {
+                    "title": "Booking Summary",
+                    "date": "Selected Date:",
+                    "guests": "Total Guests:",
+                    "price": "Price details will be provided upon inquiry",
+                    "reserve_button": "Reserve Your Adventure",
+                    "secure_booking": "🔒 Secure booking • No payment required now",
+                    "cancellation": {
+                        "title": "Free Cancellation & Refund",
+                        "description": "The tour can be canceled up to 24 hours before the start time"
+                    },
+                    "whatsapp_contact": "Contact us on WhatsApp"
+                }
+            }
+        }
+    }
+}

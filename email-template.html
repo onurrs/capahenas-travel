@@ -1,0 +1,63 @@
+<div
+    style="font-family: 'Segoe UI', 'Montserrat', 'Arial', sans-serif; font-size: 15px; color: #2d2d2d; padding: 24px 0; background: linear-gradient(135deg, #f8f6f0 0%, #f5e9d7 100%);">
+    <div style="max-width: 600px; margin: auto; background-color: #fff;">
+        <div
+            style="border-top: 6px solid #d4af37; padding: 24px 24px 16px 24px; border-radius: 18px 18px 0 0; box-shadow: 0 6px 32px rgba(212,175,55,0.08), 0 1.5px 8px rgba(0,0,0,0.04); background: linear-gradient(90deg, #fffbe6 0%, #fff 100%);">
+            <span
+                style="font-size: 20px; vertical-align: middle; border-left: 2px solid #d4af37; padding-left: 14px; letter-spacing: 0.5px; color: #bfa14a;">
+                <strong>Reservation Confirmation</strong> </span></div>
+        <div style="padding: 0 16px;">
+            <p style="font-size: 17px; color: #7a6a3a; margin-bottom: 18px; font-weight: 500; letter-spacing: 0.2px;">
+                Thank you for your reservation.<br>Your ticket details are below.</p>
+            <div
+                style="text-align: left; font-size: 15px; padding-bottom: 8px; border-bottom: 2px solid #d4af37; margin-bottom: 12px;">
+                <strong>PNR Number: {{pnr_number}}</strong><br><strong>Reservation Date: {{reservation_date}}</strong>
+            </div>
+            <table style="width: 100%; border-collapse: collapse; margin-top: 16px;">
+                <tbody>
+                    <tr style="background-color: #fffbe6;">
+                        <td style="padding: 10px 12px; font-weight: 600; color: #bfa14a;">Name:</td>
+                        <td style="padding: 10px 12px;">{{name}}</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 10px 12px; font-weight: 600; color: #bfa14a;">Email:</td>
+                        <td style="padding: 10px 12px;">{{email}}</td>
+                    </tr>
+                    <tr style="background-color: #fffbe6;">
+                        <td style="padding: 10px 12px; font-weight: 600; color: #bfa14a;">Country Code:</td>
+                        <td style="padding: 10px 12px;">{{country_code}}</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 10px 12px; font-weight: 600; color: #bfa14a;">Phone Number:</td>
+                        <td style="padding: 10px 12px;">{{phone}}</td>
+                    </tr>
+                    <tr style="background-color: #fffbe6;">
+                        <td style="padding: 10px 12px; font-weight: 600; color: #bfa14a;">Tour Type:</td>
+                        <td style="padding: 10px 12px;">{{tour_type}}</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 10px 12px; font-weight: 600; color: #bfa14a;">Date:</td>
+                        <td style="padding: 10px 12px;">{{tour_date}}</td>
+                    </tr>
+                    <tr style="background-color: #fffbe6;">
+                        <td style="padding: 10px 12px; font-weight: 600; color: #bfa14a;">Persons:</td>
+                        <td style="padding: 10px 12px;">{{persons}}</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 10px 12px; font-weight: 600; color: #bfa14a;">Special Requests:</td>
+                        <td style="padding: 10px 12px;">{{special_requests}}</td>
+                    </tr>
+                </tbody>
+            </table>
+            <div style="padding: 24px 0;">
+                <div style="border-top: 2px solid #d4af37;">&nbsp;</div>
+            </div>
+        </div>
+    </div>
+    <div style="max-width: 600px; margin: auto;">
+        <p style="color: #bfa14a; font-size: 13px; text-align: center; margin-top: 18px;">The email was sent to <span
+                style="font-weight: 600; color: #7a6a3a;">{{email}}</span><br>You received this premium confirmation
+            because you placed a reservation.<br><span style="font-size: 12px; color: #c7b37e;">Capahenas Travel &mdash;
+                Experience the Extraordinary</span></p>
+    </div>
+</div>

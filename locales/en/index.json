@@ -1,0 +1,215 @@
+{
+  "hero": {
+    "badge": "Premium Travel Experience",
+    "title1": "Enjoy Türkiye",
+    "title2": "with Capahenas Travel",
+    "desc": "We provide our guests an authentic Türkiye experience that they can remember for the rest of their lives!",
+    "discover": "Discover More"
+  },
+  "value": {
+    "title": "Your trusted travel partner in Cappadocia and Türkiye",
+    "desc": "Cappadocia, in central Anatolia, is famous for its unique volcanic landscape, ancient cave cities, and stunning hot air balloon rides. Explore Göreme, Kaymaklı, and Derinkuyu with Capahenas Travel, offering complete travel services for an unforgettable experience.",
+    "years": "Years",
+    "guests": "Guests",
+    "rating": "Rating"
+  },
+  "balloon": {
+    "titleAccent": "Balloon ",
+    "titleRest": "Tours",
+    "badge": "Featured Experiences",
+    "desc": "Experience Cappadocia's breathtaking landscapes from above with our premium balloon adventures.",
+    "standardTitle": "Standard",
+    "flight": "Flight",
+    "standardDesc": "Capahenas Standard Flights offer a simple yet unforgettable way to witness the breathtaking beauty of Cappadocia from above. Perfect for travelers who want to focus on the magical scenery without the added frills, these flights provide around 1 hour in the air—just the right amount of time to soak in the fairy chimneys, sweeping valleys, and surreal landscapes. Operated with 32-person baskets, Capahenas ensures a safe, comfortable, and budget-friendly experience that doesn't compromise onwonder.",
+    "highlights": "Flight Highlights",
+    "capacity": "Balloon Capacity",
+    "capacity32": "24-32 Passengers",
+    "flightTime": "Flight Time",
+    "flightTimeSunrise": "At Sunrise",
+    "flightDuration": "Flight Duration",
+    "flightDuration60": "60 Min.",
+    "whatsIncluded": "What's Included",
+    "pickupDropoff": "Pick-up and Drop-off Service",
+    "lightBreakfast": "Light Breakfast",
+    "passengerInsurance": "Passenger Insurance",
+    "champagneToast": "Champagne Toast",
+    "flightCertificate": "Flight Certificate",
+    "comfortTitle": "Comfort",
+    "comfortDesc": "Capahenas Comfort Flights offer a minimum of 1 hour in the air—plenty of time to take in the stunning valleys and unique formations of Cappadocia. These flights are conducted in spacious 28-person baskets, ensuring a more comfortable and enjoyable experience with a limited number of guests. For enhanced performance and stability, we use 500,000 cuft balloons, giving the flight greater lift and control. Capahenas Comfort Flights operate year-round, subject to weather conditions and availability, providing a smooth and memorable journey through the skies.",
+    "capacity28": "16-20 Passengers",
+    "privateTitle": "Private",
+    "privateDesc": "Capahenas Private Flight offers a more intimate and premium way to experience the beauty of Cappadocia from above. Operated with a specially designed 24-person basket, the flight is limited to a maximum of 20 guests to ensure extra space and comfort throughout the journey. With approximately 60 minutes in the air, you'll have plenty of time to soak in the region's stunning valleys and rock formations in a relaxed setting. Ideal for those who value comfort, personal space, and a more exclusive atmosphere, Capahenas Private Flights deliver a refined ballooning experience.",
+    "capacity20": "20 Passengers"
+  },
+  "popular": {
+    "title": "Popular Tours in Cappadocia",
+    "redTitle": "Red Tour Cappadocia",
+    "redDesc": "Visit fairy chimneys, underground cities and rock formations.",
+    "greenTitle": "Green Tour Cappadocia",
+    "greenDesc": "Explore Ihlara Valley, Selime Monastery and natural wonders.",
+    "blueTitle": "Blue Tour Cappadocia",
+    "blueDesc": "Discover hidden gems and lesser-known valleys of Cappadocia.",
+    "mixTitle": "Mix Tour Cappadocia",
+    "mixDesc": "Combined highlights from Red and Green tours in one day.",
+    "privateTitle": "Private Tour Cappadocia",
+    "privateDesc": "Customized private tours with personal guide and vehicle.",
+    "camelTitle": "Camel Riding Tour",
+    "camelDesc": "Unique camel riding experience through fairy chimneys.",
+    "horseTitle": "Horseback Riding Tour",
+    "horseDesc": "Magical horse riding experience through valleys at sunset.",
+    "atvTitle": "ATV Tour",
+    "atvDesc": "Thrilling ATV adventure through valleys at sunset.",
+    "classicTitle": "Classic Car Tours",
+    "classicDesc": "Cruise the landscapes in beautifully restored vintage cars.",
+    "jeepTitle": "Jeep Safari Cappadocia",
+    "jeepDesc": "Off-road jeep adventures across rugged valleys and canyons.",
+    "potteryTitle": "Pottery Making",
+    "potteryDesc": "Hands-on pottery workshops with master artisans.",
+    "photoshootTitle": "Photoshoot Tour",
+    "photoshootDesc": "Professional photo sessions at most scenic locations.",
+    "dervishTitle": "Whirling Dervish Show",
+    "dervishDesc": "Mystical Sufi ceremony and traditional whirling performance.",
+    "turkishBathTitle": "Hamam (Turkish Bath)",
+    "turkishBathDesc": "Authentic Turkish bath experience with traditional treatments.",
+    "turkishNightTitle": "Turkish Night Show",
+    "turkishNightDesc": "Cultural evening with folk dances, music and traditional dinner."
+  },
+  "turkey": {
+    "title": "Türkiye Tours",
+    "view-button": "View",
+    "pamukkale": {
+      "title": "Daily Pamukkale Tour",
+      "desc": "Cotton Castle & Ancient City"
+    },
+    "ephesus": {
+      "title": "Daily Ephesus Tour",
+      "desc": "Ancient Roman City"
+    },
+    "aspendos": {
+      "title": "Perge Aspendos Side Tour",
+      "desc": "Ancient Cities"
+    },
+    "antalya": {
+      "title": "Antalya City Tour",
+      "desc": "Old Town & Waterfalls"
+    },
+    "demre": {
+      "title": "Demre Myra Kekova Tour",
+      "desc": "History & Blue Voyage"
+    },
+    "pamukkaleFromAntalya": {
+      "title": "Pamukkale Tour from Antalya",
+      "desc": "Cotton Castle & Ancient City (From Antalya)"
+    },
+    "mag1": {
+      "title": "4-Day Cappadocia, Pamukkale & Ephesus",
+      "desc": "Multi-City Package Tour"
+    },
+    "mag2": {
+      "title": "Istanbul & Cappadocia in 6 Days",
+      "desc": "Istanbul & Cappadocia Package"
+    },
+    "mag3": {
+      "title": "4-Day Cappadocia, Pamukkale & Ephesus",
+      "desc": "Multi-City Package Tour | Guided Experience"
+    },
+    "mag4": {
+      "title": "5-Day Istanbul & Ephesus",
+      "desc": "Rich historical insights"
+    },
+    "mag5": {
+      "title": "6 Days Türkiye Tour",
+      "desc": "Explore the highlights of Turkey in 6 days."
+    },
+    "mag6": {
+      "title": "8 Days Türkiye Tour",
+      "desc": "Istanbul, Cappadocia, Ephesus, Pamukkale"
+    },
+    "mag7": {
+      "title": "4-Day Istanbul Tour",
+      "desc": "Explore the best of Istanbul in 4 days."
+    },
+    "mag8": {
+      "title": "5-Day Istanbul, Dolmabahce & Bursa",
+      "desc": "Cultural and Historical Richness"
+    },
+    "mag9": {
+      "title": "6-Day Istanbul, Bursa & Princes’ Islands",
+      "desc": "Enjoy the serene beauty of Princes' Islands"
+    }
+  },
+  "destinations": {
+    "title": "Destinations",
+    "goreme": {
+      "title": "Göreme Open Air Museum"
+    },
+    "kaymakli": {
+      "title": "Kaymakli Underground City"
+    },
+    "derinkuyu": {
+      "title": "Derinkuyu Underground City"
+    },
+    "ihlara": {
+      "title": "Ihlara Valley"
+    },
+    "soganli": {
+      "title": "Soganli Valley"
+    },
+    "selime": {
+      "title": "Selime Monastery"
+    },
+    "pasabag": {
+      "title": "Pasabag (Monk's Valley)"
+    },
+    "uchisar": {
+      "title": "Uchisar Castle"
+    },
+    "cavusin": {
+      "title": "Cavusin Village"
+    },
+    "zelve": {
+      "title": "Zelve Open Air Museum"
+    }
+  },
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "Photo Gallery",
+    "share": "Share",
+    "posts": "Posts",
+    "followers": "Followers",
+    "following": "Following"
+  },
+  "reviews": {
+    "title": "Reviews",
+    "swipeHint": "Swipe to see more",
+    "leaveReview": "Leave a Review on Google"
+  },
+  "video": {
+    "title": "Experience Cappadocia",
+    "description": "Witness the breathtaking beauty of Cappadocia through our immersive journey"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "For questions and information, write to us.",
+    "workingHours": "Mon - Sun: 9.00am To 8.00pm",
+    "form": {
+      "name": "Full name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send via email"
+    }
+  },
+  "transfer": {
+    "badge": "Premium Transportation",
+    "titlePart1": "Need Airport Transfer or ",
+    "titlePart2": "Shuttle Service?",
+    "description": "Enjoy comfortable and reliable transportation services throughout Cappadocia. Professional drivers, modern vehicles, and competitive prices for all your transfer needs.",
+    "feature1": "24/7 Airport Transfers",
+    "feature2": "Hotel Shuttle Services",
+    "feature3": "Private & Shared Options",
+    "feature4": "Professional Drivers",
+    "ctaButton": "Book Your Transfer Now",
+    "badge1": "24/7 Available",
+    "badge2": "Best Price"
+  }
+}

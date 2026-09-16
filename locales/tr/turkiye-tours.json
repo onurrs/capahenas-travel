@@ -1,0 +1,1294 @@
+{
+  "turkiye-tours": {
+    "antalya": {
+      "badge": "🏖️ Şehir & Doğa Turu",
+      "title": "Antalya Şehir Turu",
+      "subtitle": "Şelaleler ve Teleferik ile Tam Gün Şehir Turu",
+      "description": "Antalya'nın muhteşem şelalelerini, Tunektepe'den panoramik manzaraları ve Eski Şehir'in tarihi cazibesini yaşayın.",
+      "gallery": {
+        "title": "Deneyim Galerisi",
+        "subtitle": "Antalya'nın şelalelerini, teleferik manzaralarını ve tarihi eski şehri keşfedin"
+      },
+      "about": {
+        "title": "Tur Hakkında",
+        "subtitle": "Şelaleler, Teleferik & Eski Şehir",
+        "intro": "Antalya'da, Türkiye'nin en ünlü tatil destinasyonlarından biri olan, muhteşem koyları, temiz plajları ve canlı bir şehir merkezi olan bu şehir boyunca unutulmaz bir yolculuğa çıkın. Tam gün Antalya Şehir Turunuz, bu büyüleyici şehrin görülmesi gereken tüm yerleri sergilemek için tasarlanmıştır.",
+        "karpuz": "Karpuzkaldıran Şelalesi - Doğanın Gücü",
+        "karpuz-desc": "Doğanın nefes kesici gücünü, Anadolu'nun en muhteşem şelalelerinden birini ziyaret ederken yaşayın; denize 45 metre yükseklikten düşmektedir. Nefes kesici manzara arasında sayısız gökkuşağının güzelliğini yakalayın. Bu eşsiz şelale, tatlı suların Akdeniz'le buluştuğu görkemli bir sahne yaratır.",
+        "duden": "Düden Şelalesi - Huzurlu Güzellik",
+        "duden-desc": "Yıllık 100.000'den fazla kişinin ziyaret ettiği bu doğa harikaşını keşfedin. Sakin ortamına kendinizi kaptırın, çevre parkında rahat yürüyüşler yapın ve kameranızla unutulmaz anları yakalayın. Lüks yeşillik ve huzurlu atmosfer, bu yeri rahatlama ve fotoğrafçılık için mükemmel bir yer yapar.",
+        "tun": "Tunektepe Teleferik - Panoramik Manzaralar",
+        "tun-desc": "Tunektepe Dağı'nın zirvesinden Antalya'nın eşsiz manzaralarını görün. Konyaaltı Plajı, Sıcan Adası ve pitoresk limanın panoramik görüntüleri için deniz seviyesinden 800 metre yukarıya yükseliniz. Teleferik yolculuğunun kendisi unutulmaz bir deneyimdir, her an nefes kesici manzaralar sunar.",
+        "note": "Lütfen Dikkat: Tunektepe Teleferik Pazartesi günleri kapalıdır ve alternatif olarak Antalya'nın muhteşem sahil şeridini su tarafından keşfetmenize izin veren güzel bir teknede tur düzenlenecektir.",
+        "oldtown": "Eski Şehir (Kaleici) - Tarihi Çekicilik",
+        "oldtown-desc": "Kaleici olarak da bilinen Eski Şehir'in tarihi sokaklarında zaman yolculuğuna çıkın. Bergama Krallığı'ndan Osmanlı İmparatorluğu'na kadar uzanan yüzyılların mimarisine hayran kalın. Büyüleyici dar sokakları, tarihi konak evleri, butik otelleri ve geleneksel dükkanları keşfedin. Antik liman ve Hadrian Kapısı, bu harika bölgenin öne çıkan yerleridir.",
+        "highlights": "Tur Öne Çıkanlar",
+        "highlight1": "Karpuzkaldıran Şelalesi - Akdeniz'e 45 metrelik düşüş",
+        "highlight2": "Düden Şelalesi - Yürüyüş yolları olan sakin doğa parkı",
+        "highlight3": "Tunektepe Teleferik - 800m yükseklik ve panoramik şehir manzarası",
+        "highlight4": "Konyaaltı Plajı Manzaraları - Muhteşem Akdeniz kıyısı",
+        "highlight5": "Eski Şehir (Kaleici) - Tarihi sokaklar ve Osmanlı mimarisi",
+        "highlight6": "Hadrian Kapısı - Antik Roma zafer kemeri",
+        "highlight7": "Eski Liman - Pitoresk marina ve yat limanı",
+        "highlight8": "Lezzetli Öğle Yemeği - Geleneksel Türk mutfağı dahil",
+        "itinerary": "Tur İtinereri",
+        "morning": "Sabah: Kahvaltıdan sonra otelelinizden kalkış",
+        "stop1": "İlk Durak: Karpuzkaldıran Şelalesi (45 dakikalık fotoğraf molası)",
+        "stop2": "İkinci Durak: Düden Şelalesi ve park yürüyüşü",
+        "lunch": "Öğle Yemeği: Yerel bir restoranda lezzetli yemek",
+        "afternoon": "Öğleden Sonra: Panoramik manzaralar için Tunektepe Teleferik (Pazartesi günleri teknede tur)",
+        "stop3": "Son Durak: Eski Şehir (Kaleici) tarihi yürüyüş turu",
+        "return": "Dönüş: Yapılan anılarla otelelinize dönüş",
+        "note2": "Not: Antalya'nın 30 km'den fazla dışında kalan otellerde konaklayan konuklar, ek ulaşım ücretine tabi olabilir.",
+        "contact": "Daha fazla bilgi almak ve rezervasyon yapmak için lütfen info@capahenastravel.com adresinden bize e-posta gönderin."
+      },
+      "includes": {
+        "title": "Tur Dahil",
+        "guide": "Profesyonel tur rehberi",
+        "fees": "Giriş Ücretleri",
+        "lunch": "Açık Büfe Öğle Yemeği",
+        "transport": "Klimalı Ulaşım",
+        "taxes": "Vergiler"
+      },
+      "info": {
+        "title": "Ek Bilgiler",
+        "pickupTitle": "Alış Yerleri",
+        "pickupDesc": "Antalya alanında oteller",
+        "pickupNote": "Antalya'nın 30+ km dışında bulunan oteller ek ücret gerektirebilir",
+        "durationTitle": "Tur Süresi",
+        "durationDesc": "Tam Gün Turu (saat 16:30 civarında sona erer)",
+        "dropoffTitle": "Bırakılacak Yerler",
+        "dropoffDesc": "Antalya'da oteleniniz",
+        "dropoffNote": "Antalya'nın 30+ km dışında bulunan oteller dönüş transferi için ek ücret gerektirebilir"
+      },
+      "excludes": {
+        "title": "Tur Hariç",
+        "drinks": "İçecekler",
+        "personal": "Kişisel Masraflar",
+        "tips": "Şoför ve rehbere bahşiş"
+      },
+      "booking": {
+        "title": "Turu Şimdi Rezervasyon Yapın!",
+        "subtitle": "Antalya deneyiminizi ayırtın",
+        "selectDate": "Tarih Seçin",
+        "persons": "Kişi Sayısı",
+        "personsLabel": "Kişi",
+        "minimumNote": "Minimum 1 kişi gereklidir",
+        "yourDetails": "Sizin Detaylarınız",
+        "fullName": "Tam Ad *",
+        "fullNamePlaceholder": "Tam adınızı girin",
+        "email": "E-posta Adresi *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "Otel Adı (İsteğe Bağlı)",
+        "hotelPlaceholder": "Antalya'daki otel adınız",
+        "hotelNote": "Bu alan isteğe bağlı olmakla birlikte, otel adını eklemeniz isteğinizi daha hızlı işlememize yardımcı olur.",
+        "phone": "Telefon Numarası (İsteğe Bağlı)",
+        "phonePlaceholder": "Telefon Numarası",
+        "phoneNote": "Bu alan isteğe bağlı olmakla birlikte, daha hızlı cevap verebilmemiz için doldurmanızı öneririz.",
+        "summary": "Rezervasyon Özeti",
+        "tourType": "Tur Tipi:",
+        "selectedDate": "Seçilen Tarih:",
+        "pleaseSelect": "Lütfen seçin",
+        "totalPersons": "Toplam Kişi:",
+        "priceNote": "Fiyat detayları soruşturma üzerine sağlanacaktır",
+        "bookButton": "Maceralarınızı Ayırtın",
+        "secure": "🔒 Güvenli rezervasyon • Şu anda ödeme yapılmamıştır",
+        "cancellation": "Ücretsiz İptal ve Geri Ödeme",
+        "cancellationDesc": "Tur başlangıç saatinden 24 saat öncesine kadar iptal edilebilir",
+        "payLater": "Şimdi Ayırtın ve Sonra Ödeyin",
+        "payLaterDesc": "Şimdi bir rezervasyon yapın, tur başlamadan önce herhangi bir zamanda ödeyin",
+        "whatsapp": "WhatsApp'ta bize ulaşın"
+      }
+    },
+    "aspendos": {
+      "badge": "🏛️ Antik Akdeniz Şehirleri",
+      "title": "Perge Aspendos Side Turu",
+      "subtitle": "Antalya'nın Antik Hazinelerini Keşfet",
+      "description": "Üç muhteşem antik şehri keşfet ve bu kapsamlı tur da Manavgat Şelalesi'nin güzelliğini gör.",
+      "gallery": {
+        "title": "Deneyim Galerisi",
+        "subtitle": "Antik şehirleri ve Antalya'nın doğal güzelliğini keşfet"
+      },
+      "about": {
+        "title": "Tur Hakkında",
+        "subtitle": "Perge, Aspendos, Side & Manavgat Şelalesi",
+        "intro": "Perge, Aspendos, Side & Manavgat Şelalesi turu ile Antalya Doğası'nın güzelliğini keşfedebilirsin. Bu kültürel tura katılarak, mermer kapıları olan görkemli şehir Perge'yi, sonsuz akustiğe sahip ve eski ile yeni dönemin harika uyumunu yansıtan Aspendos'u ve tatil kasabası Side'yi keşfedebilirsin.",
+        "perge": "Perge - Mermer Kapıların Şehri",
+        "perge-desc": "Antalya kültür turumuz Perge ile başlıyor. Akdeniz Bölgesi, Doğu'da Kilikia, Kuzey'de Pisidya ve Batı'da Likya ile çevrili güzelliklerin arazisidir. Perge Harabeleri'ni ziyaret et; bugün Akdeniz kıyısından içeriye yerleştirilmiş iki liman şehrinden biri ve şu an kadar korunmuş en iyi antik şehirlerden biri.",
+        "perge-desc2": "Perge'deki önemli arkeolojik kazıların yapıldığı sütunlu caddeler etrafında yürürken, agora, hamam, su yolları ve tiyatro da yürüyerek Roma dönemindeki sosyal hayatı canlandır. Sen de St. Paul ve Barnabas'ın Anadolu'daki merdivenleri üzerinde kendinizi bulabilirsin.",
+        "aspendos": "Aspendos - Antik Mühendisliğin Harikası",
+        "aspendos-desc": "Aspendos Tiyatrosu'nun tepesinde olduğunuzda harika bir sahne izleyeceksiniz. Üstelik ana kapıdan girildiğinde, Mimar Zenon'un fısıltılarını duyacaksınız. Ve sürpriz! Yaklaşık 2000 yıl önceki teknik olanaklar tarafından 50-60 metre yüksek bir tepeye inşa edilen Aspendos akropolü'ne su akışını taşıyan harika yöntem.",
+        "side": "Side - Antik ile Modernin Buluştuğu Yer",
+        "side-desc": "Son antik şehir durağımız Side olacak. Antik Roma duvarları içinde kuruluş Modern liman kasabası Side'de birbirinin içinde saklı antik ve modern hayatı karşılaştır. Apollo Tapınağı'nı ve Side'nin muhteşem plajını gör; geçmişten günümüze neler getirebileceğimizi gözlemle.",
+        "manavgat": "Manavgat Şelalesi - Doğal Güzellik",
+        "manavgat-desc": "Günün sonunda, seni dinlenme ve serinlemek için Manavgat Şelalesi'nin muhteşem görüntüsü bekleyecek. Bu muhteşem şelalenin ferah sisini ve doğal güzelliğini yaşa.",
+        "highlights": "Tur Öne Çıkanlar",
+        "highlight1": "Perge Antik Şehri - Sütunlu sokaklar, Roma hamamları ve tiyatro",
+        "highlight2": "Aspendos Tiyatrosu - En iyi korunmuş Roma tiyatrosu ve inanılmaz akustik",
+        "highlight3": "Antik Sukanatlar - 2000 yıllık mühendisliğin harikasını gez",
+        "highlight4": "Side Antik Şehri - Roma duvarları ve antik liman kasabası",
+        "highlight5": "Apollo Tapınağı - Side'de ikonik deniz kenarı harabeleri",
+        "highlight6": "Side Plajı - Muhteşem Akdeniz kıyı şeridi",
+        "highlight7": "Manavgat Şelalesi - Doğa harikası ve dinlenme yeri",
+        "highlight8": "Açık Büfe Öğle Yemeği - Lezzetli Türk mutfağı",
+        "itinerary": "Tur Detayları",
+        "fullday": "Tam Gün Turu: Antalya bölgesindeki otellerden kalkış",
+        "endtime": "Tur saat 16:30 civarında sona erer ve Antalya'da oteleninize dönüş yapılır",
+        "note2": "Not: Antalya'nın 30 km dışında konaklıyorsanız, otel transferi için ekstra ödeme yapmanız gerekebilir."
+      },
+      "includes": {
+        "title": "Tur Dahil",
+        "guide": "Profesyonel tur rehberi",
+        "fees": "Giriş Ücretleri",
+        "lunch": "Açık Büfe Öğle Yemeği",
+        "transport": "Klimalı Ulaşım",
+        "taxes": "Vergiler"
+      },
+      "info": {
+        "title": "Ek Bilgiler",
+        "pickupTitle": "Alış Yerleri",
+        "pickupDesc": "Antalya bölgesindeki oteller",
+        "pickupNote": "Antalya'nın 30+ km dışında bulunan oteller ek ücret gerektirebilir",
+        "durationTitle": "Tur Süresi",
+        "durationDesc": "Tam Gün Turu (saat 16:30 civarında sona erer)",
+        "dropoffTitle": "Bırakılacak Yerler",
+        "dropoffDesc": "Antalya'da oteleniniz",
+        "dropoffNote": "Antalya'nın 30+ km dışında bulunan oteller dönüş transferi için ek ücret gerektirebilir"
+      },
+      "excludes": {
+        "title": "Tur Hariç",
+        "drinks": "İçecekler",
+        "personal": "Kişisel Masraflar",
+        "tips": "Şoför ve rehbere bahşiş"
+      },
+      "booking": {
+        "title": "Turu Şimdi Rezervasyon Yapın!",
+        "subtitle": "Aspendos deneyiminizi ayırtın",
+        "selectDate": "Tarih Seçin",
+        "persons": "Kişi Sayısı",
+        "personsLabel": "Kişi",
+        "minimumNote": "Minimum 1 kişi gereklidir",
+        "yourDetails": "Sizin Detaylarınız",
+        "fullName": "Tam Ad *",
+        "fullNamePlaceholder": "Tam adınızı girin",
+        "email": "E-posta Adresi *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "Otel Adı (İsteğe Bağlı)",
+        "hotelPlaceholder": "Antalya'daki otel adınız",
+        "hotelNote": "Bu alan isteğe bağlı olmakla birlikte, otel adını eklemeniz isteğinizi daha hızlı işlememize yardımcı olur.",
+        "phone": "Telefon Numarası (İsteğe Bağlı)",
+        "phonePlaceholder": "Telefon Numarası",
+        "phoneNote": "Bu alan isteğe bağlı olmakla birlikte, daha hızlı cevap verebilmemiz için doldurmanızı öneririz.",
+        "summary": "Rezervasyon Özeti",
+        "tourType": "Tur Tipi:",
+        "selectedDate": "Seçilen Tarih:",
+        "pleaseSelect": "Lütfen seçin",
+        "totalPersons": "Toplam Kişi:",
+        "priceNote": "Fiyat detayları soruşturma üzerine sağlanacaktır",
+        "bookButton": "Maceralarınızı Ayırtın",
+        "secure": "🔒 Güvenli rezervasyon • Şu anda ödeme yapılmamıştır",
+        "cancellation": "Ücretsiz İptal ve Geri Ödeme",
+        "cancellationDesc": "Tur başlangıç saatinden 24 saat öncesine kadar iptal edilebilir",
+        "payLater": "Şimdi Ayırtın ve Sonra Ödeyin",
+        "payLaterDesc": "Şimdi bir rezervasyon yapın, tur başlamadan önce herhangi bir zamanda ödeyin",
+        "whatsapp": "WhatsApp'ta bize ulaşın"
+      }
+    },
+    "demre": {
+      "badge": "⛵ Tarih & Tekne Turu",
+      "title": "Demre Myra Kekova Turu",
+      "subtitle": "Antik Liken Şehirleri ve Batık Şehir Tekne Turu",
+      "description": "Myra kaya mezarlarını keşfedin, Saint Nicholas Kilisesi'ni ziyaret edin ve muhteşem Kekova batık şehrini dolaşın.",
+      "gallery": {
+        "title": "Deneyim Galerisi",
+        "subtitle": "Demre'nin antik Liken kaya mezarlarını, Saint Nicholas Kilisesi'ni ve Kekova'nın batık şehrini keşfet"
+      },
+      "about": {
+        "title": "Tur Hakkında",
+        "subtitle": "Myra, Saint Nicholas Kilisesi ve Kekova Batık Şehri",
+        "intro": "Demre, Myra ve Kekova Turu'nda, tarih, kültür ve sakin mavi çevrenin seni büyüleyeceği o büyüleyici deneyimi yaşa. Orijinal Liken kaya mezarlarının en muhteşem örneklerini gördüğünde arkeolojinin büyüleyici dünyasına dalabilirsin. Myra'da Santa Claus'un ayakkabılarını izle ve antik bir deprem felaketinin şekillendirdiği Kekova'nın eşsiz güzelliğini keşfet.",
+        "eagle": "Kartallı Tepesi - Sakin Yolculuk",
+        "eagle-desc": "Antalya'dan Kekova'ya giden yolculuğuna, nefes kesici peyzajlar, lagonlar ve göllerden geçerek başla. Muhteşem Şahin Tepesi'nde kahve molası ver; muhteşem Akdeniz kıyı şeridinin ve çevre dağların panoramik görüntüsü seni bekleyen.",
+        "myra": "Myra Antik Şehri - Liken'in Başkenti",
+        "myra-desc": "Liken Medeniyeti'nin antik başkenti Myra'yı keşfet. Kayalara oyulmuş kabartmalı kaya mezarlarına hayran kal, iyi korunmuş antik tiyatro boyunca dolaş ve tecrübeli rehberlerimiz bu antik şehrin sırlarını açığa çıkardığında nehir mezarlığındaki intricate oymaları hayranlıkla izle. Kaya oymaları Türkiye'deki Liken mimarisinin en etkileyici örneklerindendir.",
+        "nicholas": "Saint Nicholas Kilisesi - Santa Claus'un Evi",
+        "nicholas-desc": "Saint Nicholas Kilisesi'nde Santa Claus'un efsanevi figürüne saygı göster; burada hayırseverlik ve aşk ruhu hala yankılanmaktadır. Bu muhteşem kiliseyi dolaşırken Saint Nicholas'un tarihini ve mirasını keşfet. Bu 4. yüzyıl piskoposunun modern Santa Claus efsanesinin ilhamı nasıl olduğunu öğren.",
+        "kekova": "Kekova ve Batık Şehir - Antik Su Altı Haraabeleri",
+        "kekova-desc": "Adalarcık, koylar ve antik harabelelerle dolu büyüleyici Kekova bölgesinde yelken aç. Jeolojik hareketler ve depremler tarafından batırılan batık şehrin sürreal güzelliğine tanık ol. Anı unutulmaz iki saatlik tekne turunda, bölgedeki ana Liken yerleşimleri olan Teimiussa ve Simena'ya hayran kal. Kristal berrak sular su yüzeyinin altındaki antik haraabeleri görmene izin verdi.",
+        "swimming": "🏊 Yüzme Molası: Tekne turları sırasında ıssız Akdeniz sularında yüzme molası verilecektir. Yüzme kıyafetini getirmeyi unutma ve ferah turkuaz denizi tadını çıkar!",
+        "highlights": "Tur Öne Çıkanlar",
+        "highlight1": "Kartallı/Şahin Tepesi - Panoramik görüntüler ve kahve molası",
+        "highlight2": "Myra Antik Şehri - Muhteşem Liken kaya mezarları ve tiyatro",
+        "highlight3": "Saint Nicholas Kilisesi - Santa Claus'un orijinal evi",
+        "highlight4": "Kekova Batık Şehri - Su altı antik haraabeleri",
+        "highlight5": "Simena Kalesi - Muhteşem tepedeki kale görüntüleri",
+        "highlight6": "Teimiussa Haraabeleri - Antik Liken yerleşimi",
+        "highlight7": "2 Saatlik Tekne Turu - Kristal berrak sulardan geç",
+        "highlight8": "Yüzme Molaları - Akdeniz'de ferah dalış",
+        "itinerary": "Dahil Olanlar",
+        "professional": "Gün boyunca profesyonel tur rehberi",
+        "transport": "Rahat klimalı ulaşım",
+        "lunch": "Yerel restoranda lezzetli öğle yemeği",
+        "boat": "Kekova turu tekne biletleri",
+        "fees": "Myra ve Saint Nicholas Kilisesi giriş ücretleri",
+        "insurance": "Kapsamlı sigorta kapsamı",
+        "note2": "Not: Antalya'nın 30 km'den fazla dışında kalıyorsanız, otel ulaşımı için ek ücretler geçerli olabilir."
+      },
+      "includes": {
+        "title": "Tur Dahil",
+        "guide": "Profesyonel tur rehberi",
+        "fees": "Myra ve Saint Nicholas Kilisesi Giriş Ücretleri",
+        "lunch": "Öğle Yemeği",
+        "boat": "Kekova İçin Tekne Biletleri",
+        "transport": "Klimalı Ulaşım",
+        "taxes": "Vergiler"
+      },
+      "info": {
+        "title": "Ek Bilgiler",
+        "pickupTitle": "Alış Yerleri",
+        "pickupDesc": "Antalya bölgesindeki oteller",
+        "pickupNote": "Antalya'nın 30+ km dışında bulunan oteller ek ücret gerektirebilir",
+        "durationTitle": "Tur Süresi",
+        "durationDesc": "Tam Gün Turu (saat 16:30 civarında sona erer)",
+        "dropoffTitle": "Bırakılacak Yerler",
+        "dropoffDesc": "Antalya'da oteleniniz",
+        "dropoffNote": "Antalya'nın 30+ km dışında bulunan oteller dönüş transferi için ek ücret gerektirebilir"
+      },
+      "excludes": {
+        "title": "Tur Hariç",
+        "drinks": "İçecekler",
+        "personal": "Kişisel Masraflar",
+        "tips": "Şoför ve rehbere bahşiş"
+      },
+      "booking": {
+        "title": "Turu Şimdi Rezervasyon Yapın!",
+        "subtitle": "Demre Kekova deneyiminizi ayırtın",
+        "selectDate": "Tarih Seçin",
+        "persons": "Kişi Sayısı",
+        "personsLabel": "Kişi",
+        "minimumNote": "Minimum 1 kişi gereklidir",
+        "yourDetails": "Sizin Detaylarınız",
+        "fullName": "Tam Ad *",
+        "fullNamePlaceholder": "Tam adınızı girin",
+        "email": "E-posta Adresi *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "Otel Adı (İsteğe Bağlı)",
+        "hotelPlaceholder": "Antalya'daki otel adınız",
+        "hotelNote": "Bu alan isteğe bağlı olmakla birlikte, otel adını eklemeniz isteğinizi daha hızlı işlememize yardımcı olur.",
+        "phone": "Telefon Numarası (İsteğe Bağlı)",
+        "phonePlaceholder": "Telefon Numarası",
+        "phoneNote": "Bu alan isteğe bağlı olmakla birlikte, daha hızlı cevap verebilmemiz için doldurmanızı öneririz.",
+        "summary": "Rezervasyon Özeti",
+        "tourType": "Tur Tipi:",
+        "selectedDate": "Seçilen Tarih:",
+        "pleaseSelect": "Lütfen seçin",
+        "totalPersons": "Toplam Kişi:",
+        "priceNote": "Fiyat detayları soruşturma üzerine sağlanacaktır",
+        "bookButton": "Maceralarınızı Ayırtın",
+        "secure": "🔒 Güvenli rezervasyon • Şu anda ödeme yapılmamıştır",
+        "cancellation": "Ücretsiz İptal ve Geri Ödeme",
+        "cancellationDesc": "Tur başlangıç saatinden 24 saat öncesine kadar iptal edilebilir",
+        "payLater": "Şimdi Ayırtın ve Sonra Ödeyin",
+        "payLaterDesc": "Şimdi bir rezervasyon yapın, tur başlamadan önce herhangi bir zamanda ödeyin",
+        "whatsapp": "WhatsApp'ta Bize Ulaşın"
+      }
+    },
+    "ephesus": {
+      "badge": "🏛️ UNESCO Dünya Mirası",
+      "title": "Günlük Efes Turu",
+      "subtitle": "Antik Şehir & İlahi Yerler",
+      "description": "Antik mermer sokaklarda yürüyün ve Akdeniz'de en iyi korunmuş klasik şehirlerinden birini keşfedin.",
+      "gallery": {
+        "title": "Deneyim Galerisi",
+        "subtitle": "Efes'in antik harikalarını keşfedin"
+      },
+      "about": {
+        "title": "Tur Hakkında",
+        "subtitle": "Günlük Efes Turu",
+        "intro": "Tur Selçuk'ta oteleninizden 09:00'da alınarak başlar. Tüm katılımcılar bir araya geldikten sonra, Efes keşfi Meryem Anne Evi ile başlar.",
+        "virgin": "Meryem Anne Evi - Kutsal Hac Yeri",
+        "virgin-desc": "Meryem Anne'nin son günlerini geçirmiş olabileceği yer. Bu yer 1986'da Katolik Kilisesi'nin bir ibadet yeri olarak resmi olarak ilan edilmiş ve o zamandan beri popüler bir hac yeri haline gelmiştir. Papa VI. Paul 1967'de bu ibadet yerini ziyaret etmiştir.",
+        "ephesus": "Efes - Antik Helenistik & Roma Şehri",
+        "ephesus-desc": "Helenistik, Roma İmparatorluk ve erken Hristiyan dönemlerinin kültürel geleneklerinin istisnai bir tanıklığı. Hristiyanlık için önemli bir alandır, Vahiy'in Yedi Kilisesi'nden biridir. Havari Pavlus, üçüncü misyoner yolculuğu sırasında muhtemelen Efes'te iki buçuk yıl geçirmiştir. İki saatte, İngilizce konuşan tur rehberimizle mermer sokaklarda yürüyerek şehri keşfedeceksiniz.",
+        "highlights": "Tur Öne Çıkanlar",
+        "highlight1": "Meryem Anne Evi - Kutsal hac yeri",
+        "highlight2": "Efes Gymnasium - Antik antrenman alanları",
+        "highlight3": "Ağoralar - Ticari ve devlet pazaryerleri",
+        "highlight4": "Domitian Meydanı - Anıtsal şehir merkezi",
+        "highlight5": "Hadrian Tapınağı - Güzel korunmuş tapınak",
+        "highlight6": "Roma Hamamı - Antik banyo kompleksi",
+        "highlight7": "Celsus Kütüphanesi - İkonik antik kütüphane cephesi",
+        "highlight8": "Antik Tiyatro - Muazzam 25.000 kişilik amfitiyatro",
+        "highlight9": "Meryem Kilisesi - Meryem Anne'ye adanmış ilk kilise",
+        "highlight10": "Açık Büfe Öğle Yemeği - Geleneksel Türk mutfağı",
+        "highlight11": "Artemis Tapınağı - Eski Dünyanın Yedi Harikası'ndan biri",
+        "highlight12": "Şirince Köyü - Şarap tadımıyla zarif tepedeki köy",
+        "itinerary": "Ne İçinde",
+        "professional": "Gün boyunca profesyonel tur rehberi",
+        "transport": "Rahat klimalı ulaşım",
+        "delicious": "Yerel bir restoranda lezzetli öğle yemeği",
+        "temple": "Artemis Tapınağı turu",
+        "fees": "Efes ve yerlerine giriş ücretleri",
+        "insurance": "Kapsamlı sigorta kapsamı"
+      },
+      "includes": {
+        "title": "Tur Dahil",
+        "guide": "Profesyonel tur rehberi",
+        "fees": "Giriş Ücretleri",
+        "lunch": "Açık Büfe Öğle Yemeği",
+        "transport": "Klimalı Ulaşım",
+        "taxes": "Vergiler"
+      },
+      "info": {
+        "title": "Ek Bilgi",
+        "pickupTitle": "Alınacak Yerler",
+        "pickupDesc": "Selçuk'ta oteller (09:00 Sabah başlangıç)",
+        "pickupNote": "İzmir Havalimanı veya Otelden alınabilir (ek ücret)",
+        "durationTitle": "Tur Süresi",
+        "durationDesc": "Tam Gün - 09:00'dan 17:00'ye kadar (yaklaşık 16:30'da biter)",
+        "dropoffTitle": "Bırakılacak Yerler",
+        "dropoffDesc": "Oteleniniz, Otobüs Terminali veya Selçuk'ta Tren İstasyonu",
+        "dropoffNote": "İzmir Havalimanına bırakma mevcuttur (ek ücret)"
+      },
+      "excludes": {
+        "title": "Tur Hariç",
+        "drinks": "İçkiler",
+        "personal": "Kişisel Harcamalar",
+        "tips": "Şoför ve rehbere bahşiş"
+      },
+      "booking": {
+        "title": "Şimdi Turunuzu Rezerve Edin!",
+        "subtitle": "Efes deneyiminizi rezerve edin",
+        "selectDate": "Tarihinizi Seçin",
+        "persons": "Kişi Sayısı",
+        "personsLabel": "Kişi",
+        "minimumNote": "En az 1 kişi gereklidir",
+        "yourDetails": "Bilgileriniz",
+        "fullName": "Ad Soyad *",
+        "fullNamePlaceholder": "Tam adınızı girin",
+        "email": "E-posta Adresi *",
+        "emailPlaceholder": "sizin@email.com",
+        "hotel": "Otel Adı (İsteğe Bağlı)",
+        "hotelPlaceholder": "Selçuk'taki otel adınız",
+        "hotelNote": "Bu alan isteğe bağlıdır, ancak otel adını eklemek talebinizin daha hızlı işlenmesine yardımcı olur.",
+        "phone": "Telefon Numarası (İsteğe Bağlı)",
+        "phonePlaceholder": "Telefon Numarası",
+        "phoneNote": "Bu alan isteğe bağlıdır, ancak daha hızlı cevap verebilmemiz için doldurmanızı tavsiye ederiz.",
+        "summary": "Rezervasyon Özeti",
+        "tourType": "Tur Türü:",
+        "selectedDate": "Seçilen Tarih:",
+        "pleaseSelect": "Lütfen seçin",
+        "totalPersons": "Toplam Kişi:",
+        "priceNote": "Fiyat ayrıntıları sorgulamada sağlanacaktır",
+        "bookButton": "Macerânızı Rezerve Edin",
+        "secure": "🔒 Güvenli rezervasyon • Şu anda ödeme gerekmez",
+        "cancellation": "Ücretsiz İptal ve Geri Ödeme",
+        "cancellationDesc": "Tur başlamadan 24 saat öncesine kadar iptal edilebilir",
+        "payLater": "Şimdi Rezerve Edin, Daha Sonra Ödeme Yapın",
+        "payLaterDesc": "Şimdi rezervasyonunuzu yapın, turun başlamadan önce istediğiniz zaman ödeme yapın",
+        "whatsapp": "WhatsApp'ta Bize Ulaşın"
+      }
+    },
+    "pamukkale-from-antalya": {
+      "badge": "🏛️ UNESCO Dünya Mirası",
+      "title": "Antalya'dan Pamukkale Turu",
+      "subtitle": "Beyaz Traverten Terası ve Antik Hierapolis",
+      "description": "Antalya'dan Pamukkale'nin etkileyici beyaz terası ve antik Hierapolis kalıntılarını keşfetmek için yolculuk yapın.",
+      "gallery": {
+        "title": "Deneyim Galerisi",
+        "subtitle": "Pamukkale'nin muhteşem güzelliğini keşfedin"
+      },
+      "about": {
+        "title": "Tur Hakkında",
+        "subtitle": "Antalya'dan Pamukkale Turu",
+        "intro1": "Antalya'dan Pamukkale ve Hierapolis'e unutulmaz bir yolculuğa çıkın. Profesyonel rehberlerimiz tarafından yönetilen bu tur, Türkiye'nin en ikonik destinasyonlarının ikisinin kapsamlı bir keşfini sunar; her ikisi de UNESCO Dünya Mirası Listesinde yer almaktadır. Termal suları hissedin, antik tarihin içinde yürüyün ve Türkiye'nin en nefes kesen doğal harikasına tanık olun.",
+        "departure": "Erken Sabah Kalkışı",
+        "departure-desc": "Macerâ, Antalya'daki otelerinizden sabah erkenden alınarak başlar; orada tecrübeli rehberimizi karşılarsınız. Pamukkale'ye doğru yolculuğumuzu resmi olarak başlatacağız, bu olağanüstü günlük gezintide bizi bekleyen harikalar içinde.",
+        "pamukkale": "Pamukkale - Pamuk Kalesi",
+        "pamukkale-desc": "İlk duruşumuz, doğal güzelliği ve termal su ile dolu terasyalarıyla ünlü Pamukkale'dir. Pamukkale dağı ve terasyalarını keşfederken, karbonatlı mineralllerle süslü kaya oluşumlarını, basamaklı havuzları hayrette izleyin. Bu traverten teraları, kimyasal tepkimeler ve mineral çökelmesi yoluyla oluşmuş, rahatlatma ve banyo yapma için benzersiz bir fırsat sunar.",
+        "thermal": "Termal Sular ve Şifalı Pınarlar",
+        "thermal-desc": "Pamukkale'nin termal bölgesine dalalım; burada çok sayıda sıcak su kaynağı vardır. Bu pınarların sıcaklıkları 35 ila 100 derece Celsius arasında değişir; iltihaplı ekleme rahatlama sağlar. Pamukkale'nin doğal pınarları, antik çağlardan beri şifalı özellikleri için talep gören ve hem sağlık faydaları hem de bölgenin nefes kesen doğal güzelliğini arayan binlerce ziyaretçiyi çeken yerlerdir.",
+        "hierapolis": "Hierapolis Antik Kenti",
+        "hierapolis-desc": "Pamukkale keşfinden sonra antik Hierapolis şehrine yolculuk yapacağız. Bir zamanlar hamam ve termalları ile ünlü olan bu tarihi medeniyeti pek çok enerji arayan ziyaretçi bağrına basıyor. Uzun Amfitiyatro, Aziz Philippe Kilisesi, Nekropol ve ünlü Kleopatra Havuzu gibi otantik tarihi yerleri keşfedin.",
+        "conclusion": "Yakındaki bir restoranda öğle yemeği yedikten sonra, Antalya'ya geri dönecek ve sizi tatil beldelerinize getireceğiz, bu unutulmaz günü sonlandıracak.",
+        "itinerary": "Tur İtinerarı",
+        "highlight1": "Antalya'daki otelerinizden erken sabah alınma",
+        "highlight2": "Pamukkale'ye ve Karahayıt'ın Kızıl Pınarlarına gidiş",
+        "highlight3": "Nekropol - Çarpıcı mezarları olan antik mezarlık",
+        "highlight4": "Hamam - Roma termal hamam kompleksi",
+        "highlight5": "Bazilika - Erken Hristiyanlık kilisesi kalıntıları",
+        "highlight6": "Domitian Kapısı - Anıtsal Roma girişi",
+        "highlight7": "Frontinius Caddesi - Antik ana cadde",
+        "highlight8": "Latrina - Kamu tuvaleti (antik Roma mühendisliği)",
+        "highlight9": "Apollo Tapınağı - Kutsal tapınak",
+        "highlight10": "Plutonium - Yeraltı dünyasına geçit",
+        "highlight11": "Tiyatro - Muhteşem antik amfitiyatro",
+        "highlight12": "Aziz Filipus Mezarı - Önemli Hristiyanlık sitesi",
+        "highlight13": "Kleopatra Havuzu - İsteğe bağlı yüzme için serbest zaman",
+        "highlight14": "Pamukkale Travertenleri - Muhteşem beyaz terasyalarda yürüyüş",
+        "highlight15": "Yakındaki bir restoranda öğle yemeği",
+        "highlight16": "Antalya'ya dönüş ve otelerinize bırakılma"
+      },
+      "includes": {
+        "title": "Tur Dahil",
+        "guide": "Profesyonel tur rehberi",
+        "fees": "Pamukkale ve Hierapolis Giriş Ücretleri",
+        "lunch": "Öğle Yemeği",
+        "transport": "Klimalı Ulaşım",
+        "taxes": "Vergiler"
+      },
+      "info": {
+        "title": "Ek Bilgi",
+        "pickupTitle": "Alınacak Yerler",
+        "pickupDesc": "Antalya Bölgesi Oteller - Erken Sabah Kalkışı",
+        "pickupNote": "Antalya'dan 30+ km uzak oteller ek ücret gerektirebilir",
+        "durationTitle": "Tur Süresi",
+        "durationDesc": "Tam Gün Turu Antalya'dan (erkenden akşama kadar)",
+        "dropoffTitle": "Bırakılacak Yerler",
+        "dropoffDesc": "Antalya'daki oteleriniz",
+        "dropoffNote": "Antalya'dan 30+ km uzak oteller dönüş transferi için ek ücret gerektirebilir"
+      },
+      "excludes": {
+        "title": "Tur Hariç",
+        "drinks": "İçkiler",
+        "personal": "Kişisel Harcamalar",
+        "tips": "Şoför ve rehbere bahşiş"
+      },
+      "booking": {
+        "title": "Şimdi Turunuzu Rezerve Edin!",
+        "subtitle": "Antalya'dan Pamukkale deneyiminizi rezerve edin",
+        "selectDate": "Tarihinizi Seçin",
+        "persons": "Kişi Sayısı",
+        "personsLabel": "Kişi",
+        "minimumNote": "En az 1 kişi gereklidir",
+        "yourDetails": "Bilgileriniz",
+        "fullName": "Ad Soyad *",
+        "fullNamePlaceholder": "Tam adınızı girin",
+        "email": "E-posta Adresi *",
+        "emailPlaceholder": "sizin@email.com",
+        "hotel": "Otel Adı (İsteğe Bağlı)",
+        "hotelPlaceholder": "Antalya'daki otel adınız",
+        "hotelNote": "Bu alan isteğe bağlıdır, ancak otel adını eklemek talebinizin daha hızlı işlenmesine yardımcı olur.",
+        "phone": "Telefon Numarası (İsteğe Bağlı)",
+        "phonePlaceholder": "Telefon Numarası",
+        "phoneNote": "Bu alan isteğe bağlıdır, ancak daha hızlı cevap verebilmemiz için doldurmanızı tavsiye ederiz.",
+        "summary": "Rezervasyon Özeti",
+        "tourType": "Tur Türü:",
+        "selectedDate": "Seçilen Tarih:",
+        "pleaseSelect": "Lütfen seçin",
+        "totalPersons": "Toplam Kişi:",
+        "priceNote": "Fiyat ayrıntıları sorgulamada sağlanacaktır",
+        "bookButton": "Macerânızı Rezerve Edin",
+        "secure": "🔒 Güvenli rezervasyon • Şu anda ödeme gerekmez",
+        "cancellation": "Ücretsiz İptal ve Geri Ödeme",
+        "cancellationDesc": "Tur başlamadan 24 saat öncesine kadar iptal edilebilir",
+        "payLater": "Şimdi Rezerve Edin, Daha Sonra Ödeme Yapın",
+        "payLaterDesc": "Şimdi rezervasyonunuzu yapın, turun başlamadan önce istediğiniz zaman ödeme yapın",
+        "whatsapp": "WhatsApp'ta Bize Ulaşın"
+      }
+    },
+    "pamukkale": {
+      "badge": "🏛️ UNESCO Dünya Mirası",
+      "title": "Günlük Pamukkale Turu",
+      "subtitle": "Beyaz Traverten Terası ve Antik Hierapolis",
+      "description": "Bu günlük rehberli turda Pamukkale'nin etkileyici beyaz terası ve Hierapolis'in antik kalıntılarını keşfedin.",
+      "gallery": {
+        "title": "Deneyim Galerisi",
+        "subtitle": "Pamukkale'nin muhteşem güzelliğini keşfedin"
+      },
+      "about": {
+        "title": "Tur Hakkında",
+        "subtitle": "Günlük Pamukkale Turu",
+        "intro": "Bu kapsamlı günlük turda Pamukkale'nin etkileyici beyaz traverten terası ve Hierapolis'in antik kalıntılarını keşfedin. Termal suları hissedin, antik tarihin içinde yürüyün ve Türkiye'nin en ikonik doğal harikasına tanık olun.",
+        "itinerary": "Tur İtinerarı",
+        "highlight1": "Pamukkale Oteli, Karahayıt Oteli, Otobüs Terminali veya Havalimanından alınma",
+        "highlight2": "Turu başlat ve Karahayıt'ın Kızıl Pınarlarına git",
+        "highlight3": "Nekropol - Çarpıcı mezarları olan antik mezarlık",
+        "highlight4": "Hamam - Roma termal hamam kompleksi",
+        "highlight5": "Bazilika - Erken Hristiyanlık kilisesi kalıntıları",
+        "highlight6": "Domitian Kapısı - Anıtsal Roma girişi",
+        "highlight7": "Frontinius Caddesi - Antik ana cadde",
+        "highlight8": "Latrina - Kamu tuvaleti (antik Roma mühendisliği)",
+        "highlight9": "Apollo Tapınağı - Kutsal tapınak",
+        "highlight10": "Plutonium - Yeraltı dünyasına geçit",
+        "highlight11": "Tiyatro - Muhteşem antik amfitiyatro",
+        "highlight12": "Aziz Filipus Mezarı - Önemli Hristiyanlık sitesi",
+        "highlight13": "Kleopatra Havuzu - İsteğe bağlı yüzme için serbest zaman",
+        "highlight14": "Pamukkale Travertenleri - Muhteşem beyaz terasyalarda yürüyüş",
+        "highlight15": "Yakındaki bir restoranda öğle yemeği",
+        "highlight16": "Otele dönüş"
+      },
+      "includes": {
+        "title": "Tur Dahil",
+        "guide": "Profesyonel tur rehberi",
+        "fees": "Pamukkale ve Hierapolis Giriş Ücretleri",
+        "lunch": "Öğle Yemeği",
+        "transport": "Klimalı Ulaşım",
+        "taxes": "Vergiler"
+      },
+      "info": {
+        "title": "Ek Bilgi",
+        "pickupTitle": "Alınacak Yerler",
+        "pickupDesc": "Pamukkale Oteli, Karahayıt Oteli, Otobüs Terminali veya Havalimanı",
+        "pickupNote": "Pamukkale bölgesindeki oteller için alınabilir",
+        "durationTitle": "Tur Süresi",
+        "durationDesc": "Tam Gün Turu (Sabah 09:00'dan Akşam 16:00'ye kadar, yaklaşık 7 saat)",
+        "dropoffTitle": "Bırakılacak Yerler",
+        "dropoffDesc": "Pamukkale Oteli, Karahayıt Oteli, Otobüs Terminali veya Havalimanı",
+        "dropoffNote": "Pamukkale bölgesindeki oteller için bırakma mevcuttur"
+      },
+      "excludes": {
+        "title": "Tur Hariç",
+        "drinks": "İçkiler",
+        "personal": "Kişisel Harcamalar",
+        "tips": "Şoför ve rehbere bahşiş"
+      },
+      "booking": {
+        "title": "Şimdi Turunuzu Rezerve Edin!",
+        "subtitle": "Pamukkale deneyiminizi rezerve edin",
+        "selectDate": "Tarihinizi Seçin",
+        "persons": "Kişi Sayısı",
+        "personsLabel": "Kişi",
+        "minimumNote": "En az 1 kişi gereklidir",
+        "yourDetails": "Bilgileriniz",
+        "fullName": "Ad Soyad *",
+        "fullNamePlaceholder": "Tam adınızı girin",
+        "email": "E-posta Adresi *",
+        "emailPlaceholder": "sizin@email.com",
+        "hotel": "Otel Adı (İsteğe Bağlı)",
+        "hotelPlaceholder": "Pamukkale'deki otel adınız",
+        "hotelNote": "Bu alan isteğe bağlıdır, ancak otel adını eklemek talebinizin daha hızlı işlenmesine yardımcı olur.",
+        "phone": "Telefon Numarası (İsteğe Bağlı)",
+        "phonePlaceholder": "Telefon Numarası",
+        "phoneNote": "Bu alan isteğe bağlıdır, ancak daha hızlı cevap verebilmemiz için doldurmanızı tavsiye ederiz.",
+        "summary": "Rezervasyon Özeti",
+        "tourType": "Tur Türü:",
+        "selectedDate": "Seçilen Tarih:",
+        "pleaseSelect": "Lütfen seçin",
+        "totalPersons": "Toplam Kişi:",
+        "priceNote": "Fiyat ayrıntıları sorgulamada sağlanacaktır",
+        "bookButton": "Macerânızı Rezerve Edin",
+        "secure": "🔒 Güvenli rezervasyon • Şu anda ödeme gerekmez",
+        "cancellation": "Ücretsiz İptal ve Geri Ödeme",
+        "cancellationDesc": "Tur başlamadan 24 saat öncesine kadar iptal edilebilir",
+        "payLater": "Şimdi Rezerve Edin, Daha Sonra Ödeme Yapın",
+        "payLaterDesc": "Şimdi rezervasyonunuzu yapın, turun başlamadan önce istediğiniz zaman ödeme yapın",
+        "whatsapp": "WhatsApp'ta Bize Ulaşın"
+      }
+    }
+  },
+  "turkeyTours": {
+    "package4days": {
+      "pageTitle": "4 Günlük Kapadokya, Pamukkale ve Efes Tur Paketi — Capahenas Travel",
+      "metaDescription": "Kapadokya'nın peri bacalarını, Pamukkale'nin termal havuzlarını ve antik Efes'i keşfedin. Uçuşlar, konaklama ve yemekler dahil 4 günlük rehberli tur.",
+      "badge": "✈️ Çok Şehirli Paket Tur",
+      "title": "4 Günlük Kapadokya, Pamukkale ve Efes Tur Paketi",
+      "subtitle": "03 Gece / 04 Gün",
+      "description": "Türkiye'nin en ikonik destinasyonlarını tek bir unutulmaz yolculukta keşfedin - peri bacalarından antik kalıntılara.",
+      "gallery": {
+        "title": "Deneyim Galerisi",
+        "subtitle": "Kapadokya, Pamukkale ve Efes'i Keşfedin"
+      },
+      "about": {
+        "title": "Tur Hakkında",
+        "subtitle": "4 Günlük Paket Tur",
+        "duration": "03 Gece / 04 Gün",
+        "destinations": "Kapadokya, Pamukkale, Efes",
+        "intro": "Bu tur yıl boyunca her gün düzenlenmektedir. Bu tur özelleştirilebilir.",
+        "highlights": "Turun Öne Çıkanları",
+        "highlight1": "Kapadokya'nın peri bacalarını ve mağara konutlarını keşfedin",
+        "highlight2": "Artemis Tapınağı dahil olmak üzere antik Efes kentini ziyaret edin",
+        "highlight3": "Pamukkale'nin termal havuzlarında ve travertenlerde dinlenin",
+        "highlight4": "Yolculuk boyunca rehberli turlar, rahat konaklama ve zengin tarihi bilgilerle keyif alın"
+      },
+      "itinerary": {
+        "title": "Günlük Program",
+        "day1": {
+          "title": "GÜN 01: Kayseri veya Nevşehir'e Uçuş - Kuzey Kapadokya Turu",
+          "content": "Sabah 04:00'te otel alımı ve İstanbul havaalanına transfer, 06:45'te Nevşehir'e uçuş. 08:00'de varış ve Kapadokya'ya transfer. İlk durağımız Uçhisar olacak, burada \"Kale\"nin fotoğraflarını çekme ve çevresini keşfetme (dışarıdan) fırsatı bulacaksınız. Ardından, çarpıcı kırmızı kaya oluşumlarıyla ünlü Çavuşin'e (Gülpınar Vadisi) gideceğiz. Bunu takiben Peri Bacaları Vadisi, Paşabağ ve Zelve Açık Hava Müzesi'ni ziyaret edeceğiz. Öğle yemeğinden sonra Kuzey Kapadokya'nın en önemli görülecek yerleri arasında yer alan Devrent Vadisi ve Üç Güzeller Vadisi'ni ziyaret edeceğiz. Ardından kırmızı kilden çanak çömlek yapımıyla ünlü Ürgüp ve Avanos antik kentlerine devam edeceğiz. Burada çömlekçilik yapma şansı bulacaksınız. İsteğe bağlı bir aktivite olarak Türk halı ve kilim imalathanesi de ziyaret edebiliriz. Kapadokya'da geceleme.",
+          "meals": "(Yemekler: Öğle Yemeği)"
+        },
+        "day2": {
+          "title": "GÜN 02: Güney Kapadokya Turu - İzmir'e Uçuş",
+          "content": "Kahvaltı sonrası, otel alımı 09:30-10:00 arası yapılacak. Tur, ikonik Ortahisar Kaya Kalesi'nin harika fotoğraflarını çekeceğiniz Ortahisar ziyaretiyle başlar. Ardından, bir zamanlar Sinasos olarak bilinen eski Rum köyü Mustafapaşa'ya gideceğiz. Daha sonra Şahinefendi üzerinden geçerek güzel yer mozaikleriyle yakın zamanda kazılan Sobesos Roma kalıntılarını ziyaret edeceğiz. Soğanlı Vadisi'nde 2 km'lik bir yürüyüş yapacak ve ünlü mağara kiliselerini ziyaret edeceğiz, ardından Soğanlı Köyü'nde öğle yemeği molası vereceğiz. Öğle yemeğinden sonra, antik yaşamı büyüleyici bir şekilde gözler önüne seren Kapadokya'nın en derin yeraltı şehri Kaymaklı Yeraltı Şehri'ne gideceğiz. Kayseri havaalanına transfer, İzmir'e uçuş. İzmir'e varış, Kuşadası'na transfer. Kuşadası'nda geceleme.",
+          "meals": "(Yemekler: Kahvaltı + Öğle Yemeği)",
+          "optional": "OPSİYONEL: Bu sabah, sıcak hava balonundan gün doğumunu karşılayan şanslı birkaç kişiden biri olun - unutulmaz bir deneyim ve güne başlamanın en iyi yolu."
+        },
+        "day3": {
+          "title": "GÜN 03: Tam Gün Efes Turu",
+          "content": "Kahvaltı, 09:00'da Efes Antik Kenti ziyareti. Magnesia Kapısı'ndan girerek rehberinizle birlikte bu Roma eyalet başkentinin kalıntılarına doğru yavaş, yokuş aşağı bir yürüyüşe başlayın. Rotanız Odeon, Celsus Kütüphanesi, Hadrian Tapınağı, Traianus Çeşmesi'nin yanından geçer. Aziz Paul'un vaaz verdiği Büyük Tiyatro, 24.000 kişilik kapasitesiyle antik çağın en büyük tiyatrosudur. Ardından Artemis Tapınağı ve Meryem Ana Evi'ni ziyaret edin. Kuşadası'nda geceleme.",
+          "meals": "(Yemekler: Kahvaltı + Öğle Yemeği)"
+        },
+        "day4": {
+          "title": "GÜN 04: Pamukkale Turu - İstanbul'a Uçuş",
+          "content": "Kahvaltı, 07:30'da Pamukkale'ye hareket ve kireç birikintileriyle oluşan doğal travertenleri (Pamuk Kalesi) ziyaret edin, Türkiye'nin en çok ziyaret edilen doğal harikalarından biri. Ayrıca Hierapolis kalıntılarını keşfedin. Cleopatra'nın Havuzu olarak da bilinen Antik Havuz'da yüzmek isterseniz ekstra giriş ücreti alınır. Pamukkale'ye yolculuğun yaklaşık 3 saat sürdüğünü lütfen unutmayın. Turdan sonra, 19:50'da İstanbul'a akşam uçuşu için Denizli havaalanına transfer. 21:10'da İstanbul'a varış, havaalanında karşılama ve otelinize transfer.",
+          "meals": "(Yemekler: Kahvaltı + Öğle Yemeği)"
+        }
+      },
+      "includes": {
+        "title": "Tura Dahil Olanlar",
+        "accommodation": "03 Gece 4 yıldızlı otel konaklaması (Oda Kahvaltı)",
+        "tours": "04 günlük İngilizce rehberlik, giriş ücretleri, öğle yemeği ve ulaşım dahil küçük grup tur",
+        "flight1": "İstanbul'dan Kapadokya'ya tek yön iç hat uçuşu",
+        "flight2": "Kayseri'den İzmir'e tek yön iç hat uçuşu",
+        "flight3": "Pamukkale'den İstanbul'a tek yön iç hat uçuşu",
+        "transfers": "Türkiye içindeki tüm havaalanı/otel/liman transferleri"
+      },
+      "excludes": {
+        "title": "Tura Dahil Olmayanlar",
+        "personal": "Kişisel Harcamalar",
+        "gratuities": "Şoför ve Rehber Bahşişleri",
+        "meals": "Belirtilmeyen Yemekler",
+        "drinks": "Her Türlü İçecek",
+        "balloon": "Kapadokya'da Sıcak Hava Balonu Turu",
+        "insurance": "Seyahat Sigortası"
+      },
+      "booking": {
+        "title": "Hemen Turunuzu Rezerve Edin!",
+        "subtitle": "4 günlük paket deneyiminizi ayırtın",
+        "summary": "Rezervasyon Özeti",
+        "tourType": "Tur Tipi:",
+        "tourName": "4 Günlük Paket Tur",
+        "selectedDate": "Seçilen Tarih:",
+        "pleaseSelect": "Lütfen seçiniz"
+      }
+    },
+    "package6days": {
+      "pageTitle": "6 Günde İstanbul ve Kapadokya | Rehberli Türkiye Turu — Capahenas Travel",
+      "metaDescription": "İstanbul'un tarihi yerlerini ve Kapadokya'nın peri bacalarını keşfedin. Uçuşlar, konaklama ve unutulmaz deneyimler dahil 6 günlük rehberli Türkiye turu.",
+      "badge": "✈️ İstanbul ve Kapadokya Paketi",
+      "title": "6 Günde İstanbul ve Kapadokya | Rehberli Türkiye Turu",
+      "subtitle": "05 Gece / 06 Gün",
+      "description": "İstanbul'un tarihi hazinelerini ve Kapadokya'nın büyülü manzaralarını unutulmaz bir yolculukta keşfedin.",
+      "gallery": {
+        "title": "Deneyim Galerisi",
+        "subtitle": "İstanbul ve Kapadokya'yı Keşfedin"
+      },
+      "about": {
+        "title": "Tur Hakkında",
+        "subtitle": "6 Günlük Paket Tur",
+        "duration": "05 Gece / 06 Gün",
+        "destinations": "İstanbul, Kapadokya",
+        "intro": "Bu tur yıl boyunca her gün mevcuttur. Bu tur özelleştirilebilir.",
+        "highlights": "Turun Öne Çıkanları",
+        "highlight1": "Ayasofya dahil İstanbul'un tarihi yerlerini keşfedin",
+        "highlight2": "Kapadokya'nın peri bacalarını, mağara konutlarını ve sıcak hava balonu turlarını deneyimleyin",
+        "highlight3": "Rehberli turların ve unutulmaz manzaraların tadını çıkarın"
+      },
+      "itinerary": {
+        "title": "Günlük Program",
+        "day1": {
+          "title": "GÜN 01: İstanbul'a Varış",
+          "content": "İstanbul'a (İstanbul Havalimanı) varışta temsilcimiz sizi karşılayacak ve otele transfer edileceksiniz. (Check-In 13:00'dan sonra), seyahat danışmanınız tarafından bilgilendirileceksiniz. İstanbul'da geceleme.",
+          "meals": "(Öğünler: Yok)"
+        },
+        "day2": {
+          "title": "GÜN 02: İstanbul Tarihi Yarımada Yürüyüş Turu",
+          "content": "Kahvaltı, antik Bizans Hipodromu'nu ziyaret edeceğiniz yer, Mısır Dikilitaşı, Yılanlı Sütun, II. Wilhelm Çeşmesi, altı minaresiyle ünlü zarif Sultanahmet Camii ve İmparator Theodosius döneminde inşa edilen ve Nika İsyanı ateşinde yanan Ayasofya Müzesi'ni gezeceksiniz. Öğle yemeğinden sonra, atmosferik sütunları ve aydınlatmasıyla antik bir yeraltı harikası olan İstanbul'daki Yerebatan Sarnıcı'nı ziyaret edin. Turdan sonra otele dönüş. İstanbul'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı)"
+        },
+        "day3": {
+          "title": "GÜN 03: Yarım Gün Boğaz Turu / Kapadokya'ya Uçuş",
+          "content": "Kahvaltı, 1665'ten beri dünyanın en büyük baharat pazarlarından biri olan çeşitli tatlılar ve baharatlarla dolu Mısır Çarşısı, Mısır Pazarı'nı ziyaret edin. Ardından Avrupa'yı Asya'dan ayıran güzel boğaz olan Boğaz boyunca unutulmaz bir yolculuk için Boğaz feribotuna binin. 14:00'te havaalanına transfer, 18:20'de Kayseri'ye öğleden sonra uçuşu. 19:50, Kayseri'ye varış, karşılama ve otele transfer. Kapadokya'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı)"
+        },
+        "day4": {
+          "title": "GÜN 04: Kuzey Kapadokya Turu",
+          "content": "Kahvaltıdan sonra, otelten alınış 9:30-10:00 civarında olacaktır. İlk durağımız, \"Kale\"nin fotoğraflarını çekme fırsatına sahip olacağınız ve çevresini (dışarıdan) keşfedeceğiniz Uçhisar olacaktır. Ardından, çarpıcı kırmızı kaya oluşumlarıyla ünlü Çavuşin'e (Gül Vadisi) gideceğiz. Bunu takiben, Peri Bacaları Vadisi, Paşabağ ve Zelve Açıkhava Müzesi'ni ziyaret edeceğiz. Öğle yemeğinden sonra, Kuzey Kapadokya'nın en önemli görülecek yerleri arasında yer alan Devrent Vadisi ve Üç Güzeller Vadisi'ni ziyaret edin. Ardından, kırmızı kil çömleği ile ünlü antik kentler Ürgüp ve Avanos'a devam edeceğiz. Burada çömlekçilikle uğraşma şansınız olacak. İsteğe bağlı bir aktivite olarak, bir Türk halı ve kilim yapım fabrikasını da ziyaret edebiliriz. Kapadokya'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)",
+          "optional": "OPSİYONEL: Bu sabah, sıcak hava balonundan gün doğumunu karşılayan şanslı birkaç kişiden biri olun - unutulmaz bir deneyim ve güne başlamanın en iyi yolu."
+        },
+        "day5": {
+          "title": "GÜN 05: Güney Kapadokya Turu / İstanbul'a Uçuş",
+          "content": "Kahvaltıdan sonra, otelten alınış 9:30-10:00'de olacaktır. İkonik Ortahisar Kaya Kalesi'nin harika bir fotoğraf fırsatına sahip olacağınız Ortahisar'ı ziyaret etmeye başlayın. Ardından, bir zamanlar Sinasos olarak bilinen eski bir Yunan köyü olan Mustafapaşa'ya gideceğiz. Bundan sonra, Şahinefendi'den geçerek güzel yer mozaikleri içeren yakın zamanda kazılmış bir alan olan Sobesos Roma kalıntılarını ziyaret edeceğiz. Soğanlı Vadisi'nde, vadi boyunca 2 km'lik bir yürüyüş yapacağız ve ünlü mağara kiliselerini ziyaret edeceğiz, ardından Soğanlı Köyü'nde öğle yemeği molası verilecektir. Öğle yemeğinden sonra, antik yaşama büyüleyici bir bakış sunan Kapadokya'nın en derin yeraltı şehri olan Kaymaklı Yeraltı Şehri'ne geçeceğiz. Kayseri havaalanına transfer, 19:30'da İstanbul'a uçuş. 21:00 İstanbul'a varış, otelinize transfer. İstanbul'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)"
+        },
+        "day6": {
+          "title": "GÜN 06: İstanbul / Ayrılış",
+          "content": "Kahvaltı, otelden çıkış (12:00'den önce), İstanbul havaalanına transfer edeceğiz.",
+          "meals": "(Öğünler: Kahvaltı)"
+        }
+      },
+      "includes": {
+        "title": "Tura Dahil Olanlar",
+        "accommodation": "05 Gece 4 yıldızlı otel konaklaması B.B.",
+        "tours": "İngilizce rehberlik, giriş ücretleri, öğle yemeği ve ulaşımı içeren 04 günlük düzenli küçük Grup Turu",
+        "flight1": "İstanbul'dan Kayseri'ye Tek Yön İç Hat Uçuşu",
+        "flight2": "Kayseri'den İstanbul'a Tek Yön İç Hat Uçuşu",
+        "transfers": "Türkiye içindeki tüm havalimanı/otel/liman transferleri"
+      },
+      "excludes": {
+        "title": "Tura Dahil Olmayanlar",
+        "personal": "Kişisel Nitelikteki Ürünler",
+        "gratuities": "Şoför ve Rehber için Bahşişler",
+        "meals": "Belirtilmeyen Öğünler",
+        "drinks": "Her Türlü İçecek",
+        "insurance": "Seyahat Sigortası"
+      },
+      "booking": {
+        "title": "Turunuzu Şimdi Rezerve Edin!",
+        "subtitle": "6 günlük İstanbul ve Kapadokya deneyiminizi rezerve edin",
+        "summary": "Rezervasyon Özeti",
+        "tourType": "Tur Tipi:",
+        "tourName": "6 Günlük Paket Tur",
+        "selectedDate": "Seçilen Tarih:",
+        "pleaseSelect": "Lütfen seçin"
+      }
+    },
+    "package4days2": {
+      "pageTitle": "Kapadokya, Pamukkale ve Efes'te 4 Gün | Rehberli Tur — Capahenas Travel",
+      "metaDescription": "Gece otobüsü ile Türkiye'nin canlı kültürünü ve nefes kesici yerlerini 4 günlük turda keşfedin. Kapadokya, Efes ve Pamukkale ile uygun fiyatlı alternatif.",
+      "badge": "🚌 Çok Şehirli Macera",
+      "title": "Kapadokya, Pamukkale ve Efes'te 4 Gün | Rehberli Tur",
+      "subtitle": "03 Gece / 04 Gün",
+      "description": "Otantik gece otobüsü deneyimi ile Türkiye'nin canlı kültürünü ve nefes kesici yerlerini 4 günlük turda keşfedin.",
+      "gallery": {
+        "title": "Deneyim Galerisi",
+        "subtitle": "Kapadokya, Efes ve Pamukkale'yi Keşfedin"
+      },
+      "about": {
+        "title": "Tur Hakkında",
+        "subtitle": "4 Günlük Paket Tur",
+        "duration": "03 Gece / 04 Gün",
+        "destinations": "Kapadokya, Efes, Pamukkale",
+        "intro": "Bu tur yıl boyunca her gün mevcuttur. Bu tur özelleştirilebilir.",
+        "highlights": "Turun Öne Çıkanları",
+        "highlight1": "4 günlük turda Türkiye'nin canlı kültürünü ve nefes kesici yerlerini keşfedin",
+        "highlight2": "İstanbul'un tarihi simge yapılarını, Kapadokya'nın benzersiz manzaralarını, Efes'in antik kalıntılarını ve Pamukkale'nin termal teraslarını ziyaret edin",
+        "highlight3": "Bu büyüleyici yolculuk boyunca rehberli turların, konforlu konaklamaların ve unutulmaz deneyimlerin keyfini çıkarın"
+      },
+      "itinerary": {
+        "title": "Program",
+        "day1": {
+          "title": "GÜN 01: Kayseri'ye Uçuş - Kuzey Kapadokya Turu",
+          "content": "04:00, otelden alınış ve Kayseri'ye 06:45'teki uçuş için İstanbul havaalanına transfer. 08:00, varış ve Kapadokya'ya transfer. İlk durağımız, \"Kale\"nin fotoğraflarını çekme fırsatına sahip olacağınız ve çevresini (dışarıdan) keşfedeceğiniz Uçhisar olacaktır. Ardından, çarpıcı kırmızı kaya oluşumlarıyla ünlü Çavuşin'e (Gül Vadisi) gideceğiz. Bunu takiben, Peri Bacaları Vadisi, Paşabağ ve Zelve Açıkhava Müzesi'ni ziyaret edeceğiz. Öğle yemeğinden sonra, Kuzey Kapadokya'nın en önemli görülecek yerleri arasında yer alan Devrent Vadisi ve Üç Güzeller Vadisi'ni ziyaret edin. Ardından, kırmızı kil çömleği ile ünlü antik kentler Ürgüp ve Avanos'a devam edeceğiz. Burada çömlekçilikle uğraşma şansınız olacak. İsteğe bağlı bir aktivite olarak, bir Türk halı ve kilim yapım fabrikasını da ziyaret edebiliriz. Kapadokya'da geceleme.",
+          "meals": "(Öğünler: Öğle Yemeği)"
+        },
+        "day2": {
+          "title": "GÜN 02: Güney Kapadokya Turu - Pamukkale'ye Gece Otobüsü",
+          "content": "Kahvaltıdan sonra, otelten alınış 9:30-10:00'de olacaktır. Tur, ikonik Ortahisar Kaya Kalesi'nin harika bir fotoğraf fırsatına sahip olacağınız Ortahisar'ı ziyaret ederek başlar. Ardından, bir zamanlar Sinasos olarak bilinen eski bir Yunan köyü olan Mustafapaşa'ya gideceğiz. Bundan sonra, Şahinefendi'den geçerek güzel yer mozaikleri içeren yakın zamanda kazılmış bir alan olan Sobesos Roma kalıntılarını ziyaret edeceğiz. Soğanlı Vadisi'nde, vadi boyunca 2 km'lik bir yürüyüş yapacağız ve ünlü mağara kiliselerini ziyaret edeceğiz, ardından Soğanlı Köyü'nde öğle yemeği molası verilecektir. Öğle yemeğinden sonra, antik yaşama büyüleyici bir bakış sunan Kapadokya'nın en derin yeraltı şehri olan Kaymaklı Yeraltı Şehri'ne geçeceğiz. Turdan sonra, 20:30'da Pamukkale'ye gece otobüsü için otogar'a transfer. Şehirlerarası Otobüste geceleme.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)",
+          "optional": "OPSİYONEL: Bu sabah, sıcak hava balonundan gün doğumunu karşılayan şanslı birkaç kişiden biri olun - unutulmaz bir deneyim ve güne başlamanın en iyi yolu."
+        },
+        "day3": {
+          "title": "GÜN 03: Pamukkale Turu - Kuşadası'na Transfer",
+          "content": "07:00, Pamukkale'ye varış, otogar'da karşılanma ve kahvaltı için otelinize transfer. 10:00, otelden alınış ve kireç birikintileriyle oluşmuş doğal travertenler (Pamuk Kalesi) olan Pamukkale'yi ziyaret etmek için yola çıkın, Türkiye'nin en çok ziyaret edilen doğal harikalarından biri. Ayrıca Hierapolis kalıntılarını keşfedin. Ardından, Kleopatra Havuzu olarak da adlandırılan Antik Havuzda yüzmek isterseniz ekstra giriş ücreti alınır. Turdan sonra Kuşadası'na transfer. Kuşadası'nda geceleme.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)"
+        },
+        "day4": {
+          "title": "GÜN 04: Efes Turu - İstanbul'a Uçuş",
+          "content": "Kahvaltı, 09:00 Efes Antik Kenti'ni ziyaret edin, Magnesia Kapısı'ndan girin ve rehberinizle birlikte bu Roma eyalet başkentinin kalıntılarına doğru yavaş, yokuş aşağı bir yürüyüşe başlayın. Rotanız Odeon, Celsus Kütüphanesi, Hadrian Tapınağı, Trajan Çeşmesi'nden geçer. Aziz Pavlus'un vaaz verdiği Büyük Tiyatro, antik çağın 24.000 kişilik kapasitesiyle en büyük tiyatrosudur. Ardından Artemis Tapınağı ve Meryem Ana'nın Evi'ni ziyaret edin. Turdan sonra, akşam 19:50'de İstanbul'a uçuş için İzmir havaalanına transfer. 21:10, İstanbul'a varış, havaalanında karşılanma ve otelinize transfer.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)"
+        }
+      },
+      "includes": {
+        "title": "Tura Dahil Olanlar",
+        "accommodation": "02 Gece 4 yıldızlı otel konaklaması B.B. + 01 Gece Şehirlerarası Gece Otobüsünde",
+        "tours": "İngilizce rehberlik, giriş ücretleri, öğle yemeği ve ulaşımı içeren 04 günlük düzenli küçük Grup Turu",
+        "flight1": "İstanbul'dan Kayseri'ye Tek Yön İç Hat Uçuşu",
+        "flight2": "İzmir'den İstanbul'a Tek Yön İç Hat Uçuşu",
+        "transfers": "Türkiye içindeki tüm havalimanı/otel/liman transferleri"
+      },
+      "excludes": {
+        "title": "Tura Dahil Olmayanlar",
+        "personal": "Kişisel Nitelikteki Ürünler",
+        "gratuities": "Şoför ve Rehber için Bahşişler",
+        "meals": "Belirtilmeyen Öğünler",
+        "drinks": "Her Türlü İçecek",
+        "balloon": "Kapadokya'da Sıcak Hava Balonu Turu",
+        "insurance": "Seyahat Sigortası"
+      },
+      "booking": {
+        "title": "Hemen Rezervasyon Yapın!",
+        "subtitle": "4 günlük paket deneyiminizi rezerve edin",
+        "summary": "Rezervasyon Özeti",
+        "tourType": "Tur Tipi:",
+        "tourName": "4 Günlük Paket Tur",
+        "selectedDate": "Seçilen Tarih:",
+        "pleaseSelect": "Lütfen seçiniz"
+      }
+    },
+    "package4days3": {
+      "pageTitle": "4 Günlük İstanbul Seyahat Paketi | Rehberli Şehir Turu — Capahenas Travel",
+      "metaDescription": "İstanbul'un ikonik simgelerini 4 günlük rehberli turda keşfedin. Sultanahmet Camii, Topkapı Sarayı, Ayasofya, Boğaz Turu, Kapalıçarşı ve Dolmabahçe Sarayı'nı uzman rehberlerle ziyaret edin.",
+      "badge": "🏛️ İstanbul Keşif Paketi",
+      "title": "4 Günlük İstanbul Seyahat Paketi | Rehberli Şehir Turu",
+      "subtitle": "03 Gece / 04 Gün",
+      "description": "Sultanahmet Camii, Topkapı Sarayı, Ayasofya, Boğaz Turu, Kapalıçarşı, Dolmabahçe Sarayı",
+      "gallery": {
+        "title": "Deneyim Galerisi",
+        "subtitle": "İstanbul'un Tarihi Hazinelerini Keşfedin"
+      },
+      "about": {
+        "title": "Tur Hakkında",
+        "subtitle": "4 Günlük İstanbul Paketi",
+        "duration": "03 Gece / 04 Gün",
+        "destinations": "İstanbul Şehir Turu",
+        "available": "✓ Her Gün Müsait",
+        "customizable": "✓ Özelleştirilebilir",
+        "highlights": "Turun Öne Çıkanları",
+        "highlight1": "İstanbul'un harikalarını keşfedin: Topkapı Sarayı, Kapalıçarşı, Hipodrom, Sultanahmet Camii ve Ayasofya",
+        "highlight2": "Boğaz'da tekne turu yapın ve görkemli Beylerbeyi Sarayı'nı ziyaret edin",
+        "highlight3": "Kapalıçarşı'nın canlı atmosferine kendinizi kaptırın",
+        "highlight4": "Tarih ve kültürün mükemmel harmanı sizi bekliyor"
+      },
+      "itinerary": {
+        "title": "Program",
+        "day1": {
+          "title": "GÜN 01: İstanbul'a Varış",
+          "content": "İstanbul'a (İstanbul Havalimanı) varışınızda temsilcimiz sizi karşılayacak ve otele transfer edecektir. (Check-In saat 13:00'ten sonra) ve otele giriş. Günün geri kalanı serbest zaman ve İstanbul'da geceleme.",
+          "meals": "(Öğünler: Yok)"
+        },
+        "day2": {
+          "title": "GÜN 02: İstanbul Eski Şehir Yürüyüş Turu",
+          "content": "Kahvaltı, antik Bizans Hipodrom'unu ziyaret, burada Mısır Dikilitaşı, Yılanlı Sütun, II. Wilhelm Çeşmesi'ni gezecek, altı şık minaresiyle ünlü zarif Sultanahmet Camii'ni ve İmparator Theodosius döneminde inşa edilen ve Nika İsyanı'nın yangınında yanan Ayasofya Müzesi'ni göreceksiniz. Öğle yemeğinden sonra, İstanbul'daki atmosferik sütunları ve aydınlatmasıyla yer altı harikası Yerebatan Sarnıcı'nı ziyaret edin. Turdan sonra otele dönüş. İstanbul'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı)"
+        },
+        "day3": {
+          "title": "GÜN 03: Boğaz Turu ve Beylerbeyi Sarayı",
+          "content": "Kahvaltı ve Mısır Çarşısı'na gidiş, 1665'ten beri dünyanın en büyük baharat çarşılarından biri olan çeşitli tatlı ve baharatlarla dolu Mısır Çarşısı. Ardından, Avrupa'yı Asya'dan ayıran güzel boğaz Boğaziçi boyunca unutulmaz bir yolculuk için Boğaz vapuruna binin. Boğaz Köprüsü'nden geçerek İstanbul'un panoramik manzaralarını sunan Çamlıca Tepesi'nin zirvesine çıkın. Kısa bir yolculukla Boğaz kıyısındaki Beylerbeyi Sarayı'na varırız. Belki de en zarif geç Osmanlı sarayı. İstanbul'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)"
+        },
+        "day4": {
+          "title": "GÜN 04: İstanbul / Ayrılış",
+          "content": "Kahvaltı, otelinizden çıkış (saat 12:00'den önce), İstanbul havalimanına transfer ayarlayacağız.",
+          "meals": "(Öğünler: Kahvaltı)"
+        }
+      },
+      "includes": {
+        "title": "Tura Dahil Olanlar",
+        "accommodation": "03 Gece 4 yıldızlı otel konaklaması B.B",
+        "tours": "İngilizce rehberlik, giriş ücretleri, öğle yemeği ve ulaşımı içeren 02 günlük düzenli küçük Grup Turu",
+        "transfers": "İstanbul içindeki tüm havalimanı/otel/havalimanı transferleri"
+      },
+      "excludes": {
+        "title": "Tura Dahil Olmayanlar",
+        "personal": "Kişisel Nitelikteki Ürünler",
+        "gratuities": "Şoför ve Rehber için Bahşişler",
+        "meals": "Belirtilmeyen Öğünler",
+        "drinks": "Her Türlü İçecek",
+        "insurance": "Seyahat Sigortası"
+      },
+      "booking": {
+        "title": "Hemen Rezervasyon Yapın!",
+        "subtitle": "4 günlük İstanbul deneyiminizi rezerve edin",
+        "summary": "Rezervasyon Özeti",
+        "tourType": "Tur Tipi:",
+        "tourName": "4 Günlük İstanbul Turu",
+        "selectedDate": "Seçilen Tarih:",
+        "pleaseSelect": "Lütfen seçiniz"
+      }
+    },
+    "package5days": {
+      "pageTitle": "5 Günlük Türkiye Turu | İstanbul & Efes Gezisi — Capahenas Travel",
+      "metaDescription": "İstanbul'un ikonik yerlerini ve Efes'in antik kalıntılarını keşfedin. Uçak bileti, konaklama ve unutulmaz deneyimler dahil 5 günlük rehberli Türkiye turu.",
+      "badge": "✈️ İstanbul & Efes Paketi",
+      "title": "5 Günlük Türkiye Turu | İstanbul & Efes Gezisi",
+      "subtitle": "04 Gece / 05 Gün",
+      "description": "İstanbul'un ikonik yerlerini ve Efes'in antik kalıntılarını tek bir unutulmaz yolculukta keşfedin.",
+      "gallery": {
+        "title": "Deneyim Galerisi",
+        "subtitle": "İstanbul & Efes'i Keşfedin"
+      },
+      "about": {
+        "title": "Tur Hakkında",
+        "subtitle": "5 Günlük Paket Tur",
+        "duration": "04 Gece / 05 Gün",
+        "destinations": "İstanbul, Efes",
+        "intro": "Bu tur yıl boyunca her gün yapılabilir. Tur kişiselleştirilebilir.",
+        "highlights": "Turun Öne Çıkanları",
+        "highlight1": "Ayasofya ve Topkapı Sarayı dahil İstanbul'un ikonik yerlerini keşfedin",
+        "highlight2": "Celsus Kütüphanesi ve Büyük Tiyatro dahil Efes'in antik kalıntılarını gezin",
+        "highlight3": "Yolculuğunuz boyunca rehberli turlar, zengin tarihi bilgiler ve konforlu konaklama keyfini çıkarın"
+      },
+      "itinerary": {
+        "title": "Gezi Programı",
+        "day1": {
+          "title": "GÜN 01: İstanbul'a Varış",
+          "content": "İstanbul'a varışta (İstanbul Havalimanı), temsilcimiz sizi karşılayacak ve otele transfer edecektir. (Saat 13:00'ten sonra check-in) ve otele yerleşin. Günün geri kalanı serbest zaman ve İstanbul'da geceleme.",
+          "meals": "(Öğünler: Yok)"
+        },
+        "day2": {
+          "title": "GÜN 02: Tarihi İstanbul Turu",
+          "content": "Kahvaltı, antik Bizans Hipodromu'nu ziyaret edeceğiniz Mısır Dikilitaşı, Yılanlı Sütun, Wilhelm II Çeşmesi, zarif altı minareli Sultanahmet Camii ve İmparator Theodosius döneminde inşa edilen ve Nika İsyanı yangınında yanan Ayasofya Müzesi'ni gezin. Öğle yemeğinden sonra İstanbul'daki Yerebatan Sarnıcı'nı ziyaret edin - atmosferik sütunları ve aydınlatması ile antik bir yeraltı harikası. Tur sonrası otele dönüş. İstanbul'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı)"
+        },
+        "day3": {
+          "title": "GÜN 03: Yarım Gün Sabah Boğaz Turu",
+          "content": "Kahvaltı, Mısır Çarşısı'na doğru hareket, 1665'ten beri dünyanın en büyük baharat çarşılarından biri olan çeşitli tatlılar ve baharatlarla dolu Mısır Çarşısı. Ardından Avrupa'yı Asya'dan ayıran güzel boğaz Boğaziçi'nde unutulmaz bir yolculuk için Boğaz vapuruna binin. Tur sonrası otele dönüş. Günün geri kalanı serbest zaman ve İstanbul'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı)"
+        },
+        "day4": {
+          "title": "GÜN 04: İstanbul'dan Efes'e Gidiş-Dönüş Uçakla Günübirlik Tur",
+          "content": "Sabah 04:00'te İstanbul'daki otelinizden alınış ve sabah 07:00 İzmir uçuşu için iç hat havalimanına transfer. Saat 08:00'de İzmir Havalimanı'na varış, en iyi korunmuş Greko-Romen antik şehirlerinden biri olarak bilinen Efes'e transfer. Burada mermer sokaklarda yürüme, muhteşem Celsus Kütüphanesi ve Büyük Tiyatro'yu görme şansınız var - bu açık hava müzesinde bulunan birçok bina ve çeşmeden sadece birkaçı. Meryem Ana Evi'ni ziyaret edin; burada son günlerini geçirdiği söylenir, ve Artemis Tapınağı kalıntıları. Tur sonrası saat 19:00'da İstanbul uçuşu için İzmir havalimanına transfer. 20:00 İstanbul'a varış, karşılama ve otelinize transfer. İstanbul'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)"
+        },
+        "day5": {
+          "title": "GÜN 05: İstanbul / Ayrılış",
+          "content": "Kahvaltı, otelinizden check-out (saat 12:00'den önce), İstanbul Havalimanı'na transfer ayarlayacağız.",
+          "meals": "(Öğünler: Kahvaltı)"
+        }
+      },
+      "includes": {
+        "title": "Tura Dahil Olanlar",
+        "accommodation": "04 Gece 4 yıldızlı otel konaklaması Oda-Kahvaltı",
+        "tours": "03 gün düzenli küçük grup turu, İngilizce rehberlik, giriş ücretleri, öğle yemeği ve ulaşım dahil",
+        "flight1": "İstanbul'dan İzmir'e tek yön iç hat uçuşu",
+        "flight2": "İzmir'den İstanbul'a tek yön iç hat uçuşu",
+        "transfers": "Türkiye içinde tüm havalimanı/otel/liman transferleri"
+      },
+      "excludes": {
+        "title": "Tura Dahil Olmayanlar",
+        "personal": "Kişisel Harcamalar",
+        "gratuities": "Şoför ve Rehber Bahşişleri",
+        "meals": "Belirtilmeyen Öğünler",
+        "drinks": "Her Türlü İçecekler",
+        "insurance": "Seyahat Sigortası"
+      },
+      "booking": {
+        "title": "Hemen Rezervasyon Yapın!",
+        "subtitle": "5 günlük İstanbul & Efes deneyiminizi rezerve edin",
+        "summary": "Rezervasyon Özeti",
+        "tourType": "Tur Tipi:",
+        "tourName": "5 Günlük Paket Tur",
+        "selectedDate": "Seçilen Tarih:",
+        "pleaseSelect": "Lütfen seçiniz"
+      }
+    },
+    "package5days2": {
+      "pageTitle": "5 Günlük İstanbul, Dolmabahçe ve Bursa Seyahat Paketi — Capahenas Travel",
+      "metaDescription": "İstanbul ve Bursa'yı 5 günde keşfedin. Dolmabahçe Sarayı, Sultanahmet Camii, Ayasofya'yı ziyaret edin, Boğaz turuna katılın. Bursa'nın Yeşil Camii ve kültürel mirasını keşfedin.",
+      "badge": "🏛️ İstanbul & Bursa Paketi",
+      "title": "5 Günlük İstanbul, Dolmabahçe ve Bursa Seyahat Programı",
+      "subtitle": "04 Gece / 05 Gün",
+      "description": "Sultanahmet Camii, Topkapı Sarayı, Ayasofya, Boğaz Turu, Kapalıçarşı, Dolmabahçe Sarayı, Bursa",
+      "gallery": {
+        "title": "Deneyim Galerisi",
+        "subtitle": "İstanbul ve Bursa'yı Keşfedin"
+      },
+      "about": {
+        "title": "Tur Hakkında",
+        "subtitle": "5 Günlük İstanbul & Bursa Paketi",
+        "duration": "04 Gece / 05 Gün",
+        "destinations": "İstanbul, Bursa",
+        "available": "✓ Her Gün Müsait",
+        "customizable": "✓ Özelleştirilebilir",
+        "highlights": "Turun Öne Çıkanları",
+        "highlight1": "İstanbul ve Bursa'yı 5 günde keşfedin: Dolmabahçe Sarayı, Topkapı Sarayı, Sultanahmet Camii, Ayasofya ve Kapalıçarşı'yı ziyaret edin",
+        "highlight2": "Boğaz turuna katılın, Bursa'nın Yeşil Camii ve İpek Pazarı'nı keşfedin",
+        "highlight3": "Her iki şehrin zengin kültürel mirasını uzman rehberlerle deneyimleyin"
+      },
+      "itinerary": {
+        "title": "Program",
+        "day1": {
+          "title": "GÜN 01: İstanbul'a Varış",
+          "content": "İstanbul'a (İstanbul Havalimanı) varışınızda temsilcimiz sizi karşılayacak ve otele transfer edecektir. (Check-In saat 13:00'ten sonra) ve otele giriş. Günün geri kalanı serbest zaman ve İstanbul'da geceleme.",
+          "meals": "(Öğünler: Yok)"
+        },
+        "day2": {
+          "title": "GÜN 02: İstanbul Eski Şehir Yürüyüş Turu",
+          "content": "Kahvaltı, antik Bizans Hipodromu'nu ziyaret, burada Mısır Dikilitaşı, Yılanlı Sütun, II. Wilhelm Çeşmesi'ni gezecek, altı şık minaresiyle ünlü zarif Sultanahmet Camii'ni ve İmparator Theodosius döneminde inşa edilen ve Nika İsyanı'nın yangınında yanan Ayasofya Müzesi'ni göreceksiniz. Öğle yemeğinden sonra, İstanbul'daki atmosferik sütunları ve aydınlatmasıyla yer altı harikası Yerebatan Sarnıcı'nı ziyaret edin. Turdan sonra otele dönüş. İstanbul'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı)"
+        },
+        "day3": {
+          "title": "GÜN 03: Boğaz Turu ve Dolmabahçe Sarayı",
+          "content": "Kahvaltı ve Mısır Çarşısı'na gidiş, 1665'ten beri dünyanın en büyük baharat çarşılarından biri olan çeşitli tatlı ve baharatlarla dolu Mısır Çarşısı. Ardından, Avrupa'yı Asya'dan ayıran güzel boğaz Boğaziçi boyunca unutulmaz bir yolculuk için Boğaz vapuruna binin. Öğle yemeğinden sonra ilk Boğaz Köprüsü'nden geçerek İstanbul'un 360° panoramik manzarasını sunan Çamlıca Tepesi'nin zirvesine çıkın. Boğaz Köprüsü üzerinden Avrupa'ya geri dönerken, son altı Padişah'ın 340'tan fazla odası ve 8 Türk hamamı ile imparatorluk ikametgahı olan Dolmabahçe Sarayı'nı (harem hariç) ziyaret edeceksiniz. İstanbul'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)"
+        },
+        "day4": {
+          "title": "GÜN 04: Bursa Günübirlik Gezisi",
+          "content": "Kahvaltı, Osmanlı İmparatorluğu'nun ilk başkenti Bursa'ya gidiş. Üstün çini dekorasyonlarıyla dünya çapında ünlü Yeşil Cami ve komşu Yeşil Türbe'yi, ayrıca 14. yüzyılın sonu Ulu Cami'yi ziyaret edin. İnanılmaz manzarayla Uludağ'ın dik yamaçlarından keyifli bir teleferik yolculuğunun tadını çıkarın. Ulu Cami'yi ziyaret edin. İstanbul'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)"
+        },
+        "day5": {
+          "title": "GÜN 05: İstanbul - Ayrılış",
+          "content": "Kahvaltı, otelinizden çıkış (saat 12:00'den önce), İstanbul havalimanına transfer ayarlayacağız.",
+          "meals": "(Öğünler: Kahvaltı)"
+        }
+      },
+      "includes": {
+        "title": "Tura Dahil Olanlar",
+        "accommodation": "04 Gece 4 yıldızlı otel konaklaması B.B.",
+        "tours": "İngilizce rehberlik, giriş ücretleri, öğle yemeği ve ulaşımı içeren 03 günlük düzenli küçük Grup Turu",
+        "transfers": "İstanbul içindeki tüm havalimanı/otel/havalimanı transferleri"
+      },
+      "excludes": {
+        "title": "Tura Dahil Olmayanlar",
+        "personal": "Kişisel Nitelikteki Ürünler",
+        "gratuities": "Şoför ve Rehber için Bahşişler",
+        "meals": "Belirtilmeyen Öğünler",
+        "drinks": "Her Türlü İçecek",
+        "insurance": "Seyahat Sigortası"
+      },
+      "booking": {
+        "title": "Hemen Rezervasyon Yapın!",
+        "subtitle": "5 günlük İstanbul & Bursa deneyiminizi rezerve edin",
+        "summary": "Rezervasyon Özeti",
+        "tourType": "Tur Tipi:",
+        "tourName": "5 Günlük İstanbul & Bursa Turu",
+        "selectedDate": "Seçilen Tarih:",
+        "pleaseSelect": "Lütfen seçiniz"
+      }
+    },
+    "package6days2": {
+      "pageTitle": "6 Günlük Türkiye Turu | Efes, Pamukkale, Antalya & Kapadokya — Capahenas Travel",
+      "metaDescription": "Efes, Pamukkale'nin terasları, Antalya'nın sahili ve Kapadokya'nın manzaralarını keşfedin. Uçak bileti, konaklama ve unutulmaz deneyimler dahil 6 günlük rehberli Türkiye turu.",
+      "badge": "✈️ Efes, Pamukkale, Antalya & Kapadokya Paketi",
+      "title": "6 Günlük Türkiye Turu | Efes, Pamukkale, Antalya & Kapadokya",
+      "subtitle": "05 Gece / 06 Gün",
+      "description": "Antik kalıntıları, doğal harikaları, muhteşem sahilleri ve büyülü manzaraları tek bir unutulmaz yolculukta keşfedin.",
+      "gallery": {
+        "title": "Deneyim Galerisi",
+        "subtitle": "Efes, Pamukkale, Antalya & Kapadokya'yı Keşfedin"
+      },
+      "about": {
+        "title": "Tur Hakkında",
+        "subtitle": "6 Günlük Paket Tur",
+        "duration": "05 Gece / 06 Gün",
+        "destinations": "Efes, Pamukkale, Antalya, Kapadokya",
+        "intro": "Bu tur yıl boyunca her gün yapılabilir. Tur kişiselleştirilebilir.",
+        "highlights": "Turun Öne Çıkanları",
+        "highlight1": "Efes'in antik kalıntılarını ve Artemis Tapınağı'nı gezin",
+        "highlight2": "Pamukkale'nin termal teraslarında ve Hierapolis'te rahatlayın",
+        "highlight3": "Antalya'nın büyüleyici eski şehrini ve muhteşem kıyısını keşfedin",
+        "highlight4": "Kapadokya'nın benzersiz manzaralarını ve mağara konaklarını deneyimleyin",
+        "highlight5": "Rehberli turların ve konforlu konaklamanın keyfini çıkarın"
+      },
+      "itinerary": {
+        "title": "Gezi Programı",
+        "day1": {
+          "title": "GÜN 01: İzmir'e Uçuş / Efes turu",
+          "content": "Sabah 04:00'te İstanbul'daki otelinizden alınış ve sabah 07:00 İzmir uçuşu için iç hat havalimanına transfer. Saat 08:00'de İzmir Havalimanı'na varış, karşılama ve en iyi korunmuş Greko-Romen antik şehirlerinden biri olarak bilinen Efes'e transfer. Burada mermer sokaklarda yürüme, muhteşem Celsus Kütüphanesi ve Büyük Tiyatro'yu görme şansınız var - bu açık hava müzesinde bulunan birçok bina ve çeşmeden sadece birkaçı. Gün ayrıca Meryem Ana Evi'ni; burada son günlerini geçirdiği söylenir, ve Artemis Tapınağı kalıntılarını ziyareti içerecektir. Kuşadası'nda geceleme.",
+          "meals": "(Öğünler: Öğle Yemeği)"
+        },
+        "day2": {
+          "title": "GÜN 02: Pamukkale turu sonra Antalya'ya",
+          "content": "Kahvaltı, 07:30'da Pamukkale'ye doğru hareket ve kireç birikintileriyle oluşan doğal travertenler (Pamuk Kalesi) ziyareti, Türkiye'nin en çok ziyaret edilen doğal harikalarından biri. Ayrıca Hierapolis kalıntılarını gezin. Daha sonra Kleopatra Havuzu olarak da adlandırılan Antik Havuz'da yüzmek isterseniz ekstra giriş ücreti alırlar. 16:00'da 04 saatlik şehirlerarası otobüsle Antalya'ya hareket. 20:00'de varış ve otele transfer. Antalya'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)"
+        },
+        "day3": {
+          "title": "GÜN 03: Perge, Side & Aspendos turu",
+          "content": "Kahvaltı, 08:00'de Türkiye'nin en önemli bölgelerinden birini ziyaret etmek için hareket, burada Side, Perge ve Aspendos'un muhteşem Pamfilya ticaret şehirleri dahil olmak üzere zengin antik Anadolu sitelerini ziyaret edeceksiniz. Özellikle etkileyici olanlar Side'deki 20.000 kişilik serbest ayakta duran tiyatro, Küçük Asya'daki en büyük stadyum olan Perge'deki stadyum ve dünyanın en iyi korunmuş tiyatrolarından biri olan Aspendos'taki tiyatrodur. Manavgat şelalelerini ziyaret edin. Antalya'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)"
+        },
+        "day4": {
+          "title": "GÜN 04: Antalya Şehir turu / Kapadokya'ya Gece Otobüsü",
+          "content": "Kahvaltı, 09:30'da şehrin batı tarafına doğru hareket, ilk olarak Tünektepe teleferik gidiş-dönüş yolculuğu gerçekleşecek, zirveye ulaştığımızda Akdeniz ve şehir manzarasının harika görünümü, ardından Düden şelalesi'ne ziyaret. İkinci şelale olarak denize dökülen nehrin inanılmaz güzelliğiyle Karpuzkaldıran şelalesi'ni göreceğiz, daha sonra Kaleiçi eski şehir (Hadrian kapısı, Roma limanı, kırık minare vb.). 21:00'de Kapadokya'ya gece otobüsüyle hareket. Not: Hava koşulları nedeniyle teleferik çalışmıyorsa eski şehir marinasından tekne gezisi yapacağız.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)"
+        },
+        "day5": {
+          "title": "GÜN 05: Varış & Kuzey Kapadokya Turu",
+          "content": "Sabah 07:00 varış ve otele transfer. İlk durağımız Uçhisar olacak, burada \"Kale\"nin fotoğraflarını çekme ve çevresini (dışarıdan) gezme fırsatınız olacak. Daha sonra muhteşem kırmızı kaya oluşumlarıyla ünlü Çavuşin (Gül Vadisi)'ne gideceğiz. Bunu takiben Peri Bacaları Vadisi, Paşabağ ve Zelve Açık Hava Müzesi'ni ziyaret edeceğiz. Öğle yemeğinden sonra Kuzey Kapadokya'nın en önemli görülecek yerlerinden olan Devrent Vadisi ve Üç Güzeller Vadisi'ni ziyaret edin. Ardından kırmızı kil çömlekçiliğiyle ünlü antik kasabalar Ürgüp ve Avanos'a devam edeceğiz. Burada çömlekçilik yapmayı deneme şansınız olacak. Opsiyonel bir aktivite olarak Türk halısı ve kilim yapımı fabrikasını da ziyaret edebiliriz. Kapadokya'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)"
+        },
+        "day6": {
+          "title": "GÜN 06: Kapadokya Turu / İstanbul'a Uçuş",
+          "content": "Kahvaltıdan sonra, otelden alınış saat 9:30-10:00 arası olacaktır. İkonik Ortahisar Kaya Kalesi'ni yakalamak için harika bir fotoğraf fırsatı sunacak Ortahisar'ı ziyaret etmeye başlayın. Sonra bir zamanlar Sinasos olarak bilinen eski bir Yunan köyü olan Mustafapaşa'ya gidiyoruz. Bundan sonra Şahinefendi'den geçeceğiz ve güzel zemin mozaikleri içeren yakın zamanda kazılmış bir alan olan Sobesos Roma kalıntılarını ziyaret edeceğiz. Soğanlı Vadisi'nde vadi boyunca 2 km'lik bir yürüyüş yapacağız ve ünlü mağara kiliselerini ziyaret edeceğiz, ardından Soğanlı Köyü'nde öğle yemeği molası vereceğiz. Öğle yemeğinden sonra antik yaşama büyüleyici bir bakış sunan Kapadokya'nın en derin yeraltı şehri olan Kaymaklı Yeraltı Şehri'ne gidiyoruz. Saat 19:30'da İstanbul uçuşu için Kayseri havalimanına transfer. 21:00'de İstanbul'a varış, otelinize transfer. İstanbul'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)",
+          "optional": "OPSİYONEL: Bu sabah, sıcak hava balonundan gün doğumunu selamlayanlardan biri olun—unutulmaz bir deneyim ve güne başlamanın en iyi yolu."
+        }
+      },
+      "includes": {
+        "title": "Tura Dahil Olanlar",
+        "accommodation": "05 Gece 4 yıldızlı otel konaklaması Oda-Kahvaltı",
+        "coach": "01 Gece Antalya'dan Kapadokya'ya gece otobüsü",
+        "tours": "06 gün düzenli küçük grup turu, İngilizce rehberlik, giriş ücretleri, öğle yemeği ve ulaşım dahil",
+        "flight1": "İstanbul'dan İzmir'e tek yön iç hat uçuşu",
+        "flight2": "Kayseri'den İstanbul'a tek yön iç hat uçuşu",
+        "transfers": "Türkiye içinde tüm havalimanı/otel/liman transferleri"
+      },
+      "excludes": {
+        "title": "Tura Dahil Olmayanlar",
+        "personal": "Kişisel Harcamalar",
+        "gratuities": "Şoför ve Rehber Bahşişleri",
+        "meals": "Belirtilmeyen Öğünler",
+        "drinks": "Her Türlü İçecekler",
+        "balloon": "Kapadokya'da sıcak hava balonu gezisi",
+        "insurance": "Seyahat Sigortası"
+      },
+      "booking": {
+        "title": "Hemen Rezervasyon Yapın!",
+        "subtitle": "6 günlük Efes, Pamukkale, Antalya & Kapadokya deneyiminizi rezerve edin",
+        "summary": "Rezervasyon Özeti",
+        "tourType": "Tur Tipi:",
+        "tourName": "6 Günlük Paket Tur",
+        "selectedDate": "Seçilen Tarih:",
+        "pleaseSelect": "Lütfen seçiniz"
+      }
+    },
+    "package6days3": {
+      "pageTitle": "6 Gün İstanbul, Bursa & Prens Adaları | Tur Paketi — Capahenas Travel",
+      "metaDescription": "İstanbul'un hazinelerini keşfedin, Bursa'nın Yeşil Camii'ni görün ve Prens Adaları'nı deneyimleyin. Konaklama ve unutulmaz deneyimler dahil 6 günlük rehberli tur.",
+      "badge": "🏛️ İstanbul, Bursa & Prens Adaları Paketi",
+      "title": "6 Gün İstanbul, Bursa & Prens Adaları",
+      "subtitle": "05 Gece / 06 Gün",
+      "description": "Sultanahmet Camii, Topkapı Sarayı, Ayasofya, Boğaz Gezisi, Kapalıçarşı, Dolmabahçe Sarayı, büyüleyici Bursa şehri ve Prens Adalarını keşfedin.",
+      "gallery": {
+        "title": "Deneyim Galerisi",
+        "subtitle": "İstanbul, Bursa & Prens Adalarını Keşfedin"
+      },
+      "about": {
+        "title": "Tur Hakkında",
+        "subtitle": "6 Günlük İstanbul, Bursa & Prens Adaları Paketi",
+        "duration": "05 Gece / 06 Gün",
+        "destinations": "İstanbul, Bursa, Prens Adaları",
+        "intro": "Bu tur yıl boyunca her gün yapılabilir. Tur kişiselleştirilebilir.",
+        "highlights": "Turun Öne Çıkanları",
+        "highlight1": "İstanbul'un simgesel yapılarını keşfedin: Topkapı Sarayı, Sultanahmet Camii ve Dolmabahçe Sarayı",
+        "highlight2": "Boğaz gezisini deneyimleyin ve Bursa'nın muhteşem Yeşil Camii'ni ziyaret edin",
+        "highlight3": "Elektrikli araçla Prens Adalarını keşfedin"
+      },
+      "itinerary": {
+        "title": "Gezi Programı",
+        "day1": {
+          "title": "GÜN 01: İstanbul'a Varış",
+          "content": "İstanbul'a (İstanbul Havalimanı) varışınızda, temsilcimiz sizi karşılayacak ve otele transfer edecektir. (Check-in 13:00'den sonra) ve otele giriş yapın. Günün geri kalanı serbest zaman ve İstanbul'da geceleme.",
+          "meals": "(Öğünler: Yok)"
+        },
+        "day2": {
+          "title": "GÜN 02: İstanbul Eski Şehir Yürüyüş Turu",
+          "content": "Kahvaltı, antik Bizans Hipodromu'nu ziyaret edeceğimiz yerde Mısır Dikilitaşı, Yılanlı Sütun, Wilhelm II Çeşmesi, altı minaresiyle ünlü zarif Sultanahmet Camii ve İmparator Theodosius döneminde inşa edilen ve Nika İsyanı yangınında yanan Ayasofya Müzesi'ni gezeceksiniz. Öğle yemeğinden sonra, atmosferik sütunları ve aydınlatmasıyla İstanbul'daki antik bir yeraltı harikası olan Yerebatan Sarnıcı'nı ziyaret edin. Turdan sonra otele dönüş. İstanbul'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı)"
+        },
+        "day3": {
+          "title": "GÜN 03: Boğaz Gezisi ve Beylerbeyi Sarayı",
+          "content": "Kahvaltı, 1665'ten beri dünyanın en büyük baharat pazarlarından biri olan çeşitli tatlılar ve baharatlarla dolu Mısır Çarşısı'nı ziyaret edin. Ardından Avrupa'yı Asya'dan ayıran güzel boğaz boyunca unutulmaz bir yolculuk için Boğaz feribotuna binin. Geziden sonra, şehrin, Boğaz'ın ve Marmara Denizi'nin panoramik manzarasını sunan İstanbul'un en yüksek tepesi Çamlıca Tepesi'ne gideceğiz. Ardından Asya yakasında muhteşem bir Osmanlı yaz sarayı olan Beylerbeyi Sarayı'nı ziyaret edin. Turdan sonra otele dönüş. İstanbul'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)"
+        },
+        "day4": {
+          "title": "GÜN 04: Prens Adaları Turu",
+          "content": "Kahvaltı, 08:30'da otelden alınış ve Prens Adaları'na feribotla gitmek için iskeleye transfer. Prens Adaları'nın en büyüğü olan Büyükada'yı ziyaret edeceğiz. Varışta, adayı elektrikli araçla turlamaya çıkacağız (Not: At arabası ulaşımı 2023'ten beri yasaklanmıştır). Turdan sonra, adanın büyüleyici sokaklarını, zarif köşklerini ve yerel restoranlarını keşfetmek için serbest zaman. Ardından İstanbul'a dönüş. Turdan sonra otele dönüş. İstanbul'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)"
+        },
+        "day5": {
+          "title": "GÜN 05: Bursa Günübirlik Gezisi",
+          "content": "Kahvaltı, 08:00'de otelden alınış ve Osmanlı İmparatorluğu'nun ilk başkenti Bursa'ya gidiş. Karmaşık çini işçiliğiyle tanınan muhteşem Yeşil Camii'yi (Yeşil Camii) ve Yeşil Türbe'yi ziyaret edin. Nefes kesici dağ manzaraları için Uludağ'a teleferikle çıkın. 20 kubbesiyle etkileyici Ulu Camii'yi ziyaret edin. İstanbul'a dönmeden önce tarihi ipek çarşısını (Koza Han) gezin. Turdan sonra otele dönüş. İstanbul'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)"
+        },
+        "day6": {
+          "title": "GÜN 06: İstanbul - Ayrılış",
+          "content": "Kahvaltı, otelden çıkış (12:00'den önce), uçuş kalkış saatinize göre İstanbul havaalanına transfer.",
+          "meals": "(Öğünler: Kahvaltı)"
+        }
+      },
+      "includes": {
+        "title": "Tura Dahil Olanlar",
+        "accommodation": "05 Gece 4 yıldızlı otel konaklaması Oda-Kahvaltı",
+        "tours": "04 gün düzenli küçük grup turu, İngilizce rehberlik, giriş ücretleri, öğle yemeği ve ulaşım dahil",
+        "transfers": "İstanbul'da tüm havalimanı/otel/havalimanı transferleri"
+      },
+      "excludes": {
+        "title": "Tura Dahil Olmayanlar",
+        "personal": "Kişisel Harcamalar",
+        "gratuities": "Şoför ve Rehber Bahşişleri",
+        "meals": "Belirtilmeyen Öğünler",
+        "drinks": "Her Türlü İçecekler",
+        "insurance": "Seyahat Sigortası"
+      },
+      "booking": {
+        "title": "Hemen Rezervasyon Yapın!",
+        "subtitle": "6 günlük İstanbul, Bursa & Prens Adaları deneyiminizi rezerve edin",
+        "summary": "Rezervasyon Özeti",
+        "tourType": "Tur Tipi:",
+        "tourName": "6 Günlük İstanbul, Bursa & Prens Adaları Turu",
+        "selectedDate": "Seçilen Tarih:",
+        "pleaseSelect": "Lütfen seçiniz"
+      }
+    },
+    "package8days": {
+      "pageTitle": "8 Günlük Türkiye Turları | İstanbul, Sahil & Kültür - Capahenas Travel",
+      "metaDescription": "8 günlük turumuzla eksiksiz Türkiye deneyimini keşfedin. İstanbul'un simgesel yapılarını, Kapadokya'nın peri bacalarını, Efes'in antik kalıntılarını ve Pamukkale'nin termal travertenlerini gezin. Hemen rezervasyon yapın!",
+      "badge": "İstanbul, Sahil & Kültür Paketi",
+      "title": "8 Günlük Türkiye Turları",
+      "subtitle": "07 Gece / 08 Gün",
+      "description": "İstanbul, Kapadokya, Efes ve Pamukkale'yi kapsayan kapsamlı Türkiye turu",
+      "gallery": {
+        "title": "8 Günlük Tur Galerisi",
+        "subtitle": "8 unutulmaz günde Türkiye'nin en iyisini deneyimleyin"
+      },
+      "about": {
+        "title": "Tur Hakkında",
+        "subtitle": "8 Günlük Paket Tur",
+        "duration": "07 Gece / 08 Gün",
+        "destinations": "İstanbul, Kapadokya, Efes, Pamukkale",
+        "highlights": "Turun Öne Çıkanları",
+        "highlight1": "Ayasofya ve Sultanahmet Camii dahil İstanbul'un simgesel yapılarını keşfedin",
+        "highlight2": "Kapadokya'nın peri bacalarını ve mağara evlerini keşfedin",
+        "highlight3": "Celsus Kütüphanesi ve Büyük Tiyatro dahil Efes'in antik kalıntılarını ziyaret edin",
+        "highlight4": "Pamukkale'nin termal travertenlerinde rahatlayın ve Hierapolis'i gezin",
+        "highlight5": "Rehberli turların ve rahat konaklamaların keyfini çıkarın"
+      },
+      "itinerary": {
+        "title": "Program",
+        "day1": {
+          "title": "GÜN 01: İstanbul'a Varış",
+          "content": "İstanbul'a (İstanbul Havalimanı) varışta, temsilcimiz sizi karşılayacak ve otele transfer edileceksiniz. (Check-in 13:00'den sonra) Günün geri kalanı serbest zaman ve İstanbul'da geceleme.",
+          "meals": "(Öğünler: Yok)"
+        },
+        "day2": {
+          "title": "GÜN 02: İstanbul Eski Şehir Yürüyüş Turu",
+          "content": "Kahvaltı, antik Bizans Hipodromu'nu ziyaret edeceğimiz yerde Mısır Dikilitaşı, Yılanlı Sütun, Wilhelm II Çeşmesi, altı minaresiyle ünlü zarif Sultanahmet Camii ve İmparator Theodosius döneminde inşa edilen ve Nika İsyanı yangınında yanan Ayasofya Müzesi'ni gezeceksiniz. Öğle yemeğinden sonra, atmosferik sütunları ve aydınlatmasıyla İstanbul'daki antik bir yeraltı harikası olan Yerebatan Sarnıcı'nı ziyaret edin. Turdan sonra otele dönüş. İstanbul'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı)"
+        },
+        "day3": {
+          "title": "GÜN 03: Boğaz turu / Kapadokya'ya Uçuş",
+          "content": "Kahvaltı, 1665'ten beri dünyanın en büyük baharat pazarlarından biri olan çeşitli tatlılar ve baharatlarla dolu Mısır Çarşısı, Mısır Pazarı'nı ziyaret edin. Ardından Avrupa'yı Asya'dan ayıran güzel boğaz Boğaz boyunca unutulmaz bir yolculuk için Boğaz feribotuna binin. Otele dönüş ve 15:30'da 18:55'te Nevşehir'e uçuş için havaalanına transfer. 21:05'te Nevşehir'e varış, otele transfer. Kapadokya'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı)"
+        },
+        "day4": {
+          "title": "GÜN 04: Kuzey Kapadokya Turu",
+          "content": "Kahvaltıdan sonra, otelimizden alış 09:30-10:00 civarında olacaktır. İlk durağımız Uçhisar olacak, burada \"Kale\"nin fotoğraflarını çekme ve çevresini keşfetme (dışarıdan) fırsatınız olacak. Ardından, muhteşem kırmızı kaya oluşumlarıyla ünlü Çavuşin'e (Gültepe Vadisi) gideceğiz. Ardından Peri Bacaları Vadisi, Paşabağ ve Zelve Açık Hava Müzesi'ni ziyaret edeceğiz. Öğle yemeğinden sonra Kuzey Kapadokya'nın en önemli görülecek yerleri arasında yer alan Devrent Vadisi ve Üç Güzeller Vadisi'ni ziyaret edeceğiz. Ardından, kırmızı killi çömlekçilikleriyle ünlü antik Ürgüp ve Avanos kasabalarına devam edeceğiz. Burada çömlekçilik yapmayı deneme şansınız olacak. Opsiyonel bir aktivite olarak Türk halı ve kilim yapımı fabrikasını da ziyaret edebiliriz. Kapadokya'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)",
+          "optional": "OPSİYONEL: Bu sabah, sıcak hava balonundan gün doğumunu karşılayan şanslı birkaç kişiden biri olun—unutulmaz bir deneyim ve güne başlamanın en iyi yolu."
+        },
+        "day5": {
+          "title": "GÜN 05: Güney Kapadokya / İzmir'e Uçuş",
+          "content": "Kahvaltıdan sonra, otelimizden alış 09:30-10:00'da olacaktır. İkonik Ortahisar Kaya Kalesi'ni yakalama fırsatı bulacağınız Ortahisar'ı ziyaret ederek başlayın. Ardından, bir zamanlar Sinasos olarak bilinen eski bir Yunan köyü olan Mustafapaşa'ya gidiyoruz. Ardından Şahinefendi üzerinden geçip güzel zemin mozaikleri içeren yakın zamanda kazılmış bir alan olan Sobesos'un Roma kalıntılarını ziyaret edeceğiz. Soğanlı Vadisi'nde, vadi boyunca 2 km'lik bir yürüyüş yapacağız ve ünlü mağara kiliselerini ziyaret edeceğiz, ardından Soğanlı Köyü'nde öğle yemeği molası vereceğiz. Öğle yemeğinden sonra, antik yaşama büyüleyici bir bakış sunan Kapadokya'nın en derin yeraltı şehri Kaymaklı Yeraltı Şehri'ne geçiyoruz. 22:30'da İzmir'e uçuş için Kayseri havaalanına transfer. 23:55'te İzmir'e varış, karşılama ve Kuşadası'na transfer. Kuşadası'nda geceleme.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)"
+        },
+        "day6": {
+          "title": "GÜN 06: Meryem Ana Evi ile Efes turu",
+          "content": "Kahvaltı, 09:00'da Efes Antik Kenti'ni ziyaret - Magnesia Kapısı'ndan girin ve rehberinizle bu Roma eyalet başkentinin kalıntılarına doğru yavaş, yokuş aşağı bir yürüyüş yapın. Rotanız Odeon, Celsus Kütüphanesi, Hadrian Tapınağı, Trajan Çeşmesi'nin yanından geçer. Aziz Paul'ün vaaz verdiği Büyük Tiyatro, antikçağın en büyük tiyatrosudur. Ardından Artemis Tapınağı'nın kalıntılarını ziyaret edeceğiz. Öğle yemeği sonrası Meryem Ana'nın Evi'ni ziyaret edeceğiz. Kuşadası'nda geceleme.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)"
+        },
+        "day7": {
+          "title": "GÜN 07: Pamukkale turu / İstanbul'a Uçuş",
+          "content": "Kahvaltı, 07:30'da Pamukkale'ye gidiyoruz ve kireç birikintileriyle oluşan doğal travertenler (Pamuk Kalesi) ziyaret edin, Türkiye'nin en çok ziyaret edilen doğal harikalarından biri. Ayrıca Hierapolis kalıntılarını keşfedin. Ardından Kleopatra Havuzu olarak da adlandırılan Antik Havuz'da yüzmek isterseniz ekstra giriş ücreti alınır. Lütfen Pamukkale'ye sürüşün yaklaşık 3 saat olduğunu unutmayın. Turdan sonra, 19:55'te İstanbul'a akşam uçuşu için Denizli havaalanına transfer. 21:10'da İstanbul'a varış, havaalanında karşılama ve otele transfer. İstanbul'da geceleme.",
+          "meals": "(Öğünler: Kahvaltı + Öğle Yemeği)"
+        },
+        "day8": {
+          "title": "GÜN 08: İstanbul / Ayrılış",
+          "content": "Kahvaltı, otelden çıkış (12:00'den önce), uçuş kalkış saatinize göre İstanbul havaalanına transfer.",
+          "meals": "(Öğünler: Kahvaltı)"
+        }
+      },
+      "includes": {
+        "title": "Tur Dahil",
+        "accommodation": "07 Gece 4 yıldızlı otel konaklaması K.K",
+        "tours": "06 günlük küçük grup turları İngilizce rehberlik, giriş ücretleri, öğle yemeği ve ulaşım dahil",
+        "flight1": "İstanbul'dan Kayseri'ye tek yön iç hat uçuşu",
+        "flight2": "Kayseri'den İzmir'e tek yön iç hat uçuşu",
+        "flight3": "Denizli'den İstanbul'a tek yön iç hat uçuşu",
+        "transfers": "Türkiye içindeki tüm havaalanı/otel/liman transferleri"
+      },
+      "excludes": {
+        "title": "Tur Hariç",
+        "personal": "Kişisel Nitelikli Eşyalar",
+        "gratuities": "Şoför & Rehber Bahşişleri",
+        "meals": "Belirtilmeyen Öğünler",
+        "drinks": "Her Türlü İçecek",
+        "balloon": "Kapadokya'da Sıcak Hava Balonu Gezisi",
+        "insurance": "Seyahat Sigortası"
+      },
+      "booking": {
+        "title": "Hemen Rezervasyon Yapın!",
+        "subtitle": "8 günlük kapsamlı Türkiye deneyiminizi rezerve edin",
+        "summary": "Rezervasyon Özeti",
+        "tourType": "Tur Tipi:",
+        "tourName": "8 Günlük Paket Tur",
+        "selectedDate": "Seçilen Tarih:",
+        "pleaseSelect": "Lütfen seçiniz"
+      }
+    }
+  }
+}

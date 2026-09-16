@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin Panel - Capahenas Travel</title>
+  
+  <!-- Content Security Policy -->
+  <meta http-equiv="Content-Security-Policy" content="
+    default-src 'self';
+    script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.tailwindcss.com https://cdn.jsdelivr.net;
+    style-src 'self' 'unsafe-inline' https://cdn.tailwindcss.com;
+    connect-src 'self' https://efvxjsdprydyvmotmtem.supabase.co https://*.supabase.co;
+    img-src 'self' data: https:;
+    font-src 'self' data:;
+  ">
+  
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  
+  <!-- Supabase -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  
+  <style>
+    .loader {
+      border: 3px solid #f3f3f3;
+      border-top: 3px solid #DCA47C;
+      border-radius: 50%;
+      width: 40px;
+      height: 40px;
+      animation: spin 1s linear infinite;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body class="bg-gray-50">
+
+  <!-- Login Section -->
+  <div id="login-section" class="min-h-screen flex items-center justify-center px-4">
+    <div class="max-w-md w-full">
+      <div class="bg-white rounded-2xl shadow-xl p-8">
+        <div class="text-center mb-8">
+          <h1 class="text-3xl font-bold text-gray-900 mb-2">Admin Panel</h1>
+          <p class="text-gray-600">Capahenas Travel Rezervasyon Yönetimi</p>
+        </div>
+        
+        <form id="login-form" onsubmit="handleLogin(event)">
+          <div class="mb-4">
+            <label class="block text-gray-700 font-semibold mb-2">Email</label>
+            <input 
+              type="email" 
+              id="login-email" 
+              required
+              class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#DCA47C] focus:border-transparent"
+              placeholder="admin@capahenastravel.com">
+          </div>
+          
+          <div class="mb-6">
+            <label class="block text-gray-700 font-semibold mb-2">Password</label>
+            <input 
+              type="password" 
+              id="login-password" 
+              required
+              class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#DCA47C] focus:border-transparent"
+              placeholder="••••••••">
+          </div>
+          
+          <button 
+            type="submit"
+            class="w-full bg-gradient-to-r from-[#DCA47C] to-[#FFD3B6] text-white font-semibold py-3 rounded-lg hover:shadow-lg transition-all duration-300">
+            Login
+          </button>
+        </form>
+        
+        <div id="login-error" class="hidden mt-4 p-3 bg-red-100 border border-red-400 text-red-700 rounded-lg text-sm"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Admin Dashboard -->
+  <div id="admin-section" class="hidden min-h-screen">
+    <!-- Header -->
+    <header class="bg-white shadow-sm border-b">
+      <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
+        <div>
+          <h1 class="text-2xl font-bold text-gray-900">Rezervasyonlar</h1>
+          <p class="text-gray-600 text-sm mt-1">Tüm tur rezervasyonlarını buradan yönetin</p>
+        </div>
+        <button 
+          onclick="handleLogout()"
+          class="px-4 py-2 bg-red-500 text-white rounded-lg hover:bg-red-600 transition-colors">
+          Logout
+        </button>
+      </div>
+    </header>
+
+    <!-- Stats Cards -->
+    <div class="max-w-7xl mx-auto px-4 py-6">
+      <div class="grid grid-cols-1 md:grid-cols-4 gap-4 mb-6">
+        <div class="bg-white rounded-lg shadow p-6">
+          <div class="text-gray-600 text-sm font-semibold mb-2">Toplam Rezervasyon</div>
+          <div id="stat-total" class="text-3xl font-bold text-gray-900">0</div>
+        </div>
+        <div class="bg-white rounded-lg shadow p-6">
+          <div class="text-gray-600 text-sm font-semibold mb-2">Bekleyen</div>
+          <div id="stat-pending" class="text-3xl font-bold text-yellow-600">0</div>
+        </div>
+        <div class="bg-white rounded-lg shadow p-6">
+          <div class="text-gray-600 text-sm font-semibold mb-2">Onaylanan</div>
+          <div id="stat-confirmed" class="text-3xl font-bold text-green-600">0</div>
+        </div>
+        <div class="bg-white rounded-lg shadow p-6">
+          <div class="text-gray-600 text-sm font-semibold mb-2">İptal Edilen</div>
+          <div id="stat-cancelled" class="text-3xl font-bold text-red-600">0</div>
+        </div>
+      </div>
+
+      <!-- Filters -->
+      <div class="bg-white rounded-lg shadow p-4 mb-6">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+          <div>
+            <label class="block text-sm font-semibold text-gray-700 mb-2">Durum</label>
+            <select id="filter-status" onchange="loadBookings()" class="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#DCA47C]">
+              <option value="">Tümü</option>
+              <option value="pending">Bekleyen</option>
+              <option value="confirmed">Onaylanan</option>
+              <option value="cancelled">İptal</option>
+            </select>
+          </div>
+          <div>
+            <label class="block text-sm font-semibold text-gray-700 mb-2">Arama</label>
+            <input 
+              type="text" 
+              id="filter-search" 
+              onkeyup="loadBookings()"
+              placeholder="PNR, isim, email veya telefon..."
+              class="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#DCA47C]">
+          </div>
+          <div class="flex items-end">
+            <button onclick="loadBookings()" class="w-full px-4 py-2 bg-[#DCA47C] text-white rounded-lg hover:bg-[#c89568] transition-colors">
+              Yenile
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Loading -->
+      <div id="loading" class="flex justify-center items-center py-12">
+        <div class="loader"></div>
+      </div>
+
+      <!-- Bookings Table -->
+      <div id="bookings-container" class="hidden bg-white rounded-lg shadow overflow-hidden">
+        <div class="overflow-x-auto">
+          <table class="w-full">
+            <thead class="bg-gray-100 border-b">
+              <tr>
+                <th class="px-4 py-3 text-left text-xs font-semibold text-gray-700 uppercase tracking-wider">PNR</th>
+                <th class="px-4 py-3 text-left text-xs font-semibold text-gray-700 uppercase tracking-wider">Tarih</th>
+                <th class="px-4 py-3 text-left text-xs font-semibold text-gray-700 uppercase tracking-wider">Müşteri</th>
+                <th class="px-4 py-3 text-left text-xs font-semibold text-gray-700 uppercase tracking-wider">İletişim</th>
+                <th class="px-4 py-3 text-left text-xs font-semibold text-gray-700 uppercase tracking-wider">Tur</th>
+                <th class="px-4 py-3 text-left text-xs font-semibold text-gray-700 uppercase tracking-wider">Tur Tarihi</th>
+                <th class="px-4 py-3 text-left text-xs font-semibold text-gray-700 uppercase tracking-wider">Kişi</th>
+                <th class="px-4 py-3 text-left text-xs font-semibold text-gray-700 uppercase tracking-wider">Durum</th>
+                <th class="px-4 py-3 text-left text-xs font-semibold text-gray-700 uppercase tracking-wider">İşlemler</th>
+              </tr>
+            </thead>
+            <tbody id="bookings-tbody" class="divide-y divide-gray-200"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- No Results -->
+      <div id="no-results" class="hidden bg-white rounded-lg shadow p-12 text-center">
+        <div class="text-gray-400 mb-4">
+          <svg class="w-16 h-16 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+          </svg>
+        </div>
+        <h3 class="text-xl font-semibold text-gray-700 mb-2">Henüz rezervasyon yok</h3>
+        <p class="text-gray-500">Yeni rezervasyonlar burada görünecek</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Booking Detail Modal -->
+  <div id="detail-modal" class="hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center px-4 z-50">
+    <div class="bg-white rounded-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto">
+      <div class="p-6 border-b">
+        <div class="flex justify-between items-center">
+          <h2 class="text-2xl font-bold text-gray-900">Rezervasyon Detayı</h2>
+          <button onclick="closeModal()" class="text-gray-400 hover:text-gray-600">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+      <div id="detail-content" class="p-6"></div>
+    </div>
+  </div>
+
+  <script>
+    // ⚠️ BURAYA SUPABASE BİLGİLERİNİZİ YAPIN
+    const SUPABASE_URL = 'https://efvxjsdprydyvmotmtem.supabase.co'; // https://xxxxx.supabase.co
+    const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVmdnhqc2RwcnlkeXZtb3RtdGVtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjE1NjQ2NzksImV4cCI6MjA3NzE0MDY3OX0.ZhBFbBZLXhAfFAsteVtULqoV9VB2b4Q1tMW8tRv6Fug'; // eyJhbGci...
+    
+    const { createClient } = supabase;
+    const supabaseClient = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+    
+    let currentBookings = [];
+
+    // Login Handler
+    async function handleLogin(event) {
+      event.preventDefault();
+      
+      const email = document.getElementById('login-email').value;
+      const password = document.getElementById('login-password').value;
+      const errorDiv = document.getElementById('login-error');
+      
+      errorDiv.classList.add('hidden');
+      
+      const { data, error } = await supabaseClient.auth.signInWithPassword({
+        email: email,
+        password: password
+      });
+      
+      if (error) {
+        errorDiv.textContent = 'Giriş başarısız: ' + error.message;
+        errorDiv.classList.remove('hidden');
+      } else {
+        document.getElementById('login-section').classList.add('hidden');
+        document.getElementById('admin-section').classList.remove('hidden');
+        loadBookings();
+      }
+    }
+
+    // Logout Handler
+    async function handleLogout() {
+      await supabaseClient.auth.signOut();
+      document.getElementById('admin-section').classList.add('hidden');
+      document.getElementById('login-section').classList.remove('hidden');
+      document.getElementById('login-form').reset();
+    }
+
+    // Load Bookings
+    async function loadBookings() {
+      document.getElementById('loading').classList.remove('hidden');
+      document.getElementById('bookings-container').classList.add('hidden');
+      document.getElementById('no-results').classList.add('hidden');
+      
+      let query = supabaseClient
+        .from('bookings')
+        .select('*')
+        .order('created_at', { ascending: false });
+      
+      // Filters
+      const statusFilter = document.getElementById('filter-status').value;
+      const searchFilter = document.getElementById('filter-search').value.toLowerCase();
+      
+      if (statusFilter) {
+        query = query.eq('status', statusFilter);
+      }
+      
+      const { data, error } = await query;
+      
+      document.getElementById('loading').classList.add('hidden');
+      
+      if (error) {
+        console.error('Error loading bookings:', error);
+        return;
+      }
+      
+      // Search filter (client-side)
+      currentBookings = searchFilter 
+        ? data.filter(b => 
+            b.customer_name.toLowerCase().includes(searchFilter) ||
+            b.customer_email.toLowerCase().includes(searchFilter) ||
+            b.customer_phone.includes(searchFilter) ||
+            (b.pnr_number && b.pnr_number.toLowerCase().includes(searchFilter))
+          )
+        : data;
+      
+      updateStats(data);
+      renderBookings();
+    }
+
+    // Update Stats
+    function updateStats(bookings) {
+      document.getElementById('stat-total').textContent = bookings.length;
+      document.getElementById('stat-pending').textContent = bookings.filter(b => b.status === 'pending').length;
+      document.getElementById('stat-confirmed').textContent = bookings.filter(b => b.status === 'confirmed').length;
+      document.getElementById('stat-cancelled').textContent = bookings.filter(b => b.status === 'cancelled').length;
+    }
+
+    function getTourDisplayName(tourType) {
+      const names = {
+        '8 Nights / 9 Days Japan': 'Büyük Tur (Tokyo)',
+        '9 Nights / 10 Days Japan': 'Büyük Tur (Osaka)',
+        '8 Gece 9 Gün Japonya': 'Büyük Tur (Tokyo)',
+        '9 Gece 10 Gün Japonya': 'Büyük Tur (Osaka)',
+        'Japan Big Tokyo': 'Büyük Tur (Tokyo)',
+        'Japan Big Osaka': 'Büyük Tur (Osaka)',
+        'japan-big-tokyo': 'Büyük Tur (Tokyo)',
+        'japan-big-osaka': 'Büyük Tur (Osaka)'
+      };
+      return names[tourType] || tourType || 'Unknown Tour';
+    }
+
+    // Render Bookings Table
+    function renderBookings() {
+      const tbody = document.getElementById('bookings-tbody');
+      
+      if (currentBookings.length === 0) {
+        document.getElementById('no-results').classList.remove('hidden');
+        return;
+      }
+      
+      document.getElementById('bookings-container').classList.remove('hidden');
+      
+      tbody.innerHTML = currentBookings.map(booking => `
+        <tr class="hover:bg-gray-50">
+          <td class="px-4 py-4 whitespace-nowrap">
+            <span class="font-mono font-bold text-blue-600 text-sm tracking-wider">${booking.pnr_number || 'N/A'}</span>
+          </td>
+          <td class="px-4 py-4 whitespace-nowrap text-sm text-gray-600">
+            ${new Date(booking.created_at).toLocaleDateString('tr-TR', { 
+              day: '2-digit', 
+              month: '2-digit', 
+              year: 'numeric',
+              hour: '2-digit',
+              minute: '2-digit'
+            })}
+          </td>
+          <td class="px-4 py-4 whitespace-nowrap">
+            <div class="font-semibold text-gray-900">${booking.customer_name}</div>
+          </td>
+          <td class="px-4 py-4">
+            <div class="text-sm text-gray-600">${booking.customer_email}</div>
+            <div class="text-sm text-gray-500">${booking.country_code} ${booking.customer_phone}</div>
+          </td>
+          <td class="px-4 py-4">
+            <span class="px-3 py-1 rounded-full text-xs font-semibold bg-blue-100 text-blue-800">
+              ${getTourDisplayName(booking.tour_type)}
+            </span>
+          </td>
+          <td class="px-4 py-4 whitespace-nowrap text-sm text-gray-600">
+            ${new Date(booking.tour_date).toLocaleDateString('tr-TR', { 
+              day: '2-digit', 
+              month: 'long', 
+              year: 'numeric'
+            })}
+          </td>
+          <td class="px-4 py-4 whitespace-nowrap text-sm text-gray-600">
+            ${booking.persons} kişi
+          </td>
+          <td class="px-4 py-4 whitespace-nowrap">
+            ${getStatusBadge(booking.status)}
+          </td>
+          <td class="px-4 py-4 whitespace-nowrap text-sm">
+            <button onclick="viewDetails('${booking.id}')" class="text-[#DCA47C] hover:text-[#c89568] font-semibold mr-3">
+              Detay
+            </button>
+            <button onclick="updateStatus('${booking.id}', 'confirmed')" class="text-green-600 hover:text-green-800 font-semibold mr-3">
+              ✓
+            </button>
+            <button onclick="updateStatus('${booking.id}', 'cancelled')" class="text-red-600 hover:text-red-800 font-semibold">
+              ✕
+            </button>
+          </td>
+        </tr>
+      `).join('');
+    }
+
+    // Get Status Badge
+    function getStatusBadge(status) {
+      const badges = {
+        pending: '<span class="px-3 py-1 rounded-full text-xs font-semibold bg-yellow-100 text-yellow-800">Bekleyen</span>',
+        confirmed: '<span class="px-3 py-1 rounded-full text-xs font-semibold bg-green-100 text-green-800">Onaylandı</span>',
+        cancelled: '<span class="px-3 py-1 rounded-full text-xs font-semibold bg-red-100 text-red-800">İptal</span>'
+      };
+      return badges[status] || status;
+    }
+
+    // Update Status
+    async function updateStatus(bookingId, newStatus) {
+      const { error } = await supabaseClient
+        .from('bookings')
+        .update({ status: newStatus })
+        .eq('id', bookingId);
+      
+      if (!error) {
+        loadBookings();
+      }
+    }
+
+    // View Details
+    function viewDetails(bookingId) {
+      const booking = currentBookings.find(b => b.id === bookingId);
+      if (!booking) return;
+      
+      const content = `
+        <div class="space-y-6">
+          <!-- PNR Number - Featured -->
+          <div class="bg-blue-50 border-2 border-blue-200 rounded-lg p-4">
+            <label class="block text-sm font-semibold text-blue-900 mb-1">PNR Number</label>
+            <div class="font-mono font-bold text-2xl text-blue-600 tracking-wider">${booking.pnr_number || 'N/A'}</div>
+          </div>
+          
+          <div class="grid grid-cols-2 gap-4">
+            <div>
+              <label class="block text-sm font-semibold text-gray-700 mb-1">Müşteri Adı</label>
+              <div class="text-gray-900">${booking.customer_name}</div>
+            </div>
+            <div>
+              <label class="block text-sm font-semibold text-gray-700 mb-1">Durum</label>
+              ${getStatusBadge(booking.status)}
+            </div>
+          </div>
+          
+          <div class="grid grid-cols-2 gap-4">
+            <div>
+              <label class="block text-sm font-semibold text-gray-700 mb-1">Email</label>
+              <div class="text-gray-900">${booking.customer_email}</div>
+            </div>
+            <div>
+              <label class="block text-sm font-semibold text-gray-700 mb-1">Telefon</label>
+              <div class="text-gray-900">${booking.country_code} ${booking.customer_phone}</div>
+            </div>
+          </div>
+          
+          <div class="grid grid-cols-2 gap-4">
+            <div>
+              <label class="block text-sm font-semibold text-gray-700 mb-1">Tur Tipi</label>
+              <div class="text-gray-900">${getTourDisplayName(booking.tour_type)}</div>
+            </div>
+            <div>
+              <label class="block text-sm font-semibold text-gray-700 mb-1">Kişi Sayısı</label>
+              <div class="text-gray-900">${booking.persons} kişi</div>
+            </div>
+          </div>
+          
+          <div class="grid grid-cols-2 gap-4">
+            <div>
+              <label class="block text-sm font-semibold text-gray-700 mb-1">Tur Tarihi</label>
+              <div class="text-gray-900">${new Date(booking.tour_date).toLocaleDateString('tr-TR')}</div>
+            </div>
+            <div>
+              <label class="block text-sm font-semibold text-gray-700 mb-1">Rezervasyon Tarihi</label>
+              <div class="text-gray-900">${new Date(booking.created_at).toLocaleString('tr-TR')}</div>
+            </div>
+          </div>
+          
+          ${booking.special_requests ? `
+            <div>
+              <label class="block text-sm font-semibold text-gray-700 mb-1">Özel İstekler</label>
+              <div class="text-gray-900 bg-gray-50 p-3 rounded-lg">${booking.special_requests}</div>
+            </div>
+          ` : ''}
+          
+          <div>
+            <label class="block text-sm font-semibold text-gray-700 mb-2">Admin Notları</label>
+            <textarea 
+              id="admin-notes-${booking.id}"
+              class="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#DCA47C]"
+              rows="3"
+              placeholder="Bu rezervasyon için notlar ekleyin..."
+            >${booking.admin_notes || ''}</textarea>
+            <button onclick="saveNotes('${booking.id}')" class="mt-2 px-4 py-2 bg-[#DCA47C] text-white rounded-lg hover:bg-[#c89568]">
+              Notu Kaydet
+            </button>
+          </div>
+        </div>
+      `;
+      
+      document.getElementById('detail-content').innerHTML = content;
+      document.getElementById('detail-modal').classList.remove('hidden');
+    }
+
+    // Save Notes
+    async function saveNotes(bookingId) {
+      const notes = document.getElementById(`admin-notes-${bookingId}`).value;
+      
+      const { error } = await supabaseClient
+        .from('bookings')
+        .update({ admin_notes: notes })
+        .eq('id', bookingId);
+      
+      if (!error) {
+        alert('Not kaydedildi!');
+        closeModal();
+        loadBookings();
+      }
+    }
+
+    // Close Modal
+    function closeModal() {
+      document.getElementById('detail-modal').classList.add('hidden');
+    }
+
+    // Check Auth State
+    supabaseClient.auth.onAuthStateChange((event, session) => {
+      if (session) {
+        document.getElementById('login-section').classList.add('hidden');
+        document.getElementById('admin-section').classList.remove('hidden');
+        loadBookings();
+      } else {
+        document.getElementById('admin-section').classList.add('hidden');
+        document.getElementById('login-section').classList.remove('hidden');
+      }
+    });
+  </script>
+</body>
+</html>

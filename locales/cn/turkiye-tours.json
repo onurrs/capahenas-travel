@@ -1,0 +1,1294 @@
+{
+  "turkiye-tours": {
+    "antalya": {
+      "badge": "🏖️ 城市与自然之旅",
+      "title": "安塔利亚市内游",
+      "subtitle": "瀑布与缆车的一日城市观光",
+      "description": "从图内克特佩山顶俯瞰全景，领略壮观瀑布与卡雷伊奇旧城的历史风情，一天打卡安塔利亚精华。",
+      "gallery": {
+        "title": "体验画廊",
+        "subtitle": "探索瀑布、缆车美景与历史老城"
+      },
+      "about": {
+        "title": "关于行程",
+        "subtitle": "瀑布｜缆车｜旧城",
+        "intro": "安塔利亚是土耳其顶级度假胜地之一，拥有湛蓝海湾、洁白海滩与活力市中心。本一日游带您高效解锁这座城市的必看亮点。",
+        "karpuz": "Karpuzkaldıran 瀑布｜海天相接的壮阔",
+        "karpuz-desc": "奔流直下45米汇入地中海，水雾彩虹与澄澈海天构成震撼画面。淡水与蔚蓝海洋相遇的独特景致，值得细细记录。",
+        "duden": "Düden 瀑布｜绿意盎然的宁静",
+        "duden-desc": "每年吸引十余万游客。漫步森林步道，于自然环抱中拍照、放松，是午后小憩的理想去处。",
+        "tun": "Tunektepe 缆车｜800米高空全景",
+        "tun-desc": "自海拔约800米处俯瞰 Konyaaltı 海滩、Sıcan 岛与迷人港湾，缆车途中亦是处处风景。",
+        "note": "注意：图内克特佩缆车逢周一停运，届时将改为老城马里纳出发的海上观光船，换个角度欣赏海岸线。",
+        "oldtown": "旧城（Kaleici）｜穿越时光的街巷",
+        "oldtown-desc": "从贝尔加马王国至奥斯曼时期的多重建筑风貌。曲折石巷、历史宅邸、精品酒店与传统小店林立。古港与哈德良门尤为值得一看。",
+        "highlights": "行程亮点",
+        "highlight1": "Karpuzkaldıran 瀑布｜45米瀑布直入地中海",
+        "highlight2": "Düden 瀑布｜森林步道与自然公园",
+        "highlight3": "Tunektepe 缆车｜800米高空城市全景",
+        "highlight4": "Konyaaltı 海滩｜地中海海岸线",
+        "highlight5": "旧城（Kaleici）｜历史街区与奥斯曼建筑",
+        "highlight6": "哈德良门｜古罗马凱旋门",
+        "highlight7": "旧港｜风情马里纳",
+        "highlight8": "美味午餐｜土耳其传统菜肴",
+        "itinerary": "行程安排",
+        "morning": "早上：早餐后酒店接客出发",
+        "stop1": "第一站：Karpuzkaldıran 瀑布（约45分钟拍照）",
+        "stop2": "第二站：Düden 瀑布与公园漫步",
+        "lunch": "午餐：当地餐厅土式料理",
+        "afternoon": "下午：Tunektepe 缆车观景（周一为船游替代）",
+        "stop3": "最后一站：旧城（Kaleici）历史徒步",
+        "return": "返回：送回酒店，满载美好回忆",
+        "note2": "注：距离安塔利亚市区30公里以上的酒店，接送可能需额外费用。",
+        "contact": "咨询与预订：请发送邮件至 info@capahenastravel.com。"
+      },
+      "includes": {
+        "title": "费用包含",
+        "guide": "专业导游",
+        "fees": "门票",
+        "lunch": "自助午餐",
+        "transport": "空调交通",
+        "taxes": "税费与服务费"
+      },
+      "info": {
+        "title": "补充信息",
+        "pickupTitle": "接客地点",
+        "pickupDesc": "安塔利亚市区酒店",
+        "pickupNote": "超出市区30km的酒店可能加收费用",
+        "durationTitle": "时长",
+        "durationDesc": "一日游（约16:30结束）",
+        "dropoffTitle": "送返地点",
+        "dropoffDesc": "安塔利亚市区酒店",
+        "dropoffNote": "超出30km的酒店返程亦可能加收费用"
+      },
+      "excludes": {
+        "title": "费用不含",
+        "drinks": "饮料",
+        "personal": "个人消费",
+        "tips": "司机与导游小费"
+      },
+      "booking": {
+        "title": "立即预订！",
+        "subtitle": "预定您的安塔利亚体验",
+        "selectDate": "选择日期",
+        "persons": "人数",
+        "personsLabel": "人",
+        "minimumNote": "至少1人",
+        "yourDetails": "您的信息",
+        "fullName": "姓名 *",
+        "fullNamePlaceholder": "请输入姓名",
+        "email": "邮箱 *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "酒店（可选）",
+        "hotelPlaceholder": "您在安塔利亚的酒店名",
+        "hotelNote": "可选，但填写能加速处理。",
+        "phone": "电话（可选）",
+        "phonePlaceholder": "电话号码",
+        "phoneNote": "建议填写，便于快速联系。",
+        "summary": "预订摘要",
+        "tourType": "行程类型：",
+        "selectedDate": "已选日期：",
+        "pleaseSelect": "请选择",
+        "totalPersons": "总人数：",
+        "priceNote": "价格将在咨询后提供",
+        "bookButton": "预订您的冒险",
+        "secure": "🔒 安全预订 • 暂无需支付",
+        "cancellation": "免费取消与退款",
+        "cancellationDesc": "最晚可在出发前24小时取消",
+        "payLater": "先预订 后付款",
+        "payLaterDesc": "开始前任意时间付款",
+        "whatsapp": "通过 WhatsApp 联系"
+      }
+    },
+    "aspendos": {
+      "badge": "🏛️ 古代地中海城市",
+      "title": "佩尔盖·阿斯潘多斯·西岱 一日游",
+      "subtitle": "探寻安塔利亚的古老瑰宝",
+      "description": "一日看三大古城，再赏马纳夫加特瀑布的自然之美。",
+      "gallery": {
+        "title": "体验画廊",
+        "subtitle": "探索古城与安塔利亚的自然风貌"
+      },
+      "about": {
+        "title": "关于行程",
+        "subtitle": "佩尔盖、阿斯潘多斯、西岱 & 马纳夫加特瀑布",
+        "intro": "参加此文化之旅，徜徉大理石之门的佩尔盖、音效卓绝的阿斯潘多斯，以及海港小城西岱，尽览安塔利亚的人文自然之美。",
+        "perge": "佩尔盖｜大理石之门之城",
+        "perge-desc": "漫步保存完好的古城遗址。此地位于昔日地中海沿岸内迁的港城之一，周围环绕西利西亚、皮西迪亚与利西亚等古地。",
+        "perge-desc2": "柱廊大道、广场、浴场、水道、剧场等，重现罗马时代的社会生活图景。",
+        "aspendos": "阿斯潘多斯｜古代工程奇迹",
+        "aspendos-desc": "立于剧场高处俯瞰壮丽全景。了解约两千年前将水引上高地卫城的工程智慧。",
+        "side": "西岱｜古今交融",
+        "side-desc": "现代港镇与罗马城墙相依共存，海边的阿波罗神庙与金色沙滩相映成趣。",
+        "manavgat": "马纳夫加特瀑布｜清凉与美景",
+        "manavgat-desc": "于瀑布边小憩，感受水雾与绿意带来的惬意。",
+        "highlights": "行程亮点",
+        "highlight1": "佩尔盖古城｜柱廊街、罗马浴场、剧场",
+        "highlight2": "阿斯潘多斯剧场｜保存最佳的罗马剧场与非凡音效",
+        "highlight3": "古代渡槽｜两千年前的工程学",
+        "highlight4": "西岱古城｜罗马城墙与海港城",
+        "highlight5": "阿波罗神庙｜海边经典遗址",
+        "highlight6": "西岱海滩｜地中海海岸线",
+        "highlight7": "马纳夫加特瀑布｜天然清凉地",
+        "highlight8": "自助午餐｜土耳其风味",
+        "itinerary": "行程详情",
+        "fullday": "一日游：安塔利亚市区酒店出发",
+        "endtime": "约16:30送回酒店结束",
+        "note2": "注：距离安塔利亚市区30公里以上的酒店可能加收接送费。"
+      },
+      "includes": {
+        "title": "费用包含",
+        "guide": "专业导游",
+        "fees": "门票",
+        "lunch": "自助午餐",
+        "transport": "空调交通",
+        "taxes": "税费与服务费"
+      },
+      "info": {
+        "title": "补充信息",
+        "pickupTitle": "接客地点",
+        "pickupDesc": "安塔利亚市区酒店",
+        "pickupNote": "超出市区30km的酒店可能加收费用",
+        "durationTitle": "时长",
+        "durationDesc": "一日游（约16:30结束）",
+        "dropoffTitle": "送返地点",
+        "dropoffDesc": "安塔利亚市区酒店",
+        "dropoffNote": "超出30km的酒店返程亦可能加收费用"
+      },
+      "excludes": {
+        "title": "费用不含",
+        "drinks": "饮料",
+        "personal": "个人消费",
+        "tips": "司机与导游小费"
+      },
+      "booking": {
+        "title": "立即预订！",
+        "subtitle": "预定您的阿斯潘多斯之旅",
+        "selectDate": "选择日期",
+        "persons": "人数",
+        "personsLabel": "人",
+        "minimumNote": "至少1人",
+        "yourDetails": "您的信息",
+        "fullName": "姓名 *",
+        "fullNamePlaceholder": "请输入姓名",
+        "email": "邮箱 *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "酒店（可选）",
+        "hotelPlaceholder": "您在安塔利亚的酒店名",
+        "hotelNote": "可选，但填写能加速处理。",
+        "phone": "电话（可选）",
+        "phonePlaceholder": "电话号码",
+        "phoneNote": "建议填写，便于快速联系。",
+        "summary": "预订摘要",
+        "tourType": "行程类型：",
+        "selectedDate": "已选日期：",
+        "pleaseSelect": "请选择",
+        "totalPersons": "总人数：",
+        "priceNote": "价格将在咨询后提供",
+        "bookButton": "预订您的冒险",
+        "secure": "🔒 安全预订 • 暂无需支付",
+        "cancellation": "免费取消与退款",
+        "cancellationDesc": "最晚可在出发前24小时取消",
+        "payLater": "先预订 后付款",
+        "payLaterDesc": "开始前任意时间付款",
+        "whatsapp": "通过 WhatsApp 联系"
+      }
+    },
+    "demre": {
+      "badge": "⛵ 历史与船游",
+      "title": "德姆雷·米拉 & 凯科瓦",
+      "subtitle": "古代吕基亚城与沉没城船游",
+      "description": "探访米拉岩墓、圣尼古拉教堂，巡游凯科瓦沉没古城。",
+      "gallery": {
+        "title": "体验画廊",
+        "subtitle": "岩刻墓葬、圣尼古拉教堂与凯科瓦沉没城"
+      },
+      "about": {
+        "title": "关于行程",
+        "subtitle": "米拉、圣尼古拉教堂与凯科瓦沉没城",
+        "intro": "历史、文化与湛蓝海域交织的“德姆雷·米拉·凯科瓦”一日游。看最具代表性的吕基亚岩墓，追随“圣诞老人”原型圣尼古拉的足迹，于地震塑造的沉没古城凯科瓦上空巡航。",
+        "eagle": "鹰（隼）山｜风景在线的路途",
+        "eagle-desc": "自安塔利亚驶向凯科瓦，沿途湖泊与潟湖层叠。登高停歇喝杯咖啡，遥望地中海与群山。",
+        "myra": "米拉古城｜吕基亚之都",
+        "myra-desc": "山崖上浮雕岩墓、保存良好的古剧场与河畔墓地装饰。资深导游为您解密古城故事。",
+        "nicholas": "圣尼古拉教堂｜“圣诞老人”的故乡",
+        "nicholas-desc": "礼敬慈爱的圣尼古拉主教，走进这座承载传奇的教堂，了解其如何成为现代“圣诞老人”的灵感来源。",
+        "kekova": "凯科瓦 & 沉没城｜水下遗址",
+        "kekova-desc": "两小时船游穿梭岛屿、海湾与遗迹。清澈海水之下，沉没城垣清晰可见。主城 Teimiussa 与 Simena 亦将映入眼帘。",
+        "swimming": "🏊 游泳休息：船游途中可在地中海清澈海域畅泳，请携带泳衣！",
+        "highlights": "行程亮点",
+        "highlight1": "鹰/隼山｜全景休憩与咖啡",
+        "highlight2": "米拉古城｜岩刻墓与剧场",
+        "highlight3": "圣尼古拉教堂｜圣诞老人的起点",
+        "highlight4": "凯科瓦沉没城｜水下遗迹",
+        "highlight5": "西梅纳城堡｜山巅视野",
+        "highlight6": "Teimiussa 遗址｜吕基亚聚落",
+        "highlight7": "两小时船游｜清澈海域巡航",
+        "highlight8": "游泳休息｜跃入碧海清波",
+        "itinerary": "包含项目",
+        "professional": "全日专业导游",
+        "transport": "空调舒适交通",
+        "lunch": "当地餐厅午餐",
+        "boat": "凯科瓦船票",
+        "fees": "米拉与圣尼古拉教堂门票",
+        "insurance": "全程保险",
+        "note2": "注：距离安塔利亚市区30公里以上的酒店可能加收接送费。"
+      },
+      "includes": {
+        "title": "费用包含",
+        "guide": "专业导游",
+        "fees": "米拉与圣尼古拉教堂门票",
+        "lunch": "午餐",
+        "boat": "凯科瓦船票",
+        "transport": "空调交通",
+        "taxes": "税费与服务费"
+      },
+      "info": {
+        "title": "补充信息",
+        "pickupTitle": "接客地点",
+        "pickupDesc": "安塔利亚市区酒店",
+        "pickupNote": "超出市区30km的酒店可能加收费用",
+        "durationTitle": "时长",
+        "durationDesc": "一日游（约16:30结束）",
+        "dropoffTitle": "送返地点",
+        "dropoffDesc": "安塔利亚市区酒店",
+        "dropoffNote": "超出30km的酒店返程亦可能加收费用"
+      },
+      "excludes": {
+        "title": "费用不含",
+        "drinks": "饮料",
+        "personal": "个人消费",
+        "tips": "司机与导游小费"
+      },
+      "booking": {
+        "title": "立即预订！",
+        "subtitle": "预定您的德姆雷·凯科瓦体验",
+        "selectDate": "选择日期",
+        "persons": "人数",
+        "personsLabel": "人",
+        "minimumNote": "至少1人",
+        "yourDetails": "您的信息",
+        "fullName": "姓名 *",
+        "fullNamePlaceholder": "请输入姓名",
+        "email": "邮箱 *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "酒店（可选）",
+        "hotelPlaceholder": "您在安塔利亚的酒店名",
+        "hotelNote": "可选，但填写能加速处理。",
+        "phone": "电话（可选）",
+        "phonePlaceholder": "电话号码",
+        "phoneNote": "建议填写，便于快速联系。",
+        "summary": "预订摘要",
+        "tourType": "行程类型：",
+        "selectedDate": "已选日期：",
+        "pleaseSelect": "请选择",
+        "totalPersons": "总人数：",
+        "priceNote": "价格将在咨询后提供",
+        "bookButton": "预订您的冒险",
+        "secure": "🔒 安全预订 • 暂无需支付",
+        "cancellation": "免费取消与退款",
+        "cancellationDesc": "最晚可在出发前24小时取消",
+        "payLater": "先预订 后付款",
+        "payLaterDesc": "开始前任意时间付款",
+        "whatsapp": "通过 WhatsApp 联系"
+      }
+    },
+    "ephesus": {
+      "badge": "🏛️ 世界文化遗产",
+      "title": "以弗所一日游",
+      "subtitle": "古城与圣经遗迹",
+      "description": "行走于大理石街道，探访地中海保存最佳的古典都市之一。",
+      "gallery": {
+        "title": "体验画廊",
+        "subtitle": "探索以弗所的古代奇迹"
+      },
+      "about": {
+        "title": "关于行程",
+        "subtitle": "以弗所一日游",
+        "intro": "上午09:00自赛尔柱（Selcuk）酒店接客。合流后从“圣母玛利亚之家”开启以弗所之旅。",
+        "virgin": "圣母玛利亚之家｜天主教朝圣地",
+        "virgin-desc": "传说玛利亚晚年居所。1986年获天主教会正式认可为朝圣地，1967年保禄六世到访。",
+        "ephesus": "以弗所｜希腊化-罗马-早期基督教",
+        "ephesus-desc": "见证三重时期的文化传统。启示录“七教会”之一。约两小时随英文导游步行参观城市要点。",
+        "highlights": "行程亮点",
+        "highlight1": "圣母玛利亚之家｜朝圣地",
+        "highlight2": "体育馆（Gymnasium）",
+        "highlight3": "集市（Agoras）",
+        "highlight4": "多米提安广场",
+        "highlight5": "哈德良神庙",
+        "highlight6": "罗马浴场",
+        "highlight7": "塞尔苏斯图书馆",
+        "highlight8": "大剧场｜约2.5万座",
+        "highlight9": "玛利亚教堂",
+        "highlight10": "自助午餐｜土耳其菜",
+        "highlight11": "阿耳忒弥斯神庙｜古代七大奇迹",
+        "highlight12": "希林杰村｜山顶酒乡",
+        "itinerary": "包含项目",
+        "professional": "专业导游全日陪同",
+        "transport": "空调交通",
+        "delicious": "当地午餐",
+        "temple": "阿耳忒弥斯神庙参观",
+        "fees": "以弗所等门票",
+        "insurance": "全程保险"
+      },
+      "includes": {
+        "title": "费用包含",
+        "guide": "专业导游",
+        "fees": "门票",
+        "lunch": "自助午餐",
+        "transport": "空调交通",
+        "taxes": "税费与服务费"
+      },
+      "info": {
+        "title": "补充信息",
+        "pickupTitle": "接客地点",
+        "pickupDesc": "赛尔柱酒店（09:00开始）",
+        "pickupNote": "可加费提供伊兹密尔机场/酒店接送",
+        "durationTitle": "时长",
+        "durationDesc": "一日游（09:00–17:00，约16:30结束）",
+        "dropoffTitle": "送返地点",
+        "dropoffDesc": "赛尔柱酒店／汽车站／火车站",
+        "dropoffNote": "可加费送至伊兹密尔机场"
+      },
+      "excludes": {
+        "title": "费用不含",
+        "drinks": "饮料",
+        "personal": "个人消费",
+        "tips": "司机与导游小费"
+      },
+      "booking": {
+        "title": "立即预订！",
+        "subtitle": "预定您的以弗所体验",
+        "selectDate": "选择日期",
+        "persons": "人数",
+        "personsLabel": "人",
+        "minimumNote": "至少1人",
+        "yourDetails": "您的信息",
+        "fullName": "姓名 *",
+        "fullNamePlaceholder": "请输入姓名",
+        "email": "邮箱 *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "酒店（可选）",
+        "hotelPlaceholder": "您在赛尔柱的酒店名",
+        "hotelNote": "可选，但填写能加速处理。",
+        "phone": "电话（可选）",
+        "phonePlaceholder": "电话号码",
+        "phoneNote": "建议填写，便于快速联系。",
+        "summary": "预订摘要",
+        "tourType": "行程类型：",
+        "selectedDate": "已选日期：",
+        "pleaseSelect": "请选择",
+        "totalPersons": "总人数：",
+        "priceNote": "价格将在咨询后提供",
+        "bookButton": "预订您的冒险",
+        "secure": "🔒 安全预订 • 暂无需支付",
+        "cancellation": "免费取消与退款",
+        "cancellationDesc": "最晚可在出发前24小时取消",
+        "payLater": "先预订 后付款",
+        "payLaterDesc": "开始前任意时间付款",
+        "whatsapp": "通过 WhatsApp 联系"
+      }
+    },
+    "pamukkale-from-antalya": {
+      "badge": "🏛️ 世界文化遗产",
+      "title": "安塔利亚出发｜帕穆卡莱一日游",
+      "subtitle": "白色石灰华梯田与希拉波利斯古城",
+      "description": "从安塔利亚出发，探索帕穆卡莱的白色世界与希拉波利斯的古老传说。",
+      "gallery": {
+        "title": "体验画廊",
+        "subtitle": "遇见帕穆卡莱的震撼之美"
+      },
+      "about": {
+        "title": "关于行程",
+        "subtitle": "安塔利亚出发｜帕穆卡莱",
+        "intro1": "资深导游带队，一日畅游两处世界遗产奇观。泡温泉、走古道、看自然奇景。",
+        "departure": "清晨出发",
+        "departure-desc": "清晨酒店接客启程，向帕穆卡莱进发。",
+        "pamukkale": "帕穆卡莱｜“棉花堡”",
+        "pamukkale-desc": "温泉水在石灰岩上沉积，形成层层乳白梯田，令人叹为观止。",
+        "thermal": "温泉疗愈",
+        "thermal-desc": "多处35–100℃温泉自古被视为理疗圣地，至今吸引无数游客。",
+        "hierapolis": "希拉波利斯古城",
+        "hierapolis-desc": "罗马剧场、圣腓力大殿、陵墓大道、克娄巴特拉池等遗址串联古今。",
+        "conclusion": "午餐后返回安塔利亚，送回酒店。",
+        "itinerary": "行程安排",
+        "highlight1": "安塔利亚酒店清晨接客",
+        "highlight2": "沿途观景，抵达帕穆卡莱与红泉",
+        "highlight3": "陵墓群｜古代墓园",
+        "highlight4": "罗马浴场",
+        "highlight5": "大殿遗址",
+        "highlight6": "多米提安门",
+        "highlight7": "弗隆提努斯大街",
+        "highlight8": "公共厕（古罗马工程）",
+        "highlight9": "阿波罗神庙",
+        "highlight10": "冥府之门",
+        "highlight11": "古剧场",
+        "highlight12": "圣腓力墓",
+        "highlight13": "克娄巴特拉池（可选自费）",
+        "highlight14": "石灰华梯田步行",
+        "highlight15": "午餐",
+        "highlight16": "返程送回酒店"
+      },
+      "includes": {
+        "title": "费用包含",
+        "guide": "专业导游",
+        "fees": "帕穆卡莱与希拉波利斯门票",
+        "lunch": "午餐",
+        "transport": "空调交通",
+        "taxes": "税费与服务费"
+      },
+      "info": {
+        "title": "补充信息",
+        "pickupTitle": "接客地点",
+        "pickupDesc": "安塔利亚市区酒店（清晨出发）",
+        "pickupNote": "超出市区30km的酒店可能加收费用",
+        "durationTitle": "时长",
+        "durationDesc": "安塔利亚出发一日游（清晨至晚间）",
+        "dropoffTitle": "送返地点",
+        "dropoffDesc": "安塔利亚市区酒店",
+        "dropoffNote": "超出30km的酒店返程亦可能加收费用"
+      },
+      "excludes": {
+        "title": "费用不含",
+        "drinks": "饮料",
+        "personal": "个人消费",
+        "tips": "司机与导游小费"
+      },
+      "booking": {
+        "title": "立即预订！",
+        "subtitle": "预定您的帕穆卡莱之旅（安塔利亚出发）",
+        "selectDate": "选择日期",
+        "persons": "人数",
+        "personsLabel": "人",
+        "minimumNote": "至少1人",
+        "yourDetails": "您的信息",
+        "fullName": "姓名 *",
+        "fullNamePlaceholder": "请输入姓名",
+        "email": "邮箱 *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "酒店（可选）",
+        "hotelPlaceholder": "您在安塔利亚的酒店名",
+        "hotelNote": "可选，但填写能加速处理。",
+        "phone": "电话（可选）",
+        "phonePlaceholder": "电话号码",
+        "phoneNote": "建议填写，便于快速联系。",
+        "summary": "预订摘要",
+        "tourType": "行程类型：",
+        "selectedDate": "已选日期：",
+        "pleaseSelect": "请选择",
+        "totalPersons": "总人数：",
+        "priceNote": "价格将在咨询后提供",
+        "bookButton": "预订您的冒险",
+        "secure": "🔒 安全预订 • 暂无需支付",
+        "cancellation": "免费取消与退款",
+        "cancellationDesc": "最晚可在出发前24小时取消",
+        "payLater": "先预订 后付款",
+        "payLaterDesc": "开始前任意时间付款",
+        "whatsapp": "通过 WhatsApp 联系"
+      }
+    },
+    "pamukkale": {
+      "badge": "🏛️ 世界文化遗产",
+      "title": "帕穆卡莱一日游",
+      "subtitle": "白色石灰华梯田与希拉波利斯古城",
+      "description": "在专业导游带领下，深度走读石灰华与古城遗址，沉浸式体验自然与历史。",
+      "gallery": {
+        "title": "体验画廊",
+        "subtitle": "探索帕穆卡莱的惊艳之美"
+      },
+      "about": {
+        "title": "关于行程",
+        "subtitle": "帕穆卡莱一日游",
+        "intro": "行至“棉花堡”，再游“圣城希拉波利斯”。泡温泉、走古道、观遗迹，一日尽兴。",
+        "itinerary": "行程安排",
+        "highlight1": "帕穆卡莱/卡拉哈伊特酒店、汽车站或机场接客",
+        "highlight2": "驱车前往卡拉哈伊特红泉",
+        "highlight3": "陵墓群（Necropolis）",
+        "highlight4": "罗马浴场（Bath）",
+        "highlight5": "大殿（Basilica）",
+        "highlight6": "多米提安门（Domitian Gate）",
+        "highlight7": "弗隆提努斯街（Frontinius Street）",
+        "highlight8": "公共厕（Latrina）",
+        "highlight9": "阿波罗神庙（Temple of Apollo）",
+        "highlight10": "冥府之门（Plutonium）",
+        "highlight11": "剧场（Theatre）",
+        "highlight12": "圣斐理伯墓（Tomb of St. Philippus）",
+        "highlight13": "克娄巴特拉池（可选游泳）",
+        "highlight14": "石灰华梯田徒步",
+        "highlight15": "附近餐厅午餐",
+        "highlight16": "送返酒店"
+      },
+      "includes": {
+        "title": "费用包含",
+        "guide": "专业导游",
+        "fees": "帕穆卡莱与希拉波利斯门票",
+        "lunch": "午餐",
+        "transport": "空调交通",
+        "taxes": "税费与服务费"
+      },
+      "info": {
+        "title": "补充信息",
+        "pickupTitle": "接客地点",
+        "pickupDesc": "帕穆卡莱/卡拉哈伊特酒店、汽车站或机场",
+        "pickupNote": "帕穆卡莱区域酒店均可接送",
+        "durationTitle": "时长",
+        "durationDesc": "一日游（09:00–16:00，约7小时）",
+        "dropoffTitle": "送返地点",
+        "dropoffDesc": "帕穆卡莱/卡拉哈伊特酒店、汽车站或机场",
+        "dropoffNote": "帕穆卡莱区域酒店均可送返"
+      },
+      "excludes": {
+        "title": "费用不含",
+        "drinks": "饮料",
+        "personal": "个人消费",
+        "tips": "司机与导游小费"
+      },
+      "booking": {
+        "title": "立即预订！",
+        "subtitle": "预定您的帕穆卡莱体验",
+        "selectDate": "选择日期",
+        "persons": "人数",
+        "personsLabel": "人",
+        "minimumNote": "至少1人",
+        "yourDetails": "您的信息",
+        "fullName": "姓名 *",
+        "fullNamePlaceholder": "请输入姓名",
+        "email": "邮箱 *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "酒店（可选）",
+        "hotelPlaceholder": "您在帕穆卡莱的酒店名",
+        "hotelNote": "可选，但填写能加速处理。",
+        "phone": "电话（可选）",
+        "phonePlaceholder": "电话号码",
+        "phoneNote": "建议填写，便于快速联系。",
+        "summary": "预订摘要",
+        "tourType": "行程类型：",
+        "selectedDate": "已选日期：",
+        "pleaseSelect": "请选择",
+        "totalPersons": "总人数：",
+        "priceNote": "价格将在咨询后提供",
+        "bookButton": "预订您的冒险",
+        "secure": "🔒 安全预订 • 暂无需支付",
+        "cancellation": "免费取消与退款",
+        "cancellationDesc": "最晚可在出发前24小时取消",
+        "payLater": "先预订 后付款",
+        "payLaterDesc": "开始前任意时间付款",
+        "whatsapp": "通过 WhatsApp 联系"
+      }
+    }
+  },
+  "turkeyTours": {
+    "package4days": {
+      "pageTitle": "4日｜卡帕多奇亚·帕穆卡莱·以弗所套餐 — Capahenas Travel",
+      "metaDescription": "4天玩转奇岩、温泉与古城：含机票、住宿、餐食与导游。",
+      "badge": "✈️ 多城套餐",
+      "title": "4日｜卡帕多奇亚·帕穆卡莱·以弗所",
+      "subtitle": "3晚4天",
+      "description": "奇岩到古城，一次旅程尽览土耳其精华。",
+      "gallery": {
+        "title": "体验画廊",
+        "subtitle": "卡帕多奇亚·帕穆卡莱·以弗所"
+      },
+      "about": {
+        "title": "关于行程",
+        "subtitle": "4日套餐",
+        "duration": "3晚4天",
+        "destinations": "卡帕多奇亚、帕穆卡莱、以弗所",
+        "intro": "全年每日发团，可定制。",
+        "highlights": "亮点",
+        "highlight1": "奇岩地貌与洞穴民居",
+        "highlight2": "以弗所与阿耳忒弥斯神庙",
+        "highlight3": "帕穆卡莱温泉梯田",
+        "highlight4": "专业讲解与舒适住宿"
+      },
+      "itinerary": {
+        "title": "行程",
+        "day1": {
+          "title": "D1：伊斯坦布尔→卡帕多奇亚（北线）",
+          "content": "04:00接→06:45航班→08:00到达后游览：乌奇希萨尔、恰乌辛、帕夏贝、泽尔韦。午后代夫伦特与“三美”岩，乌尔居普与阿瓦诺斯（可制陶）。宿卡帕多奇亚。",
+          "meals": "(餐食：午)"
+        },
+        "day2": {
+          "title": "D2：卡帕多奇亚南线→飞伊兹密尔",
+          "content": "9:30–10:00出发：奥尔塔希萨尔、穆斯塔法帕夏、索贝索斯、索安勒谷2km步道与洞教堂、午餐、凯马克勒地下城。晚航班至库萨达瑟。宿库萨达瑟。",
+          "meals": "(餐食：早＋午)",
+          "optional": "可选：热气球日出飞行"
+        },
+        "day3": {
+          "title": "D3：以弗所全天",
+          "content": "09:00出发：大理石街、图书馆、大剧场、喷泉等；阿耳忒弥斯神庙与圣母玛利亚之家。宿库萨达瑟。",
+          "meals": "(餐食：早＋午)"
+        },
+        "day4": {
+          "title": "D4：帕穆卡莱→返伊斯坦布尔",
+          "content": "07:30赴帕穆卡莱与希拉波利斯；古代泳池（自费）。晚航班返伊斯坦布尔，送酒店。",
+          "meals": "(餐食：早＋午)"
+        }
+      },
+      "includes": {
+        "title": "费用包含",
+        "accommodation": "3晚四星含早",
+        "tours": "4天英文小团（门票＋午餐＋交通）",
+        "flight1": "伊斯坦布尔→卡帕多奇亚",
+        "flight2": "开塞利→伊兹密尔",
+        "flight3": "代尼兹利→伊斯坦布尔",
+        "transfers": "境内机场/酒店接送"
+      },
+      "excludes": {
+        "title": "费用不含",
+        "personal": "个人消费",
+        "gratuities": "小费",
+        "meals": "行程外餐食",
+        "drinks": "饮料",
+        "balloon": "热气球自费",
+        "insurance": "旅行保险"
+      },
+      "booking": {
+        "title": "立即预订！",
+        "subtitle": "预定您的4日套餐",
+        "summary": "预订摘要",
+        "tourType": "行程类型：",
+        "tourName": "4日套餐",
+        "selectedDate": "已选日期：",
+        "pleaseSelect": "请选择"
+      }
+    },
+    "package6days": {
+      "pageTitle": "6日｜伊斯坦布尔与卡帕多奇亚 — Capahenas Travel",
+      "metaDescription": "6天探访历史之都与奇岩大地：含机票、住宿与难忘体验。",
+      "badge": "✈️ 伊斯坦布尔 & 卡帕多奇亚",
+      "title": "6日游｜伊斯坦布尔 & 卡帕多奇亚",
+      "subtitle": "5晚6天",
+      "description": "一程打包历史与自然奇观。",
+      "gallery": {
+        "title": "体验画廊",
+        "subtitle": "伊斯坦布尔 & 卡帕多奇亚"
+      },
+      "about": {
+        "title": "关于行程",
+        "subtitle": "6日套餐",
+        "duration": "5晚6天",
+        "destinations": "伊斯坦布尔、卡帕多奇亚",
+        "intro": "全年每日发团，可定制。",
+        "highlights": "亮点",
+        "highlight1": "圣索菲亚大教堂等历史地标",
+        "highlight2": "奇岩、洞居与热气球（可选）",
+        "highlight3": "专业讲解与绝美风光"
+      },
+      "itinerary": {
+        "title": "行程",
+        "day1": {
+          "title": "D1：抵达伊斯坦布尔",
+          "content": "接机→酒店（13:00后入住）→向导说明。宿伊斯坦布尔。",
+          "meals": "(餐食：无)"
+        },
+        "day2": {
+          "title": "D2：老城徒步",
+          "content": "竞技场（方尖碑、蛇柱、喷泉）→蓝色清真寺→圣索菲亚→午后地下水宫。宿伊斯坦布尔。",
+          "meals": "(餐食：早)"
+        },
+        "day3": {
+          "title": "D3：博斯普鲁斯半日 / 飞卡帕多奇亚",
+          "content": "香料市场→博斯普鲁斯海峡船游。14:00送机，傍晚航班抵开塞利。宿卡帕多奇亚。",
+          "meals": "(餐食：早)"
+        },
+        "day4": {
+          "title": "D4：北卡帕多奇亚",
+          "content": "9:30–10:00出发：乌奇希萨尔、恰乌辛、帕夏贝、泽尔韦；午后代夫伦特、“三美”、乌尔居普与阿瓦诺斯。宿卡帕多奇亚。",
+          "meals": "(餐食：早＋午)",
+          "optional": "可选：热气球日出"
+        },
+        "day5": {
+          "title": "D5：南卡帕多奇亚 / 飞回伊斯坦布尔",
+          "content": "奥尔塔希萨尔、穆斯塔法帕夏、索贝索斯、索安勒谷步行、午餐、凯马克勒地下城。晚航班返伊斯坦布尔。宿伊斯坦布尔。",
+          "meals": "(餐食：早＋午)"
+        },
+        "day6": {
+          "title": "D6：离境",
+          "content": "早餐后退房（12:00前），送机。",
+          "meals": "(餐食：早)"
+        }
+      },
+      "includes": {
+        "title": "费用包含",
+        "accommodation": "5晚四星含早",
+        "tours": "4天英文小团（门票＋午餐＋交通）",
+        "flight1": "伊斯坦布尔→开塞利",
+        "flight2": "开塞利→伊斯坦布尔",
+        "transfers": "伊斯坦布尔机场/酒店接送"
+      },
+      "excludes": {
+        "title": "费用不含",
+        "personal": "个人消费",
+        "gratuities": "小费",
+        "meals": "行程外餐食",
+        "drinks": "饮料",
+        "insurance": "旅行保险"
+      },
+      "booking": {
+        "title": "立即预订！",
+        "subtitle": "预定您的6日体验",
+        "summary": "预订摘要",
+        "tourType": "行程类型：",
+        "tourName": "6日套餐",
+        "selectedDate": "已选日期：",
+        "pleaseSelect": "请选择"
+      }
+    },
+    "package4days2": {
+      "pageTitle": "4日｜卡帕多奇亚·帕穆卡莱·以弗所 | 夜行巴士体验 — Capahenas Travel",
+      "metaDescription": "4天畅玩文化与自然，含夜行巴士接驳的高性价比路线。",
+      "badge": "🚌 多城探险",
+      "title": "4日｜卡帕多奇亚·帕穆卡莱·以弗所（夜行巴士版）",
+      "subtitle": "3晚4天",
+      "description": "真实夜行巴士体验+经典古迹路线。",
+      "gallery": {
+        "title": "体验画廊",
+        "subtitle": "卡帕多奇亚·以弗所·帕穆卡莱"
+      },
+      "about": {
+        "title": "关于行程",
+        "subtitle": "4日套餐",
+        "duration": "3晚4天",
+        "destinations": "卡帕多奇亚、以弗所、帕穆卡莱",
+        "intro": "全年每日发团，可定制。",
+        "highlights": "亮点",
+        "highlight1": "4天领略土耳其文化与自然",
+        "highlight2": "伊斯坦布尔、卡帕多奇亚、以弗所、帕穆卡莱高效衔接",
+        "highlight3": "夜行巴士节省住宿成本"
+      },
+      "itinerary": {
+        "title": "行程",
+        "day1": {
+          "title": "D1：伊斯坦布尔→卡帕多奇亚（北线）",
+          "content": "清晨转机后北线：乌奇希萨尔、恰乌辛、帕夏贝、泽尔韦、代夫伦特、“三美”岩、乌尔居普与阿瓦诺斯。宿卡帕多奇亚。",
+          "meals": "(餐食：午)"
+        },
+        "day2": {
+          "title": "D2：南线→夜行巴士赴帕穆卡莱",
+          "content": "奥尔塔希萨尔、穆斯塔法帕夏、索贝索斯、索安勒谷2km、午餐、凯马克勒地下城。20:30夜行巴士。车上过夜。",
+          "meals": "(餐食：早＋午)",
+          "optional": "可选：热气球日出"
+        },
+        "day3": {
+          "title": "D3：帕穆卡莱→库萨达瑟",
+          "content": "早到帕穆卡莱，早餐后参观石灰华与希拉波利斯；古代泳池（自费）。午后转库萨达瑟。宿库萨达瑟。",
+          "meals": "(餐食：早＋午)"
+        },
+        "day4": {
+          "title": "D4：以弗所→飞返伊斯坦布尔",
+          "content": "大理石街、图书馆、大剧场、阿耳忒弥斯神庙、玛利亚之家。傍晚航班返伊斯坦布尔。",
+          "meals": "(餐食：早＋午)"
+        }
+      },
+      "includes": {
+        "title": "费用包含",
+        "accommodation": "2晚四星含早 + 1晚夜行巴士",
+        "tours": "4天英文小团（门票＋午餐＋交通）",
+        "flight1": "伊斯坦布尔→开塞利",
+        "flight2": "伊兹密尔→伊斯坦布尔",
+        "transfers": "境内机场/酒店接送"
+      },
+      "excludes": {
+        "title": "费用不含",
+        "personal": "个人消费",
+        "gratuities": "小费",
+        "meals": "行程外餐食",
+        "drinks": "饮料",
+        "balloon": "热气球自费",
+        "insurance": "旅行保险"
+      },
+      "booking": {
+        "title": "立即预订！",
+        "subtitle": "预定夜行巴士版4日套餐",
+        "summary": "预订摘要",
+        "tourType": "行程类型：",
+        "tourName": "4日套餐（夜行巴士）",
+        "selectedDate": "已选日期：",
+        "pleaseSelect": "请选择"
+      }
+    },
+    "package4days3": {
+      "pageTitle": "4日伊斯坦布尔城市套餐 | 深度导览 — Capahenas Travel",
+      "metaDescription": "4天领略蓝色清真寺、托普卡帕宫、圣索菲亚、博斯普鲁斯、集市与皇宫。",
+      "badge": "🏛️ 伊斯坦布尔城市套餐",
+      "title": "4日｜伊斯坦布尔城市精华",
+      "subtitle": "3晚4天",
+      "description": "蓝色清真寺 · 托普卡帕宫 · 圣索菲亚 · 海峡游船 · 大巴扎 · 多尔玛巴切宫",
+      "gallery": {
+        "title": "体验画廊",
+        "subtitle": "探索伊斯坦布尔历史瑰宝"
+      },
+      "about": {
+        "title": "关于行程",
+        "subtitle": "4日城市套餐",
+        "duration": "3晚4天",
+        "destinations": "伊斯坦布尔",
+        "available": "✓ 每日出发",
+        "customizable": "✓ 可定制",
+        "highlights": "亮点",
+        "highlight1": "托普卡帕宫、竞技场、蓝色清真寺、圣索菲亚",
+        "highlight2": "博斯普鲁斯游船 + 亚洲侧皇宫",
+        "highlight3": "大巴扎多彩氛围",
+        "highlight4": "历史与文化完美交织"
+      },
+      "itinerary": {
+        "title": "行程",
+        "day1": {
+          "title": "D1：抵达",
+          "content": "接机→酒店（13:00后入住）。自由活动。宿伊斯坦布尔。",
+          "meals": "(餐食：无)"
+        },
+        "day2": {
+          "title": "D2：老城步行",
+          "content": "竞技场→蓝色清真寺→圣索菲亚→午餐→地下水宫。宿伊斯坦布尔。",
+          "meals": "(餐食：早)"
+        },
+        "day3": {
+          "title": "D3：海峡巡游与皇宫",
+          "content": "香料市场→博斯普鲁斯游船→恰姆利贾山顶→贝伊莱贝伊宫。宿伊斯坦布尔。",
+          "meals": "(餐食：早＋午)"
+        },
+        "day4": {
+          "title": "D4：离境",
+          "content": "早餐后退房（12:00前），送机。",
+          "meals": "(餐食：早)"
+        }
+      },
+      "includes": {
+        "title": "费用包含",
+        "accommodation": "3晚四星含早",
+        "tours": "2天英文小团（门票＋午餐＋交通）",
+        "transfers": "市内机场/酒店接送"
+      },
+      "excludes": {
+        "title": "费用不含",
+        "personal": "个人消费",
+        "gratuities": "小费",
+        "meals": "行程外餐食",
+        "drinks": "饮料",
+        "insurance": "旅行保险"
+      },
+      "booking": {
+        "title": "立即预订！",
+        "subtitle": "预定4日伊斯坦布尔套餐",
+        "summary": "预订摘要",
+        "tourType": "行程类型：",
+        "tourName": "4日伊斯坦布尔",
+        "selectedDate": "已选日期：",
+        "pleaseSelect": "请选择"
+      }
+    },
+    "package5days": {
+      "pageTitle": "5日｜伊斯坦布尔与以弗所精华 — Capahenas Travel",
+      "metaDescription": "5天探索伊斯坦布尔地标与以弗所古城：含机票、住宿、导游。",
+      "badge": "✈️ 伊斯坦布尔 & 以弗所",
+      "title": "5日套餐｜伊斯坦布尔 & 以弗所",
+      "subtitle": "4晚5天",
+      "description": "双城文化融合的经典路线。",
+      "gallery": {
+        "title": "体验画廊",
+        "subtitle": "伊斯坦布尔 & 以弗所"
+      },
+      "about": {
+        "title": "关于行程",
+        "subtitle": "5日套餐",
+        "duration": "4晚5天",
+        "destinations": "伊斯坦布尔、以弗所",
+        "intro": "全年每日发团，可定制。",
+        "highlights": "亮点",
+        "highlight1": "托普卡帕宫与圣索菲亚等地标",
+        "highlight2": "图书馆与剧场构成的以弗所古城",
+        "highlight3": "讲解 + 舒适住宿"
+      },
+      "itinerary": {
+        "title": "行程",
+        "day1": {
+          "title": "D1：抵达",
+          "content": "接机→酒店入住（13:00后）。宿伊斯坦布尔。",
+          "meals": "(餐食：无)"
+        },
+        "day2": {
+          "title": "D2：历史伊斯坦布尔",
+          "content": "竞技场→蓝色清真寺→圣索菲亚→午餐→地下水宫。宿伊斯坦布尔。",
+          "meals": "(餐食：早)"
+        },
+        "day3": {
+          "title": "D3：上午海峡游船",
+          "content": "香料市场→博斯普鲁斯游船→自由活动。宿伊斯坦布尔。",
+          "meals": "(餐食：早)"
+        },
+        "day4": {
+          "title": "D4：以弗所往返一日",
+          "content": "清晨航班至伊兹密尔→以弗所古城与圣母玛利亚之家、阿耳忒弥斯神庙→傍晚返伊斯坦布尔。宿伊斯坦布尔。",
+          "meals": "(餐食：早＋午)"
+        },
+        "day5": {
+          "title": "D5：离境",
+          "content": "早餐后退房（12:00前），送机。",
+          "meals": "(餐食：早)"
+        }
+      },
+      "includes": {
+        "title": "费用包含",
+        "accommodation": "4晚四星含早",
+        "tours": "3天英文小团（门票＋午餐＋交通）",
+        "flight1": "伊斯坦布尔→伊兹密尔",
+        "flight2": "伊兹密尔→伊斯坦布尔",
+        "transfers": "境内机场/酒店接送"
+      },
+      "excludes": {
+        "title": "费用不含",
+        "personal": "个人消费",
+        "gratuities": "小费",
+        "meals": "行程外餐食",
+        "drinks": "饮料",
+        "insurance": "旅行保险"
+      },
+      "booking": {
+        "title": "立即预订！",
+        "subtitle": "预定5日套餐",
+        "summary": "预订摘要",
+        "tourType": "行程类型：",
+        "tourName": "5日套餐",
+        "selectedDate": "已选日期：",
+        "pleaseSelect": "请选择"
+      }
+    },
+    "package5days2": {
+      "pageTitle": "5日｜伊斯坦布尔·多尔玛巴切·布尔萨 — Capahenas Travel",
+      "metaDescription": "5天探访皇宫、海峡文化与布尔萨遗产：含住宿与导游。",
+      "badge": "🏛️ 伊斯坦布尔 & 布尔萨",
+      "title": "5日套餐｜伊斯坦布尔 & 布尔萨",
+      "subtitle": "4晚5天",
+      "description": "蓝色清真寺、托普卡帕、圣索菲亚、海峡、集市、皇宫与布尔萨。",
+      "gallery": {
+        "title": "体验画廊",
+        "subtitle": "伊斯坦布尔 & 布尔萨"
+      },
+      "about": {
+        "title": "关于行程",
+        "subtitle": "5日套餐",
+        "duration": "4晚5天",
+        "destinations": "伊斯坦布尔、布尔萨",
+        "available": "✓ 每日出发",
+        "customizable": "✓ 可定制",
+        "highlights": "亮点",
+        "highlight1": "皇宫与地标体系化体验",
+        "highlight2": "跨海峡视角 + 布尔萨清真寺与丝绸市集",
+        "highlight3": "文化+自然双重结合"
+      },
+      "itinerary": {
+        "title": "行程",
+        "day1": {
+          "title": "D1：抵达",
+          "content": "接机→入住（13:00后）自由活动。宿伊斯坦布尔。",
+          "meals": "(餐食：无)"
+        },
+        "day2": {
+          "title": "D2：老城步行",
+          "content": "竞技场→蓝色清真寺→圣索菲亚→午餐→地下水宫。宿伊斯坦布尔。",
+          "meals": "(餐食：早)"
+        },
+        "day3": {
+          "title": "D3：海峡巡游与皇宫",
+          "content": "香料市场→博斯普鲁斯游船→恰姆利贾山顶→多尔玛巴切宫。宿伊斯坦布尔。",
+          "meals": "(餐食：早＋午)"
+        },
+        "day4": {
+          "title": "D4：布尔萨一日",
+          "content": "驱车布尔萨：绿色清真寺与陵墓→缆车登乌鲁达山 → 大清真寺 → 丝绸集市。返伊斯坦布尔。宿伊斯坦布尔。",
+          "meals": "(餐食：早＋午)"
+        },
+        "day5": {
+          "title": "D5：离境",
+          "content": "早餐后退房，送机。",
+          "meals": "(餐食：早)"
+        }
+      },
+      "includes": {
+        "title": "费用包含",
+        "accommodation": "4晚四星含早",
+        "tours": "3天英文小团（门票＋午餐＋交通）",
+        "transfers": "伊斯坦布尔机场/酒店接送"
+      },
+      "excludes": {
+        "title": "费用不含",
+        "personal": "个人消费",
+        "gratuities": "小费",
+        "meals": "行程外餐食",
+        "drinks": "饮料",
+        "insurance": "旅行保险"
+      },
+      "booking": {
+        "title": "立即预订！",
+        "subtitle": "预定5日布尔萨套餐",
+        "summary": "预订摘要",
+        "tourType": "行程类型：",
+        "tourName": "5日布尔萨套餐",
+        "selectedDate": "已选日期：",
+        "pleaseSelect": "请选择"
+      }
+    },
+    "package6days2": {
+      "pageTitle": "6日｜以弗所·帕穆卡莱·安塔利亚·卡帕多奇亚 — Capahenas Travel",
+      "metaDescription": "古迹、温泉、海岸与奇岩全收录：含航班与导览。",
+      "badge": "✈️ 四地周游",
+      "title": "6日套餐｜以弗所·帕穆卡莱·安塔利亚·卡帕多奇亚",
+      "subtitle": "5晚6天",
+      "description": "一次旅程打包古迹+自然+海岸+地貌。",
+      "gallery": {
+        "title": "体验画廊",
+        "subtitle": "以弗所·帕穆卡莱·安塔利亚·卡帕多奇亚"
+      },
+      "about": {
+        "title": "关于行程",
+        "subtitle": "6日套餐",
+        "duration": "5晚6天",
+        "destinations": "以弗所、帕穆卡莱、安塔利亚、卡帕多奇亚",
+        "intro": "全年每日出发，可定制。",
+        "highlights": "亮点",
+        "highlight1": "以弗所遗迹与神庙",
+        "highlight2": "帕穆卡莱温泉梯田",
+        "highlight3": "安塔利亚海岸与旧城",
+        "highlight4": "卡帕多奇亚奇岩与洞居",
+        "highlight5": "专业讲解与舒适交通"
+      },
+      "itinerary": {
+        "title": "行程",
+        "day1": {
+          "title": "D1：飞伊兹密尔 / 以弗所",
+          "content": "清晨航班→以弗所核心景点+圣母玛利亚之家+阿耳忒弥斯神庙。宿库萨达瑟。",
+          "meals": "(餐食：午)"
+        },
+        "day2": {
+          "title": "D2：帕穆卡莱→安塔利亚",
+          "content": "石灰华、希拉波利斯、可选古代泳池→巴士赴安塔利亚。宿安塔利亚。",
+          "meals": "(餐食：早＋午)"
+        },
+        "day3": {
+          "title": "D3：佩尔盖·西岱·阿斯潘多斯",
+          "content": "古剧场、竞技场与瀑布全览。宿安塔利亚。",
+          "meals": "(餐食：早＋午)"
+        },
+        "day4": {
+          "title": "D4：安塔利亚市区→夜行巴士赴卡帕多奇亚",
+          "content": "缆车/船游、两瀑布、旧城。夜行巴士。车上过夜。",
+          "meals": "(餐食：早＋午)"
+        },
+        "day5": {
+          "title": "D5：北卡帕多奇亚",
+          "content": "乌奇希萨尔、恰乌辛、帕夏贝、泽尔韦、代夫伦特、“三美”、乌尔居普与阿瓦诺斯。宿卡帕多奇亚。",
+          "meals": "(餐食：早＋午)"
+        },
+        "day6": {
+          "title": "D6：南卡帕多奇亚→飞返伊斯坦布尔",
+          "content": "奥尔塔希萨尔、穆斯塔法帕夏、索贝索斯、索安勒谷、地下城→晚航班返伊斯坦布尔。",
+          "meals": "(餐食：早＋午)",
+          "optional": "可选：热气球日出"
+        }
+      },
+      "includes": {
+        "title": "费用包含",
+        "accommodation": "5晚四星含早",
+        "coach": "1晚夜行巴士（安塔利亚→卡帕多奇亚）",
+        "tours": "6天英文小团（门票＋午餐＋交通）",
+        "flight1": "伊斯坦布尔→伊兹密尔",
+        "flight2": "开塞利→伊斯坦布尔",
+        "transfers": "境内机场/酒店接送"
+      },
+      "excludes": {
+        "title": "费用不含",
+        "personal": "个人消费",
+        "gratuities": "小费",
+        "meals": "行程外餐食",
+        "drinks": "饮料",
+        "balloon": "热气球自费",
+        "insurance": "旅行保险"
+      },
+      "booking": {
+        "title": "立即预订！",
+        "subtitle": "预定您的6日四地套餐",
+        "summary": "预订摘要",
+        "tourType": "行程类型：",
+        "tourName": "6日套餐",
+        "selectedDate": "已选日期：",
+        "pleaseSelect": "请选择"
+      }
+    },
+    "package6days3": {
+      "pageTitle": "6日｜伊斯坦布尔·布尔萨·王子群岛 — Capahenas Travel",
+      "metaDescription": "6天海峡、山城与岛屿多场景体验：含住宿与导游。",
+      "badge": "🏛️ 三线组合套餐",
+      "title": "6日套餐｜伊斯坦布尔·布尔萨·王子群岛",
+      "subtitle": "5晚6天",
+      "description": "圣索菲亚、海峡、皇宫、蓝色清真寺、布尔萨、王子群岛。",
+      "gallery": {
+        "title": "体验画廊",
+        "subtitle": "城市·山地·海岛三重风貌"
+      },
+      "about": {
+        "title": "关于行程",
+        "subtitle": "6日套餐",
+        "duration": "5晚6天",
+        "destinations": "伊斯坦布尔、布尔萨、王子群岛",
+        "intro": "全年每日出发，可定制。",
+        "highlights": "亮点",
+        "highlight1": "三类地形一次打包",
+        "highlight2": "岛屿电动车环保游览",
+        "highlight3": "布尔萨山顶缆车视野"
+      },
+      "itinerary": {
+        "title": "行程",
+        "day1": {
+          "title": "D1：抵达",
+          "content": "接机→入住（13:00后）。宿伊斯坦布尔。",
+          "meals": "(餐食：无)"
+        },
+        "day2": {
+          "title": "D2：老城徒步",
+          "content": "竞技场→蓝色清真寺→圣索菲亚→午餐→地下水宫。宿伊斯坦布尔。",
+          "meals": "(餐食：早)"
+        },
+        "day3": {
+          "title": "D3：海峡与亚洲皇宫",
+          "content": "香料市场→海峡船游→恰姆利贾山→贝伊莱贝伊宫。宿伊斯坦布尔。",
+          "meals": "(餐食：早＋午)"
+        },
+        "day4": {
+          "title": "D4：王子群岛",
+          "content": "渡轮至大岛→电动车环岛→自由漫步海滨与林荫街。宿伊斯坦布尔。",
+          "meals": "(餐食：早＋午)"
+        },
+        "day5": {
+          "title": "D5：布尔萨日归",
+          "content": "绿色清真寺与陵墓→缆车登乌鲁达山→大清真寺→丝绸市集。返伊斯坦布尔。",
+          "meals": "(餐食：早＋午)"
+        },
+        "day6": {
+          "title": "D6：离境",
+          "content": "早餐后退房（12:00前），送机。",
+          "meals": "(餐食：早)"
+        }
+      },
+      "includes": {
+        "title": "费用包含",
+        "accommodation": "5晚四星含早",
+        "tours": "4天英文小团（门票＋午餐＋交通）",
+        "transfers": "市内机场/酒店接送"
+      },
+      "excludes": {
+        "title": "费用不含",
+        "personal": "个人消费",
+        "gratuities": "小费",
+        "meals": "行程外餐食",
+        "drinks": "饮料",
+        "insurance": "旅行保险"
+      },
+      "booking": {
+        "title": "立即预订！",
+        "subtitle": "预定6日三线套餐",
+        "summary": "预订摘要",
+        "tourType": "行程类型：",
+        "tourName": "6日三线套餐",
+        "selectedDate": "已选日期：",
+        "pleaseSelect": "请选择"
+      }
+    },
+    "package8days": {
+      "pageTitle": "8日｜伊斯坦布尔·卡帕多奇亚·以弗所·帕穆卡莱 — Capahenas Travel",
+      "metaDescription": "8天全景：城市地标+奇岩+古城+温泉，含机票与导览。",
+      "badge": "全景深度套餐",
+      "title": "8日全景土耳其",
+      "subtitle": "7晚8天",
+      "description": "一次旅行囊括四大经典区域。",
+      "gallery": {
+        "title": "8日行程画廊",
+        "subtitle": "8天的精华瞬间"
+      },
+      "about": {
+        "title": "关于行程",
+        "subtitle": "8日套餐",
+        "duration": "7晚8天",
+        "destinations": "伊斯坦布尔、卡帕多奇亚、以弗所、帕穆卡莱",
+        "highlights": "亮点",
+        "highlight1": "城市地标体系化体验",
+        "highlight2": "奇岩与洞居",
+        "highlight3": "古典大剧场与图书馆",
+        "highlight4": "温泉梯田与古城遗址",
+        "highlight5": "多段航程与顺畅衔接"
+      },
+      "itinerary": {
+        "title": "行程",
+        "day1": {
+          "title": "D1：抵达伊斯坦布尔",
+          "content": "接机→入住（13:00后）自由活动。",
+          "meals": "(餐食：无)"
+        },
+        "day2": {
+          "title": "D2：老城徒步",
+          "content": "竞技场→蓝色清真寺→圣索菲亚→地下水宫。宿伊斯坦布尔。",
+          "meals": "(餐食：早)"
+        },
+        "day3": {
+          "title": "D3：海峡船游→飞卡帕多奇亚",
+          "content": "香料市场→博斯普鲁斯→晚航班赴卡帕多奇亚。宿卡帕多奇亚。",
+          "meals": "(餐食：早)"
+        },
+        "day4": {
+          "title": "D4：北线",
+          "content": "乌奇希萨尔、恰乌辛、帕夏贝、泽尔韦、代夫伦特、“三美”、乌尔居普与阿瓦诺斯。",
+          "meals": "(餐食：早＋午)",
+          "optional": "可选：日出热气球"
+        },
+        "day5": {
+          "title": "D5：南线→飞伊兹密尔",
+          "content": "奥尔塔希萨尔、穆斯塔法帕夏、索贝索斯、索安勒谷、地下城→晚航班至库萨达瑟。",
+          "meals": "(餐食：早＋午)"
+        },
+        "day6": {
+          "title": "D6：以弗所 + 圣母玛利亚之家",
+          "content": "古城主要景点与神庙遗址。宿库萨达瑟。",
+          "meals": "(餐食：早＋午)"
+        },
+        "day7": {
+          "title": "D7：帕穆卡莱→飞返伊斯坦布尔",
+          "content": "石灰华与希拉波利斯→晚航班返伊斯坦布尔。",
+          "meals": "(餐食：早＋午)"
+        },
+        "day8": {
+          "title": "D8：离境",
+          "content": "早餐后退房（12:00前）送机。",
+          "meals": "(餐食：早)"
+        }
+      },
+      "includes": {
+        "title": "费用包含",
+        "accommodation": "7晚四星含早",
+        "tours": "6天英文小团（门票＋午餐＋交通）",
+        "flight1": "伊斯坦布尔→开塞利",
+        "flight2": "开塞利→伊兹密尔",
+        "flight3": "代尼兹利→伊斯坦布尔",
+        "transfers": "境内机场/酒店接送"
+      },
+      "excludes": {
+        "title": "费用不含",
+        "personal": "个人消费",
+        "gratuities": "小费",
+        "meals": "行程外餐食",
+        "drinks": "饮料",
+        "balloon": "热气球自费",
+        "insurance": "旅行保险"
+      },
+      "booking": {
+        "title": "立即预订！",
+        "subtitle": "预定8日全景套餐",
+        "summary": "预订摘要",
+        "tourType": "行程类型：",
+        "tourName": "8日套餐",
+        "selectedDate": "已选日期：",
+        "pleaseSelect": "请选择"
+      }
+    }
+  }
+}

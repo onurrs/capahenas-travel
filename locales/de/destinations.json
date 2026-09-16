@@ -1,0 +1,239 @@
+{
+  "destinations": {
+    "goreme": {
+      "badge": "🏛️ UNESCO-Welterbestätte",
+      "title": "Göreme Freilichtmuseum",
+      "subtitle": "Antike Felskirchen & byzantinische Fresken",
+      "description": "Treten Sie in die Geschichte ein und entdecken Sie eine der bemerkenswertesten Sammlungen byzantinischer Kunst und Architektur der Türkei, die in vulkanisches Gestein gehauen wurde.",
+      "gallery": {
+        "title": "Fotogalerie",
+        "subtitle": "Antike Felskirchen und byzantinische Fresken"
+      },
+      "about": {
+        "title": "Über das Museum",
+        "subtitle": "Geschichte und Bedeutung",
+        "paragraph1": "Der nahe gelegene Vulkan Erciyes brach vor Tausenden von Jahren aus. Die Landschaft wurde mit Asche und Lava bedeckt, die zu Tuffgestein erstarrten. Winderosion formte über viele Jahrhunderte die heute sichtbaren Feenkamine. Schon früh erkannten die Einheimischen, dass sie das weiche Gestein zu Häusern und Kirchen aushöhlen konnten.",
+        "paragraph2": "Kappadokien war ein Zufluchtsort für die ersten Christen, die die Region mit Symbolen und Kunst schmückten. Die Kirchen florierten zudem unter der Patronage des heiligen Basilius von Cäsarea, eines der drei kappadokischen Kirchenväter, die die frühchristliche Theologie voranbrachten.",
+        "paragraph3": "Während die Heiligtümer aus dem 4. Jahrhundert zahlreiche Beispiele byzantinischer Kunst enthalten, weisen spätere Bauten reichere Fresken auf. Wände und Decken sind mit biblischen Szenen geschmückt – ihr Hauptzweck war es, Menschen zu unterweisen, die weder lesen noch schreiben konnten.",
+        "paragraph4": "Zur Zeit der osmanischen Herrschaft wurden die Höhlen von den Einheimischen trotz ihrer historischen Bedeutung als Taubenschläge genutzt. Um die Fresken in ihren ursprünglichen Zustand zu versetzen, waren jahrelange Restaurierungsarbeiten nötig. Die meisten Fresken gehören seit 1984 zum UNESCO-Welterbe und datieren aus dem 9. bis 12. Jahrhundert."
+      },
+      "churches": {
+        "title": "Berühmte Kirchen",
+        "subtitle": "Bekannte Wahrzeichen",
+        "tokali": {
+          "name": "Tokalı – Schnallenkirche",
+          "description": "Diese Kirche enthält Fresken aus dem 9. Jahrhundert, die das Leben Jesu und der zwölf Apostel darstellen. Sie besteht aus vier Räumen; einer konzentriert sich auf Szenen des Neuen Testaments sowie auf das Leben des hl. Basilius."
+        },
+        "elmali": {
+          "name": "Elmalı – Apfelkirche",
+          "description": "Dieses ebenso bedeutende Bauwerk wurde um 1050 errichtet und weist ein griechisches Kreuz auf, das in die Pfeiler eingearbeitet ist, die die zentrale Kuppel tragen. Dargestellt sind unter anderem biblische Szenen wie das Letzte Abendmahl."
+        },
+        "barbara": {
+          "name": "Barbara-Kirche",
+          "description": "Die Barbara-Kirche aus dem 11. Jahrhundert ist der Märtyrin Barbara gewidmet, die von ihrem Vater getötet wurde, weil sie den christlichen Glauben praktizierte."
+        },
+        "yilanli": {
+          "name": "Yılanlı – Schlangenkirche",
+          "description": "Benannt ist die Kirche nach einem Fresko, das den heiligen Georg im Kampf mit dem Drachen zeigt. Sie hat eine niedrige Decke und ein langes Mittelschiff."
+        },
+        "carikli": {
+          "name": "Çarıklı – Sandalenkirche",
+          "description": "Der Name leitet sich von den zwei Fußabdrücken am unteren Rand des Himmelfahrtsfreskos ab. Die Fresken zeigen vielfältige Motive, darunter Geburt Christi, Kreuzigung, Taufe und die Anbetung der Heiligen Drei Könige."
+        }
+      }
+    },
+    "kaymakli": {
+      "badge": "🏛️ Antike Untergrundstadt",
+      "title": "Untergrundstadt Kaymaklı",
+      "subtitle": "Eine der größten Untergrundstädte Kappadokiens",
+      "description": "Entdecken Sie den faszinierenden, achtstöckigen unterirdischen Stadtkomplex mit seinem Labyrinth aus Tunneln, Räumen und antiken Wohnbereichen, die in den Fels gehauen sind.",
+      "gallery": {
+        "title": "Fotogalerie",
+        "subtitle": "Entdecken Sie den unterirdischen Stadtkomplex"
+      },
+      "about": {
+        "title": "Über die Untergrundstadt Kaymaklı",
+        "subtitle": "Geschichte und Bedeutung",
+        "paragraph1": "Kaymaklı liegt 20 km von Nevşehir entfernt und hieß auf Griechisch Enegüp. Heute gilt es als eine der größten Untergrundstädte Kappadokiens. Ihre Geschichte reicht bis in die hethitische und phrygische Zeit zurück und sie wurde über die Jahrhunderte erweitert. Invasoren trieben die Menschen Zentralanatoliens dazu, Schutz zu suchen. In der Republikzeit nutzten Bauern die Höhlen als Lager für Ernten und als Ställe für Vieh. 1964 wurde die Anlage für die Öffentlichkeit zugänglich gemacht, als ihr touristisches Potenzial erkannt wurde.",
+        "paragraph2": "Kaymaklı ist der zweitgrößte unterirdische Stadtkomplex Kappadokiens. Er besteht aus einem Labyrinth aus Tunneln und Räumen über acht Ebenen – öffentlich zugänglich sind jedoch nur vier. Diese Bereiche sind elektrifiziert, um den Besuch angenehmer zu machen. Nach dem Ticketkauf weisen rote Pfeile den Weg nach unten, blaue Pfeile den Weg nach oben.",
+        "paragraph3": "Im ersten Stock befand sich der Stall der troglodytischen Stadt. Auf dem Weg durch Tunnel und Korridore sieht man runde Mühlsteintüren, die Durchgänge verschließen. Tiefer unten finden sich eine Kirche, Wohnbereiche, Lagerräume sowie Belüftungsschächte, die bis ganz nach unten reichen.",
+        "paragraph4": "Eine weitere bedeutende Untergrundstadt liegt in der Nähe von Kaymaklı: Derinkuyu, die größte troglodytische Höhlenstadt Kappadokiens."
+      }
+    },
+    "derinkuyu": {
+      "badge": "🏛️ Größte Untergrundstadt",
+      "title": "Untergrundstadt Derinkuyu",
+      "subtitle": "Die größte Untergrundstadt in Kappadokien",
+      "description": "Erkunden Sie die tiefste Untergrundstadt Kappadokiens, deren Ursprünge bis 3000 v. Chr. reichen, mit 13 Ebenen bis 85 Meter unter der Erde.",
+      "gallery": {
+        "title": "Fotogalerie",
+        "subtitle": "Entdecken Sie den unterirdischen Stadtkomplex"
+      },
+      "about": {
+        "title": "Über die Untergrundstadt Derinkuyu",
+        "subtitle": "Geschichte und Bedeutung",
+        "overview": "Überblick",
+        "paragraph1": "Man geht davon aus, dass die kappadokischen Untergrundstädte, die in der proto-hethitischen Zeit um 3000 v. Chr. entstanden, in der byzantinischen Epoche intensiv genutzt wurden. Dafür spricht eine marmorne Adlerstatue aus der römischen Zeit, die in einem Bereich der Untergrundstadt Derinkuyu gefunden wurde, der nicht öffentlich zugänglich ist. Nach der Schlacht von Malazgirt 1071 kamen die Türken in die Region.",
+        "paragraph2": "Es ist bekannt, dass die ersten Christen, die der römischen Verfolgung entkamen, über Mesopotamien nach Kayseri und von dort nach Kappadokien gelangten. Sie lebten in der Untergrundstadt Derinkuyu. Auch Überreste der assyrischen Kolonien finden sich hier. Diese verborgene Welt – schwer zu finden und schwer zu betreten – schützte die ersten Christen vor römischen Soldaten und arabischen Überfällen. Ihre geheimnisvolle Architektur lässt manche Reisende sogar über eine Entstehung durch Außerirdische spekulieren.",
+        "paragraph3": "Bis in die 1830er Jahre gab es in Derinkuyu keine Siedlungen über der Erde. 1963 wurde die Untergrundstadt zufällig entdeckt und 1967 für Besucher geöffnet. Der Name leitet sich von 52 Trinkbrunnen mit 60–70 m Tiefe ab. Bislang wurden acht Ebenen mit insgesamt rund 4 km² Fläche geöffnet. Die freigelegten Ebenen reichen 50 m in die Tiefe; vollständig gereinigt könnte das System 85 m und 12–13 Ebenen erreichen. Erstaunlich ist, wie große Menschenmengen über lange Zeit in solcher Tiefe leben konnten, ohne an die Oberfläche zu müssen.",
+        "paragraph4": "Zur Erinnerung: Die Untergrundstadt Derinkuyu hat acht zugängliche Ebenen. Man gelangt teilweise durch enge Tunnel bis auf 50 m Tiefe. Wer zu Klaustrophobie neigt, könnte Schwierigkeiten haben – doch am Ende werden Sie sagen: Es hat sich gelohnt."
+      }
+    },
+    "ihlara": {
+      "badge": "🏞️ Majestätische Schlucht",
+      "title": "Ihlara-Tal",
+      "subtitle": "Eine der bedeutendsten Schluchten der Welt",
+      "description": "Erkunden Sie die großartige 14 Kilometer lange Schlucht mit 120 Metern Tiefe, in der Hunderte in Fels gehauener Kirchen und Tausende historischer Siedlungsstätten liegen.",
+      "gallery": {
+        "title": "Fotogalerie",
+        "subtitle": "Entdecken Sie die großartige Schlucht"
+      },
+      "about": {
+        "title": "Über das Ihlara-Tal",
+        "subtitle": "Geschichte und Bedeutung",
+        "overview": "Überblick",
+        "paragraph1": "Das Ihlara-Tal liegt im Bezirk Güzelyurt von Aksaray und gehört zu den bedeutendsten Canyons der Welt. Mit seiner Länge von 14 Kilometern, 120 Metern Tiefe und tausenden Siedlungsstätten ist es einzigartig. Es gilt als der größte Canyon, in dem Menschen in der Geschichte dauerhaft lebten. Rund um das Tal finden sich hunderte Kirchen und Unterkünfte, Feenkamine und leicht zu bearbeitende Felsen, was es zu einem wichtigen Zentrum von Kultur und Zivilisation machte.",
+        "paragraph2": "Beim Verlassen des Tals begegnen Ihnen die einzigartige Schönheit der Feenkamine und die Kathedrale von Selime. In Kappadokien wurden in der Vergangenheit, wie im alten Ägypten, Katzen mumifiziert. Im Ihlara-Tal wurden bisher 17 Mumien gefunden. Zwölf sind im Museum von Aksaray ausgestellt, die übrigen fünf im Museum von Niğde. Die meisten stammen aus dem 10. bis 13. Jahrhundert. Die Göttin mit Katzenkopf „Bast“ soll erstmals Katzen einbalsamiert haben – eine Tradition, die nach Anatolien gelangte und in Kappadokien fortlebte.",
+        "agacalti": "Ağaçaltı-Kirche",
+        "paragraph3": "Ağaçaltı-Kirche (Daniel Pantanassa): Der zentrale Bereich der Anlage hat einen freien Kreuzgrundriss. Eine hohe, ringförmige Kuppel ruht auf Zwickeln; die Kreuzarme haben Tonnen mit Zwickeln. Die Fresken datieren vor die Zeit des Ikonoklasmus oder in die Zeit zwischen dem 9. und 11. Jahrhundert. Dargestellt sind u. a. Verkündigung, Geburt, Anbetung durch die drei Magier, Flucht nach Ägypten, Heilige Taufe und Koimesis (Entschlafung Mariens). Sie befindet sich im Dorf Belisırma im Ihlara-Tal.",
+        "historical": "Historische Bedeutung",
+        "paragraph4": "Die Kirche hat einen unregelmäßigen, hexagonalen Grundriss und ein Flachdach. Die Apsis ist nach Osten hin konkav eingetieft. Der eingestürzte Apsisbereich dient heute als Zugang, der ursprüngliche Eingang lag an der Nordwand. Lady Tamar, die Frau des Amirarzes Basileios, schmückte die Kirche während der Herrschaft von Sultan Mesut II. Die Fresken zeigen Szenen der Deesis, der Verklärung und der Himmelfahrt des Seldschuken-Sultans Mesut."
+      }
+    },
+    "soganli": {
+      "badge": "🏞️ Friedliches Tal",
+      "title": "Soğanlı-Tal",
+      "subtitle": "Antike Klöster & Höhlenkirchen",
+      "description": "Entdecken Sie ein stilles, V-förmiges Tal mit über 20 Kirchen, Klosterhöfen und hunderten Taubenhäusern aus dem 10.–11. Jahrhundert.",
+      "gallery": {
+        "title": "Fotogalerie",
+        "subtitle": "Erkunden Sie das friedliche Tal"
+      },
+      "about": {
+        "title": "Über das Soğanlı-Tal",
+        "subtitle": "Geschichte und Bedeutung",
+        "overview": "Überblick",
+        "paragraph1": "Soğanlı ist ein ruhiges Tal mit sowohl Hofklöstern als auch Höhlenkirchen aus dem 10. und 11. Jahrhundert. Es liegt abgelegen, etwa 40 Kilometer südöstlich von Nevşehir und rund eine Autostunde von Göreme entfernt. Historisch und landschaftlich mit dem Ihlara-Tal und dem Göreme-Freilichtmuseum vergleichbar, erhält es dennoch deutlich weniger Besucher.",
+        "paragraph2": "In der Gegend gibt es über 20 Kirchen, von denen etwa zehn besonders sehenswert sind. An den Talflanken befinden sich hunderte Taubenhäuser und Gräber aus der Römerzeit.",
+        "naturalbeauty": "Natur & Geschichte",
+        "paragraph3": "Das Soğanlı-Tal ist ideal, um antike Kirchen zu erkunden und in Ruhe zu wandern. Die meisten Besucher verbringen nur zwei Stunden hier – ein Tagesausflug lohnt sich jedoch.",
+        "paragraph4": "Dieses grüne, offene V-förmige Tal wurde von zwei Bächen geformt. Während Vögel über Ihnen kreisen, hallt das Wasser an den Talwänden wider. Die reiche Geschichte und die Szenerie machen das Soğanlı-Tal zu einem beeindruckenden Reiseziel.",
+        "ancient": "Antike Dorfstätte",
+        "paragraph5": "Hier befand sich eine antike Dorfanlage mit hunderten Steinzimmern und Höhlen über dem Ortszentrum. Die Menschen höhlten den Hang aus und errichteten davor Mauerwerksräume. Unterhalb der Häuser liegen die Fundamente einer Kirche aus dem 6. Jahrhundert. Mehrere Kirchen und Klöster sind vom Dorfzentrum aus zu Fuß erreichbar."
+      }
+    },
+    "selime": {
+      "badge": "⛪ Felsgeschnittenes Wunder",
+      "title": "Kloster Selime",
+      "subtitle": "Größtes religiöses Bauwerk in Kappadokien",
+      "description": "Erkunden Sie das bemerkenswerte, in den Fels gehauene Kloster mit einer kathedralgroßen Kapelle im vulkanischen Tuff – mit originalen Fresken und verborgenen Gängen.",
+      "gallery": {
+        "title": "Fotogalerie",
+        "subtitle": "Erkunden Sie das Felskloster"
+      },
+      "about": {
+        "title": "Über das Kloster Selime",
+        "subtitle": "Geschichte und Bedeutung",
+        "overview": "Überblick",
+        "paragraph1": "Das Kloster Selime ist die größte religiöse Anlage der Region Kappadokien. Seine Kapelle in Kathedralgröße ist direkt in den vulkanischen Tuff gehauen. Originalfresken sind noch sichtbar, auch wenn einige durch Witterung beschädigt wurden. Am Ort finden sich Spuren früher Zivilisationen: Hethiter, Perser, Römer, frühe Christen, Byzantiner, Seldschuken und Osmanen. Zwei Felspfeiler teilen die Kirche in drei Schiffe; zudem gibt es Küchen, Ställe und Mönchsquartiere mit alten Fresken.",
+        "historical": "Historische Bedeutung",
+        "paragraph2": "Das Kloster Selime geht auf das 8. oder 9. Jahrhundert zurück. Der obere Bereich wirkt leicht befestigt, mit gut erhaltenen Mauern, Gräben, steilen Felstreppen und versteckten Gängen. Im 10./11. Jahrhundert wurde die Anlage zu einem Karawanserei-Standort umgewandelt, der Händlern und Reisenden auf der Seidenstraße Schutz bot. Die Seldschuken förderten so den Handel, bevor schnellere Seewege entdeckt wurden. Im 16. Jahrhundert wurde das Kloster aufgegeben.",
+        "location": "Lage & Zugang",
+        "paragraph3": "Das Kloster Selime liegt 28 km von Aksaray am Ihlara-Tal in Kappadokien. Eine zweistündige Wanderung ab Ihlara führt entlang des Melendiz-Flusses, vorbei am Dorf Belisırma und Felskirchen, bis zum Kloster. Alternativ ist ein Besuch im Rahmen einer Tagestour ab Göreme möglich.",
+        "turbe": "Selime-Sultan-Türbe",
+        "paragraph4": "Im Dorf Selime befindet sich das monumentale Grab „Selime Sultan Türbe“ im architektonischen Stil des 13. Jahrhunderts – ein einzigartiges Beispiel in Anatolien."
+      }
+    },
+    "pasabag": {
+      "badge": "🏔️ Mönchstal",
+      "title": "Feenkamine von Paşabağ",
+      "subtitle": "Spektakuläre pilzförmige Felsnadeln",
+      "description": "Erkunden Sie die spektakulärsten Feenkamine Kappadokiens, wo Mönche ihre Wohnungen 15 Meter über dem Boden in großartige, kegelgekrönte Felsnadeln gehauen haben.",
+      "gallery": {
+        "title": "Fotogalerie",
+        "subtitle": "Erkunden Sie die Feenkamine"
+      },
+      "about": {
+        "title": "Über die Feenkamine von Paşabağ",
+        "subtitle": "Geschichte und Bedeutung",
+        "overview": "Überblick",
+        "paragraph1": "Paşabağ, „Weinberg des Pascha“, liegt an der Zelve-Straße zwischen dem beliebten Dorf Göreme und der traditionellen Töpferstadt Avanos. Das Gelände wird von spektakulären kegelgekrönten Felsnadeln dominiert, den sogenannten Feenkaminen. Ein Pascha war ein hoher osmanischer Beamter bei der Eroberung der Region. Paşabağ – auch „Mönchstal“ genannt – diente Mönchen als Zuflucht, die in die weichen Felskegel ihre Behausungen schnitten.",
+        "simeon": "Heiliger-Simeon-Einsiedelei",
+        "paragraph2": "Der hl. Simeon, einer der Mönche, die in Kappadokien Zuflucht suchten, war von der Schönheit und Einsamkeit dieses Ortes angezogen. Er errichtete seine Zelle 15 m über dem Boden in einem der Feenkamine und stieg nur herab, um Speisen- und Wasseropfer seiner Anhänger entgegenzunehmen. In diesem Tal finden sich viele in den Fels gehauene Mönchsbehausungen. Bereits im 4. Jahrhundert lebten Mönche in Kappadokien. Sie höhlten das weiche vulkanische Material aus, schnitten schmale Treppen zu ihren konischen Zellen, von denen aus man die Umgebung überblicken kann. In der Nähe liegen verlassene Eremitenhöhlen und eine dem hl. Simeon geweihte Kapelle.",
+        "fairies": "Die Feenkamine",
+        "paragraph3": "Die Feenkamine im Mönchstal sind die spektakulärsten in Kappadokien. Einige Säulen sind 15 Meter hoch und teilen sich in doppelte Kamine; andere tragen sogar drei „Hüte“. Diese pilzförmigen Pfeiler entstanden durch Wind und Regen, die das weiche Gestein formten – der Volksmund schreibt sie jedoch Feen zu, die unterirdische Wohnungen schufen.",
+        "visiting": "Besuch von Paşabağ",
+        "paragraph4": "Das Mönchstal liegt nur wenige Kilometer von Göreme entfernt und lässt sich gut mit dem Freilichtmuseum oder dem von Menschenhand angelegten Taubenschlag im Pigeon Valley kombinieren. Auch auf Tagesausflügen durch Kappadokien wird häufig ein Stopp eingelegt."
+      }
+    },
+    "uchisar": {
+      "badge": "🏰 Höchster Punkt in Kappadokien",
+      "title": "Burg Uçhisar",
+      "subtitle": "Antike Felsenfestung mit Panoramablicken",
+      "description": "Genießen Sie atemberaubende Ausblicke vom höchsten Punkt Kappadokiens, wo mehrstöckige, in den Fels gehauene Räume durch Treppen, Tunnel und Gänge verbunden sind.",
+      "gallery": {
+        "title": "Fotogalerie",
+        "subtitle": "Erkunden Sie die antike Felsenfestung"
+      },
+      "about": {
+        "title": "Über die Burg Uçhisar",
+        "subtitle": "Geschichte und Bedeutung",
+        "overview": "Überblick",
+        "paragraph1": "Uçhisar liegt am höchsten Punkt Kappadokiens an der Straße Nevşehir–Göreme, nur 5 km von Göreme entfernt. Vom Gipfel der Burg Uçhisar eröffnet sich ein großartiger Blick über die Umgebung mit dem Erciyes in der Ferne.",
+        "architecture": "Architektur & Struktur",
+        "paragraph2": "Viele Räume sind in den Fels gehauen und durch Treppen, Tunnel und Gänge miteinander verbunden. An den Eingängen befinden sich Mühlsteintüren, mit denen sich der Zugang beschränken ließ. Aufgrund von Erosion sind nicht alle Räume des mehrstöckigen Burgfelsens begehbar. Die meisten Räume auf der Nordseite dienen heute als Taubenhäuser (Taubenschläge). Bauern sammelten dort den wertvollen Taubenkot als natürlichen Dünger für ihre Obstgärten.",
+        "pigeon": "Taubental",
+        "paragraph3": "Weitere Taubenhäuser befinden sich im Taubental (türkisch Güvercinlik Vadisi), das Uçhisar mit Göreme verbindet. Um die Vögel anzulocken, wurden viele dieser Höhlen weiß bemalt.",
+        "roman": "Römische Gräber & Kirchen",
+        "paragraph4": "Die drei Feenkamine östlich, nördlich und westlich von Uçhisar wurden in der Römerzeit zu Gräbern ausgehöhlt. Die Eingänge dieser Felsgräber sind nach Westen ausgerichtet; die Verstorbenen wurden auf Klinen bzw. Steinplatten gebettet.",
+        "paragraph5": "Sowohl innerhalb als auch außerhalb der Burg wurden zahlreiche Felskirchen entdeckt – wohl aufgrund der Nähe zu Göreme mit seinen vielen Kirchen und Klöstern.",
+        "defense": "Verteidigungstunnel & Legende",
+        "paragraph6": "Die einfachen byzantinischen Gräber auf dem Burgplateau sind durch Plünderung und Erosion wenig beeindruckend. Einer Legende nach schützten Zitadellen wie Uçhisar und Ortahisar ihre Bevölkerung durch lange Verteidigungstunnel, die sich von Uçhisar bis Ortahisar und Ürgüp (Başhisar) erstreckten. Auch wenn Teile der Tunnel eingestürzt sind, ist diese Theorie wegen der großen Distanzen populär."
+      }
+    },
+    "cavusin": {
+      "badge": "🏘️ Historisches Dorf",
+      "title": "Dorf Çavuşin",
+      "subtitle": "Antike Felswohnungen & Kirchen",
+      "description": "Erkunden Sie ein charmantes Dorf mit Feenkaminen, noch heute bewohnten Felswohnungen und historischen Kirchen aus der Zeit der christlichen Mönche.",
+      "gallery": {
+        "title": "Fotogalerie",
+        "subtitle": "Erkunden Sie das historische Dorf"
+      },
+      "about": {
+        "title": "Über das Dorf Çavuşin",
+        "subtitle": "Geschichte und Bedeutung",
+        "overview": "Überblick",
+        "paragraph1": "Çavuşin, ein reizvolles, touristisches Dorf, liegt an der Straße Göreme–Avanos in Kappadokien. Christen, die in der Römerzeit hier lebten, schufen Wohnräume in den Hohlräumen der Feenkamine, um der Verfolgung zu entgehen und ihren Glauben freier zu leben. Viele Felswohnungen sind bis heute bewohnt.",
+        "historical": "Historische Stätten",
+        "paragraph2": "Das Dorf beherbergt zahlreiche historische Stätten, darunter Ruinen aus der Zeit der christlichen Mönche sowie mehrere Kirchen Kappadokiens.",
+        "exploring": "Das Dorf erkunden",
+        "paragraph3": "Çavuşin ist klein und malerisch – umgeben von Feenkaminen und in den Fels gearbeiteten Strukturen. Beginnen Sie Ihren Rundgang mit den bekannten Kirchen und Ruinen.",
+        "churches": "Kirchen & Sehenswürdigkeiten",
+        "paragraph4": "Rund um das Dorf gibt es viele Kirchen. Weitere lohnende Ziele sind die Ruinen von Çavuşin sowie die Johannes-Kirche und die Çavuşin-Kirche."
+      }
+    },
+    "zelve": {
+      "badge": "🏛️ Klostertal",
+      "title": "Zelve Freilichtmuseum",
+      "subtitle": "Am frühesten besiedeltes Klostertal",
+      "description": "Entdecken Sie dramatische Täler, Feenkamine und antike Klöster aus dem 9.–13. Jahrhundert in einem der spektakulärsten Freilichtmuseen Kappadokiens.",
+      "gallery": {
+        "title": "Fotogalerie",
+        "subtitle": "Erkunden Sie das Klostertal"
+      },
+      "about": {
+        "title": "Über das Zelve Freilichtmuseum",
+        "subtitle": "Geschichte und Bedeutung",
+        "overview": "Überblick",
+        "paragraph1": "Das Zelve-Tal ist heute das Zelve-Freilichtmuseum. Es zählt zu den am frühesten besiedelten und später verlassenen Klostertälern Kappadokiens.",
+        "dramatic": "Dramatische Landschaft",
+        "paragraph2": "Auch wenn die Kirchen nicht so zahlreich oder eindrucksvoll sind wie im Göreme-Freilichtmuseum, hat Zelve seinen eigenen Reiz. Die Topografie ist dramatischer mit Zacken, Spitzen, steilen Tälern und Graten. Zudem hat man mehr Freiheit, zu klettern und alle Winkel zu erkunden.",
+        "valleys": "Drei Täler",
+        "paragraph3": "Die größte Besonderheit Zelves sind seine drei Täler. Zwei sind durch Tunnel verbunden und enthalten verlassene Wohnstätten und Kirchen. Anders als das kompakte Göreme bietet Zelve rund 1,5 km Besichtigungsstrecke. Vom 9. bis 13. Jahrhundert diente es als Klosterrückzugsort, in den sich Christen vor persischen und arabischen Überfällen flüchteten. Die geschwungenen Talwände und Felsnadeln sind malerisch und ideal zum Beobachten.",
+        "monastery": "Klosterkomplex & Kirchen",
+        "paragraph4": "Der Komplex umfasst viele Räume und Gänge. Auffällig sind spitze Feenkamine mit mächtigen Schäften, etwa 12 m über dem Talboden. In Zelve befanden sich die ersten Seminare Kappadokiens zur Priesterausbildung. Die Direkli-Kirche (Säulenkirche) stammt aus den frühen Klosterjahren Zelves und liegt am Fuß des Hangs. Hauptdekor sind kreuzförmige Hochreliefs im Geist des Ikonoklasmus; außer einigen roten Mustern gibt es kaum Schmuck. Sehenswert sind auch die Kirchen Balıklı, Üzümlü und Geyikli aus vorikonoklastischer Zeit."
+      }
+    }
+  }
+}

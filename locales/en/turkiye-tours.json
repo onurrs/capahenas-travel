@@ -1,0 +1,1294 @@
+{
+  "turkiye-tours": {
+    "antalya": {
+      "badge": "🏖️ City & Nature Tour",
+      "title": "Antalya City Tour",
+      "subtitle": "Full-Day City Tour with Waterfalls and Cable Car",
+      "description": "Experience Antalya's stunning waterfalls, panoramic views from Tunektepe, and the historic charm of Old Town.",
+      "gallery": {
+        "title": "Experience Gallery",
+        "subtitle": "Discover Antalya's waterfalls, cable car views, and historic old town"
+      },
+      "about": {
+        "title": "About the Tour",
+        "subtitle": "Waterfalls, Cable Car & Old Town",
+        "intro": "Join us on an unforgettable journey through Antalya, one of Turkey's premier holiday destinations, boasting stunning coves, pristine beaches, and a vibrant city center. Our full-day Antalya City Tour is designed to showcase the must-see attractions of this enchanting city.",
+        "karpuz": "Karpuzkaldıran Waterfall - Nature's Power",
+        "karpuz-desc": "Witness the awe-inspiring power of nature as we visit one of Anatolia's most magnificent waterfalls, cascading 45 meters into the sea. Capture the beauty of countless rainbows amidst the breathtaking landscape. This unique waterfall creates a spectacular scene where fresh water meets the Mediterranean Sea.",
+        "duden": "Duden Waterfall - Serene Beauty",
+        "duden-desc": "Explore this natural wonder, visited by over 100,000 people annually. Immerse yourself in the serene surroundings, take leisurely walks in the surrounding park, and capture memorable moments with your camera. The lush greenery and peaceful atmosphere make this a perfect spot for relaxation and photography.",
+        "tun": "Tunektepe Cable Car - Panoramic Views",
+        "tun-desc": "Enjoy unparalleled views of Antalya from the summit of Tunektepe Mountain. Glide up 800 meters above sea level for panoramic vistas of Konyaaltı Beach, Sıcan Island, and the picturesque harbor. The cable car ride itself is an unforgettable experience, offering breathtaking views at every moment.",
+        "note": "Please Note: Tunektepe Cable Car is closed on Mondays, and a scenic boat tour will be arranged as an alternative, allowing you to explore Antalya's stunning coastline from the water.",
+        "oldtown": "Old Town (Kaleici) - Historic Charm",
+        "oldtown-desc": "Step back in time as we wander through the historic streets of Kaleici, also known as Old Town. Marvel at architectural wonders spanning centuries, from the Bergama Kingdom to the Ottoman Empire. Discover charming narrow streets, historic mansions, boutique hotels, and traditional shops. The ancient harbor and Hadrian's Gate are among the highlights of this fascinating district.",
+        "highlights": "Tour Highlights",
+        "highlight1": "Karpuzkaldıran Waterfall - 45-meter cascade into the Mediterranean Sea",
+        "highlight2": "Duden Waterfall - Serene natural park with walking paths",
+        "highlight3": "Tunektepe Cable Car - 800m elevation with panoramic city views",
+        "highlight4": "Konyaaltı Beach Views - Spectacular Mediterranean coastline",
+        "highlight5": "Old Town (Kaleici) - Historic streets and Ottoman architecture",
+        "highlight6": "Hadrian's Gate - Ancient Roman triumphal arch",
+        "highlight7": "Old Harbor - Picturesque marina and yacht harbor",
+        "highlight8": "Delicious Lunch - Traditional Turkish cuisine included",
+        "itinerary": "Tour Itinerary",
+        "morning": "Morning: Departure from your hotel after breakfast",
+        "stop1": "First Stop: Karpuzkaldıran Waterfall (45-minute photo break)",
+        "stop2": "Second Stop: Duden Waterfall and park stroll",
+        "lunch": "Lunch: Delicious meal at a local restaurant",
+        "afternoon": "Afternoon: Tunektepe Cable Car for panoramic views (or boat tour on Mondays)",
+        "stop3": "Final Stop: Old Town (Kaleici) historic walking tour",
+        "return": "Return: Drop-off at your hotel with cherished memories",
+        "note2": "Note: Guests staying more than 30 km outside Antalya may incur additional transportation fees.",
+        "contact": "Please send us an email from info@capahenastravel.com to get further information and make your booking."
+      },
+      "includes": {
+        "title": "Tour Includes",
+        "guide": "Professional tour guide",
+        "fees": "Entrance Fees",
+        "lunch": "Open Buffet Lunch",
+        "transport": "Air Conditioned Transport",
+        "taxes": "Taxes"
+      },
+      "info": {
+        "title": "Additional Information",
+        "pickupTitle": "Pick-up Locations",
+        "pickupDesc": "Hotels in Antalya area",
+        "pickupNote": "Hotels 30+ km outside Antalya may require extra charge",
+        "durationTitle": "Tour Duration",
+        "durationDesc": "Full Day Tour (ends around 4:30 PM)",
+        "dropoffTitle": "Drop-off Locations",
+        "dropoffDesc": "Your hotel in Antalya",
+        "dropoffNote": "Hotels 30+ km outside Antalya may require extra charge for return transfer"
+      },
+      "excludes": {
+        "title": "Tour Excludes",
+        "drinks": "Drinks",
+        "personal": "Personal Expenses",
+        "tips": "Tips to the driver and guide"
+      },
+      "booking": {
+        "title": "Book Your Tour Now!",
+        "subtitle": "Reserve your Antalya experience",
+        "selectDate": "Select Your Date",
+        "persons": "Number of Persons",
+        "personsLabel": "Persons",
+        "minimumNote": "Minimum 1 person required",
+        "yourDetails": "Your Details",
+        "fullName": "Full Name *",
+        "fullNamePlaceholder": "Enter your full name",
+        "email": "Email Address *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "Hotel Name (Optional)",
+        "hotelPlaceholder": "Your hotel name in Antalya",
+        "hotelNote": "This field is optional, yet it helps us process your request more quickly if you include the hotel name.",
+        "phone": "Phone Number (Optional)",
+        "phonePlaceholder": "Phone Number",
+        "phoneNote": "This field is optional, but we recommend filling it out so we can respond to you faster.",
+        "summary": "Booking Summary",
+        "tourType": "Tour Type:",
+        "selectedDate": "Selected Date:",
+        "pleaseSelect": "Please select",
+        "totalPersons": "Total Persons:",
+        "priceNote": "Price details will be provided upon inquiry",
+        "bookButton": "Book Your Adventure",
+        "secure": "🔒 Secure booking • No payment required now",
+        "cancellation": "Free Cancellation & Refund",
+        "cancellationDesc": "The tour can be canceled up to 24 hours before the start time",
+        "payLater": "Book Now & Pay Later",
+        "payLaterDesc": "Make your reservation now, pay anytime before the tour starts",
+        "whatsapp": "Contact us on WhatsApp"
+      }
+    },
+    "aspendos": {
+      "badge": "🏛️ Ancient Mediterranean Cities",
+      "title": "Perge Aspendos Side Tour",
+      "subtitle": "Discover Antalya's Ancient Treasures",
+      "description": "Explore three magnificent ancient cities and witness the beauty of Manavgat Waterfall on this comprehensive tour.",
+      "gallery": {
+        "title": "Experience Gallery",
+        "subtitle": "Discover ancient cities and natural beauty of Antalya"
+      },
+      "about": {
+        "title": "About the Tour",
+        "subtitle": "Perge, Aspendos, Side & Manavgat Waterfall",
+        "intro": "With the Perge, Aspendos, Side & Manavgat Waterfall tour, you can discover the beauty of Antalya Nature. By joining this cultural excursion, you can explore the glorious city with marble doors Perge, Aspendos with infinite acoustic and great harmony of old and new, and the holiday town of Side.",
+        "perge": "Perge - City of Marble Doors",
+        "perge-desc": "Our Antalya cultural tour starts with Perge. The Mediterranean region is the land of beauties surrounded by Cilicia in the East, Pisidia in the North, and Lycia in the West. Visit the Ruins of Perge, one of the two port cities now located inland from the Mediterranean coast and among the best-preserved ancient cities so far.",
+        "perge-desc2": "While walking around the colonnaded street in Perge, where important archaeological excavations were made, visualize social life in the Roman period by walking through the agora, bath, waterways, and theater. Discover yourself on the stairs of St. Paul and Barnabas in Anatolia.",
+        "aspendos": "Aspendos - Marvel of Ancient Engineering",
+        "aspendos-desc": "While you are at the top of the Aspendos Theater, you will witness a fantastic scene. Moreover, when entered through the main gate, you'll hear the whispers of Architect Zenon. And surprise! The great method of transporting water streams to the Aspendos acropolis, which was built on a 50-60 meter high hill by the technical possibilities of almost 2000 years ago.",
+        "side": "Side - Where Ancient Meets Modern",
+        "side-desc": "Our last ancient city stop will be Side. Compare the ancient and modern life hidden in each other in the modern port town of Side, established within the ancient Roman walls. See the Apollo Temple and spectacular beach of Side while witnessing what we can bring from the past to the present.",
+        "manavgat": "Manavgat Waterfall - Natural Beauty",
+        "manavgat-desc": "At the end of the day, the magnificent view of Manavgat Waterfall will be waiting for you to rest and cool off. Experience the refreshing mist and natural beauty of this stunning waterfall.",
+        "highlights": "Tour Highlights",
+        "highlight1": "Perge Ancient City - Colonnaded streets, Roman baths, and theater",
+        "highlight2": "Aspendos Theatre - Best-preserved Roman theater with incredible acoustics",
+        "highlight3": "Ancient Aqueducts - Marvel at 2000-year-old engineering",
+        "highlight4": "Side Ancient City - Roman walls and ancient port town",
+        "highlight5": "Temple of Apollo - Iconic seaside ruins in Side",
+        "highlight6": "Side Beach - Spectacular Mediterranean coastline",
+        "highlight7": "Manavgat Waterfall - Natural wonder and relaxation spot",
+        "highlight8": "Open Buffet Lunch - Delicious Turkish cuisine",
+        "itinerary": "Tour Details",
+        "fullday": "Full Day Tour: Departure from Antalya area hotels",
+        "endtime": "Tour ends around 4:30 PM with drop-off at your hotel in Antalya",
+        "note2": "Note: If you are staying 30 km outside of Antalya, you may need to pay extra for hotel transfer."
+      },
+      "includes": {
+        "title": "Tour Includes",
+        "guide": "Professional tour guide",
+        "fees": "Entrance Fees",
+        "lunch": "Open Buffet Lunch",
+        "transport": "Air Conditioned Transport",
+        "taxes": "Taxes"
+      },
+      "info": {
+        "title": "Additional Information",
+        "pickupTitle": "Pick-up Locations",
+        "pickupDesc": "Hotels in Antalya area",
+        "pickupNote": "Hotels 30+ km outside Antalya may require extra charge",
+        "durationTitle": "Tour Duration",
+        "durationDesc": "Full Day Tour (ends around 4:30 PM)",
+        "dropoffTitle": "Drop-off Locations",
+        "dropoffDesc": "Your hotel in Antalya",
+        "dropoffNote": "Hotels 30+ km outside Antalya may require extra charge for return transfer"
+      },
+      "excludes": {
+        "title": "Tour Excludes",
+        "drinks": "Drinks",
+        "personal": "Personal Expenses",
+        "tips": "Tips to the driver and guide"
+      },
+      "booking": {
+        "title": "Book Your Tour Now!",
+        "subtitle": "Reserve your Aspendos experience",
+        "selectDate": "Select Your Date",
+        "persons": "Number of Persons",
+        "personsLabel": "Persons",
+        "minimumNote": "Minimum 1 person required",
+        "yourDetails": "Your Details",
+        "fullName": "Full Name *",
+        "fullNamePlaceholder": "Enter your full name",
+        "email": "Email Address *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "Hotel Name (Optional)",
+        "hotelPlaceholder": "Your hotel name in Antalya",
+        "hotelNote": "This field is optional, yet it helps us process your request more quickly if you include the hotel name.",
+        "phone": "Phone Number (Optional)",
+        "phonePlaceholder": "Phone Number",
+        "phoneNote": "This field is optional, but we recommend filling it out so we can respond to you faster.",
+        "summary": "Booking Summary",
+        "tourType": "Tour Type:",
+        "selectedDate": "Selected Date:",
+        "pleaseSelect": "Please select",
+        "totalPersons": "Total Persons:",
+        "priceNote": "Price details will be provided upon inquiry",
+        "bookButton": "Book Your Adventure",
+        "secure": "🔒 Secure booking • No payment required now",
+        "cancellation": "Free Cancellation & Refund",
+        "cancellationDesc": "The tour can be canceled up to 24 hours before the start time",
+        "payLater": "Book Now & Pay Later",
+        "payLaterDesc": "Make your reservation now, pay anytime before the tour starts",
+        "whatsapp": "Contact us on WhatsApp"
+      }
+    },
+    "demre": {
+      "badge": "⛵ History & Boat Tour",
+      "title": "Demre Myra & Kekova Tour",
+      "subtitle": "Ancient Lycian Cities & Sunken City Boat Tour",
+      "description": "Explore Myra rock tombs, visit Saint Nicholas Church, and cruise the stunning Kekova sunken city.",
+      "gallery": {
+        "title": "Experience Gallery",
+        "subtitle": "Discover Demre's ancient Lycian rock tombs, Saint Nicholas Church, and Kekova's sunken city"
+      },
+      "about": {
+        "title": "About the Tour",
+        "subtitle": "Myra, Saint Nicholas Church & Kekova Sunken City",
+        "intro": "Experience the enchanting Demre, Myra, and Kekova Tour, where history, culture, and the serene blue surroundings will captivate you. Delve into the fascinating world of archaeology as you witness the most magnificent examples of original Lycian rock tombs. Follow in the footsteps of Santa Claus himself in Myra, and explore the unique beauty of Kekova, shaped by an ancient earthquake disaster.",
+        "eagle": "Eagle Hill - Scenic Journey",
+        "eagle-desc": "Begin your journey with a scenic drive from Antalya to Kekova, passing through breathtaking landscapes, lagoons, and lakes. Pause for a coffee break at the majestic Falcon Hill, offering panoramic views of the stunning Mediterranean coastline and surrounding mountains.",
+        "myra": "Myra Ancient City - Lycian Capital",
+        "myra-desc": "Explore the ancient capital of the Lycian Civilization, Myra. Marvel at the embossed rock tombs carved into the cliffs, wander through the well-preserved ancient theater, and admire the intricate carvings at the river necropolis as our experienced guides unveil the mysteries of this ancient city. The rock-cut tombs are among the most impressive examples of Lycian architecture in Turkey.",
+        "nicholas": "Church of Saint Nicholas - Santa Claus' Home",
+        "nicholas-desc": "Pay homage to the legendary figure of Santa Claus at the Church of Saint Nicholas, where the benevolent spirit of charity and love still resonates. Discover the history and legacy of Saint Nicholas as you stroll through the magnificent church. Learn about how this 4th-century bishop became the inspiration for the modern Santa Claus legend.",
+        "kekova": "Kekova & Sunken City - Ancient Underwater Ruins",
+        "kekova-desc": "Cruise along the captivating Kekova region, dotted with islands, bays, and ancient ruins. Witness the surreal beauty of the sunken city, submerged by geological movements and earthquakes. Marvel at Teimiussa and Simena, the main Lycian settlements in the area, during a memorable two-hour boat tour. The crystal-clear waters allow you to see the ancient ruins beneath the surface.",
+        "swimming": "🏊 Swimming Break: Swimming breaks will be provided during the boat trip in the pristine Mediterranean waters. Don't forget to bring your swimwear and enjoy the refreshing turquoise sea!",
+        "highlights": "Tour Highlights",
+        "highlight1": "Eagle/Falcon Hill - Panoramic views and coffee break",
+        "highlight2": "Myra Ancient City - Magnificent Lycian rock tombs and theater",
+        "highlight3": "Saint Nicholas Church - Original home of Santa Claus",
+        "highlight4": "Kekova Sunken City - Ancient ruins submerged underwater",
+        "highlight5": "Simena Castle - Spectacular hilltop fortress views",
+        "highlight6": "Teimiussa Ruins - Ancient Lycian settlement",
+        "highlight7": "2-Hour Boat Tour - Cruise through crystal-clear waters",
+        "highlight8": "Swimming Breaks - Refreshing dips in Mediterranean Sea",
+        "itinerary": "What's Included",
+        "professional": "Professional tour guide throughout the day",
+        "transport": "Comfortable air-conditioned transportation",
+        "lunch": "Delicious lunch at local restaurant",
+        "boat": "Boat tickets for Kekova tour",
+        "fees": "Entrance fees to Myra and Saint Nicholas Church",
+        "insurance": "Comprehensive insurance coverage",
+        "note2": "Note: If you are staying more than 30 km outside of Antalya, additional charges may apply for hotel transportation."
+      },
+      "includes": {
+        "title": "Tour Includes",
+        "guide": "Professional tour guide",
+        "fees": "Entrance Fees to Myra & Saint Nicholas Church",
+        "lunch": "Lunch",
+        "boat": "Boat Tickets for Kekova",
+        "transport": "Air Conditioned Transport",
+        "taxes": "Taxes"
+      },
+      "info": {
+        "title": "Additional Information",
+        "pickupTitle": "Pick-up Locations",
+        "pickupDesc": "Hotels in Antalya area",
+        "pickupNote": "Hotels 30+ km outside Antalya may require extra charge",
+        "durationTitle": "Tour Duration",
+        "durationDesc": "Full Day Tour (ends around 4:30 PM)",
+        "dropoffTitle": "Drop-off Locations",
+        "dropoffDesc": "Your hotel in Antalya",
+        "dropoffNote": "Hotels 30+ km outside Antalya may require extra charge for return transfer"
+      },
+      "excludes": {
+        "title": "Tour Excludes",
+        "drinks": "Drinks",
+        "personal": "Personal Expenses",
+        "tips": "Tips to the driver and guide"
+      },
+      "booking": {
+        "title": "Book Your Tour Now!",
+        "subtitle": "Reserve your Demre Kekova experience",
+        "selectDate": "Select Your Date",
+        "persons": "Number of Persons",
+        "personsLabel": "Persons",
+        "minimumNote": "Minimum 1 person required",
+        "yourDetails": "Your Details",
+        "fullName": "Full Name *",
+        "fullNamePlaceholder": "Enter your full name",
+        "email": "Email Address *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "Hotel Name (Optional)",
+        "hotelPlaceholder": "Your hotel name in Antalya",
+        "hotelNote": "This field is optional, yet it helps us process your request more quickly if you include the hotel name.",
+        "phone": "Phone Number (Optional)",
+        "phonePlaceholder": "Phone Number",
+        "phoneNote": "This field is optional, but we recommend filling it out so we can respond to you faster.",
+        "summary": "Booking Summary",
+        "tourType": "Tour Type:",
+        "selectedDate": "Selected Date:",
+        "pleaseSelect": "Please select",
+        "totalPersons": "Total Persons:",
+        "priceNote": "Price details will be provided upon inquiry",
+        "bookButton": "Book Your Adventure",
+        "secure": "🔒 Secure booking • No payment required now",
+        "cancellation": "Free Cancellation & Refund",
+        "cancellationDesc": "The tour can be canceled up to 24 hours before the start time",
+        "payLater": "Book Now & Pay Later",
+        "payLaterDesc": "Make your reservation now, pay anytime before the tour starts",
+        "whatsapp": "Contact us on WhatsApp"
+      }
+    },
+    "ephesus": {
+      "badge": "🏛️ UNESCO World Heritage",
+      "title": "Daily Ephesus Tour",
+      "subtitle": "Ancient City & Biblical Sites",
+      "description": "Walk through ancient marble streets and discover one of the best-preserved classical cities in the Mediterranean.",
+      "gallery": {
+        "title": "Experience Gallery",
+        "subtitle": "Discover the ancient wonders of Ephesus"
+      },
+      "about": {
+        "title": "About the Tour",
+        "subtitle": "Daily Ephesus Tour",
+        "intro": "The tour starts with your pick up from your hotel in Selcuk at 09:00 am. After all the participants meet up, the discovery of Ephesus begins with the House of Virgin Mary.",
+        "virgin": "House of Virgin Mary - Sacred Pilgrimage Site",
+        "virgin-desc": "The place where Mary may have spent her last days. This place was officially declared a shrine of the Roman Catholic Church in 1986, and since then it has become a popular place of pilgrimage. Pope Paul VI visited the shrine in 1967.",
+        "ephesus": "Ephesus - Ancient Hellenistic & Roman City",
+        "ephesus-desc": "An exceptional testimony to the cultural traditions of the Hellenistic, Roman Imperial and early Christian periods. It is an important site for Christianity, being one of the seven Churches of Revelation. Apostle Paul probably spent two and a half years in Ephesus during his third missionary journey. In two hours, you will be exploring the city by walking on the marble streets, accompanied by our English speaking tour guide.",
+        "highlights": "Tour Highlights",
+        "highlight1": "House of Virgin Mary - Sacred pilgrimage site",
+        "highlight2": "Ephesus Gymnasium - Ancient training grounds",
+        "highlight3": "Agoras - Commercial and state marketplaces",
+        "highlight4": "Domitian Square - Monumental city center",
+        "highlight5": "Hadrian Temple - Beautifully preserved temple",
+        "highlight6": "Roman Bath - Ancient bathing complex",
+        "highlight7": "Celsus Library - Iconic ancient library facade",
+        "highlight8": "Antique Theatre - Massive 25,000-seat amphitheater",
+        "highlight9": "Church of Mary - First church dedicated to Virgin Mary",
+        "highlight10": "Open Buffet Lunch - Traditional Turkish cuisine",
+        "highlight11": "Temple of Artemis - One of the Seven Wonders of the Ancient World",
+        "highlight12": "Sirince Village - Charming hilltop village with wine tasting",
+        "itinerary": "What's Included",
+        "professional": "Professional tour guide throughout the day",
+        "transport": "Comfortable air-conditioned transportation",
+        "delicious": "Delicious lunch at local restaurant",
+        "temple": "Temple of Artemis tour",
+        "fees": "Entrance fees to Ephesus and sites",
+        "insurance": "Comprehensive insurance coverage"
+      },
+      "includes": {
+        "title": "Tour Includes",
+        "guide": "Professional tour guide",
+        "fees": "Entrance Fees",
+        "lunch": "Open Buffet Lunch",
+        "transport": "Air Conditioned Transport",
+        "taxes": "Taxes"
+      },
+      "info": {
+        "title": "Additional Information",
+        "pickupTitle": "Pick-up Locations",
+        "pickupDesc": "Hotels in Selcuk (09:00 AM start)",
+        "pickupNote": "Available pick-up from Izmir Airport or Hotel for extra charge",
+        "durationTitle": "Tour Duration",
+        "durationDesc": "Full Day - 09:00 AM to 17:00 PM (ends around 4:30 PM)",
+        "dropoffTitle": "Drop-off Locations",
+        "dropoffDesc": "Your hotel, Bus Station or Train Station in Selcuk",
+        "dropoffNote": "Available drop-off to Izmir Airport for extra charge"
+      },
+      "excludes": {
+        "title": "Tour Excludes",
+        "drinks": "Drinks",
+        "personal": "Personal Expenses",
+        "tips": "Tips to the driver and guide"
+      },
+      "booking": {
+        "title": "Book Your Tour Now!",
+        "subtitle": "Reserve your Ephesus experience",
+        "selectDate": "Select Your Date",
+        "persons": "Number of Persons",
+        "personsLabel": "Persons",
+        "minimumNote": "Minimum 1 person required",
+        "yourDetails": "Your Details",
+        "fullName": "Full Name *",
+        "fullNamePlaceholder": "Enter your full name",
+        "email": "Email Address *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "Hotel Name (Optional)",
+        "hotelPlaceholder": "Your hotel name in Selcuk",
+        "hotelNote": "This field is optional, yet it helps us process your request more quickly if you include the hotel name.",
+        "phone": "Phone Number (Optional)",
+        "phonePlaceholder": "Phone Number",
+        "phoneNote": "This field is optional, but we recommend filling it out so we can respond to you faster.",
+        "summary": "Booking Summary",
+        "tourType": "Tour Type:",
+        "selectedDate": "Selected Date:",
+        "pleaseSelect": "Please select",
+        "totalPersons": "Total Persons:",
+        "priceNote": "Price details will be provided upon inquiry",
+        "bookButton": "Book Your Adventure",
+        "secure": "🔒 Secure booking • No payment required now",
+        "cancellation": "Free Cancellation & Refund",
+        "cancellationDesc": "The tour can be canceled up to 24 hours before the start time",
+        "payLater": "Book Now & Pay Later",
+        "payLaterDesc": "Make your reservation now, pay anytime before the tour starts",
+        "whatsapp": "Contact us on WhatsApp"
+      }
+    },
+    "pamukkale-from-antalya": {
+      "badge": "🏛️ UNESCO World Heritage",
+      "title": "Pamukkale Tour from Antalya",
+      "subtitle": "White Travertines & Ancient Hierapolis",
+      "description": "Journey from Antalya to discover the stunning white terraces and explore ancient Hierapolis ruins.",
+      "gallery": {
+        "title": "Experience Gallery",
+        "subtitle": "Discover the stunning beauty of Pamukkale"
+      },
+      "about": {
+        "title": "About the Tour",
+        "subtitle": "Pamukkale Tour from Antalya",
+        "intro1": "Embark on an unforgettable journey from Antalya to Pamukkale and Hierapolis. Led by professional guides, this excursion promises an epic exploration of two of Turkey's most iconic destinations, both listed on the UNESCO World Heritage list. Experience the thermal waters, walk through ancient history, and witness one of Turkey's most breathtaking natural wonders.",
+        "departure": "Early Morning Departure",
+        "departure-desc": "Your adventure begins with an early morning pick-up from your hotel in Antalya, where you'll meet our experienced guide. We'll officially kick off our journey towards Pamukkale, ready to uncover the wonders that await us on this remarkable daily excursion.",
+        "pamukkale": "Pamukkale - Cotton Castle",
+        "pamukkale-desc": "Our first stop takes us to Pamukkale, renowned for its stunning natural beauty and terraces filled with thermal water. As we explore the majestic Pamukkale mountain and its terraces, marvel at the rock formations adorned with cascading pools of carbonate minerals. These travertines, formed through chemical reactions and mineral precipitation, offer a unique opportunity for relaxation and bathing.",
+        "thermal": "Thermal Waters & Healing Springs",
+        "thermal-desc": "Immerse yourself in the thermal region of Pamukkale, home to numerous hot water sources. The temperatures of these springs range from 35 to 100 degrees Celsius, offering therapeutic benefits for ailments such as rheumatism. Pamukkale's natural springs have been sought after for their medicinal properties since ancient times, drawing thousands of visitors seeking both health benefits and the area's breathtaking natural beauty.",
+        "hierapolis": "Hierapolis Ancient City",
+        "hierapolis-desc": "Following our exploration of Pamukkale, we'll journey to the ancient city of Hierapolis. Once famed for its baths, this historical civilization has welcomed countless visitors seeking rejuvenation. Explore authentic historical sites such as the Roman Amphitheater, St. Philippe Basilica, Necropolis, and the renowned Cleopatra Pool.",
+        "conclusion": "After indulging in lunch at a nearby restaurant, we'll head back to Antalya and return you to your resorts, concluding this memorable day trip.",
+        "itinerary": "Tour Itinerary",
+        "highlight1": "Early morning pick-up from your hotel in Antalya",
+        "highlight2": "Scenic drive to Pamukkale & Red Springs of Karahayit",
+        "highlight3": "Necropolis - Ancient cemetery with fascinating tombs",
+        "highlight4": "Bath - Roman thermal baths complex",
+        "highlight5": "Basilica - Early Christian church ruins",
+        "highlight6": "Domitian Gate - Monumental Roman entrance",
+        "highlight7": "Frontinius Street - Ancient main street",
+        "highlight8": "Latrina - Public toilet (ancient Roman engineering)",
+        "highlight9": "Temple of Apollo - Sacred sanctuary",
+        "highlight10": "Plutonium - The gateway to the underworld",
+        "highlight11": "Theatre - Magnificent ancient amphitheater",
+        "highlight12": "Tomb of St. Philippus - Important Christian site",
+        "highlight13": "Cleopatra Pool - Free time for optional swimming",
+        "highlight14": "Pamukkale Travertines - Walk on the stunning white terraces",
+        "highlight15": "Lunch at nearby restaurant",
+        "highlight16": "Return journey to Antalya and drop-off at your hotel"
+      },
+      "includes": {
+        "title": "Tour Includes",
+        "guide": "Professional tour guide",
+        "fees": "Entrance Fees to Pamukkale & Hierapolis",
+        "lunch": "Lunch",
+        "transport": "Air Conditioned Transport",
+        "taxes": "Taxes"
+      },
+      "info": {
+        "title": "Additional Information",
+        "pickupTitle": "Pick-up Locations",
+        "pickupDesc": "Hotels in Antalya area - Early morning departure",
+        "pickupNote": "Hotels 30+ km outside Antalya may require extra charge",
+        "durationTitle": "Tour Duration",
+        "durationDesc": "Full Day Tour from Antalya (early morning to evening)",
+        "dropoffTitle": "Drop-off Locations",
+        "dropoffDesc": "Your hotel in Antalya",
+        "dropoffNote": "Hotels 30+ km outside Antalya may require extra charge for return transfer"
+      },
+      "excludes": {
+        "title": "Tour Excludes",
+        "drinks": "Drinks",
+        "personal": "Personal Expenses",
+        "tips": "Tips to the driver and guide"
+      },
+      "booking": {
+        "title": "Book Your Tour Now!",
+        "subtitle": "Reserve your Pamukkale from Antalya experience",
+        "selectDate": "Select Your Date",
+        "persons": "Number of Persons",
+        "personsLabel": "Persons",
+        "minimumNote": "Minimum 1 person required",
+        "yourDetails": "Your Details",
+        "fullName": "Full Name *",
+        "fullNamePlaceholder": "Enter your full name",
+        "email": "Email Address *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "Hotel Name (Optional)",
+        "hotelPlaceholder": "Your hotel name in Antalya",
+        "hotelNote": "This field is optional, yet it helps us process your request more quickly if you include the hotel name.",
+        "phone": "Phone Number (Optional)",
+        "phonePlaceholder": "Phone Number",
+        "phoneNote": "This field is optional, but we recommend filling it out so we can respond to you faster.",
+        "summary": "Booking Summary",
+        "tourType": "Tour Type:",
+        "selectedDate": "Selected Date:",
+        "pleaseSelect": "Please select",
+        "totalPersons": "Total Persons:",
+        "priceNote": "Price details will be provided upon inquiry",
+        "bookButton": "Book Your Adventure",
+        "secure": "🔒 Secure booking • No payment required now",
+        "cancellation": "Free Cancellation & Refund",
+        "cancellationDesc": "The tour can be canceled up to 24 hours before the start time",
+        "payLater": "Book Now & Pay Later",
+        "payLaterDesc": "Make your reservation now, pay anytime before the tour starts",
+        "whatsapp": "Contact us on WhatsApp"
+      }
+    },
+    "pamukkale": {
+      "badge": "🏛️ UNESCO World Heritage",
+      "title": "Daily Pamukkale Tour",
+      "subtitle": "White Travertines & Ancient Hierapolis",
+      "description": "Discover the stunning white terraces and explore the ancient ruins of Hierapolis on this full-day guided tour.",
+      "gallery": {
+        "title": "Experience Gallery",
+        "subtitle": "Discover the stunning beauty of Pamukkale"
+      },
+      "about": {
+        "title": "About the Tour",
+        "subtitle": "Daily Pamukkale Tour",
+        "intro": "Discover the stunning white travertines of Pamukkale and explore the ancient ruins of Hierapolis on this comprehensive full-day tour. Experience the thermal waters, walk through ancient history, and witness one of Turkey's most iconic natural wonders.",
+        "itinerary": "Tour Itinerary",
+        "highlight1": "Pick-up from Pamukkale Hotel, Karahayit Hotel, Bus Station or Airport",
+        "highlight2": "Start the tour & drive to Red Springs of Karahayit",
+        "highlight3": "Necropolis - Ancient cemetery with fascinating tombs",
+        "highlight4": "Bath - Roman thermal baths complex",
+        "highlight5": "Basilica - Early Christian church ruins",
+        "highlight6": "Domitian Gate - Monumental Roman entrance",
+        "highlight7": "Frontinius Street - Ancient main street",
+        "highlight8": "Latrina - Public toilet (ancient Roman engineering)",
+        "highlight9": "Temple of Apollo - Sacred sanctuary",
+        "highlight10": "Plutonium - The gateway to the underworld",
+        "highlight11": "Theatre - Magnificent ancient amphitheater",
+        "highlight12": "Tomb of St. Philippus - Important Christian site",
+        "highlight13": "Cleopatra Pool - Free time for optional swimming",
+        "highlight14": "Pamukkale Travertines - Walk on the stunning white terraces",
+        "highlight15": "Lunch at nearby restaurant",
+        "highlight16": "Return to hotel"
+      },
+      "includes": {
+        "title": "Tour Includes",
+        "guide": "Professional tour guide",
+        "fees": "Entrance Fees to Pamukkale & Hierapolis",
+        "lunch": "Lunch",
+        "transport": "Air Conditioned Transport",
+        "taxes": "Taxes"
+      },
+      "info": {
+        "title": "Additional Information",
+        "pickupTitle": "Pick-up Locations",
+        "pickupDesc": "Pamukkale Hotel, Karahayit Hotel, Bus Station or Airport",
+        "pickupNote": "Pick-up is available from hotels within Pamukkale area",
+        "durationTitle": "Tour Duration",
+        "durationDesc": "Full Day Tour (09:00 AM to 16:00 PM, approximately 7 hours)",
+        "dropoffTitle": "Drop-off Locations",
+        "dropoffDesc": "Pamukkale Hotel, Karahayit Hotel, Bus Station or Airport",
+        "dropoffNote": "Drop-off is available at hotels within Pamukkale area"
+      },
+      "excludes": {
+        "title": "Tour Excludes",
+        "drinks": "Drinks",
+        "personal": "Personal Expenses",
+        "tips": "Tips to the driver and guide"
+      },
+      "booking": {
+        "title": "Book Your Tour Now!",
+        "subtitle": "Reserve your Pamukkale experience",
+        "selectDate": "Select Your Date",
+        "persons": "Number of Persons",
+        "personsLabel": "Persons",
+        "minimumNote": "Minimum 1 person required",
+        "yourDetails": "Your Details",
+        "fullName": "Full Name *",
+        "fullNamePlaceholder": "Enter your full name",
+        "email": "Email Address *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "Hotel Name (Optional)",
+        "hotelPlaceholder": "Your hotel name in Pamukkale",
+        "hotelNote": "This field is optional, yet it helps us process your request more quickly if you include the hotel name.",
+        "phone": "Phone Number (Optional)",
+        "phonePlaceholder": "Phone Number",
+        "phoneNote": "This field is optional, but we recommend filling it out so we can respond to you faster.",
+        "summary": "Booking Summary",
+        "tourType": "Tour Type:",
+        "selectedDate": "Selected Date:",
+        "pleaseSelect": "Please select",
+        "totalPersons": "Total Persons:",
+        "priceNote": "Price details will be provided upon inquiry",
+        "bookButton": "Book Your Adventure",
+        "secure": "🔒 Secure booking • No payment required now",
+        "cancellation": "Free Cancellation & Refund",
+        "cancellationDesc": "The tour can be canceled up to 24 hours before the start time",
+        "payLater": "Book Now & Pay Later",
+        "payLaterDesc": "Make your reservation now, pay anytime before the tour starts",
+        "whatsapp": "Contact us on WhatsApp"
+      }
+    }
+  },
+  "turkeyTours": {
+    "package4days": {
+      "pageTitle": "4-Day Cappadocia, Pamukkale & Ephesus Tour Package — Capahenas Travel",
+      "metaDescription": "Explore Cappadocia's fairy chimneys, Pamukkale's thermal pools, and ancient Ephesus. 4-day guided tour with flights, accommodation, and meals included.",
+      "badge": "✈️ Multi-City Package Tour",
+      "title": "4-Day Cappadocia, Pamukkale & Ephesus Tour Package",
+      "subtitle": "03 Nights / 04 Days",
+      "description": "Explore Turkey's most iconic destinations in one unforgettable journey - from fairy chimneys to ancient ruins.",
+      "gallery": {
+        "title": "Experience Gallery",
+        "subtitle": "Discover Cappadocia, Pamukkale & Ephesus"
+      },
+      "about": {
+        "title": "About the Tour",
+        "subtitle": "4-Day Package Tour",
+        "duration": "03 Nights / 04 Days",
+        "destinations": "Cappadocia, Pamukkale, Ephesus",
+        "intro": "This tour is available for daily all year round. This tour can be customized.",
+        "highlights": "Highlights of the Tour",
+        "highlight1": "Explore Cappadocia's fairy chimneys and cave dwellings",
+        "highlight2": "Visit the ancient city of Ephesus, including the Temple of Artemis",
+        "highlight3": "Relax in Pamukkale's thermal pools and travertine terraces",
+        "highlight4": "Enjoy guided tours, comfortable accommodations, and rich historical insights throughout the journey"
+      },
+      "itinerary": {
+        "title": "Itinerary",
+        "day1": {
+          "title": "DAY 01: Flight to Kayseri or Nevsehir - North Cappadocia Tour",
+          "content": "04:00am, pick up from hotel and transfer to Istanbul airport for flight to Nevsehir at 06:45am. 08:00am, Arrival & transfer to Cappadocia. Our first stop will be Uchisar, where you'll have the opportunity to take pictures of \"The Castle\" and explore the area around it (from the outside). Next, we'll drive to Cavusin (Rose Valley), renowned for its stunning red rock formations. Following this, we'll visit the Valley of Fairy Chimneys, Pasabagi, and Zelve Open Air Museum. After lunch visit Devrent Valley and Three Beauties Valley, which are among the most important sights of North Cappadocia. Afterward, we'll continue to the ancient towns of Urgup and Avanos, famous for their red clay pottery. Here, you'll have the chance to try your hand at pottery-making. As an optional activity, we can also visit a Turkish rug and carpet-making factory. Overnight in Cappadocia.",
+          "meals": "(Meals: Lunch)"
+        },
+        "day2": {
+          "title": "DAY 02: South Cappadocia Tour - Flight to Izmir",
+          "content": "After breakfast, Pick-up from the hotel will be at 9:30-10:00 AM. The tour begins with a visit to Ortahisar, where you'll have a great photo opportunity to capture the iconic Ortahisar Rock Castle. Next, we head to Mustafapasa, a former Greek village once known as Sinasos. After that, we'll drive through Sahinefendi and visit the Roman ruins of Sobesos, a recently excavated site featuring beautiful ground mosaics. At Soganli Valley, we'll take a 2 km walk through the valley and visit its famous cave churches, followed by a lunch break in Soganli Village. After lunch, we proceed to Kaymakli Underground City, the deepest underground city in Cappadocia, offering a fascinating glimpse into ancient life. Transfer to Kayseri airport for flight to Izmir. Arrival to Izmir, transfer to Kusadasi. Overnight in Kusadasi.",
+          "meals": "(Meals: Breakfast + Lunch)",
+          "optional": "OPTIONAL: This morning, be one of the lucky few to greet the sunrise from a hot air balloon—an unforgettable experience and the best way to start the day."
+        },
+        "day3": {
+          "title": "DAY 03: Full day Ephesus Tour",
+          "content": "Breakfast, 09:00am visit Ephesus Ancient City, Enter through the Magnesia Gate and begin a slow, downhill walk with your guide into the ruins of this Roman provincial capital. Your route takes you past the Odeon, the Celsus Library, the Temple of Hadrian, the Fountain of Trajan. The Grand Theatre, where Saint Paul preached, is the largest theatre is antiquity with capacity of 24,000 seats. Next visit the Temple of Artemis and the House of the Virgin Mary's. Overnight in Kusadasi.",
+          "meals": "(Meals: Breakfast + Lunch)"
+        },
+        "day4": {
+          "title": "DAY 04: Pamukkale Tour - Flight to Istanbul",
+          "content": "Breakfast, 07:30am head to Pamukkale and enjoy a visit to the natural travertines (Cotton Castle) formed by lime deposits, one of the most visited of Turkey's natural wonders. Also explore the ruins of Hierapolis. Then if you like to swim in the Ancient Pool which is also called Cleopatra's Pool they charge extra entrance fee. Please note that drive to Pamukkale is around 3 hours. After tour, transfer to Denizli airport for an evening flight to Istanbul at 19:50pm. 21:10pm, Arrival to Istanbul, meet at the airport and transfer to your hotel.",
+          "meals": "(Meals: Breakfast + Lunch)"
+        }
+      },
+      "includes": {
+        "title": "Tour Includes",
+        "accommodation": "03 Nights 4-star hotel accommodation B.B",
+        "tours": "04 day regular small Group Tour includes guiding in English, entrance fees, lunch and transportation",
+        "flight1": "Oneway domestic flight from Istanbul to Cappadocia",
+        "flight2": "Oneway domestic flight from Kayseri to Izmir",
+        "flight3": "Oneway domestic flight from Pamukkale to Istanbul",
+        "transfers": "All airports/hotels/ports transfer within Turkey"
+      },
+      "excludes": {
+        "title": "Tour Excludes",
+        "personal": "Items Of A Personal Nature",
+        "gratuities": "Gratuities For Driver & Guide",
+        "meals": "Meals Not Mentioned",
+        "drinks": "Drinks Of Any Kind",
+        "balloon": "Hot Air Balloon Ride In Cappadocia",
+        "insurance": "Travel Insurance"
+      },
+      "booking": {
+        "title": "Book Your Tour Now!",
+        "subtitle": "Reserve your 4-day package experience",
+        "summary": "Booking Summary",
+        "tourType": "Tour Type:",
+        "tourName": "4-Day Package Tour",
+        "selectedDate": "Selected Date:",
+        "pleaseSelect": "Please select"
+      }
+    },
+    "package6days": {
+      "pageTitle": "Istanbul & Cappadocia in 6 Days | Guided Turkey Tour — Capahenas Travel",
+      "metaDescription": "Discover Istanbul's historic sites and Cappadocia's fairy chimneys. 6-day guided Turkey tour with flights, accommodation, and memorable experiences.",
+      "badge": "✈️ Istanbul & Cappadocia Package",
+      "title": "Istanbul & Cappadocia in 6 Days | Guided Turkey Tour",
+      "subtitle": "05 Nights / 06 Days",
+      "description": "Discover Istanbul's historic treasures and Cappadocia's magical landscapes in one unforgettable journey.",
+      "gallery": {
+        "title": "Experience Gallery",
+        "subtitle": "Discover Istanbul & Cappadocia"
+      },
+      "about": {
+        "title": "About the Tour",
+        "subtitle": "6-Day Package Tour",
+        "duration": "05 Nights / 06 Days",
+        "destinations": "Istanbul, Cappadocia",
+        "intro": "This tour is available for daily all year round. This tour can be customized.",
+        "highlights": "Highlights of the Tour",
+        "highlight1": "Discover Istanbul's historic sites, including the Hagia Sophia",
+        "highlight2": "Experience Cappadocia's fairy chimneys, cave dwellings, and hot air balloon rides",
+        "highlight3": "Enjoy guided tours and memorable landscapes"
+      },
+      "itinerary": {
+        "title": "Itinerary",
+        "day1": {
+          "title": "DAY 01: Arrival to Istanbul",
+          "content": "Upon arrival in Istanbul (Istanbul Airport), our representative will meet you & transfer to the hotel. (Check-In after 13:00pm), where you will be briefed by your travel consultant. Overnight in Istanbul.",
+          "meals": "(Meals: No)"
+        },
+        "day2": {
+          "title": "DAY 02: Istanbul Old City Walking Tour",
+          "content": "Breakfast, visit to the ancient Byzantine Hippodrome where you will tour the Egyptian Obelisk, Serpentine Column, Fountain of Wilhelm II, the elegant Blue Mosque famous with its heavenly six minarets and the Hagia Sophia Museum, built during the reign of Emperor Theodosius and burned down in the fire of Nika Revolt. After lunch, visit the Basilica Cistern in Istanbul is an ancient underground marvel with atmospheric columns and lighting. After tour back to hotel. Overnight in Istanbul.",
+          "meals": "(Meals: Breakfast)"
+        },
+        "day3": {
+          "title": "DAY 03: Half day Bosphorus Cruise / Flight to Cappadocia",
+          "content": "Breakfast, visit Spice Market, Egyptian Bazaar heaped with various sweets & spices is one of the world's largest spice bazaars since 1665. Then embark on the Bosphorus ferry for an unforgettable cruise along the Bosphorus, the beautiful strait that divides Europe from Asia. 14:00pm transfer to airport for an afternoon flight to Kayseri at 18:20pm. 19:50pm, Arrival to Kayseri, meet and transfer to hotel. Overnight in Cappadocia.",
+          "meals": "(Meals: Breakfast)"
+        },
+        "day4": {
+          "title": "DAY 04: North Cappadocia Tour",
+          "content": "After breakfast, pick-up from the hotel will be around 9:30-10:00 AM. Our first stop will be Uchisar, where you'll have the opportunity to take pictures of \"The Castle\" and explore the area around it (from the outside). Next, we'll drive to Cavusin (Rose Valley), renowned for its stunning red rock formations. Following this, we'll visit the Valley of Fairy Chimneys, Pasabagi, and Zelve Open Air Museum. After lunch visit Devrent Valley and Three Beauties Valley, which are among the most important sights of North Cappadocia. Afterward, we'll continue to the ancient towns of Urgup and Avanos, famous for their red clay pottery. Here, you'll have the chance to try your hand at pottery-making. As an optional activity, we can also visit a Turkish rug and carpet-making factory. Overnight in Cappadocia.",
+          "meals": "(Meals: Breakfast + Lunch)",
+          "optional": "OPTIONAL: This morning, be one of the lucky few to greet the sunrise from a hot air balloon—an unforgettable experience and the best way to start the day."
+        },
+        "day5": {
+          "title": "DAY 05: South Cappadocia Tour / Flight to Istanbul",
+          "content": "After breakfast, Pick-up from the hotel will be at 9:30-10:00 AM. Start to visit Ortahisar, where you'll have a great photo opportunity to capture the iconic Ortahisar Rock Castle. Next, we head to Mustafapasa, a former Greek village once known as Sinasos. After that, we'll drive through Sahinefendi and visit the Roman ruins of Sobesos, a recently excavated site featuring beautiful ground mosaics. At Soganli Valley, we'll take a 2 km walk through the valley and visit its famous cave churches, followed by a lunch break in Soganli Village. After lunch, we proceed to Kaymakli Underground City, the deepest underground city in Cappadocia, offering a fascinating glimpse into ancient life. Transfer to Kayseri airport for flight to Istanbul at 19:30pm. 21:00pm Arrival to Istanbul, transfer to your hotel. Overnight in Istanbul.",
+          "meals": "(Meals: Breakfast + Lunch)"
+        },
+        "day6": {
+          "title": "DAY 06: Istanbul / Departure",
+          "content": "Breakfast, check-out from hotel (before 12:00pm), we will transfer to Istanbul airport.",
+          "meals": "(Meals: Breakfast)"
+        }
+      },
+      "includes": {
+        "title": "Tour Includes",
+        "accommodation": "05 Nights 4-star hotel accommodation B.B.",
+        "tours": "04 day regular small Group Tour includes guiding in English, entrance fees, lunch and transportation",
+        "flight1": "Oneway domestic flight From Istanbul to Kayseri",
+        "flight2": "Oneway domestic flight From Kayseri to Istanbul",
+        "transfers": "All airports/hotels/ports transfer within Turkey"
+      },
+      "excludes": {
+        "title": "Tour Excludes",
+        "personal": "Items Of A Personal Nature",
+        "gratuities": "Gratuities For Driver & Guide",
+        "meals": "Meals Not Mentioned",
+        "drinks": "Drinks Of Any Kind",
+        "insurance": "Travel Insurance"
+      },
+      "booking": {
+        "title": "Book Your Tour Now!",
+        "subtitle": "Reserve your 6-day Istanbul & Cappadocia experience",
+        "summary": "Booking Summary",
+        "tourType": "Tour Type:",
+        "tourName": "6-Day Package Tour",
+        "selectedDate": "Selected Date:",
+        "pleaseSelect": "Please select"
+      }
+    },
+    "package4days2": {
+      "pageTitle": "4 Days in Cappadocia, Pamukkale & Ephesus | Guided Tour — Capahenas Travel",
+      "metaDescription": "Explore Turkey's vibrant culture and breathtaking sites on a 4-day tour with overnight coach. Budget-friendly alternative with Cappadocia, Ephesus, and Pamukkale.",
+      "badge": "🚌 Multi-City Adventure",
+      "title": "4 Days in Cappadocia, Pamukkale & Ephesus | Guided Tour",
+      "subtitle": "03 Nights / 04 Days",
+      "description": "Explore Turkey's vibrant culture and breathtaking sites on a 4-day tour with authentic overnight coach experience.",
+      "gallery": {
+        "title": "Experience Gallery",
+        "subtitle": "Discover Cappadocia, Ephesus & Pamukkale"
+      },
+      "about": {
+        "title": "About the Tour",
+        "subtitle": "4-Day Package Tour",
+        "duration": "03 Nights / 04 Days",
+        "destinations": "Cappadocia, Ephesus, Pamukkale",
+        "intro": "This tour is available for daily all year round. This tour can be customized.",
+        "highlights": "Highlights of the Tour",
+        "highlight1": "Explore Turkey's vibrant culture and breathtaking sites on a 4-day tour",
+        "highlight2": "Visit Istanbul's historic landmarks, Cappadocia's unique landscapes, Ephesus' ancient ruins, and Pamukkale's thermal terraces",
+        "highlight3": "Enjoy guided tours, comfortable accommodations, and unforgettable experiences throughout this captivating journey"
+      },
+      "itinerary": {
+        "title": "Itinerary",
+        "day1": {
+          "title": "DAY 01: Flight to Kayseri - North Cappadocia Tour",
+          "content": "04:00am, pick up from hotel and transfer to Istanbul airport for flight to Kayseri at 06:45am. 08:00am, Arrival & transfer to Cappadocia. Our first stop will be Uchisar, where you'll have the opportunity to take pictures of \"The Castle\" and explore the area around it (from the outside). Next, we'll drive to Cavusin (Rose Valley), renowned for its stunning red rock formations. Following this, we'll visit the Valley of Fairy Chimneys, Pasabagi, and Zelve Open Air Museum. After lunch visit Devrent Valley and Three Beauties Valley, which are among the most important sights of North Cappadocia. Afterward, we'll continue to the ancient towns of Urgup and Avanos, famous for their red clay pottery. Here, you'll have the chance to try your hand at pottery-making. As an optional activity, we can also visit a Turkish rug and carpet-making factory. Overnight in Cappadocia.",
+          "meals": "(Meals: Lunch)"
+        },
+        "day2": {
+          "title": "DAY 02: South Cappadocia Tour - Overnight Coach to Pamukkale",
+          "content": "After breakfast, Pick-up from the hotel will be at 9:30-10:00 AM. The tour begins with a visit to Ortahisar, where you'll have a great photo opportunity to capture the iconic Ortahisar Rock Castle. Next, we head to Mustafapasa, a former Greek village once known as Sinasos. After that, we'll drive through Sahinefendi and visit the Roman ruins of Sobesos, a recently excavated site featuring beautiful ground mosaics. At Soganli Valley, we'll take a 2 km walk through the valley and visit its famous cave churches, followed by a lunch break in Soganli Village. After lunch, we proceed to Kaymakli Underground City, the deepest underground city in Cappadocia, offering a fascinating glimpse into ancient life. After tour, transfer to bus station for overnight coach to Pamukkale at 20:30pm. Overnight on Intercity Coach.",
+          "meals": "(Meals: Breakfast + Lunch)",
+          "optional": "OPTIONAL: This morning, be one of the lucky few to greet the sunrise from a hot air balloon—an unforgettable experience and the best way to start the day."
+        },
+        "day3": {
+          "title": "DAY 03: Pamukkale Tour - Transfer to Kusadasi",
+          "content": "07:00am, Arrival to Pamukkale, meet at the bus station and transfer to your hotel for breakfast. 10:00am, Pick-up from hotel and head to Pamukkale to enjoy a visit to the natural travertines (Cotton Castle) formed by lime deposits, one of the most visited of Turkey's natural wonders. Also explore the ruins of Hierapolis. Then if you like to swim in the Ancient Pool which is also called Cleopatra's Pool they charge extra entrance fee. After tour, transfer to Kusadasi. Overnight in Kusadasi.",
+          "meals": "(Meals: Breakfast + Lunch)"
+        },
+        "day4": {
+          "title": "DAY 04: Ephesus Tour - Flight to Istanbul",
+          "content": "Breakfast, 09:00am visit Ephesus Ancient City, Enter through the Magnesia Gate and begin a slow, downhill walk with your guide into the ruins of this Roman provincial capital. Your route takes you past the Odeon, the Celsus Library, the Temple of Hadrian, the Fountain of Trajan. The Grand Theatre, where Saint Paul preached, is the largest theatre is antiquity with capacity of 24,000 seats. Next visit the Temple of Artemis and the House of the Virgin Mary's. After tour, transfer to Izmir airport for an evening flight to Istanbul at 19:50pm. 21:10pm, Arrival to Istanbul, meet at the airport and transfer to your hotel.",
+          "meals": "(Meals: Breakfast + Lunch)"
+        }
+      },
+      "includes": {
+        "title": "Tour Includes",
+        "accommodation": "02 Nights 4-star hotel accommodation B.B. + 01 Night On Intercity Overnight Coach",
+        "tours": "04 day regular small Group Tour includes guiding in English, entrance fees, lunch and transportation",
+        "flight1": "Oneway domestic flight from Istanbul to Kayseri",
+        "flight2": "Oneway domestic flight from Izmir to Istanbul",
+        "transfers": "All airports/hotels/ports transfer within Turkey"
+      },
+      "excludes": {
+        "title": "Tour Excludes",
+        "personal": "Items Of A Personal Nature",
+        "gratuities": "Gratuities For Driver & Guide",
+        "meals": "Meals Not Mentioned",
+        "drinks": "Drinks Of Any Kind",
+        "balloon": "Hot Air Balloon Ride In Cappadocia",
+        "insurance": "Travel Insurance"
+      },
+      "booking": {
+        "title": "Book Your Tour Now!",
+        "subtitle": "Reserve your 4-day package experience",
+        "summary": "Booking Summary",
+        "tourType": "Tour Type:",
+        "tourName": "4-Day Package Tour",
+        "selectedDate": "Selected Date:",
+        "pleaseSelect": "Please select"
+      }
+    },
+    "package4days3": {
+      "pageTitle": "Best 4-Day Istanbul Travel Package | Guided City Tour — Capahenas Travel",
+      "metaDescription": "Discover Istanbul's iconic landmarks on a 4-day guided tour. Visit Blue Mosque, Topkapı Palace, Hagia Sophia, Bosphorus Cruise, Grand Bazaar, and Dolmabahce Palace with expert guides.",
+      "badge": "🏛️ Istanbul Discovery Package",
+      "title": "Best 4-Day Istanbul Travel Package | Guided City Tour",
+      "subtitle": "03 Nights / 04 Days",
+      "description": "Blue Mosque, Topkapı Palace, St. Sophia, Bosphorus Cruise, Grand Bazaar, Dolmabahce Palace",
+      "gallery": {
+        "title": "Experience Gallery",
+        "subtitle": "Discover Istanbul's Historic Treasures"
+      },
+      "about": {
+        "title": "About the Tour",
+        "subtitle": "4-Day Istanbul Package",
+        "duration": "03 Nights / 04 Days",
+        "destinations": "Istanbul City Tour",
+        "available": "✓ Available Daily",
+        "customizable": "✓ Customizable",
+        "highlights": "Highlights of the Tour",
+        "highlight1": "Explore Istanbul's wonders: Topkapi Palace, Grand Bazaar, Hippodrome, Blue Mosque, and Hagia Sophia",
+        "highlight2": "Cruise the Bosphorus and visit the opulent Beylerbeyi Palace",
+        "highlight3": "Immerse in the vibrant Grand Bazaar's lively atmosphere",
+        "highlight4": "A perfect blend of history and culture awaits"
+      },
+      "itinerary": {
+        "title": "Itinerary",
+        "day1": {
+          "title": "DAY 01: Arrival to Istanbul",
+          "content": "Upon arrival in Istanbul (Istanbul Airport), our representative will meet you & transfer to the hotel. (Check-In after 13:00pm) and check in to hotel. Rest of day is leisure and Overnight in Istanbul.",
+          "meals": "(Meals: No)"
+        },
+        "day2": {
+          "title": "DAY 02: Istanbul Old City Walking Tour",
+          "content": "Breakfast, visit to the ancient Byzantine Hippodrome where you will tour the Egyptian Obelisk, Serpentine Column, Fountain of Wilhelm II, the elegant Blue Mosque famous with its heavenly six minarets and the Hagia Sophia Museum, built during the reign of Emperor Theodosius and burned down in the fire of Nika Revolt . After lunch, visit the Basilica Cistern in Istanbul is an ancient underground marvel with atmospheric columns and lighting. After tour back to hotel. Overnight in Istanbul.",
+          "meals": "(Meals: Breakfast)"
+        },
+        "day3": {
+          "title": "DAY 03: Bosphorus Cruise and Beylerbeyi Palace",
+          "content": "Breakfast and drive to Spice Market, Egyptian Bazaar heaped with various sweets & spices is one of the world's largest spice bazaars since 1665. Then embark on the Bosphorus ferry for an unforgettable cruise along the Bosphorus, the beautiful strait that divides Europe from Asia. Driving across the Bosphorus Bridge and head for the summit of Camlica Hill and its panoramic views of Istanbul A short drive brings us to the Palace of Beylerbeyi on the shore of the Bosphorus. Perhaps the most elegant late Ottoman palace. Overnight in Istanbul.",
+          "meals": "(Meals: Breakfast + Lunch)"
+        },
+        "day4": {
+          "title": "DAY 04: Istanbul / Departure",
+          "content": "Breakfast, check-out from your hotel (before 12:00pm), we will arrange for the transfer to Istanbul airport.",
+          "meals": "(Meals: Breakfast)"
+        }
+      },
+      "includes": {
+        "title": "Tour Includes",
+        "accommodation": "03 Nights 4-star hotel accommodation B.B",
+        "tours": "02 day regular small Group Tour includes guiding in English, entrance fees, lunch and transportation",
+        "transfers": "All airports/hotels/airports transfer within Istanbul"
+      },
+      "excludes": {
+        "title": "Tour Excludes",
+        "personal": "Items Of A Personal Nature",
+        "gratuities": "Gratuities For Driver & Guide",
+        "meals": "Meals Not Mentioned",
+        "drinks": "Drinks Of Any Kind",
+        "insurance": "Travel Insurance"
+      },
+      "booking": {
+        "title": "Book Your Tour Now!",
+        "subtitle": "Reserve your 4-day Istanbul experience",
+        "summary": "Booking Summary",
+        "tourType": "Tour Type:",
+        "tourName": "4-Day Istanbul Tour",
+        "selectedDate": "Selected Date:",
+        "pleaseSelect": "Please select"
+      }
+    },
+    "package5days": {
+      "pageTitle": "5-Day Turkey Tour | Istanbul & Ephesus Highlights — Capahenas Travel",
+      "metaDescription": "Discover Istanbul's iconic landmarks and Ephesus' ancient ruins. 5-day guided Turkey tour with flights, accommodation, and memorable experiences.",
+      "badge": "✈️ Istanbul & Ephesus Package",
+      "title": "5-Day Turkey Tour | Istanbul & Ephesus Highlights",
+      "subtitle": "04 Nights / 05 Days",
+      "description": "Discover Istanbul's iconic landmarks and Ephesus' ancient ruins in one unforgettable journey.",
+      "gallery": {
+        "title": "Experience Gallery",
+        "subtitle": "Discover Istanbul & Ephesus"
+      },
+      "about": {
+        "title": "About the Tour",
+        "subtitle": "5-Day Package Tour",
+        "duration": "04 Nights / 05 Days",
+        "destinations": "Istanbul, Ephesus",
+        "intro": "This tour is available for daily all year round. This tour can be customized.",
+        "highlights": "Highlights of the Tour",
+        "highlight1": "Discover Istanbul's iconic landmarks, including the Hagia Sophia and Topkapi Palace",
+        "highlight2": "Explore Ephesus' ancient ruins, including the Library of Celsus and the Great Theatre",
+        "highlight3": "Enjoy guided tours, rich historical insights, and comfortable accommodations throughout your journey"
+      },
+      "itinerary": {
+        "title": "Itinerary",
+        "day1": {
+          "title": "DAY 01: Arrival to Istanbul",
+          "content": "Upon arrival in Istanbul (Istanbul Airport), our representative will meet you & transfer to the hotel. (Check-In after 13:00pm) and check in to hotel. Rest of day is leisure and Overnight in Istanbul.",
+          "meals": "(Meals: No)"
+        },
+        "day2": {
+          "title": "DAY 02: Historical Istanbul Tour",
+          "content": "Breakfast, visit to the ancient Byzantine Hippodrome where you will tour the Egyptian Obelisk, Serpentine Column, Fountain of Wilhelm II, the elegant Blue Mosque famous with its heavenly six minarets and the Hagia Sophia Museum, built during the reign of Emperor Theodosius and burned down in the fire of Nika Revolt . After lunch, visit the Basilica Cistern in Istanbul is an ancient underground marvel with atmospheric columns and lighting. After tour back to hotel. Overnight in Istanbul.",
+          "meals": "(Meals: Breakfast)"
+        },
+        "day3": {
+          "title": "DAY 03: Half Day Morning Bosphorus Cruise",
+          "content": "Breakfast, drive to Spice Market, Egyptian Bazaar heaped with various sweets & spices is one of the world's largest spice bazaars since 1665. Then embark on the Bosphorus ferry for an unforgettable cruise along the Bosphorus, the beautiful strait that divides Europe from Asia. After tour back to hotel. Rest of day is leisure and Overnight in Istanbul.",
+          "meals": "(Meals: Breakfast)"
+        },
+        "day4": {
+          "title": "DAY 04: Day trip to Ephesus from Istanbul by Roundtrip flight",
+          "content": "04:00 am pick up from your hotel in Istanbul and transfer to domestic airport for morning flight to Izmir at 07:00 am. 08:00 am Arrival to Izmir Airport, transfer to Ephesus, known as one of the best preserved Greco-Roman ancient cities. Here you have the chance to walk down marble streets, view the magnificent Celsius Library and Grand Theatre, just a few of the many buildings and fountains found in this open air museum. Visit the House of Virgin Mary; where she is said to have spent the last of her days, and remains of Artemis Temple After the tour transfer to Izmir airport for flight to Istanbul at 19:00pm. 20:00pm Arrival to Istanbul, meet and transfer to your hotel. Overnight in Istanbul.",
+          "meals": "(Meals: Breakfast + Lunch)"
+        },
+        "day5": {
+          "title": "DAY 05: Istanbul / Departure",
+          "content": "Breakfast, check-out from your hotel (before 12:00pm), we will arrange for the transfer to Istanbul Airport.",
+          "meals": "(Meals: Breakfast)"
+        }
+      },
+      "includes": {
+        "title": "Tour Includes",
+        "accommodation": "04 Nights 4-star hotel accommodation B.B",
+        "tours": "03 day regular small Group Tour includes guiding in English, entrance fees, lunch and transportation",
+        "flight1": "Oneway domestic flight from Istanbul to Izmir",
+        "flight2": "Oneway domestic flight from Izmir to Istanbul",
+        "transfers": "All airports/hotels/ports transfer within Turkey"
+      },
+      "excludes": {
+        "title": "Tour Excludes",
+        "personal": "Items Of A Personal Nature",
+        "gratuities": "Gratuities For Driver & Guide",
+        "meals": "Meals Not Mentioned",
+        "drinks": "Drinks Of Any Kind",
+        "insurance": "Travel Insurance"
+      },
+      "booking": {
+        "title": "Book Your Tour Now!",
+        "subtitle": "Reserve your 5-day Istanbul & Ephesus experience",
+        "summary": "Booking Summary",
+        "tourType": "Tour Type:",
+        "tourName": "5-Day Package Tour",
+        "selectedDate": "Selected Date:",
+        "pleaseSelect": "Please select"
+      }
+    },
+    "package5days2": {
+      "pageTitle": "5-Day Istanbul, Dolmabahce & Bursa Travel Package — Capahenas Travel",
+      "metaDescription": "Explore Istanbul and Bursa in 5 days. Visit Dolmabahce Palace, Blue Mosque, Hagia Sophia, enjoy Bosphorus cruise. Discover Bursa's Green Mosque and cultural heritage.",
+      "badge": "🏛️ Istanbul & Bursa Package",
+      "title": "5-Day Istanbul, Dolmabahce & Bursa Travel Itinerary",
+      "subtitle": "04 Nights / 05 Days",
+      "description": "Blue Mosque, Topkapı Palace, St. Sophia, Bosphorus Cruise, Grand Bazaar, Dolmabahce Palace, Bursa",
+      "gallery": {
+        "title": "Experience Gallery",
+        "subtitle": "Discover Istanbul & Bursa"
+      },
+      "about": {
+        "title": "About the Tour",
+        "subtitle": "5-Day Istanbul & Bursa Package",
+        "duration": "04 Nights / 05 Days",
+        "destinations": "Istanbul, Bursa",
+        "available": "✓ Available Daily",
+        "customizable": "✓ Customizable",
+        "highlights": "Highlights of the Tour",
+        "highlight1": "Explore Istanbul and Bursa in 5 days: visit Dolmabahce Palace, Topkapi Palace, Blue Mosque, Haghia Sophia, and the Grand Bazaar",
+        "highlight2": "Enjoy a Bosphorus cruise, discover Bursa's Green Mosque and Silk Market",
+        "highlight3": "Experience the rich cultural heritage of both cities with expert guides"
+      },
+      "itinerary": {
+        "title": "Itinerary",
+        "day1": {
+          "title": "DAY 01: Arrival to Istanbul",
+          "content": "Upon arrival in Istanbul (Istanbul Airport), our representative will meet you & transfer to the hotel. (Check-In after 13:00pm) and check in to hotel. Rest of day is leisure and Overnight in Istanbul.",
+          "meals": "(Meals: No)"
+        },
+        "day2": {
+          "title": "DAY 02: Istanbul Old City Walking Tour",
+          "content": "Breakfast, visit to the ancient Byzantine Hippodrome where you will tour the Egyptian Obelisk, Serpentine Column, Fountain of Wilhelm II, the elegant Blue Mosque famous with its heavenly six minarets and the Hagia Sophia Museum, built during the reign of Emperor Theodosius and burned down in the fire of Nika Revolt . After lunch, visit the Basilica Cistern in Istanbul is an ancient underground marvel with atmospheric columns and lighting. After tour back to hotel. Overnight in Istanbul.",
+          "meals": "(Meals: Breakfast)"
+        },
+        "day3": {
+          "title": "DAY 03: Bosphorus Cruise and Dolmabahce Palace",
+          "content": "Breakfast, drive to Spice Market, Egyptian Bazaar heaped with various sweets & spices is one of the world's largest spice bazaars since 1665. Then embark on the Bosphorus ferry for an unforgettable cruise along the Bosphorus, the beautiful strait that divides Europe from Asia. After lunch driving across the first Bosphorus Bridge & head for the summit of Camlica Hill, which offers 360° panoramic views of Istanbul. Driving back to Europe over the Bosphorus Bridge, you will visit Dolmabahce Palace (excluding harem), the imperial residence of the last six Sultans, with more than 340 rooms & 8 Turkish baths. Overnight in Istanbul.",
+          "meals": "(Meals: Breakfast + Lunch)"
+        },
+        "day4": {
+          "title": "DAY 04: Day Trip to Bursa",
+          "content": "Breakfast, drive to Bursa the first capital of the Ottoman Empire. Start to visit the Green Mosque and the neighboring Green Mausoleum, both world-renowned for their superb tile decoration, as well as the late 14th century Great. After enjoying a leisurely cable car ride up the steep slopes of Mount Olympus with amazing view. Visit Grand Mosque. Overnight in Istanbul.",
+          "meals": "(Meals: Breakfast + Lunch)"
+        },
+        "day5": {
+          "title": "DAY 05: Istanbul - Departure",
+          "content": "Breakfast, check-out from your hotel (before 12:00pm), we will arrange for the transfer to Istanbul airport.",
+          "meals": "(Meals: Breakfast)"
+        }
+      },
+      "includes": {
+        "title": "Tour Includes",
+        "accommodation": "04 Nights 4-star hotel accommodation B.B.",
+        "tours": "03 day regular small Group Tour includes guiding in English, entrance fees, lunch and transportation",
+        "transfers": "All airports/hotels/airports transfer in Istanbul"
+      },
+      "excludes": {
+        "title": "Tour Excludes",
+        "personal": "Items Of A Personal Nature",
+        "gratuities": "Gratuities For Driver & Guide",
+        "meals": "Meals Not Mentioned",
+        "drinks": "Drinks Of Any Kind",
+        "insurance": "Travel Insurance"
+      },
+      "booking": {
+        "title": "Book Your Tour Now!",
+        "subtitle": "Reserve your 5-day Istanbul & Bursa experience",
+        "summary": "Booking Summary",
+        "tourType": "Tour Type:",
+        "tourName": "5-Day Istanbul & Bursa Tour",
+        "selectedDate": "Selected Date:",
+        "pleaseSelect": "Please select"
+      }
+    },
+    "package6days2": {
+      "pageTitle": "6-Day Turkey Tour | Ephesus, Pamukkale, Antalya & Cappadocia — Capahenas Travel",
+      "metaDescription": "Explore Ephesus, Pamukkale's terraces, Antalya's coast, and Cappadocia's landscapes. 6-day guided Turkey tour with flights, accommodation, and memorable experiences.",
+      "badge": "✈️ Ephesus, Pamukkale, Antalya & Cappadocia Package",
+      "title": "6-Day Turkey Tour | Ephesus, Pamukkale, Antalya & Cappadocia",
+      "subtitle": "05 Nights / 06 Days",
+      "description": "Explore ancient ruins, natural wonders, stunning coastlines, and magical landscapes in one unforgettable journey.",
+      "gallery": {
+        "title": "Experience Gallery",
+        "subtitle": "Discover Ephesus, Pamukkale, Antalya & Cappadocia"
+      },
+      "about": {
+        "title": "About the Tour",
+        "subtitle": "6-Day Package Tour",
+        "duration": "05 Nights / 06 Days",
+        "destinations": "Ephesus, Pamukkale, Antalya, Cappadocia",
+        "intro": "This tour is available for daily all year round. This tour can be customized.",
+        "highlights": "Highlights of the Tour",
+        "highlight1": "Explore Ephesus' ancient ruins and the Temple of Artemis",
+        "highlight2": "Relax in Pamukkale's thermal terraces and Hierapolis",
+        "highlight3": "Discover Antalya's charming old town and stunning coast",
+        "highlight4": "Experience Cappadocia's unique landscapes and cave dwellings",
+        "highlight5": "Enjoy guided tours and comfortable accommodations"
+      },
+      "itinerary": {
+        "title": "Itinerary",
+        "day1": {
+          "title": "DAY 01: Fly to Izmir / Ephesus tour",
+          "content": "04:00 am pick up from your hotel in Istanbul and transfer to domestic airport for morning flight to Izmir at 07:00 am. 08:00 am Arrival to Izmir Airport, meet and transfer to Ephesus, known as one of the best preserved Greco-Roman ancient cities. Here you have the chance to walk down marble streets, view the magnificent Celsius Library and Grand Theatre, just a few of the many buildings and fountains found in this open air museum. The day will also include visits to the House of Virgin Mary; where she is said to have spent the last of her days, and remains of Artemis Temple. Overnight in Kusadasi.",
+          "meals": "(Meals: Lunch)"
+        },
+        "day2": {
+          "title": "DAY 02: Pamukkale tour then to Antalya",
+          "content": "Breakfast, 07:30am head to Pamukkale and enjoy a visit to the natural travertens (Cotton Castle) formed by lime deposits, one of the most visted of Turkey's natural wonders. Also explore the ruins of Hierapolis. Then If you like to swim in the Ancient Pool which is also called Cleopatras Pool they charge extra entrance fee. 16:00 pm depart on 04 hours intercity coach to Antalya. 20:00pm Arrival and transfer to hotel. Overnight in Antalya.",
+          "meals": "(Meals: Breakfast + Lunch)"
+        },
+        "day3": {
+          "title": "DAY 03: Perge, Side & Aspendos tour",
+          "content": "Breakfast, 08:00 am depart to visit one of the Turkey's most important regions where you will visit a wealth of ancient Anatolian sites including the magnificent Pamphylian trading cities of Side, Perge and Aspendos. Particularly impressive are the free-standing theatre at Side,which seated 20.000, the stadium at Perge, which is the largest in Asia Minor and the theatre at Aspendos which is one of the best preserved in the world. Visit Manavgat waterfalls. Overnight in Antalya.",
+          "meals": "(Meals: Breakfast + Lunch)"
+        },
+        "day4": {
+          "title": "DAY 04: Antalya City tour / Overnight coach to Cappadocia",
+          "content": "Breakfast, 09:30am drive west side of the city as first roundtrip tünektepe cable car ride will happen when we reach the top great view of mediterranean sea and city sight after that heading to düden waterfall will be visit. As second waterfall we will see karpuz kaldıran waterfall which is where river is falling to sea with amazing beauty of it later on oldcity Kaleiçi(hadrian gate,roman harbour,broken minaret etc.). 21:00 pm depart on Overnight coach to Cappadocia. Note it : if cable car is not working due the weather condition we will do a boat trip from oldcity marina.",
+          "meals": "(Meals: Breakfast + Lunch)"
+        },
+        "day5": {
+          "title": "DAY 05: Arrival & North Cappadocia Tour",
+          "content": "07:00 am Arrival & transfer to hotel. Our first stop will be Uchisar, where you'll have the opportunity to take pictures of \"The Castle\" and explore the area around it (from the outside). Next, we'll drive to Cavusin (Rose Valley), renowned for its stunning red rock formations. Following this, we'll visit the Valley of Fairy Chimneys, Pasabagi, and Zelve Open Air Museum. After lunch visit Devrent Valley and Three Beauties Valley, which are among the most important sights of North Cappadocia. Afterward, we'll continue to the ancient towns of Urgup and Avanos, famous for their red clay pottery. Here, you'll have the chance to try your hand at pottery-making. As an optional activity, we can also visit a Turkish rug and carpet-making factory. Overnight in Cappadocia.",
+          "meals": "(Meals: Breakfast + Lunch)"
+        },
+        "day6": {
+          "title": "DAY 06: Cappadocia Tour / Flight to Istanbul",
+          "content": "After breakfast, Pick-up from the hotel will be at 9:30-10:00 AM. Start to visit Ortahisar, where you'll have a great photo opportunity to capture the iconic Ortahisar Rock Castle. Next, we head to Mustafapasa, a former Greek village once known as Sinasos. After that, we'll drive through Sahinefendi and visit the Roman ruins of Sobesos, a recently excavated site featuring beautiful ground mosaics. At Soganli Valley, we'll take a 2 km walk through the valley and visit its famous cave churches, followed by a lunch break in Soganli Village. After lunch, we proceed to Kaymakli Underground City, the deepest underground city in Cappadocia, offering a fascinating glimpse into ancient life. Transfer to Kayseri airport for flight to Istanbul at 19:30pm. 21:00pm Arrival to Istanbul, transfer to your hotel. Overnight in Istanbul.",
+          "meals": "(Meals: Breakfast + Lunch)",
+          "optional": "OPTIONAL: This morning, be one of the lucky few to greet the sunrise from a hot air balloon—an unforgettable experience and the best way to start the day."
+        }
+      },
+      "includes": {
+        "title": "Tour Includes",
+        "accommodation": "05 Nights 4-star hotel accommodation B.B.",
+        "coach": "01 Night on Overnight coach Antalya to Cappadocia",
+        "tours": "06 day regular small Group Tour includes guiding in English, entrance fees, lunch and transportiton",
+        "flight1": "Oneway domestic flight From Istanbul to Izmir",
+        "flight2": "Oneway domestic flight From Kayseri to Istanbul",
+        "transfers": "All airports/hotels/ports transfer within Turkey"
+      },
+      "excludes": {
+        "title": "Tour Excludes",
+        "personal": "Items Of A Personal Nature",
+        "gratuities": "Gratuities For Driver & Guide",
+        "meals": "Meals Not Mentioned",
+        "drinks": "Drinks Of Any Kind",
+        "balloon": "Hot air balloon ride in Cappadocia",
+        "insurance": "Travel Insurance"
+      },
+      "booking": {
+        "title": "Book Your Tour Now!",
+        "subtitle": "Reserve your 6-day Ephesus, Pamukkale, Antalya & Cappadocia experience",
+        "summary": "Booking Summary",
+        "tourType": "Tour Type:",
+        "tourName": "6-Day Package Tour",
+        "selectedDate": "Selected Date:",
+        "pleaseSelect": "Please select"
+      }
+    },
+    "package6days3": {
+      "pageTitle": "6 Days in Istanbul, Bursa & Princes' Islands | Tour Package — Capahenas Travel",
+      "metaDescription": "Explore Istanbul's treasures, discover Bursa's Green Mosque, and experience Princes' Islands. 6-day guided tour with accommodation and memorable experiences.",
+      "badge": "🏛️ Istanbul, Bursa & Princes' Islands Package",
+      "title": "6 Days in Istanbul, Bursa & Princes' Islands",
+      "subtitle": "05 Nights / 06 Days",
+      "description": "Discover the Blue Mosque, Topkapı Palace, St. Sophia, Bosphorus Cruise, Grand Bazaar, Dolmabahce Palace, the charming City of Bursa, and the Princess Islands.",
+      "gallery": {
+        "title": "Experience Gallery",
+        "subtitle": "Discover Istanbul, Bursa & Princes' Islands"
+      },
+      "about": {
+        "title": "About the Tour",
+        "subtitle": "6-Day Istanbul, Bursa & Princes' Islands Package",
+        "duration": "05 Nights / 06 Days",
+        "destinations": "Istanbul, Bursa, Princes' Islands",
+        "intro": "This tour is available daily all year round. This tour can be customized.",
+        "highlights": "Highlights of the Tour",
+        "highlight1": "Explore Istanbul's iconic landmarks: Topkapi Palace, Blue Mosque, and Dolmabahce Palace",
+        "highlight2": "Experience the Bosphorus cruise and visit Bursa's majestic Green Mosque",
+        "highlight3": "Discover the Princes' Islands with an electrical vehicle tour"
+      },
+      "itinerary": {
+        "title": "Itinerary",
+        "day1": {
+          "title": "DAY 01: Arrival to Istanbul",
+          "content": "Upon arrival in Istanbul (Istanbul Airport), our representative will meet you & transfer to the hotel. (Check-In after 13:00pm) and check in to hotel. Rest of day is leisure and Overnight in Istanbul.",
+          "meals": "(Meals: No)"
+        },
+        "day2": {
+          "title": "DAY 02: Istanbul Old City Walking Tour",
+          "content": "Breakfast, visit to the ancient Byzantine Hippodrome where you will tour the Egyptian Obelisk, Serpentine Column, Fountain of Wilhelm II, the elegant Blue Mosque famous with its heavenly six minarets and the Hagia Sophia Museum, built during the reign of Emperor Theodosius and burned down in the fire of Nika Revolt. After lunch, visit the Basilica Cistern in Istanbul is an ancient underground marvel with atmospheric columns and lighting. After tour back to hotel. Overnight in Istanbul.",
+          "meals": "(Meals: Breakfast)"
+        },
+        "day3": {
+          "title": "DAY 03: Bosphorus Cruise and Beylerbeyi Palace",
+          "content": "Breakfast, visit Spice Market, Egyptian Bazaar heaped with various sweets & spices is one of the world's largest spice bazaars since 1665. Then embark on the Bosphorus ferry for an unforgettable cruise along the Bosphorus, the beautiful strait that divides Europe from Asia. After cruise, we'll drive to Camlica Hill, the highest hill in Istanbul, offering panoramic views of the city, Bosphorus, and Marmara Sea. Then visit Beylerbeyi Palace, a stunning Ottoman summer residence on the Asian side. After tour back to hotel. Overnight in Istanbul.",
+          "meals": "(Meals: Breakfast + Lunch)"
+        },
+        "day4": {
+          "title": "DAY 04: Princess Islands Tour",
+          "content": "Breakfast, 08:30 am Pick up from hotel and transfer to the port for the ferry to the Princess Islands. We'll visit Buyukkada, the largest of the Prince Islands. Upon arrival, take an electrical vehicle tour around the island (Note: Horse-drawn carriages have been banned since 2023). After the tour, enjoy free time to explore the island's charming streets, elegant mansions, and local restaurants before returning to Istanbul. After tour back to hotel. Overnight in Istanbul.",
+          "meals": "(Meals: Breakfast + Lunch)"
+        },
+        "day5": {
+          "title": "DAY 05: Day Trip to Bursa",
+          "content": "Breakfast, 08:00 am Pick up from hotel and drive to Bursa, the first capital of the Ottoman Empire. Visit the stunning Green Mosque (Yeşil Camii), known for its intricate tile work, and the Green Mausoleum (Yeşil Türbe). Take a cable car ride up Mount Olympus (Uludağ) for breathtaking mountain views. Visit the Grand Mosque (Ulu Camii) with its impressive 20 domes. Explore the historic silk bazaar (Koza Han) before returning to Istanbul. After tour back to hotel. Overnight in Istanbul.",
+          "meals": "(Meals: Breakfast + Lunch)"
+        },
+        "day6": {
+          "title": "DAY 06: Istanbul - Departure",
+          "content": "Breakfast, check-out from hotel (before 12:00pm), transfer to Istanbul airport as per your flight departure time.",
+          "meals": "(Meals: Breakfast)"
+        }
+      },
+      "includes": {
+        "title": "Tour Includes",
+        "accommodation": "05 Nights 4-star hotel accommodation B.B",
+        "tours": "04 day regular small Group Tour includes guiding in English, entrance fees, lunch and transportation",
+        "transfers": "All airports/hotels/airports transfers in Istanbul"
+      },
+      "excludes": {
+        "title": "Tour Excludes",
+        "personal": "Items Of A Personal Nature",
+        "gratuities": "Gratuities For Driver & Guide",
+        "meals": "Meals Not Mentioned",
+        "drinks": "Drinks Of Any Kind",
+        "insurance": "Travel Insurance"
+      },
+      "booking": {
+        "title": "Book Your Tour Now!",
+        "subtitle": "Reserve your 6-day Istanbul, Bursa & Princes' Islands experience",
+        "summary": "Booking Summary",
+        "tourType": "Tour Type:",
+        "tourName": "6-Day Istanbul, Bursa & Princes' Islands Tour",
+        "selectedDate": "Selected Date:",
+        "pleaseSelect": "Please select"
+      }
+    },
+    "package8days": {
+      "pageTitle": "8-Day Turkey Tours | Istanbul, Coast & Culture - Capahenas Travel",
+      "metaDescription": "Discover the complete Turkey experience with our 8-day tour. Explore Istanbul's iconic landmarks, Cappadocia's fairy chimneys, Ephesus ancient ruins, and Pamukkale's thermal terraces. Book now!",
+      "badge": "Istanbul, Coast & Culture Package",
+      "title": "8-Day Turkey Tours",
+      "subtitle": "07 Nights / 08 Days",
+      "description": "Comprehensive Turkey Tour covering Istanbul, Cappadocia, Ephesus, and Pamukkale",
+      "gallery": {
+        "title": "8-Day Tour Gallery",
+        "subtitle": "Experience the best of Turkey in 8 unforgettable days"
+      },
+      "about": {
+        "title": "About the Tour",
+        "subtitle": "8-Day Package Tour",
+        "duration": "07 Nights / 08 Days",
+        "destinations": "Istanbul, Cappadocia, Ephesus, Pamukkale",
+        "highlights": "Highlights of the Tour",
+        "highlight1": "Explore Istanbul's iconic landmarks, including the Hagia Sophia and Blue Mosque",
+        "highlight2": "Discover Cappadocia's fairy chimneys and cave dwellings",
+        "highlight3": "Visit Ephesus' ancient ruins, including the Library of Celsus and the Great Theatre",
+        "highlight4": "Relax in Pamukkale's thermal terraces and Hierapolis",
+        "highlight5": "Enjoy guided tours and comfortable accommodations"
+      },
+      "itinerary": {
+        "title": "Itinerary",
+        "day1": {
+          "title": "DAY 01: Arrival to Istanbul",
+          "content": "Upon arrival in Istanbul (Istanbul Airport), our representative will meet you & transfer to the hotel. (Check-In after 13:00pm) and check in to hotel. Rest of day is leisure and Overnight in Istanbul.",
+          "meals": "(Meals: No)"
+        },
+        "day2": {
+          "title": "DAY 02: Istanbul Old City Walking Tour",
+          "content": "Breakfast, visit to the ancient Byzantine Hippodrome where you will tour the Egyptian Obelisk, Serpentine Column, Fountain of Wilhelm II, the elegant Blue Mosque famous with its heavenly six minarets and the Hagia Sophia Museum, built during the reign of Emperor Theodosius and burned down in the fire of Nika Revolt . After lunch, visit the Basilica Cistern in Istanbul is an ancient underground marvel with atmospheric columns and lighting. After tour back to hotel. Overnight in Istanbul.",
+          "meals": "(Meals: Breakfast)"
+        },
+        "day3": {
+          "title": "DAY 03: Bosphorus cruise / Flight to Cappadocia",
+          "content": "Breakfast, visit Spice Market, Egyptian Bazaar heaped with various sweets & spices is one of the world's largest spice bazaars since 1665. Then embark on the Bosphorus ferry for an unforgettable cruise along the Bosphorus, the beautiful strait that divides Europe from Asia. Back to hotel and 15:30pm Transfer to airport for flight to Nevsehir at 18:55pm. 21:05pm, Arrival to Nevsehir, transfer to hotel. Overnight in Cappadocia.",
+          "meals": "(Meals: Breakfast)"
+        },
+        "day4": {
+          "title": "DAY 04: North Cappadocia Tour",
+          "content": "After breakfast, pick-up from the hotel will be around 9:30-10:00 AM. Our first stop will be Uchisar, where you'll have the opportunity to take pictures of \"The Castle\" and explore the area around it (from the outside). Next, we'll drive to Cavusin (Rose Valley), renowned for its stunning red rock formations. Following this, we'll visit the Valley of Fairy Chimneys, Pasabagi, and Zelve Open Air Museum. After lunch visit Devrent Valley and Three Beauties Valley, which are among the most important sights of North Cappadocia. Afterward, we'll continue to the ancient towns of Urgup and Avanos, famous for their red clay pottery. Here, you'll have the chance to try your hand at pottery-making. As an optional activity, we can also visit a Turkish rug and carpet-making factory. Overnight in Cappadocia.",
+          "meals": "(Meals: Breakfast + Lunch)",
+          "optional": "OPTIONAL: This morning, be one of the lucky few to greet the sunrise from a hot air balloon—an unforgettable experience and the best way to start the day."
+        },
+        "day5": {
+          "title": "DAY 05: South Cappadocia / Flight to Izmir",
+          "content": "After breakfast, Pick-up from the hotel will be at 9:30-10:00 AM. Start to visit Ortahisar, where you'll have a great photo opportunity to capture the iconic Ortahisar Rock Castle. Next, we head to Mustafapasa, a former Greek village once known as Sinasos. After that, we'll drive through Sahinefendi and visit the Roman ruins of Sobesos, a recently excavated site featuring beautiful ground mosaics. At Soganli Valley, we'll take a 2 km walk through the valley and visit its famous cave churches, followed by a lunch break in Soganli Village. After lunch, we proceed to Kaymakli Underground City, the deepest underground city in Cappadocia, offering a fascinating glimpse into ancient life. Transfer to Kayseri airport for flight to Izmir at 22:30pm 23:55pm Arrival to Izmir, meet and transfer to Kusadasi. Overnight in Kusadasi.",
+          "meals": "(Meals: Breakfast + Lunch)"
+        },
+        "day6": {
+          "title": "DAY 06: Ephesus tour with House of Virgin Mary",
+          "content": "Breakfast, 09:00am, visit Ephesus Ancient City - Enter through the Magnesia Gate and begin a slow, downhill walk with your guide into the ruins of this Roman provincial capital. Your route takes you past the Odeon, the Celsus Library, the Temple of Hadrian, the Fountain of Trajan. The Grand Theatre, where Saint Paul preached, is the largest theatre is antiquity. Next we will visit the ruins of the Temple of Artemis. Lunch then visit the House of the Virgin Mary's. Overnight in Kusadasi.",
+          "meals": "(Meals: Breakfast + Lunch)"
+        },
+        "day7": {
+          "title": "DAY 07: Pamukkale tour / Fly to Istanbul",
+          "content": "Breakfast, 07:30am head to Pamukkale and enjoy a visit to the natural travertens (Cotton Castle) formed by lime deposits, one of the most visted of Turkey's natural wonders. Also explore the ruins of Hierapolis. Then If you like to swim in the Ancient Pool which is also called Cleopatras Pool they charge extra entrance fee.Please note that drive to Pamukkale is around 3hours. After tour, transfer to Denizli airport for an evening flight to Istanbul at 19:55pm. 21:10pm, Arrival to Istanbul, meet at the airport and transfer to hotel. Overnight in Istanbul.",
+          "meals": "(Meals: Breakfast + Lunch)"
+        },
+        "day8": {
+          "title": "DAY 08: Istanbul / Departure",
+          "content": "Breakfast, check-out from hotel (before 12:00pm), transfer to Istanbul airport as per your flight departure time.",
+          "meals": "(Meals: Breakfast)"
+        }
+      },
+      "includes": {
+        "title": "Tour Includes",
+        "accommodation": "07 Nights 4-star hotel accommodation B.B",
+        "tours": "06 day regular small Group Tours includes guiding in English, entrance fees, lunch and transportation",
+        "flight1": "Oneway domestic flight from Istanbul to Kayseri",
+        "flight2": "Oneway domestic flight from Kayseri to Izmir",
+        "flight3": "Oneway domestic flight from Denizli to Istanbul",
+        "transfers": "All airports/hotels/ports transfer within Turkey"
+      },
+      "excludes": {
+        "title": "Tour Excludes",
+        "personal": "Items Of A Personal Nature",
+        "gratuities": "Gratuities For Driver & Guide",
+        "meals": "Meals Not Mentioned",
+        "drinks": "Drinks Of Any Kind",
+        "balloon": "Hot Air Balloon Ride In Cappadocia",
+        "insurance": "Travel Insurance"
+      },
+      "booking": {
+        "title": "Book Your Tour Now!",
+        "subtitle": "Reserve your 8-day comprehensive Turkey experience",
+        "summary": "Booking Summary",
+        "tourType": "Tour Type:",
+        "tourName": "8-Day Package Tour",
+        "selectedDate": "Selected Date:",
+        "pleaseSelect": "Please select"
+      }
+    }
+  }
+}

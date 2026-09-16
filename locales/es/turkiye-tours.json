@@ -1,0 +1,1294 @@
+{
+  "turkiye-tours": {
+    "antalya": {
+      "badge": "🏖️ Ciudad y Naturaleza",
+      "title": "Tour de la Ciudad de Antalya",
+      "subtitle": "Día completo: cascadas, teleférico y casco antiguo",
+      "description": "Panorámica desde el Monte Tünektepe, cascadas espectaculares y el encanto histórico de Kaleiçi: lo esencial de Antalya en un solo día.",
+      "gallery": {
+        "title": "Galería de experiencias",
+        "subtitle": "Cascadas • Teleférico • Casco antiguo"
+      },
+      "about": {
+        "title": "Sobre el tour",
+        "subtitle": "Cascadas • Teleférico • Casco antiguo",
+        "intro": "Principal destino vacacional de Turquía, Antalya combina calas turquesa, playas limpias y un centro animado. Este tour optimizado de día completo reúne sus puntos imprescindibles.",
+        "karpuz": "Cascada Karpuzkaldıran • Encuentro de agua dulce y mar",
+        "karpuz-desc": "Un salto de unos 45 m directamente al Mediterráneo. La bruma, el arcoíris y el horizonte azul crean un escenario único para fotografiar.",
+        "duden": "Cascadas de Düden • Oasis verde",
+        "duden-desc": "Parque sombreado y fresco muy popular. Ideal para pasear, relajarse y hacer fotos en un entorno natural.",
+        "tun": "Teleférico de Tünektepe • Vista a 800 m",
+        "tun-desc": "A 800 m de altura observará la playa de Konyaaltı, la isla Sıcan y el puerto. El trayecto en cabina es una sucesión continua de panorámicas.",
+        "note": "Nota: el teleférico cierra los lunes. Ese día se sustituye por mini‑crucero desde la marina para admirar la costa.",
+        "oldtown": "Casco antiguo (Kaleiçi) • Callejuelas históricas",
+        "oldtown-desc": "Arquitectura desde el reino de Pérgamo hasta el periodo otomano. Calles empedradas, casas históricas, boutiques y hoteles con encanto. El antiguo puerto y la Puerta de Adriano son imprescindibles.",
+        "highlights": "Puntos destacados",
+        "highlight1": "Karpuzkaldıran: caída de 45 m al Mediterráneo",
+        "highlight2": "Düden: paseo por el parque de las cascadas",
+        "highlight3": "Teleférico Tünektepe: panorama a 800 m",
+        "highlight4": "Playa Konyaaltı: costa azul",
+        "highlight5": "Kaleiçi: calles históricas y arquitectura otomana",
+        "highlight6": "Puerta de Adriano: arco romano",
+        "highlight7": "Antiguo puerto: marina pintoresca",
+        "highlight8": "Almuerzo turco incluido",
+        "itinerary": "Itinerario",
+        "morning": "Mañana: recogida en el hotel después del desayuno",
+        "stop1": "1ª parada: cascada Karpuzkaldıran (≈45 min de fotos)",
+        "stop2": "2ª parada: cascadas de Düden y paseo por el parque",
+        "lunch": "Almuerzo: restaurante local (cocina turca)",
+        "afternoon": "Tarde: teleférico Tünektepe (o barco lunes)",
+        "stop3": "Última parada: casco antiguo de Kaleiçi (tour a pie)",
+        "return": "Regreso: traslado a su hotel",
+        "note2": "Aviso: hoteles a >30 km del centro pueden tener suplemento de transporte.",
+        "contact": "Información y reservas: info@capahenastravel.com"
+      },
+      "includes": {
+        "title": "Incluye",
+        "guide": "Guía profesional",
+        "fees": "Entradas",
+        "lunch": "Almuerzo buffet",
+        "transport": "Vehículo con aire acondicionado",
+        "taxes": "Impuestos y servicios"
+      },
+      "info": {
+        "title": "Información",
+        "pickupTitle": "Recogida",
+        "pickupDesc": "Hoteles en el centro de Antalya",
+        "pickupNote": "Posible suplemento si >30 km",
+        "durationTitle": "Duración",
+        "durationDesc": "Día completo (fin aprox. 16:30)",
+        "dropoffTitle": "Traslado",
+        "dropoffDesc": "Su hotel en Antalya",
+        "dropoffNote": "Posible suplemento si >30 km"
+      },
+      "excludes": {
+        "title": "No incluye",
+        "drinks": "Bebidas",
+        "personal": "Gastos personales",
+        "tips": "Propinas guía y chófer"
+      },
+      "booking": {
+        "title": "¡Reserve ahora!",
+        "subtitle": "Su experiencia en Antalya",
+        "selectDate": "Seleccionar fecha",
+        "persons": "Personas",
+        "personsLabel": "pers.",
+        "minimumNote": "Mínimo 1 persona",
+        "yourDetails": "Sus datos",
+        "fullName": "Nombre y apellidos *",
+        "fullNamePlaceholder": "Escriba su nombre",
+        "email": "Correo electrónico *",
+        "emailPlaceholder": "su@email.com",
+        "hotel": "Hotel (opcional)",
+        "hotelPlaceholder": "Nombre de su hotel en Antalya",
+        "hotelNote": "Opcional pero agiliza el proceso.",
+        "phone": "Teléfono (opcional)",
+        "phonePlaceholder": "Número de teléfono",
+        "phoneNote": "Recomendado para contacto rápido.",
+        "summary": "Resumen",
+        "tourType": "Tipo de tour:",
+        "selectedDate": "Fecha elegida:",
+        "pleaseSelect": "Seleccione",
+        "totalPersons": "Total personas:",
+        "priceNote": "Tarifa comunicada tras su solicitud",
+        "bookButton": "Reservar mi aventura",
+        "secure": "🔒 Reserva segura • Sin pago inmediato",
+        "cancellation": "Cancelación y reembolso gratis",
+        "cancellationDesc": "Hasta 24 h antes del inicio",
+        "payLater": "Reservar ahora, pagar después",
+        "payLaterDesc": "Puede pagar en cualquier momento antes de iniciar",
+        "whatsapp": "Contactar por WhatsApp"
+      }
+    },
+    "aspendos": {
+      "badge": "🏛️ Ciudades Antiguas Mediterráneas",
+      "title": "Excursión Perge • Aspendos • Side",
+      "subtitle": "Tesoros arqueológicos de Antalya",
+      "description": "Tres ciudades majestuosas en un día y las cascadas de Manavgat.",
+      "gallery": {
+        "title": "Galería de experiencias",
+        "subtitle": "Ciudades antiguas y naturaleza"
+      },
+      "about": {
+        "title": "Sobre el tour",
+        "subtitle": "Perge • Aspendos • Side & Cascadas de Manavgat",
+        "intro": "Jornada cultural: Perge y su puerta de mármol, el teatro acústico de Aspendos y Side, ciudad portuaria donde pasado y presente se combinan.",
+        "perge": "Perge • Ciudad de mármol",
+        "perge-desc": "Recorra una ciudad romana bien conservada: calles columnadas, agora, termas, canales y teatro.",
+        "perge-desc2": "Los restos muestran funciones cívicas, comerciales y religiosas con claridad.",
+        "aspendos": "Aspendos • Ingeniería antigua",
+        "aspendos-desc": "Desde la parte superior del teatro, vistas imponentes. Descubra el sistema que llevaba agua a la acrópolis.",
+        "side": "Side • Cruce temporal",
+        "side-desc": "Ciudad antigua abrazada por murallas romanas dentro de un puerto moderno. El templo de Apolo junto al mar es icónico.",
+        "manavgat": "Cascadas de Manavgat • Frescura",
+        "manavgat-desc": "Pausa fotográfica y relajación con el sonido del agua.",
+        "highlights": "Destacados",
+        "highlight1": "Perge: columnas, termas y teatro",
+        "highlight2": "Aspendos: teatro romano y acústica perfecta",
+        "highlight3": "Acueductos antiguos: proeza técnica",
+        "highlight4": "Side: murallas romanas y puerto",
+        "highlight5": "Templo de Apolo junto al mar",
+        "highlight6": "Playa de Side: costa mediterránea",
+        "highlight7": "Cascadas de Manavgat: naturaleza revitalizante",
+        "highlight8": "Almuerzo buffet",
+        "itinerary": "Itinerario",
+        "fullday": "Día completo: recogida en hoteles de Antalya",
+        "endtime": "Final alrededor de 16:30 y regreso al hotel",
+        "note2": "Nota: suplemento si su hotel está a más de 30 km."
+      },
+      "includes": {
+        "title": "Incluye",
+        "guide": "Guía profesional",
+        "fees": "Entradas",
+        "lunch": "Almuerzo buffet",
+        "transport": "Vehículo con aire acondicionado",
+        "taxes": "Impuestos y servicios"
+      },
+      "info": {
+        "title": "Información",
+        "pickupTitle": "Recogida",
+        "pickupDesc": "Hoteles de Antalya",
+        "pickupNote": "Suplemento >30 km",
+        "durationTitle": "Duración",
+        "durationDesc": "Día completo (≈16:30)",
+        "dropoffTitle": "Traslado",
+        "dropoffDesc": "Su hotel",
+        "dropoffNote": "Suplemento >30 km"
+      },
+      "excludes": {
+        "title": "No incluye",
+        "drinks": "Bebidas",
+        "personal": "Gastos personales",
+        "tips": "Propinas"
+      },
+      "booking": {
+        "title": "¡Reserve ahora!",
+        "subtitle": "Perge • Aspendos • Side",
+        "selectDate": "Seleccionar fecha",
+        "persons": "Personas",
+        "personsLabel": "pers.",
+        "minimumNote": "Mínimo 1 persona",
+        "yourDetails": "Sus datos",
+        "fullName": "Nombre y apellidos *",
+        "fullNamePlaceholder": "Escriba su nombre",
+        "email": "Correo electrónico *",
+        "emailPlaceholder": "su@email.com",
+        "hotel": "Hotel (opcional)",
+        "hotelPlaceholder": "Hotel en Antalya",
+        "hotelNote": "Opcional pero agiliza",
+        "phone": "Teléfono (opcional)",
+        "phonePlaceholder": "Número",
+        "phoneNote": "Recomendado para contacto rápido",
+        "summary": "Resumen",
+        "tourType": "Tipo:",
+        "selectedDate": "Fecha:",
+        "pleaseSelect": "Seleccione",
+        "totalPersons": "Total:",
+        "priceNote": "Tarifa tras solicitud",
+        "bookButton": "Reservar",
+        "secure": "🔒 Reserva segura • Sin prepago",
+        "cancellation": "Cancelación gratuita",
+        "cancellationDesc": "Hasta 24 h antes",
+        "payLater": "Pagar después",
+        "payLaterDesc": "Antes de iniciar",
+        "whatsapp": "WhatsApp"
+      }
+    },
+    "demre": {
+      "badge": "⛵ Historia & Crucero",
+      "title": "Demre • Myra & Kekova",
+      "subtitle": "Ciudades licias y ciudad sumergida en barco",
+      "description": "Tumbas rupestres de Myra, iglesia de San Nicolás y crucero sobre la ciudad hundida de Kekova.",
+      "gallery": {
+        "title": "Galería de experiencias",
+        "subtitle": "Myra, San Nicolás y ciudad sumergida de Kekova"
+      },
+      "about": {
+        "title": "Sobre el tour",
+        "subtitle": "Myra • San Nicolás • Ciudad sumergida de Kekova",
+        "intro": "Historia, cultura y azul mediterráneo: Demre • Myra • Kekova combina tumbas licias, el legado de San Nicolás y ruinas sumergidas en crucero panorámico.",
+        "eagle": "Falcon Hill • Ruta panorámica",
+        "eagle-desc": "De Antalya a Kekova: lagunas y lagos; pausa café con mirador de mar y montañas.",
+        "myra": "Myra • Capital licia",
+        "myra-desc": "Relieves tallados en roca, teatro bien conservado y decoraciones de necrópolis.",
+        "nicholas": "Iglesia de San Nicolás • Origen de ‘Santa Claus’",
+        "nicholas-desc": "Explore el templo del obispo del siglo IV y su legado caritativo.",
+        "kekova": "Kekova y ciudad sumergida • Ruinas bajo el agua",
+        "kekova-desc": "Crucero de 2 h entre islas y ensenadas: estructuras antiguas visibles bajo el agua. Téimiussa y Simena incluidas.",
+        "swimming": "🏊 Baño: parada para nadar en aguas turquesa. Lleve traje de baño.",
+        "highlights": "Destacados",
+        "highlight1": "Falcon Hill: panorámica y café",
+        "highlight2": "Myra: tumbas rupestres y teatro",
+        "highlight3": "Iglesia de San Nicolás: raíces del mito",
+        "highlight4": "Kekova: ciudad sumergida",
+        "highlight5": "Castillo de Simena: vista elevada",
+        "highlight6": "Téimiussa: restos licios",
+        "highlight7": "Crucero 2 h: mar cristalino",
+        "highlight8": "Parada baño",
+        "itinerary": "Incluye",
+        "professional": "Guía profesional (día completo)",
+        "transport": "Vehículo climatizado",
+        "lunch": "Almuerzo en restaurante local",
+        "boat": "Billete de barco a Kekova",
+        "fees": "Entradas Myra & iglesia",
+        "insurance": "Seguro incluido",
+        "note2": "Nota: suplemento posible si su hotel está >30 km."
+      },
+      "includes": {
+        "title": "Incluye",
+        "guide": "Guía profesional",
+        "fees": "Entradas Myra & San Nicolás",
+        "lunch": "Almuerzo",
+        "boat": "Crucero Kekova",
+        "transport": "Vehículo climatizado",
+        "taxes": "Impuestos y servicios"
+      },
+      "info": {
+        "title": "Información",
+        "pickupTitle": "Recogida",
+        "pickupDesc": "Hoteles de Antalya",
+        "pickupNote": "Suplemento >30 km",
+        "durationTitle": "Duración",
+        "durationDesc": "Día completo (fin ≈16:30)",
+        "dropoffTitle": "Traslado",
+        "dropoffDesc": "Su hotel",
+        "dropoffNote": "Suplemento >30 km"
+      },
+      "excludes": {
+        "title": "No incluye",
+        "drinks": "Bebidas",
+        "personal": "Gastos personales",
+        "tips": "Propinas"
+      },
+      "booking": {
+        "title": "¡Reserve ahora!",
+        "subtitle": "Demre • Myra • Kekova",
+        "selectDate": "Seleccionar fecha",
+        "persons": "Personas",
+        "personsLabel": "pers.",
+        "minimumNote": "Mínimo 1 persona",
+        "yourDetails": "Sus datos",
+        "fullName": "Nombre y apellidos *",
+        "fullNamePlaceholder": "Escriba su nombre",
+        "email": "Correo electrónico *",
+        "emailPlaceholder": "su@email.com",
+        "hotel": "Hotel (opcional)",
+        "hotelPlaceholder": "Hotel en Antalya",
+        "hotelNote": "Recomendado para agilizar",
+        "phone": "Teléfono (opcional)",
+        "phonePlaceholder": "Número",
+        "phoneNote": "Recomendado para contacto rápido",
+        "summary": "Resumen",
+        "tourType": "Tipo:",
+        "selectedDate": "Fecha:",
+        "pleaseSelect": "Seleccione",
+        "totalPersons": "Total:",
+        "priceNote": "Tarifa tras solicitud",
+        "bookButton": "Reservar",
+        "secure": "🔒 Reserva segura • Sin prepago",
+        "cancellation": "Cancelación gratis",
+        "cancellationDesc": "Hasta 24 h antes",
+        "payLater": "Pagar después",
+        "payLaterDesc": "Antes del inicio",
+        "whatsapp": "WhatsApp"
+      }
+    },
+    "ephesus": {
+      "badge": "🏛️ Patrimonio Mundial UNESCO",
+      "title": "Excursión Éfeso",
+      "subtitle": "Ciudad antigua y lugares bíblicos",
+      "description": "Camine por calles de mármol y explore una de las ciudades mejor conservadas del Mediterráneo.",
+      "gallery": {
+        "title": "Galería de experiencias",
+        "subtitle": "Maravillas de Éfeso"
+      },
+      "about": {
+        "title": "Sobre el tour",
+        "subtitle": "Éfeso en un día",
+        "intro": "09:00 recogida en su hotel en Selçuk. Tras reunión del grupo, visita a la Casa de la Virgen María y recorrido por Éfeso.",
+        "virgin": "Casa de la Virgen María • Santuario",
+        "virgin-desc": "Considerada el lugar de los últimos años de María. Santuario oficial desde 1986; visita papal en 1967.",
+        "ephesus": "Éfeso • Helenismo, Roma y cristianismo primitivo",
+        "ephesus-desc": "Ciudad testigo de tradiciones superpuestas. Una de las ‘Siete Iglesias’ del Apocalipsis. Recorrido a pie de aprox. 2 h con guía en inglés.",
+        "highlights": "Destacados",
+        "highlight1": "Casa de la Virgen María • Peregrinación",
+        "highlight2": "Gimnasio",
+        "highlight3": "Ágoras",
+        "highlight4": "Plaza de Domiciano",
+        "highlight5": "Templo de Adriano",
+        "highlight6": "Termas romanas",
+        "highlight7": "Biblioteca de Celso",
+        "highlight8": "Gran Teatro (~25.000 asientos)",
+        "highlight9": "Iglesia de María",
+        "highlight10": "Almuerzo buffet • cocina turca",
+        "highlight11": "Templo de Artemisa • Una de las Siete Maravillas",
+        "highlight12": "Pueblo de Şirince • Aldea vitivinícola",
+        "itinerary": "Incluye",
+        "professional": "Guía profesional (día completo)",
+        "transport": "Traslados en vehículo climatizado",
+        "delicious": "Almuerzo en restaurante local",
+        "temple": "Visita al Templo de Artemisa",
+        "fees": "Entradas Éfeso y sitios",
+        "insurance": "Seguro incluido"
+      },
+      "includes": {
+        "title": "Incluye",
+        "guide": "Guía profesional",
+        "fees": "Entradas",
+        "lunch": "Almuerzo buffet",
+        "transport": "Vehículo climatizado",
+        "taxes": "Impuestos y servicios"
+      },
+      "info": {
+        "title": "Información",
+        "pickupTitle": "Recogida",
+        "pickupDesc": "Hotel en Selçuk (inicio 09:00)",
+        "pickupNote": "Transfer Izmir aeropuerto/hotel con suplemento",
+        "durationTitle": "Duración",
+        "durationDesc": "Día completo (09:00–17:00, fin ≈16:30)",
+        "dropoffTitle": "Traslado",
+        "dropoffDesc": "Hotel / estación bus / estación tren Selçuk",
+        "dropoffNote": "Aeropuerto de Izmir con suplemento"
+      },
+      "excludes": {
+        "title": "No incluye",
+        "drinks": "Bebidas",
+        "personal": "Gastos personales",
+        "tips": "Propinas"
+      },
+      "booking": {
+        "title": "¡Reserve ahora!",
+        "subtitle": "Su día en Éfeso",
+        "selectDate": "Seleccionar fecha",
+        "persons": "Personas",
+        "personsLabel": "pers.",
+        "minimumNote": "Mínimo 1 persona",
+        "yourDetails": "Sus datos",
+        "fullName": "Nombre y apellidos *",
+        "fullNamePlaceholder": "Escriba su nombre",
+        "email": "Correo electrónico *",
+        "emailPlaceholder": "su@email.com",
+        "hotel": "Hotel (opcional)",
+        "hotelPlaceholder": "Hotel en Selçuk",
+        "hotelNote": "Recomendado para agilizar",
+        "phone": "Teléfono (opcional)",
+        "phonePlaceholder": "Número",
+        "phoneNote": "Recomendado para contacto rápido",
+        "summary": "Resumen",
+        "tourType": "Tipo:",
+        "selectedDate": "Fecha:",
+        "pleaseSelect": "Seleccione",
+        "totalPersons": "Total:",
+        "priceNote": "Tarifa tras solicitud",
+        "bookButton": "Reservar",
+        "secure": "🔒 Reserva segura • Sin prepago",
+        "cancellation": "Cancelación gratuita",
+        "cancellationDesc": "Hasta 24 h antes",
+        "payLater": "Pagar después",
+        "payLaterDesc": "Antes del inicio",
+        "whatsapp": "WhatsApp"
+      }
+    },
+    "pamukkale-from-antalya": {
+      "badge": "🏛️ Patrimonio Mundial UNESCO",
+      "title": "Pamukkale desde Antalya",
+      "subtitle": "Terrazas de travertino y Hierápolis",
+      "description": "Salga desde Antalya y explore las terrazas blancas de Pamukkale y la ciudad antigua de Hierápolis en un día.",
+      "gallery": {
+        "title": "Galería de experiencias",
+        "subtitle": "La blancura impactante de Pamukkale"
+      },
+      "about": {
+        "title": "Sobre el tour",
+        "subtitle": "Pamukkale desde Antalya",
+        "intro1": "Con guía profesional: naturaleza, historia, aguas termales y paisajes únicos en una jornada.",
+        "departure": "Salida temprano",
+        "departure-desc": "Recogida al amanecer en su hotel y viaje hacia Pamukkale.",
+        "pamukkale": "Pamukkale • ‘Castillo de algodón’",
+        "pamukkale-desc": "Depósitos calcáreos crean terrazas blancas alimentadas por aguas termales.",
+        "thermal": "Aguas termales & bienestar",
+        "thermal-desc": "De 35 a 100 °C, reputadas desde la antigüedad por sus beneficios.",
+        "hierapolis": "Hierápolis • Ciudad antigua",
+        "hierapolis-desc": "Teatro romano, iglesia de San Felipe, necrópolis, piscina de Cleopatra y más.",
+        "conclusion": "Tras el almuerzo, regreso hacia Antalya y traslado al hotel.",
+        "itinerary": "Itinerario",
+        "highlight1": "Recogida temprana en hotel de Antalya",
+        "highlight2": "Ruta vía Karahayıt (fuentes rojas)",
+        "highlight3": "Necrópolis",
+        "highlight4": "Termas romanas",
+        "highlight5": "Basílica",
+        "highlight6": "Puerta de Domiciano",
+        "highlight7": "Calle de Frontino",
+        "highlight8": "Letrinas (ingeniería romana)",
+        "highlight9": "Templo de Apolo",
+        "highlight10": "Plutonion (entrada al inframundo)",
+        "highlight11": "Gran teatro",
+        "highlight12": "Tumba de San Felipe",
+        "highlight13": "Piscina de Cleopatra (baño opcional, extra)",
+        "highlight14": "Paseo sobre travertinos",
+        "highlight15": "Almuerzo",
+        "highlight16": "Regreso y traslado hotel"
+      },
+      "includes": {
+        "title": "Incluye",
+        "guide": "Guía profesional",
+        "fees": "Entradas Pamukkale & Hierápolis",
+        "lunch": "Almuerzo",
+        "transport": "Vehículo climatizado",
+        "taxes": "Impuestos y servicios"
+      },
+      "info": {
+        "title": "Información",
+        "pickupTitle": "Recogida",
+        "pickupDesc": "Hoteles de Antalya (salida temprana)",
+        "pickupNote": "Suplemento posible >30 km",
+        "durationTitle": "Duración",
+        "durationDesc": "Día completo (temprano → tarde/noche)",
+        "dropoffTitle": "Traslado",
+        "dropoffDesc": "Hotel en Antalya",
+        "dropoffNote": "Suplemento >30 km"
+      },
+      "excludes": {
+        "title": "No incluye",
+        "drinks": "Bebidas",
+        "personal": "Gastos personales",
+        "tips": "Propinas"
+      },
+      "booking": {
+        "title": "¡Reserve ahora!",
+        "subtitle": "Pamukkale desde Antalya",
+        "selectDate": "Seleccionar fecha",
+        "persons": "Personas",
+        "personsLabel": "pers.",
+        "minimumNote": "Mínimo 1 persona",
+        "yourDetails": "Sus datos",
+        "fullName": "Nombre y apellidos *",
+        "fullNamePlaceholder": "Escriba su nombre",
+        "email": "Correo electrónico *",
+        "emailPlaceholder": "su@email.com",
+        "hotel": "Hotel (opcional)",
+        "hotelPlaceholder": "Hotel en Antalya",
+        "hotelNote": "Recomendado para agilizar",
+        "phone": "Teléfono (opcional)",
+        "phonePlaceholder": "Número",
+        "phoneNote": "Recomendado para contacto rápido",
+        "summary": "Resumen",
+        "tourType": "Tipo:",
+        "selectedDate": "Fecha:",
+        "pleaseSelect": "Seleccione",
+        "totalPersons": "Total:",
+        "priceNote": "Tarifa tras solicitud",
+        "bookButton": "Reservar",
+        "secure": "🔒 Reserva segura • Sin prepago",
+        "cancellation": "Cancelación gratuita",
+        "cancellationDesc": "Hasta 24 h antes",
+        "payLater": "Pagar después",
+        "payLaterDesc": "Antes del inicio",
+        "whatsapp": "WhatsApp"
+      }
+    },
+    "pamukkale": {
+      "badge": "🏛️ Patrimonio Mundial UNESCO",
+      "title": "Excursión Pamukkale",
+      "subtitle": "Terrazas blancas y Hierápolis",
+      "description": "Con guía, explorará en detalle travertinos y restos arqueológicos: naturaleza e historia combinadas.",
+      "gallery": {
+        "title": "Galería de experiencias",
+        "subtitle": "La belleza de Pamukkale"
+      },
+      "about": {
+        "title": "Sobre el tour",
+        "subtitle": "Pamukkale en un día",
+        "intro": "Terrazas blancas y ruinas de Hierápolis: baños, basílicas, teatro, necrópolis y más.",
+        "itinerary": "Itinerario",
+        "highlight1": "Recogida: hotel / estación bus / aeropuerto Pamukkale/Karahayıt",
+        "highlight2": "Ruta a fuente roja de Karahayıt",
+        "highlight3": "Necrópolis",
+        "highlight4": "Termas romanas",
+        "highlight5": "Basílica",
+        "highlight6": "Puerta de Domiciano",
+        "highlight7": "Calle de Frontino",
+        "highlight8": "Letrinas (públicas antiguas)",
+        "highlight9": "Templo de Apolo",
+        "highlight10": "Plutonion",
+        "highlight11": "Teatro",
+        "highlight12": "Tumba de San Felipe",
+        "highlight13": "Piscina Cleopatra (opcional)",
+        "highlight14": "Paseo por travertinos",
+        "highlight15": "Almuerzo restaurante",
+        "highlight16": "Regreso hotel"
+      },
+      "includes": {
+        "title": "Incluye",
+        "guide": "Guía profesional",
+        "fees": "Entradas Pamukkale & Hierápolis",
+        "lunch": "Almuerzo",
+        "transport": "Vehículo climatizado",
+        "taxes": "Impuestos y servicios"
+      },
+      "info": {
+        "title": "Información",
+        "pickupTitle": "Recogida",
+        "pickupDesc": "Hoteles / estación / aeropuerto Pamukkale/Karahayıt",
+        "pickupNote": "Recogida disponible en la zona",
+        "durationTitle": "Duración",
+        "durationDesc": "Día (09:00–16:00 • ≈7 h)",
+        "dropoffTitle": "Traslado",
+        "dropoffDesc": "Hotel / estación / aeropuerto Pamukkale/Karahayıt",
+        "dropoffNote": "Disponible en la zona"
+      },
+      "excludes": {
+        "title": "No incluye",
+        "drinks": "Bebidas",
+        "personal": "Gastos personales",
+        "tips": "Propinas"
+      },
+      "booking": {
+        "title": "¡Reserve ahora!",
+        "subtitle": "Experiencia Pamukkale",
+        "selectDate": "Seleccionar fecha",
+        "persons": "Personas",
+        "personsLabel": "pers.",
+        "minimumNote": "Mínimo 1 persona",
+        "yourDetails": "Sus datos",
+        "fullName": "Nombre y apellidos *",
+        "fullNamePlaceholder": "Escriba su nombre",
+        "email": "Correo electrónico *",
+        "emailPlaceholder": "su@email.com",
+        "hotel": "Hotel (opcional)",
+        "hotelPlaceholder": "Hotel en Pamukkale",
+        "hotelNote": "Recomendado para agilizar",
+        "phone": "Teléfono (opcional)",
+        "phonePlaceholder": "Número",
+        "phoneNote": "Recomendado para contacto rápido",
+        "summary": "Resumen",
+        "tourType": "Tipo:",
+        "selectedDate": "Fecha:",
+        "pleaseSelect": "Seleccione",
+        "totalPersons": "Total:",
+        "priceNote": "Tarifa tras solicitud",
+        "bookButton": "Reservar",
+        "secure": "🔒 Reserva segura • Sin prepago",
+        "cancellation": "Cancelación gratuita",
+        "cancellationDesc": "Hasta 24 h antes",
+        "payLater": "Pagar después",
+        "payLaterDesc": "Antes del inicio",
+        "whatsapp": "WhatsApp"
+      }
+    }
+  },
+  "turkeyTours": {
+    "package4days": {
+      "pageTitle": "Circuito 4 días Capadocia • Pamukkale • Éfeso — Capahenas Travel",
+      "metaDescription": "En 4 días: chimeneas de hadas en Capadocia, terrazas de Pamukkale y ciudad antigua de Éfeso. Vuelos, hoteles, comidas y guía incluidos.",
+      "badge": "✈️ Paquete multiciudad",
+      "title": "4 días Capadocia • Pamukkale • Éfeso",
+      "subtitle": "3 noches / 4 días",
+      "description": "Paisajes fantásticos y ruinas antiguas: esencia de Turquía en un viaje.",
+      "gallery": {
+        "title": "Galería",
+        "subtitle": "Capadocia / Pamukkale / Éfeso"
+      },
+      "about": {
+        "title": "Resumen",
+        "subtitle": "Paquete 4 días",
+        "duration": "3 noches / 4 días",
+        "destinations": "Capadocia, Pamukkale, Éfeso",
+        "intro": "Todo el año con salidas diarias. Personalizable.",
+        "highlights": "Destacados",
+        "highlight1": "Chimeneas de hadas y hábitats trogloditas",
+        "highlight2": "Éfeso y templo de Artemisa",
+        "highlight3": "Terrazas termales de Pamukkale",
+        "highlight4": "Guías expertos y alojamiento cómodo"
+      },
+      "itinerary": {
+        "title": "Itinerario",
+        "day1": {
+          "title": "DÍA 01: Estambul → Capadocia (zona norte)",
+          "content": "04:00 salida hotel → vuelo 06:45 → llegada ~08:00. Uçhisar (ext.), Çavuşin (Valle Rosa), Paşabağı, museo al aire libre Zelve. Tras almuerzo: Devrent, Three Beauties, Ürgüp y Avanos (cerámica). Opción: taller de alfombras. Noche Capadocia.",
+          "meals": "(Comida: almuerzo)"
+        },
+        "day2": {
+          "title": "DÍA 02: Capadocia sur → vuelo Izmir",
+          "content": "Desayuno y salida 9:30–10:00. Ortahisar, Mustafapaşa, Şahinefendi & Sobessos, valle Soğanlı (2 km) + iglesias rupestres, almuerzo en aldea, ciudad subterránea Kaymaklı. Vuelo Kayseri → Izmir. Noche Kuşadası.",
+          "meals": "(Comida: desayuno + almuerzo)",
+          "optional": "Opción: globo aerostático al amanecer"
+        },
+        "day3": {
+          "title": "DÍA 03: Éfeso día completo",
+          "content": "09:00 salida: Odéon, Biblioteca de Celso, Templo de Adriano, fuente de Trajano, Gran Teatro (~24.000). Templo de Artemisa y Casa Virgen María. Noche Kuşadası.",
+          "meals": "(Comida: desayuno + almuerzo)"
+        },
+        "day4": {
+          "title": "DÍA 04: Pamukkale → vuelo regreso Estambul",
+          "content": "07:30 salida Pamukkale & Hierápolis. Piscina antigua (Cleopatra) opcional. Vuelo Denizli → Estambul y traslado hotel.",
+          "meals": "(Comida: desayuno + almuerzo)"
+        }
+      },
+      "includes": {
+        "title": "Incluye",
+        "accommodation": "3 noches hotel 4★ (desayuno)",
+        "tours": "4 días grupo pequeño (entradas + almuerzos + transporte)",
+        "flight1": "Vuelo interior: Estambul → Capadocia",
+        "flight2": "Vuelo interior: Kayseri → Izmir",
+        "flight3": "Vuelo interior: Denizli → Estambul",
+        "transfers": "Traslados aeropuerto/hotel domésticos"
+      },
+      "excludes": {
+        "title": "No incluye",
+        "personal": "Gastos personales",
+        "gratuities": "Propinas guía/chófer",
+        "meals": "Comidas no mencionadas",
+        "drinks": "Bebidas",
+        "balloon": "Globo (opción)",
+        "insurance": "Seguro de viaje"
+      },
+      "booking": {
+        "title": "¡Reserve ahora!",
+        "subtitle": "Paquete 4 días",
+        "summary": "Resumen",
+        "tourType": "Tipo:",
+        "tourName": "Paquete 4 días",
+        "selectedDate": "Fecha:",
+        "pleaseSelect": "Seleccione"
+      }
+    },
+    "package6days": {
+      "pageTitle": "6 días Estambul & Capadocia | Circuito guiado — Capahenas Travel",
+      "metaDescription": "Estambul histórica y paisajes de Capadocia en 6 días. Vuelos, hoteles y experiencias guiadas incluidos.",
+      "badge": "✈️ Estambul & Capadocia",
+      "title": "6 días Estambul & Capadocia",
+      "subtitle": "5 noches / 6 días",
+      "description": "La ciudad legendaria y la tierra de las hadas en un solo viaje.",
+      "gallery": {
+        "title": "Galería",
+        "subtitle": "Estambul & Capadocia"
+      },
+      "about": {
+        "title": "Resumen",
+        "subtitle": "Paquete 6 días",
+        "duration": "5 noches / 6 días",
+        "destinations": "Estambul, Capadocia",
+        "intro": "Salidas diarias todo el año. Personalizable.",
+        "highlights": "Destacados",
+        "highlight1": "Tesores de Estambul (Santa Sofía, etc.)",
+        "highlight2": "Chimeneas de hadas, cuevas y globo (opción)",
+        "highlight3": "Guías expertos y panorámicas inolvidables"
+      },
+      "itinerary": {
+        "title": "Itinerario",
+        "day1": {
+          "title": "DÍA 01: Llegada a Estambul",
+          "content": "Recepción aeropuerto → hotel (check‑in tras 13:00). Noche Estambul.",
+          "meals": "(Comida: —)"
+        },
+        "day2": {
+          "title": "DÍA 02: Casco antiguo a pie",
+          "content": "Hipódromo (obelisco, columna serpentina, fuente), Mezquita Azul, Santa Sofía. Tras almuerzo: Cisterna Basílica. Regreso hotel. Noche.",
+          "meals": "(Comida: desayuno)"
+        },
+        "day3": {
+          "title": "DÍA 03: Bósforo mañana / Vuelo Capadocia",
+          "content": "Bazar de especias, crucero Bósforo. 14:00 traslado aeropuerto, vuelo 18:20 Kayseri, llegada 19:50 y traslado hotel. Noche Capadocia.",
+          "meals": "(Comida: desayuno)"
+        },
+        "day4": {
+          "title": "DÍA 04: Capadocia norte",
+          "content": "Salida 9:30–10:00: Uçhisar, Çavuşin, Paşabağı, Zelve; almuerzo; Devrent, Three Beauties, Ürgüp & Avanos. Noche.",
+          "meals": "(Comida: desayuno + almuerzo)",
+          "optional": "Opción: globo al amanecer"
+        },
+        "day5": {
+          "title": "DÍA 05: Capadocia sur / Vuelo regreso Estambul",
+          "content": "Ortahisar, Mustafapaşa, Şahinefendi & Sobessos, valle Soğanlı (2 km), almuerzo, Kaymaklı. Vuelo 19:30 → 21:00 Estambul. Noche.",
+          "meals": "(Comida: desayuno + almuerzo)"
+        },
+        "day6": {
+          "title": "DÍA 06: Salida",
+          "content": "Desayuno, check‑out antes 12:00. Traslado aeropuerto.",
+          "meals": "(Comida: desayuno)"
+        }
+      },
+      "includes": {
+        "title": "Incluye",
+        "accommodation": "5 noches hotel 4★ (desayuno)",
+        "tours": "4 días grupo pequeño (guía inglés, entradas, almuerzo, transporte)",
+        "flight1": "Vuelo: Estambul → Kayseri",
+        "flight2": "Vuelo: Kayseri → Estambul",
+        "transfers": "Traslados aeropuerto/hotel Estambul"
+      },
+      "excludes": {
+        "title": "No incluye",
+        "personal": "Gastos personales",
+        "gratuities": "Propinas",
+        "meals": "Comidas no mencionadas",
+        "drinks": "Bebidas",
+        "insurance": "Seguro viaje"
+      },
+      "booking": {
+        "title": "¡Reserve ahora!",
+        "subtitle": "Paquete 6 días",
+        "summary": "Resumen",
+        "tourType": "Tipo:",
+        "tourName": "Paquete 6 días",
+        "selectedDate": "Fecha:",
+        "pleaseSelect": "Seleccione"
+      }
+    },
+    "package4days2": {
+      "pageTitle": "4 días Capadocia • Pamukkale • Éfeso | Bus nocturno — Capahenas Travel",
+      "metaDescription": "Cultura y naturaleza 4 días con bus nocturno para optimizar presupuesto. Ruta eficiente entre Capadocia, Éfeso y Pamukkale.",
+      "badge": "🚌 Aventura multiciudad",
+      "title": "4 días Capadocia • Pamukkale • Éfeso (bus nocturno)",
+      "subtitle": "3 noches / 4 días",
+      "description": "Experimente bus nocturno y grandes clásicos arqueológicos.",
+      "gallery": {
+        "title": "Galería",
+        "subtitle": "Capadocia / Éfeso / Pamukkale"
+      },
+      "about": {
+        "title": "Resumen",
+        "subtitle": "Paquete 4 días",
+        "duration": "3 noches / 4 días",
+        "destinations": "Capadocia, Éfeso, Pamukkale",
+        "intro": "Salidas diarias todo el año. Personalizable.",
+        "highlights": "Destacados",
+        "highlight1": "4 días para cubrir cultura y paisajes",
+        "highlight2": "Encadenado eficiente de sitios principales",
+        "highlight3": "Bus nocturno: ahorro tiempo y hotel"
+      },
+      "itinerary": {
+        "title": "Itinerario",
+        "day1": {
+          "title": "DÍA 01: Vuelo → Kayseri • Capadocia norte",
+          "content": "Uçhisar (ext.), Çavuşin, Paşabağı, Zelve; almuerzo; Devrent, Three Beauties, Ürgüp & Avanos. Noche.",
+          "meals": "(Comida: almuerzo)"
+        },
+        "day2": {
+          "title": "DÍA 02: Capadocia sur • Bus nocturno Pamukkale",
+          "content": "Ortahisar, Mustafapaşa, Şahinefendi & Sobessos, valle Soğanlı (2 km), iglesias rupestres, almuerzo, Kaymaklı. 20:30 bus nocturno (noche a bordo).",
+          "meals": "(Comida: desayuno + almuerzo)",
+          "optional": "Opción: globo amanecer"
+        },
+        "day3": {
+          "title": "DÍA 03: Pamukkale → Kuşadası",
+          "content": "Llegada temprana, desayuno, travertinos & Hierápolis, piscina antigua (opcional). Traslado a Kuşadası. Noche.",
+          "meals": "(Comida: desayuno + almuerzo)"
+        },
+        "day4": {
+          "title": "DÍA 04: Éfeso → Vuelo regreso Estambul",
+          "content": "Odéon, Biblioteca, Templo Adriano, fuente Trajano, Gran Teatro, Casa Virgen María, Templo Artemisa. Vuelo tarde a Estambul.",
+          "meals": "(Comida: desayuno + almuerzo)"
+        }
+      },
+      "includes": {
+        "title": "Incluye",
+        "accommodation": "2 noches hotel 4★ + 1 noche bus nocturno",
+        "tours": "4 días grupo pequeño (entradas, almuerzos, transporte)",
+        "flight1": "Vuelo: Estambul → Kayseri",
+        "flight2": "Vuelo: Izmir → Estambul",
+        "transfers": "Traslados aeropuerto/hotel"
+      },
+      "excludes": {
+        "title": "No incluye",
+        "personal": "Gastos personales",
+        "gratuities": "Propinas",
+        "meals": "Comidas no mencionadas",
+        "drinks": "Bebidas",
+        "balloon": "Globo (opción)",
+        "insurance": "Seguro viaje"
+      },
+      "booking": {
+        "title": "¡Reserve ahora!",
+        "subtitle": "Paquete 4 días (bus nocturno)",
+        "summary": "Resumen",
+        "tourType": "Tipo:",
+        "tourName": "Paquete 4 días (bus nocturno)",
+        "selectedDate": "Fecha:",
+        "pleaseSelect": "Seleccione"
+      }
+    },
+    "package4days3": {
+      "pageTitle": "4 días Estambul intensivo | Tours guiados — Capahenas Travel",
+      "metaDescription": "Mezquita Azul, Palacio Topkapı, Santa Sofía, crucero Bósforo, Gran Bazar, Palacio Dolmabahçe en 4 días con guía.",
+      "badge": "🏛️ Descubrimiento Estambul",
+      "title": "4 días Estambul • Esenciales",
+      "subtitle": "3 noches / 4 días",
+      "description": "Mezquita Azul • Topkapı • Santa Sofía • Bósforo • Gran Bazar • Dolmabahçe",
+      "gallery": {
+        "title": "Galería",
+        "subtitle": "Patrimonio de Estambul"
+      },
+      "about": {
+        "title": "Resumen",
+        "subtitle": "Paquete 4 días Estambul",
+        "duration": "3 noches / 4 días",
+        "destinations": "Estambul",
+        "available": "✓ Salidas diarias",
+        "customizable": "✓ Personalizable",
+        "highlights": "Destacados",
+        "highlight1": "Topkapı, Hipódromo, Mezquita Azul, Santa Sofía",
+        "highlight2": "Crucero Bósforo & Palacio Beylerbeyi",
+        "highlight3": "Ambiente vibrante del Gran Bazar",
+        "highlight4": "Historia y cultura en armonía"
+      },
+      "itinerary": {
+        "title": "Itinerario",
+        "day1": {
+          "title": "DÍA 01: Llegada",
+          "content": "Aeropuerto → hotel (check‑in tras 13:00). Tiempo libre. Noche.",
+          "meals": "(Comida: —)"
+        },
+        "day2": {
+          "title": "DÍA 02: Casco antiguo a pie",
+          "content": "Hipódromo → Mezquita Azul → Santa Sofía → almuerzo → Cisterna Basílica. Noche.",
+          "meals": "(Comida: desayuno)"
+        },
+        "day3": {
+          "title": "DÍA 03: Bósforo & Palacio",
+          "content": "Bazar especias → crucero Bósforo → colina Çamlıca → Palacio Beylerbeyi. Noche.",
+          "meals": "(Comida: desayuno + almuerzo)"
+        },
+        "day4": {
+          "title": "DÍA 04: Salida",
+          "content": "Desayuno y check‑out antes 12:00. Traslado aeropuerto.",
+          "meals": "(Comida: desayuno)"
+        }
+      },
+      "includes": {
+        "title": "Incluye",
+        "accommodation": "3 noches hotel 4★ (desayuno)",
+        "tours": "2 días grupo pequeño (guía inglés, entradas, almuerzo, transporte)",
+        "transfers": "Traslados aeropuerto/hotel ciudad"
+      },
+      "excludes": {
+        "title": "No incluye",
+        "personal": "Gastos personales",
+        "gratuities": "Propinas",
+        "meals": "Comidas no mencionadas",
+        "drinks": "Bebidas",
+        "insurance": "Seguro viaje"
+      },
+      "booking": {
+        "title": "¡Reserve ahora!",
+        "subtitle": "Paquete 4 días Estambul",
+        "summary": "Resumen",
+        "tourType": "Tipo:",
+        "tourName": "Estambul 4 días",
+        "selectedDate": "Fecha:",
+        "pleaseSelect": "Seleccione"
+      }
+    },
+    "package5days": {
+      "pageTitle": "5 días Turquía | Estambul & Éfeso — Capahenas Travel",
+      "metaDescription": "Iconos de Estambul y ciudad antigua de Éfeso en 5 días. Vuelos, hoteles y guía incluidos.",
+      "badge": "✈️ Estambul & Éfeso",
+      "title": "5 días • Estambul & Éfeso",
+      "subtitle": "4 noches / 5 días",
+      "description": "Dos centros clave en un único viaje.",
+      "gallery": {
+        "title": "Galería",
+        "subtitle": "Estambul & Éfeso"
+      },
+      "about": {
+        "title": "Resumen",
+        "subtitle": "Paquete 5 días",
+        "duration": "4 noches / 5 días",
+        "destinations": "Estambul, Éfeso",
+        "intro": "Salidas diarias. Personalizable.",
+        "highlights": "Destacados",
+        "highlight1": "Santa Sofía, Palacio Topkapı y más",
+        "highlight2": "Éfeso: Biblioteca Celso y Gran Teatro",
+        "highlight3": "Alojamiento cómodo y comentarios expertos"
+      },
+      "itinerary": {
+        "title": "Itinerario",
+        "day1": {
+          "title": "DÍA 01: Llegada",
+          "content": "Aeropuerto → hotel (check‑in tras 13:00). Noche Estambul.",
+          "meals": "(Comida: —)"
+        },
+        "day2": {
+          "title": "DÍA 02: Estambul histórico",
+          "content": "Hipódromo, Mezquita Azul, Santa Sofía, almuerzo, Cisterna Basílica. Noche.",
+          "meals": "(Comida: desayuno)"
+        },
+        "day3": {
+          "title": "DÍA 03: Crucero matutino Bósforo",
+          "content": "Bazar especias, crucero Bósforo, tarde libre. Noche.",
+          "meals": "(Comida: desayuno)"
+        },
+        "day4": {
+          "title": "DÍA 04: Éfeso ida y vuelta avión",
+          "content": "04:00 salida hotel → vuelo 07:00 Izmir → llegada 08:00. Éfeso (calles mármol, biblioteca, teatro), Casa Virgen María, Templo Artemisa. Vuelo regreso tarde. Noche Estambul.",
+          "meals": "(Comida: desayuno + almuerzo)"
+        },
+        "day5": {
+          "title": "DÍA 05: Salida",
+          "content": "Desayuno, check‑out antes 12:00. Traslado aeropuerto.",
+          "meals": "(Comida: desayuno)"
+        }
+      },
+      "includes": {
+        "title": "Incluye",
+        "accommodation": "4 noches hotel 4★ (desayuno)",
+        "tours": "3 días grupo pequeño (entradas, almuerzo, transporte)",
+        "flight1": "Vuelo: Estambul → Izmir",
+        "flight2": "Vuelo: Izmir → Estambul",
+        "transfers": "Traslados aeropuerto/hotel domésticos"
+      },
+      "excludes": {
+        "title": "No incluye",
+        "personal": "Gastos personales",
+        "gratuities": "Propinas",
+        "meals": "Comidas no mencionadas",
+        "drinks": "Bebidas",
+        "insurance": "Seguro viaje"
+      },
+      "booking": {
+        "title": "¡Reserve ahora!",
+        "subtitle": "Paquete 5 días",
+        "summary": "Resumen",
+        "tourType": "Tipo:",
+        "tourName": "Paquete 5 días",
+        "selectedDate": "Fecha:",
+        "pleaseSelect": "Seleccione"
+      }
+    },
+    "package5days2": {
+      "pageTitle": "5 días Estambul • Dolmabahçe • Bursa — Capahenas Travel",
+      "metaDescription": "5 días entre Estambul y Bursa: Palacio Dolmabahçe, Mezquita Azul, Santa Sofía, Bósforo, mezquitas y mercado de seda en Bursa.",
+      "badge": "🏛️ Estambul & Bursa",
+      "title": "5 días: Estambul, Dolmabahçe & Bursa",
+      "subtitle": "4 noches / 5 días",
+      "description": "Mezquita Azul, Topkapı, Santa Sofía, Bósforo, Gran Bazar, Dolmabahçe, Bursa.",
+      "gallery": {
+        "title": "Galería",
+        "subtitle": "Estambul & Bursa"
+      },
+      "about": {
+        "title": "Resumen",
+        "subtitle": "Paquete 5 días",
+        "duration": "4 noches / 5 días",
+        "destinations": "Estambul, Bursa",
+        "available": "✓ Salidas diarias",
+        "customizable": "✓ Personalizable",
+        "highlights": "Destacados",
+        "highlight1": "Dolmabahçe, Topkapı, Mezquita Azul, Santa Sofía, Gran Bazar",
+        "highlight2": "Crucero Bósforo & Green Mosque + Mercado Seda Bursa",
+        "highlight3": "Combinación de cultura y naturaleza"
+      },
+      "itinerary": {
+        "title": "Itinerario",
+        "day1": {
+          "title": "DÍA 01: Llegada",
+          "content": "Aeropuerto → hotel (check‑in tras 13:00). Tiempo libre. Noche.",
+          "meals": "(Comida: —)"
+        },
+        "day2": {
+          "title": "DÍA 02: Casco antiguo a pie",
+          "content": "Hipódromo → Mezquita Azul → Santa Sofía → almuerzo → Cisterna Basílica. Noche.",
+          "meals": "(Comida: desayuno)"
+        },
+        "day3": {
+          "title": "DÍA 03: Bósforo & Dolmabahçe",
+          "content": "Bazar especias → crucero Bósforo → colina Çamlıca → Palacio Dolmabahçe (sin harén). Noche.",
+          "meals": "(Comida: desayuno + almuerzo)"
+        },
+        "day4": {
+          "title": "DÍA 04: Bursa día completo",
+          "content": "Green Mosque y mausoleo → teleférico a Uludağ → Gran Mezquita (20 cúpulas) → Koza Han mercado seda. Regreso Estambul. Noche.",
+          "meals": "(Comida: desayuno + almuerzo)"
+        },
+        "day5": {
+          "title": "DÍA 05: Salida",
+          "content": "Desayuno, check‑out antes 12:00. Traslado aeropuerto.",
+          "meals": "(Comida: desayuno)"
+        }
+      },
+      "includes": {
+        "title": "Incluye",
+        "accommodation": "4 noches hotel 4★ (desayuno)",
+        "tours": "3 días grupo pequeño (entradas, almuerzo, transporte)",
+        "transfers": "Traslados aeropuerto/hotel Estambul"
+      },
+      "excludes": {
+        "title": "No incluye",
+        "personal": "Gastos personales",
+        "gratuities": "Propinas",
+        "meals": "Comidas no mencionadas",
+        "drinks": "Bebidas",
+        "insurance": "Seguro viaje"
+      },
+      "booking": {
+        "title": "¡Reserve ahora!",
+        "subtitle": "Paquete 5 días Estambul & Bursa",
+        "summary": "Resumen",
+        "tourType": "Tipo:",
+        "tourName": "Paquete 5 días",
+        "selectedDate": "Fecha:",
+        "pleaseSelect": "Seleccione"
+      }
+    },
+    "package6days2": {
+      "pageTitle": "6 días Turquía | Éfeso • Pamukkale • Antalya • Capadocia — Capahenas Travel",
+      "metaDescription": "Éfeso, travertinos Pamukkale, costa Antalya y chimeneas Capadocia en 6 días.",
+      "badge": "✈️ Éfeso / Pamukkale / Antalya / Capadocia",
+      "title": "6 días Turquía | Éfeso • Pamukkale • Antalya • Capadocia",
+      "subtitle": "5 noches / 6 días",
+      "description": "Ruinas antiguas, mar, naturaleza y paisajes de cuento.",
+      "gallery": {
+        "title": "Galería",
+        "subtitle": "Éfeso / Pamukkale / Antalya / Capadocia"
+      },
+      "about": {
+        "title": "Resumen",
+        "subtitle": "Paquete 6 días",
+        "duration": "5 noches / 6 días",
+        "destinations": "Éfeso, Pamukkale, Antalya, Capadocia",
+        "intro": "Salidas diarias. Personalizable.",
+        "highlights": "Destacados",
+        "highlight1": "Éfeso & templo de Artemisa",
+        "highlight2": "Pamukkale & Hierápolis",
+        "highlight3": "Antalya: casco antiguo y costa",
+        "highlight4": "Capadocia: formaciones y cuevas",
+        "highlight5": "Guías expertos y alojamiento cómodo"
+      },
+      "itinerary": {
+        "title": "Itinerario",
+        "day1": {
+          "title": "DÍA 01: Vuelo Izmir / Éfeso",
+          "content": "04:00 salida → vuelo 07:00 → llegada 08:00. Éfeso (calles mármol, biblioteca, teatro), Casa Virgen María, Templo Artemisa. Noche Kuşadası.",
+          "meals": "(Comida: almuerzo)"
+        },
+        "day2": {
+          "title": "DÍA 02: Pamukkale → Antalya",
+          "content": "07:30 salida: travertinos & Hierápolis, piscina antigua (opción). Bus ~4 h a Antalya (llegada ~20:00). Noche.",
+          "meals": "(Comida: desayuno + almuerzo)"
+        },
+        "day3": {
+          "title": "DÍA 03: Perge • Side • Aspendos",
+          "content": "Ciudades antiguas clave + cascadas Manavgat. Noche Antalya.",
+          "meals": "(Comida: desayuno + almuerzo)"
+        },
+        "day4": {
+          "title": "DÍA 04: Antalya ciudad → Bus nocturno Capadocia",
+          "content": "Teleférico Tünektepe (o barco), cascadas Düden, Karpuzkaldıran, casco antiguo Kaleiçi. Bus nocturno a Capadocia. Noche a bordo.",
+          "meals": "(Comida: desayuno + almuerzo)"
+        },
+        "day5": {
+          "title": "DÍA 05: Capadocia norte",
+          "content": "Llegada ~07:00, Uçhisar, Çavuşin, Paşabağı, Zelve, almuerzo, Devrent, Three Beauties, Ürgüp & Avanos (cerámica). Noche.",
+          "meals": "(Comida: desayuno + almuerzo)"
+        },
+        "day6": {
+          "title": "DÍA 06: Capadocia sur → Vuelo Estambul",
+          "content": "Ortahisar, Mustafapaşa, Şahinefendi & Sobessos, valle Soğanlı (2 km), almuerzo, Kaymaklı. Vuelo 19:30 Kayseri → 21:00 Estambul.",
+          "meals": "(Comida: desayuno + almuerzo)",
+          "optional": "Opción: globo amanecer"
+        }
+      },
+      "includes": {
+        "title": "Incluye",
+        "accommodation": "5 noches hotel 4★ (desayuno)",
+        "coach": "1 noche bus (Antalya → Capadocia)",
+        "tours": "6 días grupo pequeño (guía, entradas, almuerzo, transporte)",
+        "flight1": "Vuelo: Estambul → Izmir",
+        "flight2": "Vuelo: Kayseri → Estambul",
+        "transfers": "Traslados aeropuerto/hotel domésticos"
+      },
+      "excludes": {
+        "title": "No incluye",
+        "personal": "Gastos personales",
+        "gratuities": "Propinas",
+        "meals": "Comidas no mencionadas",
+        "drinks": "Bebidas",
+        "balloon": "Globo (opción)",
+        "insurance": "Seguro viaje"
+      },
+      "booking": {
+        "title": "¡Reserve ahora!",
+        "subtitle": "Paquete 6 días (4 regiones)",
+        "summary": "Resumen",
+        "tourType": "Tipo:",
+        "tourName": "Paquete 6 días",
+        "selectedDate": "Fecha:",
+        "pleaseSelect": "Seleccione"
+      }
+    },
+    "package6days3": {
+      "pageTitle": "6 días Estambul • Bursa • Islas Príncipe — Capahenas Travel",
+      "metaDescription": "Iconos de Estambul, Green Mosque de Bursa y Islas Príncipe. 6 días con hoteles y guía.",
+      "badge": "🏛️ Estambul • Bursa • Islas Príncipe",
+      "title": "6 días Estambul • Bursa • Islas Príncipe",
+      "subtitle": "5 noches / 6 días",
+      "description": "Mezquita Azul, Topkapı, Santa Sofía, Bósforo, Gran Bazar, Dolmabahçe, Bursa, Islas Príncipe.",
+      "gallery": {
+        "title": "Galería",
+        "subtitle": "Ciudad • Montaña • Islas"
+      },
+      "about": {
+        "title": "Resumen",
+        "subtitle": "Paquete 6 días",
+        "duration": "5 noches / 6 días",
+        "destinations": "Estambul, Bursa, Islas Príncipe",
+        "intro": "Salidas diarias. Personalizable.",
+        "highlights": "Destacados",
+        "highlight1": "Topkapı, Mezquita Azul, Dolmabahçe",
+        "highlight2": "Bósforo & Green Mosque de Bursa",
+        "highlight3": "Islas Príncipe en vehículo eléctrico (EV)"
+      },
+      "itinerary": {
+        "title": "Itinerario",
+        "day1": {
+          "title": "DÍA 01: Llegada",
+          "content": "Aeropuerto → hotel (check‑in tras 13:00). Tiempo libre. Noche.",
+          "meals": "(Comida: —)"
+        },
+        "day2": {
+          "title": "DÍA 02: Casco antiguo",
+          "content": "Hipódromo, Mezquita Azul, Santa Sofía, almuerzo, Cisterna Basílica. Noche.",
+          "meals": "(Comida: desayuno)"
+        },
+        "day3": {
+          "title": "DÍA 03: Bósforo & Palacio Beylerbeyi",
+          "content": "Bazar especias, crucero, colina Çamlıca, Palacio Beylerbeyi (lado asiático). Noche.",
+          "meals": "(Comida: desayuno + almuerzo)"
+        },
+        "day4": {
+          "title": "DÍA 04: Islas Príncipe",
+          "content": "08:30 salida, ferry a Büyükada. Tour EV (las calesas se retiraron 2023). Tiempo libre y regreso. Noche.",
+          "meals": "(Comida: desayuno + almuerzo)"
+        },
+        "day5": {
+          "title": "DÍA 05: Bursa día",
+          "content": "Green Mosque y mausoleo, teleférico Uludağ, Gran Mezquita, mercado seda Koza Han. Regreso Estambul. Noche.",
+          "meals": "(Comida: desayuno + almuerzo)"
+        },
+        "day6": {
+          "title": "DÍA 06: Salida",
+          "content": "Desayuno, check‑out antes 12:00. Traslado aeropuerto.",
+          "meals": "(Comida: desayuno)"
+        }
+      },
+      "includes": {
+        "title": "Incluye",
+        "accommodation": "5 noches hotel 4★ (desayuno)",
+        "tours": "4 días grupo pequeño (guía, entradas, almuerzo, transporte)",
+        "transfers": "Traslados aeropuerto/hotel Estambul"
+      },
+      "excludes": {
+        "title": "No incluye",
+        "personal": "Gastos personales",
+        "gratuities": "Propinas",
+        "meals": "Comidas no mencionadas",
+        "drinks": "Bebidas",
+        "insurance": "Seguro viaje"
+      },
+      "booking": {
+        "title": "¡Reserve ahora!",
+        "subtitle": "Paquete 6 días Islas/Bursa",
+        "summary": "Resumen",
+        "tourType": "Tipo:",
+        "tourName": "Paquete 6 días",
+        "selectedDate": "Fecha:",
+        "pleaseSelect": "Seleccione"
+      }
+    },
+    "package8days": {
+      "pageTitle": "8 días Turquía | Estambul • Capadocia • Éfeso • Pamukkale — Capahenas Travel",
+      "metaDescription": "Lo mejor en 8 días: monumentos de Estambul, Capadocia, Éfeso y terrazas de Pamukkale. Vuelos y visitas incluidos.",
+      "badge": "Paquete panorámico",
+      "title": "8 días Turquía panorámica",
+      "subtitle": "7 noches / 8 días",
+      "description": "Estambul / Capadocia / Éfeso / Pamukkale en un itinerario fluido.",
+      "gallery": {
+        "title": "Galería 8 días",
+        "subtitle": "Momentos destacados"
+      },
+      "about": {
+        "title": "Resumen",
+        "subtitle": "Paquete 8 días",
+        "duration": "7 noches / 8 días",
+        "destinations": "Estambul, Capadocia, Éfeso, Pamukkale",
+        "highlights": "Destacados",
+        "highlight1": "Santa Sofía, Mezquita Azul y otros iconos",
+        "highlight2": "Chimeneas de hadas y cuevas",
+        "highlight3": "Biblioteca Celso y Gran Teatro en Éfeso",
+        "highlight4": "Travertinos y Hierápolis en Pamukkale",
+        "highlight5": "Vuelos domésticos y logística eficiente"
+      },
+      "itinerary": {
+        "title": "Itinerario",
+        "day1": {
+          "title": "DÍA 01: Llegada Estambul",
+          "content": "Recepción → hotel (check‑in tras 13:00). Tiempo libre. Noche.",
+          "meals": "(Comida: —)"
+        },
+        "day2": {
+          "title": "DÍA 02: Casco antiguo",
+          "content": "Hipódromo, Mezquita Azul, Santa Sofía, Cisterna Basílica. Noche.",
+          "meals": "(Comida: desayuno)"
+        },
+        "day3": {
+          "title": "DÍA 03: Bósforo → Vuelo Capadocia",
+          "content": "Bazar especias, crucero Bósforo. 15:30 aeropuerto; vuelo 18:55 Nevşehir; llegada 21:05. Noche Capadocia.",
+          "meals": "(Comida: desayuno)"
+        },
+        "day4": {
+          "title": "DÍA 04: Capadocia norte",
+          "content": "Uçhisar, Çavuşin, Paşabağı, Zelve; almuerzo; Devrent, Three Beauties, Ürgüp & Avanos. Noche.",
+          "meals": "(Comida: desayuno + almuerzo)",
+          "optional": "Opción: globo amanecer"
+        },
+        "day5": {
+          "title": "DÍA 05: Capadocia sur → Vuelo Izmir",
+          "content": "Ortahisar, Mustafapaşa, Şahinefendi & Sobessos, valle Soğanlı (2 km), Kaymaklı. Vuelo 22:30 Kayseri → 23:55 Izmir. Noche Kuşadası.",
+          "meals": "(Comida: desayuno + almuerzo)"
+        },
+        "day6": {
+          "title": "DÍA 06: Éfeso & Casa Virgen",
+          "content": "Jornada completa en Éfeso + Templo Artemisa & Casa Virgen María. Noche Kuşadası.",
+          "meals": "(Comida: desayuno + almuerzo)"
+        },
+        "day7": {
+          "title": "DÍA 07: Pamukkale → Vuelo Estambul",
+          "content": "Pamukkale & Hierápolis, piscina antigua (opcional). Vuelo 19:55 Denizli → 21:10 Estambul. Noche.",
+          "meals": "(Comida: desayuno + almuerzo)"
+        },
+        "day8": {
+          "title": "DÍA 08: Salida",
+          "content": "Desayuno, check‑out antes 12:00. Traslado aeropuerto.",
+          "meals": "(Comida: desayuno)"
+        }
+      },
+      "includes": {
+        "title": "Incluye",
+        "accommodation": "7 noches hotel 4★ (desayuno)",
+        "tours": "6 días grupo pequeño (guía, entradas, almuerzo, transporte)",
+        "flight1": "Vuelo: Estambul → Kayseri",
+        "flight2": "Vuelo: Kayseri → Izmir",
+        "flight3": "Vuelo: Denizli → Estambul",
+        "transfers": "Traslados aeropuerto/hotel"
+      },
+      "excludes": {
+        "title": "No incluye",
+        "personal": "Gastos personales",
+        "gratuities": "Propinas",
+        "meals": "Comidas no mencionadas",
+        "drinks": "Bebidas",
+        "balloon": "Globo (opción)",
+        "insurance": "Seguro viaje"
+      },
+      "booking": {
+        "title": "¡Reserve ahora!",
+        "subtitle": "Paquete 8 días",
+        "summary": "Resumen",
+        "tourType": "Tipo:",
+        "tourName": "Paquete 8 días",
+        "selectedDate": "Fecha:",
+        "pleaseSelect": "Seleccione"
+      }
+    }
+  }
+}

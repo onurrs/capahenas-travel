@@ -1,0 +1,88 @@
+{
+  "cappadocia": {
+    "red": {
+      "hero": {
+        "badge": "🏛️ Kuzey Kapadokya Macerası",
+        "title": "Kırmızı Tur",
+        "subtitle": "Tam Gün Kuzey Kapadokya Turu",
+        "desc": "Uçhisar Kalesi, Göreme Açık Hava Müzesi, Avanos çömlekçiliği ve Kuzey Kapadokya'nın muhteşem vadilerini keşfedin."
+      },
+      "gallery": {
+        "title": "Deneyim Galerisi",
+        "desc": "Kuzey Kapadokya'nın büyüleyici manzaralarını keşfedin"
+      },
+      "about": {
+        "title": "Tur Hakkında",
+        "subtitle": "Kapadokya Kırmızı Tur (Kuzey Kapadokya Turu)",
+        "duration": "Tam Gün",
+        "capacity": "Maks. 16 kişi"
+      },
+      "overview": {
+        "title": "Genel Bakış",
+        "para1": "Saat 9:30'da profesyonel şoförümüz ve rehberimiz sizi Kapadokya otelinizden alacaktır. Kuzey Kapadokya'nın en ikonik simge yapılarında yolculuğumuza başlayacağız.",
+        "para2": "İlk durağımız, muhteşem panoramik manzaralara sahip Kapadokya'nın en yüksek kaya oluşumu olan Uçhisar Kalesi'dir. Rehberimiz, siz unutulmaz fotoğraflar çekerken manzarayı ve peri bacası oluşumunu anlatacaktır.",
+        "para3": "Ardından, İncil sahnelerini tasvir eden güzel freskler ve resimlerle süslenmiş 10-11. yüzyıla ait mağara kiliselerinin bulunduğu UNESCO Dünya Mirası Listesi'nde yer alan ünlü Göreme Açık Hava Müzesi'ni ziyaret edeceğiz.",
+        "para4": "Türkiye ve Yunanistan arasındaki 1924 nüfus mübadelesinden kalma terk edilmiş Rum evlerini keşfetmek için Çavuşin Köyü'ne devam edeceğiz, eski Kapadokya yaşamına bir bakış sunacaktır.",
+        "para5": "Avanos'ta yerel bir restoranda lezzetli açık büfe öğle yemeğinin tadını çıkaracağız, ardından çömlekçilik gösterimi için yeraltı mağarasını ziyaret edeceğiz. Çömlekçi çarkını kendiniz deneme fırsatınız olacak!",
+        "para6": "Öğle yemeğinden sonra, benzersiz mantar şeklindeki peri bacalarını ve Aziz Simeon Şapeli'ni görmek için Paşabağ'ı (Keşişler Vadisi) ziyaret edeceğiz. Ardından, çeşitli hayvanları ve şekilleri andıran doğal kaya oluşumlarıyla bilinen Devrent Vadisi'ne (Hayal Vadisi) gideceğiz.",
+        "para7": "Daha fazla bilgi almak ve rezervasyon yapmak için lütfen info@capahenastravel.com adresinden bize e-posta gönderin."
+      },
+      "includes": {
+        "title": "Tur Dahildir",
+        "guide": "Profesyonel tur rehberi",
+        "tickets": "Giriş Biletleri",
+        "lunch": "Öğle Yemeği",
+        "transport": "Ulaşım",
+        "taxes": "Vergiler ve servis ücretleri"
+      },
+      "excludes": {
+        "title": "Tur Hariçtir",
+        "drinks": "İçecekler",
+        "personal": "Kişisel Harcamalar",
+        "tips": "Şoför ve rehber bahşişleri"
+      },
+      "info": {
+        "title": "Ek Bilgiler",
+        "departure": "Kalkış",
+        "departureDesc": "Göreme'deki otelinizden alınma",
+        "departureTime": "Kalkış Saati",
+        "departureTimeDesc": "Sabah 9:30",
+        "returnTime": "Dönüş Saati",
+        "returnTimeDesc": "Yaklaşık 16:00"
+      },
+      "booking": {
+        "title": "Şimdi Rezervasyon Yapın!",
+        "subtitle": "Kırmızı Tur maceranızı rezerve edin",
+        "selectDate": "Tarihinizi Seçin",
+        "numPersons": "Kişi Sayısı",
+        "persons": "Kişi",
+        "minPerson": "Minimum 1 kişi gereklidir",
+        "yourDetails": "Bilgileriniz",
+        "fullName": "Ad Soyad *",
+        "namePlaceholder": "Adınızı ve soyadınızı girin",
+        "email": "E-posta Adresi *",
+        "emailPlaceholder": "ornek@email.com",
+        "hotel": "Otel Adı (Opsiyonel)",
+        "hotelPlaceholder": "Kapadokya'daki otel adınız",
+        "hotelNote": "Bu alan zorunlu değildir, ancak otel adını eklemeniz talebinizi daha hızlı işlememize yardımcı olur.",
+        "phone": "Telefon Numarası (Opsiyonel)",
+        "phonePlaceholder": "Telefon Numarası",
+        "phoneNote": "Bu alan zorunlu değildir, ancak size daha hızlı yanıt verebilmemiz için doldurmanızı öneririz.",
+        "summaryTitle": "Rezervasyon Özeti",
+        "tourType": "Tur Tipi:",
+        "tourName": "Kırmızı Tur",
+        "selectedDate": "Seçilen Tarih:",
+        "pleaseSelect": "Lütfen seçin",
+        "totalPersons": "Toplam Kişi:",
+        "priceNote": "Fiyat detayları talep üzerine verilecektir",
+        "submitBtn": "Maceranızı Rezerve Edin",
+        "secureNote": "🔒 Güvenli rezervasyon • Şimdi ödeme gerekmez",
+        "featureCancel": "Ücretsiz İptal ve İade",
+        "featureCancelDesc": "Tur başlangıç saatinden 24 saat öncesine kadar iptal edilebilir",
+        "featurePayLater": "Şimdi Rezerve Edin, Sonra Ödeyin",
+        "featurePayLaterDesc": "Şimdi rezervasyon yapın, tur başlamadan önce istediğiniz zaman ödeyin",
+        "whatsapp": "WhatsApp'tan bize ulaşın"
+      }
+    }
+  }
+}

@@ -1,0 +1,1294 @@
+{
+  "turkiye-tours": {
+    "antalya": {
+      "badge": "🏖️ 도시 & 자연 투어",
+      "title": "안탈리아 시티 투어",
+      "subtitle": "폭포 · 케이블카 · 올드타운 종일 일정",
+      "description": "튜네크테페 정상 파노라마, 장엄한 폭포, 카레이치(Old Town)의 역사 정취를 하루에 모두 체험하세요.",
+      "gallery": {
+        "title": "체험 갤러리",
+        "subtitle": "안탈리아 폭포·케이블카 전망·올드타운 탐험"
+      },
+      "about": {
+        "title": "투어 소개",
+        "subtitle": "폭포 · 케이블카 & 올드타운",
+        "intro": "터키 대표 휴양지 안탈리아는 눈부신 코브(만), 깨끗한 비치, 활기찬 시내를 자랑합니다. 본 종일 시티 투어는 안탈리아 핵심 명소를 알찬 동선으로 안내합니다.",
+        "karpuz": "카르푸즈칼드르안 폭포 - 자연의 힘",
+        "karpuz-desc": "약 45m 낙차로 지중해에 직접 떨어지는 장엄한 폭포. 물안개 속 무지개와 ‘담수 vs 바다’의 극적인 만남을 사진에 담아보세요.",
+        "duden": "뒤덴 폭포 - 고요한 아름다움",
+        "duden-desc": "연간 10만 명 이상 방문하는 인기 자연 명소. 주변 공원 산책로를 따라 느긋하게 걷고 힐링과 촬영을 동시에 즐길 수 있습니다.",
+        "tun": "튜네크테페 케이블카 - 파노라마 전망",
+        "tun-desc": "해발 약 800m 정상에서 코냐알트(Konyaaltı) 비치, 스잔(Sıcan) 섬, 항만 전경을 한눈에. 케이블카 탑승 자체가 ‘끊임없는 뷰’입니다.",
+        "note": "안내: 케이블카는 월요일 휴무입니다. 휴무일에는 지중해 해안을 색다른 앵글로 즐기실 수 있도록 보트 투어로 대체됩니다.",
+        "oldtown": "올드타운(카레이치) - 역사 골목",
+        "oldtown-desc": "베르가마 왕국부터 오스만 제국까지 겹겹이 남은 건축 유산. 좁은 골목, 고풍 저택, 부티크 호텔, 전통 상점, 고대 항구와 하드리안 게이트가 하이라이트입니다.",
+        "highlights": "투어 하이라이트",
+        "highlight1": "카르푸즈칼드르안 폭포 - 지중해로 낙하하는 45m 폭포",
+        "highlight2": "뒤덴 폭포 - 공원 산책과 휴식",
+        "highlight3": "튜네크테페 케이블카 - 800m 고도 파노라마",
+        "highlight4": "코냐알트 비치 전망",
+        "highlight5": "올드타운(카레이치) - 역사 거리 & 오스만 건축",
+        "highlight6": "하드리안 게이트 - 로마 개선문",
+        "highlight7": "구(옛) 항구 - 그림 같은 마리나",
+        "highlight8": "전통 터키 점심 포함",
+        "itinerary": "일정 개요",
+        "morning": "오전: 호텔 조식 후 픽업 & 출발",
+        "stop1": "1정차: 카르푸즈칼드르안 폭포 (사진 약 45분)",
+        "stop2": "2정차: 뒤덴 폭포 & 공원 산책",
+        "lunch": "점심: 현지 레스토랑 (터키식)",
+        "afternoon": "오후: 튜네크테페 케이블카(월요일은 대체 보트)",
+        "stop3": "3정차: 올드타운(카레이치) 역사 워킹투어",
+        "return": "귀환: 호텔 드롭오프",
+        "note2": "참고: 안탈리아 도심에서 30km 이상 떨어진 숙소는 추가 교통비가 있을 수 있습니다.",
+        "contact": "추가 정보 및 예약: info@capahenastravel.com 으로 이메일 주세요."
+      },
+      "includes": {
+        "title": "포함 사항",
+        "guide": "전문 가이드",
+        "fees": "입장료",
+        "lunch": "뷔페 점심",
+        "transport": "에어컨 차량",
+        "taxes": "세금/서비스"
+      },
+      "info": {
+        "title": "추가 정보",
+        "pickupTitle": "픽업 위치",
+        "pickupDesc": "안탈리아 시내 호텔",
+        "pickupNote": "도심 30km 초과 시 추가요금 가능",
+        "durationTitle": "투어 시간",
+        "durationDesc": "종일 (약 16:30 종료)",
+        "dropoffTitle": "드롭오프",
+        "dropoffDesc": "안탈리아 시내 호텔",
+        "dropoffNote": "30km 초과 숙소는 복귀 추가요금 가능"
+      },
+      "excludes": {
+        "title": "불포함 사항",
+        "drinks": "음료",
+        "personal": "개인 경비",
+        "tips": "기사 및 가이드 팁"
+      },
+      "booking": {
+        "title": "지금 예약하세요!",
+        "subtitle": "안탈리아 투어 예약",
+        "selectDate": "날짜 선택",
+        "persons": "인원",
+        "personsLabel": "명",
+        "minimumNote": "최소 1명 필요",
+        "yourDetails": "예약자 정보",
+        "fullName": "이름 *",
+        "fullNamePlaceholder": "이름을 입력하세요",
+        "email": "이메일 *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "호텔명 (선택)",
+        "hotelPlaceholder": "안탈리아 내 숙소 이름",
+        "hotelNote": "선택 사항이지만 기입 시 처리 속도가 빨라집니다.",
+        "phone": "전화번호 (선택)",
+        "phonePlaceholder": "전화번호",
+        "phoneNote": "선택 사항이지만 신속한 연락을 위해 권장됩니다.",
+        "summary": "예약 요약",
+        "tourType": "투어 유형:",
+        "selectedDate": "선택 날짜:",
+        "pleaseSelect": "선택하세요",
+        "totalPersons": "총 인원:",
+        "priceNote": "가격은 문의 후 안내됩니다",
+        "bookButton": "모험 예약하기",
+        "secure": "🔒 안전 예약 · 지금 결제 불필요",
+        "cancellation": "무료 취소 & 환불",
+        "cancellationDesc": "투어 시작 24시간 전까지 취소 가능",
+        "payLater": "지금 예약 · 나중 결제",
+        "payLaterDesc": "투어 시작 전 언제든지 결제",
+        "whatsapp": "WhatsApp 문의"
+      }
+    },
+    "aspendos": {
+      "badge": "🏛️ 고대 지중해 도시",
+      "title": "페르게 · 아스펜도스 · 시데 투어",
+      "subtitle": "안탈리아의 고대 유산 발견",
+      "description": "세 개의 화려한 고대 도시와 마나브가트 폭포를 하루에 즐기는 종합 문화 탐방.",
+      "gallery": {
+        "title": "체험 갤러리",
+        "subtitle": "안탈리아 고대도시 & 자연미"
+      },
+      "about": {
+        "title": "투어 소개",
+        "subtitle": "페르게 · 아스펜도스 · 시데 & 마나브가트 폭포",
+        "intro": "문화 탐방을 통해 대리석 문으로 유명한 페르게, 완벽한 음향의 아스펜도스 극장, 고대와 현대가 공존하는 항구 도시 시데를 탐험합니다.",
+        "perge": "페르게 - 대리석 문 도시",
+        "perge-desc": "기둥 열주거리와 로마식 도시 구조가 잘 보존된 페르게를 걸으며 과거의 생활상을 상상해보세요.",
+        "perge-desc2": "아고라, 목욕탕, 수로, 극장을 지나며 사회·상업·종교 중심지를 둘러봅니다.",
+        "aspendos": "아스펜도스 - 고대 공학의 결정체",
+        "aspendos-desc": "극장 상단에서 내려다보는 장엄한 풍경과 2천 년 전 물 수송 시스템의 기술적 정교함을 체험합니다.",
+        "side": "시데 - 고대와 현대의 접점",
+        "side-desc": "로마 성벽 안에 세워진 현대 항구도시에서 아폴로 신전과 해변을 감상하며 시대의 겹침을 느껴보세요.",
+        "manavgat": "마나브가트 폭포 - 휴식의 청량함",
+        "manavgat-desc": "폭포 주변에서 물안개와 시원한 바람을 느끼며 여유로운 시간을 보냅니다.",
+        "highlights": "하이라이트",
+        "highlight1": "페르게 고대도시 - 열주거리, 목욕탕, 극장",
+        "highlight2": "아스펜도스 극장 - 뛰어난 음향과 보존 상태",
+        "highlight3": "고대 수로 시스템 - 2000년 전 기술",
+        "highlight4": "시데 고대도시 - 로마 성벽과 항구",
+        "highlight5": "아폴로 신전 - 해변 유적",
+        "highlight6": "시데 비치 - 지중해 해안선",
+        "highlight7": "마나브가트 폭포 - 자연 휴식",
+        "highlight8": "터키 뷔페 점심",
+        "itinerary": "일정",
+        "fullday": "종일 투어: 안탈리아 지역 호텔 픽업",
+        "endtime": "약 16:30 호텔 도착 후 종료",
+        "note2": "안내: 안탈리아 도심 30km 초과 숙소는 추가 교통비 발생 가능"
+      },
+      "includes": {
+        "title": "포함 사항",
+        "guide": "전문 가이드",
+        "fees": "입장료",
+        "lunch": "뷔페 점심",
+        "transport": "에어컨 차량",
+        "taxes": "세금 및 서비스"
+      },
+      "info": {
+        "title": "추가 정보",
+        "pickupTitle": "픽업 위치",
+        "pickupDesc": "안탈리아 지역 호텔",
+        "pickupNote": "30km 초과 숙소 추가요금 가능",
+        "durationTitle": "투어 시간",
+        "durationDesc": "종일 (약 16:30 종료)",
+        "dropoffTitle": "드롭오프",
+        "dropoffDesc": "안탈리아 지역 숙소",
+        "dropoffNote": "30km 초과 숙소 복귀 추가요금 가능"
+      },
+      "excludes": {
+        "title": "불포함 사항",
+        "drinks": "음료",
+        "personal": "개인 지출",
+        "tips": "팁(선택)"
+      },
+      "booking": {
+        "title": "지금 예약하세요!",
+        "subtitle": "페르게·아스펜도스·시데 투어 예약",
+        "selectDate": "날짜 선택",
+        "persons": "인원",
+        "personsLabel": "명",
+        "minimumNote": "최소 1명",
+        "yourDetails": "예약자 정보",
+        "fullName": "이름 *",
+        "fullNamePlaceholder": "이름 입력",
+        "email": "이메일 *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "호텔명 (선택)",
+        "hotelPlaceholder": "안탈리아 숙소 이름",
+        "hotelNote": "선택 사항이지만 기입 시 빠른 처리",
+        "phone": "전화번호 (선택)",
+        "phonePlaceholder": "전화번호",
+        "phoneNote": "선택 사항이지만 기입 권장",
+        "summary": "예약 요약",
+        "tourType": "투어 유형:",
+        "selectedDate": "선택 날짜:",
+        "pleaseSelect": "선택하세요",
+        "totalPersons": "총 인원:",
+        "priceNote": "요금은 문의 후 안내",
+        "bookButton": "모험 예약",
+        "secure": "🔒 안전 예약 · 선결제 없음",
+        "cancellation": "무료 취소 & 환불",
+        "cancellationDesc": "투어 시작 24시간 전까지",
+        "payLater": "지금 예약 · 나중 결제",
+        "payLaterDesc": "투어 시작 전 언제든 결제 가능",
+        "whatsapp": "WhatsApp 문의"
+      }
+    },
+    "demre": {
+      "badge": "⛵ 역사 & 보트 투어",
+      "title": "데므레 미라 & 케코바 투어",
+      "subtitle": "고대 리키아 암벽무덤 & 침몰 도시 크루즈",
+      "description": "미라의 암벽무덤과 성 니콜라스 교회, 케코바 침몰 도시를 둘러보는 종일 투어.",
+      "gallery": {
+        "title": "체험 갤러리",
+        "subtitle": "데므레 고대 암벽무덤 · 성 니콜라스 · 케코바 침몰 도시"
+      },
+      "about": {
+        "title": "투어 소개",
+        "subtitle": "미라 · 성 니콜라스 교회 & 케코바 침몰 도시",
+        "intro": "역사·문화·푸른 해안이 어우러진 데므레·미라·케코바. 원형 보존된 리키아 암벽무덤을 보고, ‘산타’의 원형인 성 니콜라스의 발자취를 따라가며 지진 재해가 남긴 침몰 도시 케코바를 크루즈로 감상합니다.",
+        "eagle": "팔콘 힐 - 경관 드라이브",
+        "eagle-desc": "안탈리아에서 케코바로 가는 길, 라군과 호수 풍경을 지나 전망대에서 커피 한 잔과 파노라마 조망.",
+        "myra": "미라 고대도시 - 리키아 수도",
+        "myra-desc": "절벽 위 부조 암벽묘와 잘 보존된 극장, 강변 네크로폴리스 장식을 둘러보며 가이드로부터 고대 도시 이야기를 듣습니다.",
+        "nicholas": "성 니콜라스 교회 - 산타의 기원",
+        "nicholas-desc": "자비와 사랑의 정신을 전하는 4세기 주교 니콜라스의 교회에서 그의 역사와 유산을 탐방합니다.",
+        "kekova": "케코바 & 침몰 도시 - 바다 아래 유적",
+        "kekova-desc": "지질 운동과 지진으로 잠긴 고대 유적을 보트에서 내려다봅니다. 투명한 물 아래 계단·벽체가 보이며 테이미우사, 시메나 등 리키아 정착지를 확인합니다.",
+        "swimming": "🏊 수영 휴식: 크루즈 중 지중해 맑은 바다에서 수영 시간을 가집니다. 수영복을 꼭 지참하세요!",
+        "highlights": "하이라이트",
+        "highlight1": "팔콘 힐 - 파노라마 & 커피",
+        "highlight2": "미라 - 암벽무덤 & 극장",
+        "highlight3": "성 니콜라스 교회 - 산타의 원형",
+        "highlight4": "케코바 침몰 도시 - 수중 유적",
+        "highlight5": "시메나 성채 - 언덕 전망",
+        "highlight6": "테이미우사 유적 - 리키아 정착지",
+        "highlight7": "2시간 보트 투어 - 맑은 바다 항해",
+        "highlight8": "수영 휴식 - 에메랄드 지중해",
+        "itinerary": "포함 서비스",
+        "professional": "종일 전문 가이드",
+        "transport": "편안한 에어컨 차량",
+        "lunch": "현지 레스토랑 점심",
+        "boat": "케코바 보트 티켓",
+        "fees": "미라 & 성 니콜라스 입장료",
+        "insurance": "보험 커버",
+        "note2": "안내: 안탈리아 도심 30km 초과 숙소는 추가 교통비 발생 가능"
+      },
+      "includes": {
+        "title": "포함 사항",
+        "guide": "전문 가이드",
+        "fees": "미라 & 성 니콜라스 입장료",
+        "lunch": "점심",
+        "boat": "케코바 보트 티켓",
+        "transport": "에어컨 차량",
+        "taxes": "세금/서비스"
+      },
+      "info": {
+        "title": "추가 정보",
+        "pickupTitle": "픽업 위치",
+        "pickupDesc": "안탈리아 시내 호텔",
+        "pickupNote": "30km 초과 숙소 추가요금 가능",
+        "durationTitle": "투어 시간",
+        "durationDesc": "종일 (약 16:30 종료)",
+        "dropoffTitle": "드롭오프",
+        "dropoffDesc": "안탈리아 시내 호텔",
+        "dropoffNote": "30km 초과 숙소 복귀 추가요금 가능"
+      },
+      "excludes": {
+        "title": "불포함 사항",
+        "drinks": "음료",
+        "personal": "개인 지출",
+        "tips": "팁(선택)"
+      },
+      "booking": {
+        "title": "지금 예약하세요!",
+        "subtitle": "데므레·미라·케코바 투어 예약",
+        "selectDate": "날짜 선택",
+        "persons": "인원",
+        "personsLabel": "명",
+        "minimumNote": "최소 1명 필요",
+        "yourDetails": "예약자 정보",
+        "fullName": "이름 *",
+        "fullNamePlaceholder": "이름 입력",
+        "email": "이메일 *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "호텔명 (선택)",
+        "hotelPlaceholder": "안탈리아 숙소 이름",
+        "hotelNote": "선택 사항이지만 기입 시 처리 신속",
+        "phone": "전화번호 (선택)",
+        "phonePlaceholder": "전화번호",
+        "phoneNote": "선택 사항이지만 기입 권장",
+        "summary": "예약 요약",
+        "tourType": "투어 유형:",
+        "selectedDate": "선택 날짜:",
+        "pleaseSelect": "선택하세요",
+        "totalPersons": "총 인원:",
+        "priceNote": "요금은 문의 후 안내",
+        "bookButton": "모험 예약",
+        "secure": "🔒 안전 예약 · 선결제 없음",
+        "cancellation": "무료 취소 & 환불",
+        "cancellationDesc": "시작 24시간 전까지",
+        "payLater": "지금 예약 · 후결제",
+        "payLaterDesc": "투어 시작 전 결제 가능",
+        "whatsapp": "WhatsApp 문의"
+      }
+    },
+    "ephesus": {
+      "badge": "🏛️ 유네스코 세계유산",
+      "title": "에페소스 데일리 투어",
+      "subtitle": "고대 도시 & 성서 유적",
+      "description": "대리석 거리와 보존 상태 뛰어난 고전 도시를 가이드와 함께 걷습니다.",
+      "gallery": {
+        "title": "체험 갤러리",
+        "subtitle": "에페소스 고대의 경이 발견"
+      },
+      "about": {
+        "title": "투어 소개",
+        "subtitle": "에페소스 일일 투어",
+        "intro": "셀축(Selçuk) 호텔에서 오전 09:00 픽업 후 모든 참가자가 모이면 ‘성모 마리아의 집’을 시작으로 일정이 진행됩니다.",
+        "virgin": "성모 마리아의 집 - 성지",
+        "virgin-desc": "마리아가 말년을 보낸 것으로 여겨지는 곳. 1986년 로마 가톨릭 공식 성지로 선언되었고 1967년 교황 바오로 6세가 방문.",
+        "ephesus": "에페소스 - 헬레니즘·로마·초기 기독교",
+        "ephesus-desc": "헬레니즘~로마 제국~초기 기독교 문화 전통을 증언하는 유적. 요한계시록 ‘일곱 교회’ 중 하나. 약 2시간 영어 가이드와 워킹 투어.",
+        "highlights": "투어 하이라이트",
+        "highlight1": "성모 마리아의 집 - 순례지",
+        "highlight2": "체육관(Gymnasium)",
+        "highlight3": "아고라(시장)",
+        "highlight4": "도미티아누스 광장",
+        "highlight5": "하드리아누스 신전",
+        "highlight6": "로마 목욕탕",
+        "highlight7": "셀수스 도서관",
+        "highlight8": "고대 대극장 (약 25,000석)",
+        "highlight9": "마리아 교회",
+        "highlight10": "뷔페 점심 - 터키 요리",
+        "highlight11": "아르테미스 신전 - 세계 7대 불가사의",
+        "highlight12": "쉬린제 마을 - 언덕 와인 마을",
+        "itinerary": "포함 사항",
+        "professional": "종일 전문 가이드",
+        "transport": "편안한 에어컨 차량",
+        "delicious": "현지 식당 점심",
+        "temple": "아르테미스 신전 방문",
+        "fees": "에페소스 및 유적 입장료",
+        "insurance": "보험 커버"
+      },
+      "includes": {
+        "title": "포함 사항",
+        "guide": "전문 가이드",
+        "fees": "입장료",
+        "lunch": "뷔페 점심",
+        "transport": "에어컨 차량",
+        "taxes": "세금/서비스"
+      },
+      "info": {
+        "title": "추가 정보",
+        "pickupTitle": "픽업 위치",
+        "pickupDesc": "셀축 지역 호텔 (09:00 시작)",
+        "pickupNote": "이즈미르 공항/호텔 픽업은 추가요금",
+        "durationTitle": "투어 시간",
+        "durationDesc": "종일 (약 16:30 종료)",
+        "dropoffTitle": "드롭오프",
+        "dropoffDesc": "셀축 호텔, 버스 또는 기차역",
+        "dropoffNote": "이즈미르 공항 드롭오프 추가요금"
+      },
+      "excludes": {
+        "title": "불포함 사항",
+        "drinks": "음료",
+        "personal": "개인 경비",
+        "tips": "기사/가이드 팁"
+      },
+      "booking": {
+        "title": "지금 예약하세요!",
+        "subtitle": "에페소스 투어 예약",
+        "selectDate": "날짜 선택",
+        "persons": "인원",
+        "personsLabel": "명",
+        "minimumNote": "최소 1명 필요",
+        "yourDetails": "예약자 정보",
+        "fullName": "이름 *",
+        "fullNamePlaceholder": "이름 입력",
+        "email": "이메일 *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "호텔명 (선택)",
+        "hotelPlaceholder": "셀축 호텔 이름",
+        "hotelNote": "선택 사항이지만 기입 권장",
+        "phone": "전화번호 (선택)",
+        "phonePlaceholder": "전화번호",
+        "phoneNote": "선택 사항이지만 기입 권장",
+        "summary": "예약 요약",
+        "tourType": "투어 유형:",
+        "selectedDate": "선택 날짜:",
+        "pleaseSelect": "선택하세요",
+        "totalPersons": "총 인원:",
+        "priceNote": "요금은 문의 후 안내",
+        "bookButton": "모험 예약",
+        "secure": "🔒 안전 예약 · 선결제 없음",
+        "cancellation": "무료 취소 & 환불",
+        "cancellationDesc": "투어 시작 24시간 전까지",
+        "payLater": "지금 예약 · 후결제",
+        "payLaterDesc": "투어 시작 전 언제든 결제 가능",
+        "whatsapp": "WhatsApp 문의"
+      }
+    },
+    "pamukkale-from-antalya": {
+      "badge": "🏛️ 유네스코 세계유산",
+      "title": "안탈리아 출발 파무칼레 투어",
+      "subtitle": "화이트 트라버틴 & 히에라폴리스",
+      "description": "안탈리아에서 순백의 테라스와 고대 히에라폴리스 유적을 하루 일정으로 탐험.",
+      "gallery": {
+        "title": "체험 갤러리",
+        "subtitle": "파무칼레의 경이로운 자연미"
+      },
+      "about": {
+        "title": "투어 소개",
+        "subtitle": "안탈리아 출발 파무칼레",
+        "intro1": "전문 가이드와 파무칼레 & 히에라폴리스를 종일 탐방. 온천 체험, 고대 유적 워킹, 자연 경관 감상까지 한 번에.",
+        "departure": "이른 아침 출발",
+        "departure-desc": "안탈리아 호텔 픽업 → 가이드 미팅 후 파무칼레로 이동하며 하루 여행 시작.",
+        "pamukkale": "파무칼레 - ‘솜의 성’",
+        "pamukkale-desc": "온천수가 만든 흰색 트라버틴 테라스의 광경을 가까이에서 관찰하고 여유롭게 사진을 남깁니다.",
+        "thermal": "온천수 & 치유의 샘",
+        "thermal-desc": "35~100℃ 다양한 온천. 고대로부터 류머티즘 등 치유 효능으로 인기 높은 휴양지.",
+        "hierapolis": "히에라폴리스 고대도시",
+        "hierapolis-desc": "로마극장, 성 필리푸스 대성당, 네크로폴리스, 클레오파트라 풀 등 다채로운 유적을 탐방.",
+        "conclusion": "점심 후 안탈리아로 돌아가 호텔 드롭오프로 일정 종료.",
+        "itinerary": "투어 일정",
+        "highlight1": "이른 아침 안탈리아 호텔 픽업",
+        "highlight2": "파무칼레 & 카라하이이트 레드 스프링 경유",
+        "highlight3": "네크로폴리스 (고대 묘지)",
+        "highlight4": "로마 목욕탕",
+        "highlight5": "바실리카 유적",
+        "highlight6": "도미티아누스 문",
+        "highlight7": "프론티니우스 거리",
+        "highlight8": "라트리나 (공중 화장실)",
+        "highlight9": "아폴로 신전",
+        "highlight10": "플루토니움 (지하세계 관문)",
+        "highlight11": "로마 극장",
+        "highlight12": "성 필리푸스 무덤",
+        "highlight13": "클레오파트라 풀 (자유시간 선택 입장)",
+        "highlight14": "트라버틴 하얀 테라스 워킹",
+        "highlight15": "현지 점심",
+        "highlight16": "안탈리아 복귀 & 호텔 드롭"
+      },
+      "includes": {
+        "title": "포함 사항",
+        "guide": "전문 가이드",
+        "fees": "파무칼레 & 히에라폴리스 입장료",
+        "lunch": "점심",
+        "transport": "에어컨 차량",
+        "taxes": "세금/서비스"
+      },
+      "info": {
+        "title": "추가 정보",
+        "pickupTitle": "픽업 위치",
+        "pickupDesc": "안탈리아 지역 호텔 (이른 아침)",
+        "pickupNote": "도심 30km 초과 숙소 추가요금 가능",
+        "durationTitle": "투어 시간",
+        "durationDesc": "종일 (이른 출발 ~ 저녁 복귀)",
+        "dropoffTitle": "드롭오프",
+        "dropoffDesc": "안탈리아 호텔",
+        "dropoffNote": "30km 초과 숙소 복귀 추가요금 가능"
+      },
+      "excludes": {
+        "title": "불포함 사항",
+        "drinks": "음료",
+        "personal": "개인 경비",
+        "tips": "기사/가이드 팁"
+      },
+      "booking": {
+        "title": "지금 예약하세요!",
+        "subtitle": "안탈리아 출발 파무칼레 예약",
+        "selectDate": "날짜 선택",
+        "persons": "인원",
+        "personsLabel": "명",
+        "minimumNote": "최소 1명",
+        "yourDetails": "예약자 정보",
+        "fullName": "이름 *",
+        "fullNamePlaceholder": "이름 입력",
+        "email": "이메일 *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "호텔명 (선택)",
+        "hotelPlaceholder": "안탈리아 숙소 이름",
+        "hotelNote": "선택 사항이지만 기입 권장",
+        "phone": "전화번호 (선택)",
+        "phonePlaceholder": "전화번호",
+        "phoneNote": "선택 사항이지만 기입 권장",
+        "summary": "예약 요약",
+        "tourType": "투어 유형:",
+        "selectedDate": "선택 날짜:",
+        "pleaseSelect": "선택하세요",
+        "totalPersons": "총 인원:",
+        "priceNote": "요금은 문의 후 안내",
+        "bookButton": "모험 예약",
+        "secure": "🔒 안전 예약 · 선결제 없음",
+        "cancellation": "무료 취소 & 환불",
+        "cancellationDesc": "24시간 전까지",
+        "payLater": "지금 예약 · 후결제",
+        "payLaterDesc": "투어 시작 전 언제든 결제 가능",
+        "whatsapp": "WhatsApp 문의"
+      }
+    },
+    "pamukkale": {
+      "badge": "🏛️ 유네스코 세계유산",
+      "title": "파무칼레 데일리 투어",
+      "subtitle": "화이트 트라버틴 & 히에라폴리스",
+      "description": "순백 트라버틴과 고대 유적을 종일 일정으로 심층 탐방.",
+      "gallery": {
+        "title": "체험 갤러리",
+        "subtitle": "파무칼레 자연미 발견"
+      },
+      "about": {
+        "title": "투어 소개",
+        "subtitle": "파무칼레 일일 투어",
+        "intro": "파무칼레의 하얀 트라버틴과 히에라폴리스 고대 유적을 한 번에 둘러보고 온천·역사·자연을 모두 경험합니다.",
+        "itinerary": "투어 일정",
+        "highlight1": "파무칼레/카라하이이트 호텔·버스·공항 픽업",
+        "highlight2": "카라하이이트 레드 스프링 이동",
+        "highlight3": "네크로폴리스",
+        "highlight4": "로마 목욕탕",
+        "highlight5": "바실리카 유적",
+        "highlight6": "도미티아누스 문",
+        "highlight7": "프론티니우스 거리",
+        "highlight8": "라트리나(공중 화장실)",
+        "highlight9": "아폴로 신전",
+        "highlight10": "플루토니움",
+        "highlight11": "고대 극장",
+        "highlight12": "성 필리푸스 무덤",
+        "highlight13": "클레오파트라 풀(선택 수영)",
+        "highlight14": "트라버틴 테라스 워킹",
+        "highlight15": "현지 점심",
+        "highlight16": "호텔 귀환"
+      },
+      "includes": {
+        "title": "포함 사항",
+        "guide": "전문 가이드",
+        "fees": "파무칼레 & 히에라폴리스 입장료",
+        "lunch": "점심",
+        "transport": "에어컨 차량",
+        "taxes": "세금/서비스"
+      },
+      "info": {
+        "title": "추가 정보",
+        "pickupTitle": "픽업 위치",
+        "pickupDesc": "파무칼레·카라하이이트 호텔 / 버스 / 공항",
+        "pickupNote": "지역 내 숙소 픽업 가능",
+        "durationTitle": "투어 시간",
+        "durationDesc": "종일 (09:00~16:00 약 7시간)",
+        "dropoffTitle": "드롭오프",
+        "dropoffDesc": "출발지 동일",
+        "dropoffNote": "지역 내 숙소 드롭 가능"
+      },
+      "excludes": {
+        "title": "불포함 사항",
+        "drinks": "음료",
+        "personal": "개인 경비",
+        "tips": "기사/가이드 팁"
+      },
+      "booking": {
+        "title": "지금 예약하세요!",
+        "subtitle": "파무칼레 투어 예약",
+        "selectDate": "날짜 선택",
+        "persons": "인원",
+        "personsLabel": "명",
+        "minimumNote": "최소 1명",
+        "yourDetails": "예약자 정보",
+        "fullName": "이름 *",
+        "fullNamePlaceholder": "이름 입력",
+        "email": "이메일 *",
+        "emailPlaceholder": "your@email.com",
+        "hotel": "호텔명 (선택)",
+        "hotelPlaceholder": "파무칼레 숙소 이름",
+        "hotelNote": "기입 시 처리 신속",
+        "phone": "전화번호 (선택)",
+        "phonePlaceholder": "전화번호",
+        "phoneNote": "빠른 연락을 위해 권장",
+        "summary": "예약 요약",
+        "tourType": "투어 유형:",
+        "selectedDate": "선택 날짜:",
+        "pleaseSelect": "선택하세요",
+        "totalPersons": "총 인원:",
+        "priceNote": "요금은 문의 후 안내",
+        "bookButton": "모험 예약",
+        "secure": "🔒 안전 예약 · 선결제 없음",
+        "cancellation": "무료 취소 & 환불",
+        "cancellationDesc": "24시간 전까지",
+        "payLater": "지금 예약 · 후결제",
+        "payLaterDesc": "시작 전 언제든 결제 가능",
+        "whatsapp": "WhatsApp 문의"
+      }
+    }
+  },
+  "turkeyTours": {
+    "package4days": {
+      "pageTitle": "4일 카파도키아 · 파무칼레 · 에페소스 투어 패키지 — Capahenas Travel",
+      "metaDescription": "카파도키아 기암, 파무칼레 온천 단층, 에페소스 고대 유적을 4일에 탐방. 항공, 숙박, 식사, 가이드 포함.",
+      "badge": "✈️ 멀티시티 패키지",
+      "title": "4일 카파도키아 · 파무칼레 · 에페소스 패키지",
+      "subtitle": "03박 / 04일",
+      "description": "터키 대표 명소를 한 번에 여행하는 잊지 못할 여정.",
+      "gallery": {
+        "title": "체험 갤러리",
+        "subtitle": "카파도키아 · 파무칼레 · 에페소스"
+      },
+      "about": {
+        "title": "투어 소개",
+        "subtitle": "4일 패키지",
+        "duration": "03박 / 04일",
+        "destinations": "카파도키아, 파무칼레, 에페소스",
+        "intro": "연중 매일 가능. 커스터마이즈 가능.",
+        "highlights": "패키지 하이라이트",
+        "highlight1": "카파도키아 기암 & 동굴 주거",
+        "highlight2": "에페소스 고대 도시 & 아르테미스 신전",
+        "highlight3": "파무칼레 온천 트라버틴 테라스",
+        "highlight4": "전문 가이드·편안한 숙박·풍부한 역사 인사이트"
+      },
+      "itinerary": {
+        "title": "일정",
+        "day1": {
+          "title": "DAY 01: 이스탄불→카이세리/네브셰히르 비행 - 북부 카파도키아 투어",
+          "content": "04:00 호텔 픽업 → 06:45 이스탄불 공항 출발 → 08:00 도착 후 카파도키아 이동. 첫 정차 우치사르(외관 사진). 이어 카우신( Rose Valley ), 요정의 굴뚝 계곡(파샤바그), 젤베 야외 박물관. 점심 후 데브렌트(상상계곡) & Three Beauties, 그리고 우르굽·아바노스(적색 점토 도자기 체험). 선택: 터키 러그/카펫 공방 방문. 카파도키아 숙박.",
+          "meals": "(식사: 점심)"
+        },
+        "day2": {
+          "title": "DAY 02: 남부 카파도키아 투어 - 이즈미르 비행",
+          "content": "조식 후 9:30~10:00 픽업. 오르타히사르 바위성, 무스타파파샤(옛 그리스 마을 Sinasos), 사힌에펜디 경유 & 로마 유적 소베소스, 소안르 계곡 2km 워킹 & 동굴교회 방문. 소안르 마을 점심 후 카이막을루 지하도시 탐험. 저녁 카이세리 공항에서 이즈미르행 비행. 도착 후 쿠샤다스 이동·숙박.",
+          "meals": "(식사: 조식 + 점심)",
+          "optional": "옵션: 일출 열기구 비행"
+        },
+        "day3": {
+          "title": "DAY 03: 에페소스 종일 투어",
+          "content": "조식 후 09:00 에페소스 출발. 마그네시아 게이트 진입 → 오데온, 셀수스 도서관, 하드리아누스 신전, 트라야누스 분수, 성 바울이 설교한 대극장(24,000석) 등 탐방. 이어 아르테미스 신전, 성모 마리아의 집 방문. 쿠샤다스 숙박.",
+          "meals": "(식사: 조식 + 점심)"
+        },
+        "day4": {
+          "title": "DAY 04: 파무칼레 투어 - 이스탄불 비행",
+          "content": "조식 후 07:30 파무칼레 이동. 석회 트라버틴(Cotton Castle) & 히에라폴리스 유적. 고대풀(클레오파트라 풀) 선택 입장 가능(추가비). 투어 후 데니즐리 공항 이동, 19:50 비행으로 이스탄불. 21:10 도착 후 호텔 트랜스퍼.",
+          "meals": "(식사: 조식 + 점심)"
+        }
+      },
+      "includes": {
+        "title": "포함 사항",
+        "accommodation": "03박 4성급 호텔 (조식 포함)",
+        "tours": "4일 정규 소그룹 영어 가이드 · 입장료 · 점심 · 교통",
+        "flight1": "국내선 편도: 이스탄불→카파도키아",
+        "flight2": "국내선 편도: 카이세리→이즈미르",
+        "flight3": "국내선 편도: 파무칼레(데니즐리)→이스탄불",
+        "transfers": "터키 내 공항/호텔/포트 전 구간 송영"
+      },
+      "excludes": {
+        "title": "불포함 사항",
+        "personal": "개인 경비",
+        "gratuities": "드라이버 & 가이드 팁",
+        "meals": "명시되지 않은 식사",
+        "drinks": "모든 음료",
+        "balloon": "카파도키아 열기구",
+        "insurance": "여행자 보험"
+      },
+      "booking": {
+        "title": "지금 예약하세요!",
+        "subtitle": "4일 패키지 예약",
+        "summary": "예약 요약",
+        "tourType": "투어 유형:",
+        "tourName": "4일 패키지",
+        "selectedDate": "선택 날짜:",
+        "pleaseSelect": "선택하세요"
+      }
+    },
+    "package6days": {
+      "pageTitle": "이스탄불 & 카파도키아 6일 | 가이드 패키지 — Capahenas Travel",
+      "metaDescription": "이스탄불 역사 명소와 카파도키아 기암 경관을 6일 일정으로. 항공·숙박·잊을 수 없는 체험 포함.",
+      "badge": "✈️ 이스탄불 & 카파도키아 패키지",
+      "title": "이스탄불 & 카파도키아 6일 | 터키 가이드 투어",
+      "subtitle": "05박 / 06일",
+      "description": "역사적 도시와 신비로운 풍경을 한 번에 경험.",
+      "gallery": {
+        "title": "체험 갤러리",
+        "subtitle": "이스탄불 & 카파도키아"
+      },
+      "about": {
+        "title": "투어 소개",
+        "subtitle": "6일 패키지",
+        "duration": "05박 / 06일",
+        "destinations": "이스탄불, 카파도키아",
+        "intro": "연중 매일 가능. 커스터마이즈 가능.",
+        "highlights": "하이라이트",
+        "highlight1": "이스탄불 역사 유적 (아야소피아 등)",
+        "highlight2": "카파도키아 요정굴뚝, 동굴주거, 열기구(옵션)",
+        "highlight3": "가이드 투어 & 인상적인 풍경"
+      },
+      "itinerary": {
+        "title": "일정",
+        "day1": {
+          "title": "DAY 01: 이스탄불 도착",
+          "content": "공항 도착 → 대표 미팅 & 호텔 이동 (체크인 13:00 이후). 트래블 컨설턴트 브리핑. 이스탄불 숙박.",
+          "meals": "(식사: 없음)"
+        },
+        "day2": {
+          "title": "DAY 02: 이스탄불 올드 시티 워킹 투어",
+          "content": "조식 후 고대 비잔틴 히포드롬 (이집트 오벨리스크, 뱀기둥, 빌헬름 2세 분수) → 블루 모스크(6개 미나레) → 아야소피아 (테오도시우스 시대 건립·니카 반란 화재 후 재건) → 점심 후 바실리카 저수층(지하 궁전) 탐험 → 호텔 귀환. 숙박.",
+          "meals": "(식사: 조식)"
+        },
+        "day3": {
+          "title": "DAY 03: 보스포루스 크루즈 / 카파도키아 비행",
+          "content": "조식 후 스파이스 마켓(1665년부터 이어진 향신료·스위트 시장) 방문 → 보스포루스 페리 탑승, 유럽·아시아를 가르는 해협 크루즈. 14:00 공항 이동, 18:20 카이세리행 → 19:50 도착 후 호텔 트랜스퍼. 카파도키아 숙박.",
+          "meals": "(식사: 조식)"
+        },
+        "day4": {
+          "title": "DAY 04: 북부 카파도키아 투어",
+          "content": "조식 후 9:30~10:00 픽업. 우치사르(외관), 카우신(로즈밸리 붉은 암석), 요정굴뚝 계곡, 파샤바그, 젤베 야외 박물관. 점심 후 데브렌트 & Three Beauties. 우르굽·아바노스(적색 점토 도자 체험). 선택: 러그/카펫 공방. 숙박.",
+          "meals": "(식사: 조식 + 점심)",
+          "optional": "옵션: 열기구 일출 체험"
+        },
+        "day5": {
+          "title": "DAY 05: 남부 카파도키아 / 이스탄불 복귀 비행",
+          "content": "조식 후 9:30~10:00 출발. 오르타히사르 바위성 → 무스타파파샤(옛 그리스 마을 Sinasos) → 사힌에펜디 경유 소베소스 로마 유적(바닥 모자이크) → 소안르 계곡 2km 워킹 & 동굴교회 → 소안르 마을 점심 → 카이막을루 지하도시 → 19:30 카이세리 발 → 21:00 이스탄불 도착, 호텔 이동. 숙박.",
+          "meals": "(식사: 조식 + 점심)"
+        },
+        "day6": {
+          "title": "DAY 06: 이스탄불 / 출국",
+          "content": "조식 후 12:00 이전 체크아웃. 공항 송영.",
+          "meals": "(식사: 조식)"
+        }
+      },
+      "includes": {
+        "title": "포함 사항",
+        "accommodation": "05박 4성급 호텔 (조식 포함)",
+        "tours": "04일 정규 소그룹 영어 가이드·입장·점심·교통 포함",
+        "flight1": "국내선 편도: 이스탄불→카이세리",
+        "flight2": "국내선 편도: 카이세리→이스탄불",
+        "transfers": "이스탄불 전 구간 공항/호텔 송영"
+      },
+      "excludes": {
+        "title": "불포함 사항",
+        "personal": "개인 경비",
+        "gratuities": "드라이버 & 가이드 팁",
+        "meals": "명시 외 식사",
+        "drinks": "음료",
+        "insurance": "여행자 보험"
+      },
+      "booking": {
+        "title": "지금 예약하세요!",
+        "subtitle": "6일 이스탄불 & 카파도키아 패키지 예약",
+        "summary": "예약 요약",
+        "tourType": "투어 유형:",
+        "tourName": "6일 패키지",
+        "selectedDate": "선택 날짜:",
+        "pleaseSelect": "선택하세요"
+      }
+    },
+    "package4days2": {
+      "pageTitle": "카파도키아 · 파무칼레 · 에페소스 4일 | 가이드 투어 (야간 코치) — Capahenas Travel",
+      "metaDescription": "4일 오버나이트 코치 포함으로 예산 친화적 멀티 도시 투어. 카파도키아, 에페소스, 파무칼레 문화·자연 체험.",
+      "badge": "🚌 멀티시티 어드벤처",
+      "title": "4일 카파도키아 · 파무칼레 · 에페소스 | 가이드 투어",
+      "subtitle": "03박 / 04일",
+      "description": "오버나이트 코치 경험을 더한 경제적 4일 문화·자연 종합 일정.",
+      "gallery": {
+        "title": "체험 갤러리",
+        "subtitle": "카파도키아 · 에페소스 · 파무칼레"
+      },
+      "about": {
+        "title": "투어 소개",
+        "subtitle": "4일 패키지",
+        "duration": "03박 / 04일",
+        "destinations": "카파도키아, 에페소스, 파무칼레",
+        "intro": "연중 매일 가능. 커스터마이즈 가능.",
+        "highlights": "하이라이트",
+        "highlight1": "터키 문화·자연을 4일에 압축",
+        "highlight2": "카파도키아·에페소스·파무칼레 핵심 동선",
+        "highlight3": "오버나이트 코치로 이동 효율 & 예산 절감"
+      },
+      "itinerary": {
+        "title": "일정",
+        "day1": {
+          "title": "DAY 01: 카이세리 비행 - 북부 카파도키아 투어",
+          "content": "04:00 픽업 → 06:45 카이세리행 → 08:00 도착. 우치사르 외관 → 카우신(로즈밸리) → 요정굴뚝 계곡(파샤바그) → 젤베 야외 박물관. 점심 후 데브렌트 & Three Beauties → 우르굽 & 아바노스 도자기 체험 → 러그 공방(옵션). 카파도키아 숙박.",
+          "meals": "(식사: 점심)"
+        },
+        "day2": {
+          "title": "DAY 02: 남부 카파도키아 투어 - 파무칼레 야간 코치",
+          "content": "조식 후 9:30~10:00 출발. 오르타히사르 바위성 → 무스타파파샤(Sinasos) → 사힌에펜디 & 소베소스 로마 유적 → 소안르 계곡 2km 워킹 & 동굴교회 → 소안르 마을 점심 → 카이막을루 지하도시. 저녁 20:30 파무칼레행 야간버스. 버스 내 숙박.",
+          "meals": "(식사: 조식 + 점심)",
+          "optional": "옵션: 열기구 일출"
+        },
+        "day3": {
+          "title": "DAY 03: 파무칼레 투어 - 쿠샤다스 이동",
+          "content": "07:00 파무칼레 도착 → 버스역 미팅 & 호텔 조식 → 10:00 트라버틴(Cotton Castle) & 히에라폴리스 → 고대 풀(클레오파트라 풀) 옵션 입장. 투어 후 쿠샤다스 이동 & 숙박.",
+          "meals": "(식사: 조식 + 점심)"
+        },
+        "day4": {
+          "title": "DAY 04: 에페소스 투어 - 이스탄불 비행",
+          "content": "조식 후 09:00 에페소스 워킹: 오데온·셀수스 도서관·하드리아누스 신전·트라야누스 분수·대극장 → 아르테미스 신전 & 성모 마리아 집. 저녁 19:50 이스탄불행 → 21:10 도착 & 호텔 이동.",
+          "meals": "(식사: 조식 + 점심)"
+        }
+      },
+      "includes": {
+        "title": "포함 사항",
+        "accommodation": "02박 4성급 호텔 (조식) + 01박 인터시티 야간 코치",
+        "tours": "04일 정규 소그룹 영어 가이드·입장·점심·교통",
+        "flight1": "국내선 편도: 이스탄불→카이세리",
+        "flight2": "국내선 편도: 이즈미르→이스탄불",
+        "transfers": "터키 내 공항/호텔/포트 송영"
+      },
+      "excludes": {
+        "title": "불포함 사항",
+        "personal": "개인 경비",
+        "gratuities": "드라이버 & 가이드 팁",
+        "meals": "명시 외 식사",
+        "drinks": "음료",
+        "balloon": "열기구(옵션)",
+        "insurance": "여행자 보험"
+      },
+      "booking": {
+        "title": "지금 예약하세요!",
+        "subtitle": "4일 야간 코치 패키지 예약",
+        "summary": "예약 요약",
+        "tourType": "투어 유형:",
+        "tourName": "4일 패키지(야간 코치)",
+        "selectedDate": "선택 날짜:",
+        "pleaseSelect": "선택하세요"
+      }
+    },
+    "package4days3": {
+      "pageTitle": "최고 4일 이스탄불 여행 패키지 | 가이드 시티 투어 — Capahenas Travel",
+      "metaDescription": "블루모스크, 톱카프 궁전, 아야소피아, 보스포루스 크루즈, 그랜드바자, 돌마바흐체 궁전을 4일 가이드와 탐험.",
+      "badge": "🏛️ 이스탄불 디스커버리 패키지",
+      "title": "4일 이스탄불 여행 패키지 | 가이드 시티 투어",
+      "subtitle": "03박 / 04일",
+      "description": "블루모스크 · 톱카프 · 아야소피아 · 보스포루스 · 그랜드바자 · 돌마바흐체 궁전",
+      "gallery": {
+        "title": "체험 갤러리",
+        "subtitle": "이스탄불 역사적 보물"
+      },
+      "about": {
+        "title": "투어 소개",
+        "subtitle": "4일 이스탄불 패키지",
+        "duration": "03박 / 04일",
+        "destinations": "이스탄불 시티 투어",
+        "available": "✓ 매일 가능",
+        "customizable": "✓ 커스터마이즈 가능",
+        "highlights": "하이라이트",
+        "highlight1": "톱카프 궁전, 그랜드바자, 히포드롬, 블루모스크, 아야소피아",
+        "highlight2": "보스포루스 크루즈 & 베이레르베이 궁전",
+        "highlight3": "그랜드바자의 활기찬 분위기",
+        "highlight4": "역사·문화의 조화"
+      },
+      "itinerary": {
+        "title": "일정",
+        "day1": {
+          "title": "DAY 01: 이스탄불 도착",
+          "content": "이스탄불 공항 도착 → 미팅 & 호텔 이동 (체크인 13:00 이후). 나머지 시간 자유. 숙박.",
+          "meals": "(식사: 없음)"
+        },
+        "day2": {
+          "title": "DAY 02: 올드 시티 워킹",
+          "content": "조식 → 히포드롬(이집트 오벨리스크, 뱀기둥, 분수) → 블루모스크 → 아야소피아 → 점심 후 바실리카 저수층. 호텔 복귀. 숙박.",
+          "meals": "(식사: 조식)"
+        },
+        "day3": {
+          "title": "DAY 03: 보스포루스 크루즈 & 베이레르베이 궁전",
+          "content": "조식 → 스파이스 마켓 → 보스포루스 페리 크루즈 → 챠므르자 언덕 파노라마(아시아측) → 베이레르베이 궁전 → 호텔 복귀. 숙박.",
+          "meals": "(식사: 조식 + 점심)"
+        },
+        "day4": {
+          "title": "DAY 04: 이스탄불 / 출국",
+          "content": "조식 후 12:00 이전 체크아웃 → 공항 이동.",
+          "meals": "(식사: 조식)"
+        }
+      },
+      "includes": {
+        "title": "포함 사항",
+        "accommodation": "03박 4성급 (조식 포함)",
+        "tours": "02일 영어 소그룹 가이드·입장·점심·교통",
+        "transfers": "이스탄불 내 공항/호텔 왕복 송영"
+      },
+      "excludes": {
+        "title": "불포함 사항",
+        "personal": "개인 경비",
+        "gratuities": "드라이버 & 가이드 팁",
+        "meals": "명시 외 식사",
+        "drinks": "음료",
+        "insurance": "여행자 보험"
+      },
+      "booking": {
+        "title": "지금 예약하세요!",
+        "subtitle": "4일 이스탄불 패키지 예약",
+        "summary": "예약 요약",
+        "tourType": "투어 유형:",
+        "tourName": "4일 이스탄불 투어",
+        "selectedDate": "선택 날짜:",
+        "pleaseSelect": "선택하세요"
+      }
+    },
+    "package5days": {
+      "pageTitle": "5일 터키 투어 | 이스탄불 & 에페소스 하이라이트 — Capahenas Travel",
+      "metaDescription": "이스탄불 대표 명소와 에페소스 고대 유적을 5일 일정으로. 항공·숙박·가이드 포함.",
+      "badge": "✈️ 이스탄불 & 에페소스 패키지",
+      "title": "5일 터키 투어 | 이스탄불 & 에페소스 하이라이트",
+      "subtitle": "04박 / 05일",
+      "description": "이스탄불 역사와 에페소스 고대 도시를 한 여행에서.",
+      "gallery": {
+        "title": "체험 갤러리",
+        "subtitle": "이스탄불 & 에페소스"
+      },
+      "about": {
+        "title": "투어 소개",
+        "subtitle": "5일 패키지",
+        "duration": "04박 / 05일",
+        "destinations": "이스탄불, 에페소스",
+        "intro": "연중 매일 가능. 커스터마이즈 가능.",
+        "highlights": "하이라이트",
+        "highlight1": "아야소피아·톱카프 궁전 등 도시 랜드마크",
+        "highlight2": "에페소스 고대 유적 (셀수스 도서관·극장)",
+        "highlight3": "가이드 해설·역사 인사이트·편안한 숙박"
+      },
+      "itinerary": {
+        "title": "일정",
+        "day1": {
+          "title": "DAY 01: 이스탄불 도착",
+          "content": "공항 미팅 → 호텔 이동 (체크인 13:00 이후). 자유시간. 숙박.",
+          "meals": "(식사: 없음)"
+        },
+        "day2": {
+          "title": "DAY 02: 이스탄불 역사 투어",
+          "content": "조식 → 히포드롬 → 블루모스크 → 아야소피아 → 점심 후 바실리카 저수층. 호텔 복귀. 숙박.",
+          "meals": "(식사: 조식)"
+        },
+        "day3": {
+          "title": "DAY 03: 오전 보스포루스 크루즈",
+          "content": "조식 → 스파이스 마켓 → 보스포루스 크루즈 → 오후 자유. 숙박.",
+          "meals": "(식사: 조식)"
+        },
+        "day4": {
+          "title": "DAY 04: 왕복 항공 에페소스 데이 트립",
+          "content": "04:00 호텔 픽업 → 07:00 이즈미르행 → 08:00 도착. 에페소스 워킹 (대리석 거리·도서관·극장 등) → 성모 마리아의 집 & 아르테미스 신전 → 저녁 비행으로 이스탄불 복귀. 숙박.",
+          "meals": "(식사: 조식 + 점심)"
+        },
+        "day5": {
+          "title": "DAY 05: 이스탄불 / 출국",
+          "content": "조식 후 12:00 이전 체크아웃 & 공항 이동.",
+          "meals": "(식사: 조식)"
+        }
+      },
+      "includes": {
+        "title": "포함 사항",
+        "accommodation": "04박 4성급 (조식 포함)",
+        "tours": "03일 영어 소그룹 투어(입장·점심·교통)",
+        "flight1": "국내선 편도: 이스탄불→이즈미르",
+        "flight2": "국내선 편도: 이즈미르→이스탄불",
+        "transfers": "터키 내 공항/호텔 송영"
+      },
+      "excludes": {
+        "title": "불포함 사항",
+        "personal": "개인 경비",
+        "gratuities": "드라이버 & 가이드 팁",
+        "meals": "명시 외 식사",
+        "drinks": "음료",
+        "insurance": "여행자 보험"
+      },
+      "booking": {
+        "title": "지금 예약하세요!",
+        "subtitle": "5일 이스탄불 & 에페소스 패키지",
+        "summary": "예약 요약",
+        "tourType": "투어 유형:",
+        "tourName": "5일 패키지",
+        "selectedDate": "선택 날짜:",
+        "pleaseSelect": "선택하세요"
+      }
+    },
+    "package5days2": {
+      "pageTitle": "5일 이스탄불 · 돌마바흐체 · 부르사 여행 패키지 — Capahenas Travel",
+      "metaDescription": "이스탄불 & 부르사 5일: 돌마바흐체 궁전, 블루모스크, 아야소피아, 보스포루스 크루즈, 부르사 그린 모스크와 문화유산.",
+      "badge": "🏛️ 이스탄불 & 부르사 패키지",
+      "title": "5일 이스탄불 · 돌마바흐체 · 부르사 일정",
+      "subtitle": "04박 / 05일",
+      "description": "블루모스크 · 톱카프 궁전 · 아야소피아 · 보스포루스 · 그랜드바자 · 돌마바흐체 · 부르사",
+      "gallery": {
+        "title": "체험 갤러리",
+        "subtitle": "이스탄불 & 부르사 탐험"
+      },
+      "about": {
+        "title": "투어 소개",
+        "subtitle": "5일 이스탄불 & 부르사 패키지",
+        "duration": "04박 / 05일",
+        "destinations": "이스탄불, 부르사",
+        "available": "✓ 매일 가능",
+        "customizable": "✓ 커스터마이즈 가능",
+        "highlights": "하이라이트",
+        "highlight1": "돌마바흐체·톱카프·블루모스크·아야소피아·그랜드바자",
+        "highlight2": "보스포루스 크루즈 & 부르사 그린 모스크·실크 마켓",
+        "highlight3": "전문 가이드와 문화유산 심층 체험"
+      },
+      "itinerary": {
+        "title": "일정",
+        "day1": {
+          "title": "DAY 01: 이스탄불 도착",
+          "content": "공항 → 호텔(13:00 이후 체크인). 자유시간. 숙박.",
+          "meals": "(식사: 없음)"
+        },
+        "day2": {
+          "title": "DAY 02: 올드시티 워킹",
+          "content": "조식 → 히포드롬 → 블루모스크 → 아야소피아 → 점심 → 바실리카 저수층. 숙박.",
+          "meals": "(식사: 조식)"
+        },
+        "day3": {
+          "title": "DAY 03: 보스포루스 크루즈 & 돌마바흐체",
+          "content": "조식 → 스파이스 마켓 → 크루즈 → 1대 보스포루스 다리 건너 차므르자 언덕 전망 → 다리 재진입 후 돌마바흐체 궁전(하렘 제외) 관람. 숙박.",
+          "meals": "(식사: 조식 + 점심)"
+        },
+        "day4": {
+          "title": "DAY 04: 부르사 일일 투어",
+          "content": "조식 → 부르사 이동(오스만 첫 수도) → 그린 모스크 & 영묘(타일 장식) → 케이블카로 울루다 산 전망 → 그랜드 모스크 방문 → 실크 시장(코자 한) 탐방. 이스탄불 복귀 & 숙박.",
+          "meals": "(식사: 조식 + 점심)"
+        },
+        "day5": {
+          "title": "DAY 05: 이스탄불 / 출국",
+          "content": "조식 후 12:00 이전 체크아웃. 공항 이동.",
+          "meals": "(식사: 조식)"
+        }
+      },
+      "includes": {
+        "title": "포함 사항",
+        "accommodation": "04박 4성급 (조식 포함)",
+        "tours": "03일 영어 소그룹 (입장료·점심·교통)",
+        "transfers": "이스탄불 내 공항/호텔 왕복 송영"
+      },
+      "excludes": {
+        "title": "불포함 사항",
+        "personal": "개인 경비",
+        "gratuities": "팁",
+        "meals": "명시 외 식사",
+        "drinks": "음료",
+        "insurance": "여행자 보험"
+      },
+      "booking": {
+        "title": "지금 예약하세요!",
+        "subtitle": "5일 이스탄불 & 부르사 패키지",
+        "summary": "예약 요약",
+        "tourType": "투어 유형:",
+        "tourName": "5일 패키지",
+        "selectedDate": "선택 날짜:",
+        "pleaseSelect": "선택하세요"
+      }
+    },
+    "package6days2": {
+      "pageTitle": "6일 터키 투어 | 에페소스 · 파무칼레 · 안탈리아 · 카파도키아 — Capahenas Travel",
+      "metaDescription": "에페소스 고대 도시, 파무칼레 온천 테라스, 안탈리아 해안, 카파도키아 기암을 6일 일정으로.",
+      "badge": "✈️ 에페소스 · 파무칼레 · 안탈리아 · 카파도키아 패키지",
+      "title": "6일 터키 투어 | 에페소스 · 파무칼레 · 안탈리아 · 카파도키아",
+      "subtitle": "05박 / 06일",
+      "description": "고대 유적, 자연 경이, 해안 경치, 신비 지형을 한 번에.",
+      "gallery": {
+        "title": "체험 갤러리",
+        "subtitle": "에페소스 · 파무칼레 · 안탈리아 · 카파도키아"
+      },
+      "about": {
+        "title": "투어 소개",
+        "subtitle": "6일 패키지",
+        "duration": "05박 / 06일",
+        "destinations": "에페소스, 파무칼레, 안탈리아, 카파도키아",
+        "intro": "연중 매일 가능. 커스터마이즈 가능.",
+        "highlights": "하이라이트",
+        "highlight1": "에페소스 고대 유적 & 아르테미스 신전",
+        "highlight2": "파무칼레 트라버틴 & 히에라폴리스",
+        "highlight3": "안탈리아 올드타운 & 해안",
+        "highlight4": "카파도키아 독특 지형 & 동굴",
+        "highlight5": "가이드 투어 & 편안한 숙소"
+      },
+      "itinerary": {
+        "title": "일정",
+        "day1": {
+          "title": "DAY 01: 이즈미르 비행 / 에페소스 투어",
+          "content": "04:00 픽업 → 07:00 비행 → 08:00 도착 후 에페소스 워킹(대리석 거리·셀수스 도서관·극장 등) & 성모 마리아 집 & 아르테미스 신전. 쿠샤다스 숙박.",
+          "meals": "(식사: 점심)"
+        },
+        "day2": {
+          "title": "DAY 02: 파무칼레 투어 후 안탈리아 이동",
+          "content": "조식 후 07:30 파무칼레 이동. 트라버틴 & 히에라폴리스 & 고대 풀(옵션). 16:00 4시간 코치로 안탈리아 이동 → 20:00 도착. 숙박.",
+          "meals": "(식사: 조식 + 점심)"
+        },
+        "day3": {
+          "title": "DAY 03: 페르게 · 시데 · 아스펜도스 투어",
+          "content": "조식 후 페르게·시데·아스펜도스 주요 유적 및 마나브가트 폭포 방문. 안탈리아 숙박.",
+          "meals": "(식사: 조식 + 점심)"
+        },
+        "day4": {
+          "title": "DAY 04: 안탈리아 시티 투어 / 야간 코치 카파도키아",
+          "content": "조식 후 튜네크테페 케이블카(기상 악화 시 보트 대체) → 뒤덴 폭포 → 카르푸즈칼드르안 폭포 → 올드타운(하드리안 게이트·항구·부서진 미나레 등). 21:00 야간 코치로 카파도키아. 버스 숙박.",
+          "meals": "(식사: 조식 + 점심)"
+        },
+        "day5": {
+          "title": "DAY 05: 북부 카파도키아 투어",
+          "content": "07:00 도착 & 호텔 이동. 우치사르 → 카우신 → 파샤바그 → 젤베 → 점심 후 데브렌트 & Three Beauties → 우르굽·아바노스 도자기 체험(옵션). 숙박.",
+          "meals": "(식사: 조식 + 점심)"
+        },
+        "day6": {
+          "title": "DAY 06: 카파도키아 투어 / 이스탄불 비행",
+          "content": "조식 후 9:30~10:00 출발. 오르타히사르 → 무스타파파샤 → 사힌에펜디 & 소베소스 → 소안르 계곡 2km 워킹 → 점심 후 카이막을루 지하도시. 19:30 카이세리 출발 → 21:00 이스탄불 도착 후 호텔 이동. 숙박(옵션: 열기구 일출).",
+          "meals": "(식사: 조식 + 점심)",
+          "optional": "옵션: 열기구 일출 체험"
+        }
+      },
+      "includes": {
+        "title": "포함 사항",
+        "accommodation": "05박 4성급 (조식 포함)",
+        "coach": "01박 야간 코치(안탈리아→카파도키아)",
+        "tours": "06일 소그룹 영어 가이드·입장·점심·교통",
+        "flight1": "국내선 편도: 이스탄불→이즈미르",
+        "flight2": "국내선 편도: 카이세리→이스탄불",
+        "transfers": "터키 내 공항/호텔 송영"
+      },
+      "excludes": {
+        "title": "불포함 사항",
+        "personal": "개인 경비",
+        "gratuities": "드라이버 & 가이드 팁",
+        "meals": "명시 외 식사",
+        "drinks": "음료",
+        "balloon": "열기구",
+        "insurance": "여행자 보험"
+      },
+      "booking": {
+        "title": "지금 예약하세요!",
+        "subtitle": "6일 에페소스·파무칼레·안탈리아·카파도키아 패키지",
+        "summary": "예약 요약",
+        "tourType": "투어 유형:",
+        "tourName": "6일 패키지",
+        "selectedDate": "선택 날짜:",
+        "pleaseSelect": "선택하세요"
+      }
+    },
+    "package6days3": {
+      "pageTitle": "이스탄불 · 부르사 · 프린세스 아일랜드 6일 패키지 — Capahenas Travel",
+      "metaDescription": "이스탄불 명소, 부르사 그린 모스크, 프린세스 제도 체험. 6일 숙박 & 가이드 패키지.",
+      "badge": "🏛️ 이스탄불 · 부르사 · 프린세스 제도 패키지",
+      "title": "이스탄불 · 부르사 · 프린세스 아일랜드 6일",
+      "subtitle": "05박 / 06일",
+      "description": "블루모스크, 톱카프, 아야소피아, 보스포루스, 그랜드바자, 돌마바흐체, 부르사, 프린세스 제도를 한 번에.",
+      "gallery": {
+        "title": "체험 갤러리",
+        "subtitle": "이스탄불 · 부르사 · 프린세스 제도"
+      },
+      "about": {
+        "title": "투어 소개",
+        "subtitle": "6일 패키지",
+        "duration": "05박 / 06일",
+        "destinations": "이스탄불, 부르사, 프린세스 제도",
+        "intro": "연중 매일 가능. 커스터마이즈 가능.",
+        "highlights": "하이라이트",
+        "highlight1": "톱카프 궁전·블루모스크·돌마바흐체 궁전",
+        "highlight2": "보스포루스 크루즈 & 부르사 그린 모스크",
+        "highlight3": "프린세스 제도 전기차(EV) 투어"
+      },
+      "itinerary": {
+        "title": "일정",
+        "day1": {
+          "title": "DAY 01: 이스탄불 도착",
+          "content": "공항 → 호텔(13:00 이후 체크인). 자유시간. 숙박.",
+          "meals": "(식사: 없음)"
+        },
+        "day2": {
+          "title": "DAY 02: 올드시티 워킹",
+          "content": "조식 → 히포드롬 → 블루모스크 → 아야소피아 → 점심 후 바실리카 저수층. 숙박.",
+          "meals": "(식사: 조식)"
+        },
+        "day3": {
+          "title": "DAY 03: 보스포루스 크루즈 & 베이레르베이 궁전",
+          "content": "조식 → 스파이스 마켓 → 페리 크루즈 → 챠므르자 언덕 전망 → 베이레르베이 여름 궁전(아시아 측). 숙박.",
+          "meals": "(식사: 조식 + 점심)"
+        },
+        "day4": {
+          "title": "DAY 04: 프린세스 제도 투어",
+          "content": "08:30 호텔 픽업 → 페리로 부유카다 이동 → 전기차(EV) 섬 투어(2023년 이후 마차 운행 중단) → 자유시간(저택·거리·레스토랑 탐방) → 이스탄불 복귀. 숙박.",
+          "meals": "(식사: 조식 + 점심)"
+        },
+        "day5": {
+          "title": "DAY 05: 부르사 데이 트립",
+          "content": "조식 → 부르사 이동 → 그린 모스크(Yeşil Camii) & 영묘(Yeşil Türbe) → 케이블카로 울루다 산 전망 → 대(울루) 모스크(20개 돔) → 실크 바자(Koza Han) → 복귀. 숙박.",
+          "meals": "(식사: 조식 + 점심)"
+        },
+        "day6": {
+          "title": "DAY 06: 이스탄불 - 출국",
+          "content": "조식 후 12:00 이전 체크아웃 → 출발 시간에 맞춰 공항 이동.",
+          "meals": "(식사: 조식)"
+        }
+      },
+      "includes": {
+        "title": "포함 사항",
+        "accommodation": "05박 4성급 (조식 포함)",
+        "tours": "04일 영어 소그룹 (입장·점심·교통)",
+        "transfers": "이스탄불 내 공항/호텔 왕복 송영"
+      },
+      "excludes": {
+        "title": "불포함 사항",
+        "personal": "개인 경비",
+        "gratuities": "드라이버 & 가이드 팁",
+        "meals": "명시 외 식사",
+        "drinks": "음료",
+        "insurance": "여행자 보험"
+      },
+      "booking": {
+        "title": "지금 예약하세요!",
+        "subtitle": "6일 이스탄불·부르사·프린세스 제도",
+        "summary": "예약 요약",
+        "tourType": "투어 유형:",
+        "tourName": "6일 패키지",
+        "selectedDate": "선택 날짜:",
+        "pleaseSelect": "선택하세요"
+      }
+    },
+    "package8days": {
+      "pageTitle": "8일 터키 투어 | 이스탄불 · 해안 · 문화 - Capahenas Travel",
+      "metaDescription": "8일간 이스탄불 랜드마크, 카파도키아 요정굴뚝, 에페소스 고대유적, 파무칼레 온천 테라스 총망라.",
+      "badge": "이스탄불 · 해안 & 문화 패키지",
+      "title": "8일 터키 투어",
+      "subtitle": "07박 / 08일",
+      "description": "이스탄불 · 카파도키아 · 에페소스 · 파무칼레 종합 일정",
+      "gallery": {
+        "title": "8일 투어 갤러리",
+        "subtitle": "터키 최고의 순간 8일"
+      },
+      "about": {
+        "title": "투어 소개",
+        "subtitle": "8일 패키지",
+        "duration": "07박 / 08일",
+        "destinations": "이스탄불, 카파도키아, 에페소스, 파무칼레",
+        "highlights": "하이라이트",
+        "highlight1": "이스탄불 랜드마크 (아야소피아·블루모스크 등)",
+        "highlight2": "카파도키아 요정굴뚝 & 동굴주거",
+        "highlight3": "에페소스 셀수스 도서관 & 대극장",
+        "highlight4": "파무칼레 트라버틴 & 히에라폴리스",
+        "highlight5": "가이드 해설 & 편안한 숙박"
+      },
+      "itinerary": {
+        "title": "일정",
+        "day1": {
+          "title": "DAY 01: 이스탄불 도착",
+          "content": "공항 → 호텔 (체크인 13:00 이후). 자유. 숙박.",
+          "meals": "(식사: 없음)"
+        },
+        "day2": {
+          "title": "DAY 02: 올드 시티 워킹",
+          "content": "조식 → 히포드롬 → 블루모스크 → 아야소피아 → 점심 후 바실리카 저수층. 숙박.",
+          "meals": "(식사: 조식)"
+        },
+        "day3": {
+          "title": "DAY 03: 보스포루스 크루즈 / 카파도키아 비행",
+          "content": "조식 → 스파이스 마켓 → 보스포루스 페리 크루즈 → 15:30 공항 이동 → 18:55 네브셰히르행 → 21:05 도착 & 호텔 이동. 숙박.",
+          "meals": "(식사: 조식)"
+        },
+        "day4": {
+          "title": "DAY 04: 북부 카파도키아",
+          "content": "09:30~10:00 출발: 우치사르 · 카우신 · 파샤바그 · 젤베 → 점심 후 데브렌트 · Three Beauties · 우르굽 · 아바노스 (도자기 체험 선택) → 러그/카펫 공방(옵션). 숙박.",
+          "meals": "(식사: 조식 + 점심)",
+          "optional": "옵션: 열기구 일출 체험"
+        },
+        "day5": {
+          "title": "DAY 05: 남부 카파도키아 / 이즈미르 비행",
+          "content": "오르타히사르 · 무스타파파샤 · 사힌에펜디 & 소베소스 · 소안르 계곡 2km 워킹 & 동굴교회 · 점심 · 카이막을루 지하도시 → 22:30 카이세리 출발 → 23:55 이즈미르 도착 후 쿠샤다스 이동. 숙박.",
+          "meals": "(식사: 조식 + 점심)"
+        },
+        "day6": {
+          "title": "DAY 06: 에페소스 투어 (성모 마리아 집 포함)",
+          "content": "조식 후 09:00 출발. 에페소스: 오데온·셀수스 도서관·하드리아누스 신전·트라야누스 분수·대극장 → 아르테미스 신전 유적 → 점심 → 성모 마리아 집. 숙박.",
+          "meals": "(식사: 조식 + 점심)"
+        },
+        "day7": {
+          "title": "DAY 07: 파무칼레 투어 / 이스탄불 비행",
+          "content": "조식 후 07:30 파무칼레 이동. 트라버틴 · 히에라폴리스 · 고대 풀(옵션, 추가요금) → 19:55 데니즐리 출발 → 21:10 이스탄불 도착 & 호텔 이동. 숙박.",
+          "meals": "(식사: 조식 + 점심)"
+        },
+        "day8": {
+          "title": "DAY 08: 이스탄불 / 출국",
+          "content": "조식 후 12:00 이전 체크아웃 & 공항 이동.",
+          "meals": "(식사: 조식)"
+        }
+      },
+      "includes": {
+        "title": "포함 사항",
+        "accommodation": "07박 4성급 (조식 포함)",
+        "tours": "06일 영어 소그룹 (입장·점심·교통)",
+        "flight1": "이스탄불→카이세리",
+        "flight2": "카이세리→이즈미르",
+        "flight3": "데니즐리→이스탄불",
+        "transfers": "터키 내 공항/호텔 송영"
+      },
+      "excludes": {
+        "title": "불포함 사항",
+        "personal": "개인 경비",
+        "gratuities": "드라이버 & 가이드 팁",
+        "meals": "명시 외 식사",
+        "drinks": "음료",
+        "balloon": "열기구(옵션)",
+        "insurance": "여행자 보험"
+      },
+      "booking": {
+        "title": "지금 예약하세요!",
+        "subtitle": "8일 종합 터키 패키지",
+        "summary": "예약 요약",
+        "tourType": "투어 유형:",
+        "tourName": "8일 패키지",
+        "selectedDate": "선택 날짜:",
+        "pleaseSelect": "선택하세요"
+      }
+    }
+  }
+}

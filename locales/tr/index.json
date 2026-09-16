@@ -1,0 +1,215 @@
+{
+  "hero": {
+    "badge": "Premium Seyahat Deneyimi",
+    "title1": "Capahenas Travel ile",
+    "title2": "Türkiye'yi Yaşa",
+    "desc": "Misafirlerimize hayatları boyunca hatırlayacakları otantik bir Türkiye deneyimi sunuyoruz!",
+    "discover": "Daha Fazlasını Keşfet"
+  },
+  "value": {
+    "title": "Kapadokya ve Türkiye'de güvenilir seyahat ortağınız",
+    "desc": "Kapadokya, Orta Anadolu'da eşsiz volkanik manzarası, antik mağara şehirleri ve muhteşem sıcak hava balonları ile ünlüdür. Capahenas Travel ile Göreme, Kaymaklı ve Derinkuyu'yu keşfedin; unutulmaz bir deneyim için eksiksiz seyahat hizmetleri sunuyoruz.",
+    "years": "Yıl",
+    "guests": "Misafir",
+    "rating": "Puan"
+  },
+  "balloon": {
+    "titleAccent": "Balon ",
+    "titleRest": "Turları",
+    "badge": "Öne Çıkan Deneyimler",
+    "desc": "Kapadokya'nın nefes kesen manzaralarını premium balon maceralarımızla yukarıdan keşfedin.",
+    "standardTitle": "Standart",
+    "flight": "Uçuş",
+    "standardDesc": "Capahenas Standart Uçuşları, Kapadokya'nın büyüleyici güzelliğini yukarıdan görmek için basit ama unutulmaz bir yol sunar. Ekstra süslemeler olmadan sadece manzaranın tadını çıkarmak isteyen gezginler için idealdir; yaklaşık 1 saatlik uçuş ile peri bacalarını, vadileri ve sıradışı manzaraları doyasına izleyebilirsiniz. 32 kişilik sepetlerle yapılan uçuşlar, güvenli, konforlu ve bütçe dostu bir deneyim sunar ve hayranlık hissinden ödün vermez.",
+    "highlights": "Uçuş Özellikleri",
+    "capacity": "Balon Kapasitesi",
+    "capacity32": "24-32 Yolcu",
+    "flightTime": "Uçuş Zamanı",
+    "flightTimeSunrise": "Gün Doğumu",
+    "flightDuration": "Uçuş Süresi",
+    "flightDuration60": "60 Dakika",
+    "whatsIncluded": "Dahil Olanlar",
+    "pickupDropoff": "Otel Transferi",
+    "lightBreakfast": "Kahvaltı",
+    "passengerInsurance": "Yolcu Sigortası",
+    "champagneToast": "Şampanya İkramı",
+    "flightCertificate": "Uçuş Sertifikası",
+    "comfortTitle": "Konfor",
+    "comfortDesc": "Capahenas Konfor Uçuşları, en az 1 saat boyunca Kapadokya'nın eşsiz vadilerini ve oluşumlarını yukarıdan izleme imkanı sunar. 28 kişilik geniş sepetlerde yapılan bu uçuşlar, sınırlı sayıda misafir ile daha rahat ve keyifli bir deneyim sağlar. Daha iyi performans ve stabilite için 500.000 cuft balonlar kullanılır. Capahenas Konfor Uçuşları yıl boyunca, hava koşulları ve müsaitliğe bağlı olarak gerçekleşir ve unutulmaz bir yolculuk sunar.",
+    "capacity28": "16-20 Yolcu",
+    "privateTitle": "Özel",
+    "privateDesc": "Capahenas Özel Uçuşları, Kapadokya'nın güzelliklerini daha ayrıcalıklı ve konforlu bir şekilde yaşamak isteyenler için tasarlanmıştır. 24 kişilik özel sepetlerde, maksimum 20 misafir ile ekstra alan ve rahatlık sunar. Yaklaşık 60 dakika süren uçuşta, bölgenin büyüleyici vadilerini ve kaya oluşumlarını huzur içinde izleyebilirsiniz. Konfor, kişisel alan ve özel atmosfer arayanlar için ideal bir balon deneyimi sunar.",
+    "capacity20": "20 Yolcu"
+  },
+  "popular": {
+    "title": "Kapadokya'da Popüler Turlar",
+    "redTitle": "Kırmızı Tur Kapadokya",
+    "redDesc": "Peri bacaları, yeraltı şehirleri ve kaya oluşumlarını ziyaret edin.",
+    "greenTitle": "Yeşil Tur Kapadokya",
+    "greenDesc": "Ihlara Vadisi, Selime Manastırı ve doğal güzellikleri keşfedin.",
+    "blueTitle": "Mavi Tur Kapadokya",
+    "blueDesc": "Kapadokya'nın gizli hazinelerini ve az bilinen vadilerini keşfedin.",
+    "mixTitle": "Mix Tur Kapadokya",
+    "mixDesc": "Kırmızı ve Yeşil turların öne çıkanlarını bir günde birleştirin.",
+    "privateTitle": "Özel Tur Kapadokya",
+    "privateDesc": "Kişisel rehber ve araç ile özel turlar.",
+    "camelTitle": "Deve Turu",
+    "camelDesc": "Peri bacaları arasında benzersiz deve turu deneyimi.",
+    "horseTitle": "At Turu",
+    "horseDesc": "Vadilerde gün batımında büyülü atlı tur deneyimi.",
+    "atvTitle": "ATV Turu",
+    "atvDesc": "Vadilerde gün batımında heyecan verici ATV macerası.",
+    "classicTitle": "Klasik Araba Turları",
+    "classicDesc": "Restorasyonlu klasik arabalarla manzaralarda gezinti.",
+    "jeepTitle": "Jeep Safari Kapadokya",
+    "jeepDesc": "Vadiler ve kanyonlarda off-road jeep macerası.",
+    "potteryTitle": "Çömlek Yapımı",
+    "potteryDesc": "Usta sanatçılarla uygulamalı çömlek atölyeleri.",
+    "photoshootTitle": "Fotoğraf Çekimi Turu",
+    "photoshootDesc": "En güzel lokasyonlarda profesyonel fotoğraf çekimi.",
+    "dervishTitle": "Semazen Gösterisi",
+    "dervishDesc": "Mistik Sufi töreni ve geleneksel sema gösterisi.",
+    "turkishBathTitle": "Hamam Turu",
+    "turkishBathDesc": "Geleneksel uygulamalarla otantik Türk hamamı deneyimi.",
+    "turkishNightTitle": "Türk Gecesi Gösterisi",
+    "turkishNightDesc": "Halk dansları, müzik ve geleneksel akşam yemeği ile kültürel gece."
+  },
+  "turkey": {
+    "title": "Türkiye Turları",
+    "view-button": "İncele",
+    "pamukkale": {
+      "title": "Günlük Pamukkale Turu",
+      "desc": "Pamuk Kale & Antik Şehir"
+    },
+    "ephesus": {
+      "title": "Günlük Efes Turu",
+      "desc": "Antik Roma Şehri"
+    },
+    "aspendos": {
+      "title": "Perge Aspendos Side Turu",
+      "desc": "Antik Şehirler"
+    },
+    "antalya": {
+      "title": "Antalya Şehir Turu",
+      "desc": "Eski Şehir & Şelaleler"
+    },
+    "demre": {
+      "title": "Demre Myra Kekova Turu",
+      "desc": "Tarih & Mavi Yolculuk"
+    },
+    "pamukkaleFromAntalya": {
+      "title": "Antalya'dan Pamukkale Turu",
+      "desc": "Pamuk Kale & Antik Şehir (Antalya'dan)"
+    },
+    "mag1": {
+      "title": "4 Günlük Kapadokya, Pamukkale & Efes Turu",
+      "desc": "Çoklu Şehir Tur Paketi"
+    },
+    "mag2": {
+      "title": "6 Günlük İstanbul & Kapadokya",
+      "desc": "İstanbul'un tarihi yerlerini, Ayasofya dahil, keşfedin."
+    },
+    "mag3": {
+      "title": "4 Günlük Kapadokya, Pamukkale & Efes Turu",
+      "desc": "Çoklu Şehir Tur Paketi | Rehberli Deneyim"
+    },
+    "mag4": {
+      "title": "5 Günlük İstanbul & Efes Turu",
+      "desc": "Zengin tarihi bilgiler"
+    },
+    "mag5": {
+      "title": "6 Günlük Türkiye Turu",
+      "desc": "Efsanevi yerleri keşfedin."
+    },
+    "mag6": {
+      "title": "8 Günlük Türkiye Turu",
+      "desc": "İstanbul, Kapadokya, Efes, Pamukkale"
+    },
+    "mag7": {
+      "title": "4 Günlük İstanbul Turu",
+      "desc": "İstanbul'un en iyi yerlerini keşfedin."
+    },
+    "mag8": {
+      "title": "5 Günlük İstanbul, Dolmabahçe & Bursa",
+      "desc": "Kültürel ve Tarihi Zenginlik"
+    },
+    "mag9": {
+      "title": "6 Günlük İstanbul, Bursa & Prens Adaları",
+      "desc": "Prens Adaları'nın huzur verici güzelliğini keşfedin."
+    }
+  },
+  "destinations": {
+    "title": "Destinasyonlar",
+    "goreme": {
+      "title": "Göreme Açık Hava Müzesi"
+    },
+    "kaymakli": {
+      "title": "Kaymaklı Yeraltı Şehri"
+    },
+    "derinkuyu": {
+      "title": "Derinkuyu Yeraltı Şehri"
+    },
+    "ihlara": {
+      "title": "Ihlara Vadisi"
+    },
+    "soganli": {
+      "title": "Soğanlı Vadisi"
+    },
+    "selime": {
+      "title": "Selime Manastırı"
+    },
+    "pasabag": {
+      "title": "Paşabağ (Rahipler Vadisi)"
+    },
+    "uchisar": {
+      "title": "Uçhisar Kalesi"
+    },
+    "cavusin": {
+      "title": "Çavuşin Köyü"
+    },
+    "zelve": {
+      "title": "Zelve Açık Hava Müzesi"
+    }
+  },
+  "gallery": {
+    "title": "Galeri",
+    "subtitle": "Fotoğraf Galerisi",
+    "share": "Paylaş",
+    "posts": "Gönderiler",
+    "followers": "Takipçi",
+    "following": "Takip"
+  },
+  "reviews": {
+    "title": "Yorumlar",
+    "swipeHint": "Daha fazlası için kaydırın",
+    "leaveReview": "Google'da Yorum Bırakın"
+  },
+  "video": {
+    "title": "Kapadokya'yı Deneyimle",
+    "description": "Kapadokya'nın büyüleyici güzelliğini etkileyici yolculuğumuzla keşfedin"
+  },
+  "contact": {
+    "title": "İletişim",
+    "description": "Sorularınız ve bilgi için bize yazın.",
+    "workingHours": "Pzt - Paz: 9.00 - 20.00",
+    "form": {
+      "name": "Ad Soyad",
+      "email": "E-posta",
+      "message": "Mesaj",
+      "submit": "E-posta ile gönder"
+    }
+  },
+  "transfer": {
+    "badge": "Premium Ulaşım",
+    "titlePart1": "Havalimanı Transferi veya ",
+    "titlePart2": "Servis mi Arıyorsunuz?",
+    "description": "Kapadokya genelinde konforlu ve güvenilir ulaşım hizmetlerinin keyfini çıkarın. Profesyonel sürücüler, modern araçlar ve tüm transfer ihtiyaçlarınız için rekabetçi fiyatlar.",
+    "feature1": "7/24 Havalimanı Transferleri",
+    "feature2": "Otel Servis Hizmetleri",
+    "feature3": "Özel ve Paylaşımlı Seçenekler",
+    "feature4": "Profesyonel Sürücüler",
+    "ctaButton": "Transferinizi Şimdi Rezerve Edin",
+    "badge1": "7/24 Hizmet",
+    "badge2": "En İyi Fiyat"
+  }
+}

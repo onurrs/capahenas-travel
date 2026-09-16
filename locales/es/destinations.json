@@ -1,0 +1,239 @@
+{
+  "destinations": {
+    "goreme": {
+      "badge": "🏛️ Sitio Patrimonio Mundial UNESCO",
+      "title": "Museo al Aire Libre de Göreme",
+      "subtitle": "Antiguas iglesias rupestres y frescos bizantinos",
+      "description": "Adéntrese en la historia y descubra una de las colecciones más notables de arte y arquitectura bizantina de Turquía, tallada en roca volcánica.",
+      "gallery": {
+        "title": "Galería Fotográfica",
+        "subtitle": "Iglesias rupestres antiguas y frescos bizantinos"
+      },
+      "about": {
+        "title": "Acerca del Museo",
+        "subtitle": "Historia e importancia",
+        "paragraph1": "El cercano volcán Monte Erciyes entró en erupción hace miles de años. El paisaje quedó cubierto de ceniza y lava que se endurecieron formando tobas. La erosión del viento creó, a lo largo de muchos siglos, las chimeneas de hadas que vemos hoy. Los habitantes pronto comprendieron que podían excavar la roca blanda para construir casas e iglesias.",
+        "paragraph2": "Capadocia fue un refugio para los primeros cristianos, quienes la adornaron con símbolos y arte. Las iglesias prosperaron también bajo el patrocinio de San Basilio de Cesarea, uno de los tres Padres Capadocios que impulsaron la teología cristiana primitiva.",
+        "paragraph3": "Mientras los santuarios del siglo IV contienen numerosos ejemplos de arte bizantino, las estructuras posteriores muestran frescos más ricos. Las paredes y los techos se decoran con escenas bíblicas cuyo propósito principal era instruir a quienes no sabían leer ni escribir.",
+        "paragraph4": "Cuando se estableció el dominio otomano en Capadocia, las cuevas se utilizaron como palomares pese a su valor histórico. Restaurar los frescos a su estado original llevó años de trabajo. La mayoría de ellos forman parte de la Lista del Patrimonio Mundial de la UNESCO desde 1984 y datan entre los siglos IX y XII."
+      },
+      "churches": {
+        "title": "Iglesias Famosas",
+        "subtitle": "Monumentos conocidos",
+        "tokali": {
+          "name": "Iglesia Tokalı (de la Hebilla)",
+          "description": "Contiene frescos del siglo IX que representan la vida de Jesús y de los doce apóstoles. Posee cuatro cámaras; una se centra en escenas del Nuevo Testamento y en la vida de San Basilio."
+        },
+        "elmali": {
+          "name": "Elmalı – Iglesia de la Manzana",
+          "description": "Importante estructura construida hacia 1050. Presenta una cruz griega tallada en los pilares que sostienen la cúpula central e incluye escenas bíblicas como La Última Cena."
+        },
+        "barbara": {
+          "name": "Iglesia de Santa Bárbara",
+          "description": "Iglesia del siglo XI en honor a la mártir Bárbara, quien según la tradición fue asesinada por su padre por practicar el cristianismo."
+        },
+        "yilanli": {
+          "name": "Yılanlı – Iglesia de la Serpiente",
+          "description": "Nombrada por un fresco que muestra a San Jorge matando al dragón. Tiene un techo bajo y una nave larga."
+        },
+        "carikli": {
+          "name": "Çarıklı – Iglesia de las Sandalias",
+          "description": "Su nombre proviene de dos huellas encontradas al pie del fresco de la Ascensión. Los frescos muestran temas variados como la Natividad, la Crucifixión, el Bautismo y la Adoración de los Magos."
+        }
+      }
+    },
+    "kaymakli": {
+      "badge": "🏛️ Antigua Ciudad Subterránea",
+      "title": "Ciudad Subterránea de Kaymaklı",
+      "subtitle": "Una de las ciudades subterráneas más grandes de Capadocia",
+      "description": "Descubra el fascinante complejo subterráneo de ocho niveles con su laberinto de túneles, habitaciones y antiguos espacios de vida tallados en la roca.",
+      "gallery": {
+        "title": "Galería Fotográfica",
+        "subtitle": "Explore el complejo subterráneo"
+      },
+      "about": {
+        "title": "Acerca de Kaymaklı",
+        "subtitle": "Historia e importancia",
+        "paragraph1": "Kaymaklı se encuentra a 20 km de Nevşehir y antiguamente se llamó Enegüp en griego. Es reconocida como una de las mayores ciudades subterráneas de Capadocia. Su historia se remonta a los periodos hitita y frigio y se amplió con el tiempo. Las invasiones llevaron a los habitantes de Anatolia Central a buscar refugio. Durante la República los agricultores usaron las cuevas como almacenes y establos. Se abrió al público en 1964 cuando se reconoció su potencial turístico.",
+        "paragraph2": "Kaymaklı es el segundo mayor complejo subterráneo de Capadocia. Consta de ocho niveles, aunque solo cuatro están accesibles al público. Estas áreas disponen de electricidad para la comodidad de los visitantes. Tras comprar el boleto, flechas rojas indican la bajada y flechas azules la subida.",
+        "paragraph3": "El primer nivel albergaba los establos de la ciudad troglodita. A medida que recorre túneles y pasillos verá puertas circulares de piedra que bloquean pasos. Más abajo se encuentran una iglesia, zonas de vivienda y almacenes, además de pozos de ventilación que llegan hasta el fondo.",
+        "paragraph4": "Cerca de Kaymaklı está Derinkuyu, otra importante ciudad subterránea: la mayor ciudad troglodita de Capadocia."
+      }
+    },
+    "derinkuyu": {
+      "badge": "🏛️ Mayor Ciudad Subterránea",
+      "title": "Ciudad Subterránea de Derinkuyu",
+      "subtitle": "La ciudad subterránea más grande de Capadocia",
+      "description": "Explore la ciudad subterránea más profunda de Capadocia, que data de 3000 a.C., con 13 niveles que alcanzan 85 metros bajo tierra.",
+      "gallery": {
+        "title": "Galería Fotográfica",
+        "subtitle": "Explore el complejo subterráneo"
+      },
+      "about": {
+        "title": "Acerca de Derinkuyu",
+        "subtitle": "Historia e importancia",
+        "overview": "Visión general",
+        "paragraph1": "Se cree que las ciudades subterráneas de Capadocia, establecidas en el periodo proto-hitita (3000 a.C.), se usaron extensamente durante la época bizantina. Esto lo confirma una estatua de águila de mármol del periodo romano, hallada en un sector no accesible al público. Tras la batalla de Manzikert de 1071 los turcos llegaron a la región.",
+        "paragraph2": "Los primeros cristianos que escapaban de la opresión romana llegaron a Kayseri vía Mesopotamia y luego a Capadocia, viviendo en Derinkuyu. También hay restos de colonias asirias. Este mundo oculto, difícil de localizar y penetrar, protegía a los cristianos de soldados romanos y saqueadores árabes. Su arquitectura misteriosa hace que algunos viajeros especulen con orígenes ‘alienígenas’.",
+        "paragraph3": "Hasta la década de 1830 no existían asentamientos en superficie en Derinkuyu. La ciudad se descubrió por casualidad en 1963 y abrió en 1967. Su nombre proviene de 52 pozos de agua potable de 60–70 m de profundidad. Se han abierto 8 niveles que abarcan unos 4 km². Los niveles accesibles alcanzan 50 m, pero podría llegar a 85 m y 12–13 pisos si se limpiaran todos. Resulta impresionante imaginar que tantas personas vivieron tanto tiempo a tal profundidad sin salir.",
+        "paragraph4": "Recuerde que Derinkuyu tiene 8 niveles abiertos. En ocasiones se desciende hasta 50 m por túneles estrechos. Puede resultar difícil para personas con claustrofobia, pero vale la pena."
+      }
+    },
+    "ihlara": {
+      "badge": "🏞️ Majestuoso Cañón",
+      "title": "Valle de Ihlara",
+      "subtitle": "Uno de los cañones más destacados del mundo",
+      "description": "Explore el magnífico cañón de 14 kilómetros y 120 metros de profundidad, con cientos de iglesias excavadas en la roca y miles de antiguos hábitats.",
+      "gallery": {
+        "title": "Galería Fotográfica",
+        "subtitle": "Explore el magnífico cañón"
+      },
+      "about": {
+        "title": "Acerca del Valle de Ihlara",
+        "subtitle": "Historia e importancia",
+        "overview": "Visión general",
+        "paragraph1": "El Valle de Ihlara, en el distrito de Güzelyurt (Aksaray), es uno de los cañones más notables del mundo. Con 14 km de longitud, 120 m de profundidad y miles de hábitats, es singular y se considera el mayor cañón históricamente habitado. Alberga cientos de iglesias y refugios, chimeneas de hadas y roca fácil de excavar, lo que lo convirtió en un centro cultural y de civilización.",
+        "paragraph2": "Al salir del valle encontrará la singular belleza de las chimeneas de hadas y la Catedral de Selime. En el pasado se descubrieron momias de gatos en Capadocia, igual que en el antiguo Egipto. En Ihlara se han hallado 17 momias; 12 se exhiben en el Museo de Aksaray y 5 en el Museo de Niğde. La mayoría datan entre los siglos X y XIII. Se dice que la diosa Bast, con cabeza de gato, inició la momificación de los felinos y la tradición llegó a Anatolia.",
+        "agacalti": "Iglesia Ağaçaltı",
+        "paragraph3": "La Iglesia Ağaçaltı (Daniel Pantanassa) tiene un plano de cruz libre en la zona central. Un alto domo anular se apoya en trompas; los brazos de la cruz presentan bóvedas de cañón con trompas. Los frescos datan de antes de la iconoclasia o entre los siglos IX y XI. Muestran escenas como la Anunciación, Natividad, Adoración de los Magos, Huida a Egipto, Bautismo y Dormición. Se ubica en el pueblo de Belisırma dentro del valle.",
+        "historical": "Importancia Histórica",
+        "paragraph4": "La iglesia tiene planta hexagonal irregular y techo plano. La dirección del ábside hacia el este está excavada de forma cóncava. El ábside colapsado sirve ahora de acceso y la puerta original estaba en la pared norte. Lady Tamar, esposa de Amirarzes Basileios, decoró la iglesia durante el reinado del Sultán Mesut II. Los frescos muestran la Deesis, la Transfiguración y la Ascensión del sultán selyúcida Mesut."
+      }
+    },
+    "soganli": {
+      "badge": "🏞️ Valle Tranquilo",
+      "title": "Valle de Soğanlı",
+      "subtitle": "Antiguos monasterios y iglesias rupestres",
+      "description": "Descubra un valle sereno en forma de V con más de 20 iglesias, monasterios con patio y cientos de palomares que datan de los siglos X–XI.",
+      "gallery": {
+        "title": "Galería Fotográfica",
+        "subtitle": "Explore el valle tranquilo"
+      },
+      "about": {
+        "title": "Acerca del Valle de Soğanlı",
+        "subtitle": "Historia e importancia",
+        "overview": "Visión general",
+        "paragraph1": "Soğanlı es un valle pacífico que alberga monasterios con patio e iglesias rupestres de los siglos X y XI. Se encuentra a unos 40 km al sureste de Nevşehir, aproximadamente a una hora en coche de Göreme. Aunque comparable al Valle de Ihlara y al Museo al Aire Libre de Göreme en importancia y belleza, recibe muchos menos turistas.",
+        "paragraph2": "La zona cuenta con más de 20 iglesias, de las cuales alrededor de 10 destacan especialmente. En los acantilados hay cientos de palomares y tumbas de la época romana.",
+        "naturalbeauty": "Belleza Natural e Historia",
+        "paragraph3": "El Valle de Soğanlı es un lugar ideal para disfrutar de iglesias antiguas y realizar caminatas tranquilas. La mayoría de los visitantes pasan apenas dos horas, pero merece una excursión de un día.",
+        "paragraph4": "Este valle verde y abierto en forma de V fue tallado por dos arroyos. Mientras las aves vuelan sobre usted, el sonido del agua reverbera en las paredes del valle. Su historia y entorno hacen de Soğanlı un destino impresionante.",
+        "ancient": "Antiguo Asentamiento",
+        "paragraph5": "Fue un antiguo sitio poblado con cientos de habitaciones de piedra y cuevas sobre el centro. La ladera fue excavada y se construyeron estancias de mampostería al frente. Bajo las casas está la base de una iglesia del siglo VI. Varias iglesias y monasterios quedan a poca distancia a pie desde el centro del valle."
+      }
+    },
+    "selime": {
+      "badge": "⛪ Maravilla Excavada en Roca",
+      "title": "Monasterio de Selime",
+      "subtitle": "La mayor estructura religiosa de Capadocia",
+      "description": "Explore el notable monasterio excavado en la roca con una capilla de tamaño catedral tallada en toba volcánica, frescos originales y pasajes ocultos.",
+      "gallery": {
+        "title": "Galería Fotográfica",
+        "subtitle": "Explore el monasterio excavado"
+      },
+      "about": {
+        "title": "Acerca del Monasterio de Selime",
+        "subtitle": "Historia e importancia",
+        "overview": "Visión general",
+        "paragraph1": "El Monasterio de Selime, la mayor estructura religiosa de Capadocia, posee una capilla de tamaño catedral excavada directamente en toba volcánica. Aún se observan frescos originales, aunque algunos han sufrido daños por la intemperie. En el sitio hay rastros de civilizaciones: hititas, persas, romanos, primeros cristianos, bizantinos, selyúcidas y otomanos. Dos columnas de roca dividen la iglesia en tres sectores y existen cocinas, establos y dependencias monásticas decoradas con antiguos frescos.",
+        "historical": "Importancia Histórica",
+        "paragraph2": "El Monasterio de Selime se remonta, probablemente, a los siglos VIII o IX. La parte superior tiene aspecto de fortaleza ligera con muros bien conservados, zanjas, escaleras rocosas empinadas y pasajes escondidos. Fue convertido en un caravansar durante los siglos X–XI para ofrecer refugio a comerciantes y viajeros de la ruta de la seda, impulsado por los selyúcidas antes de que se descubrieran rutas marítimas más rápidas. Se abandonó en el siglo XVI.",
+        "location": "Ubicación y Acceso",
+        "paragraph3": "El Monasterio de Selime se encuentra a 28 km de Aksaray, en el Valle de Ihlara (región de Capadocia). Una caminata de dos horas desde Ihlara sigue el río Melendiz, pasa por el pueblo de Belisırma y por iglesias excavadas en roca hasta llegar al monasterio. También puede visitarse en un tour diurno desde Göreme.",
+        "turbe": "Tumba Monumental Selime Sultan",
+        "paragraph4": "En el pueblo de Selime hay una tumba monumental llamada Selime Sultan Türbe, que exhibe un estilo arquitectónico del siglo XIII y es un ejemplo único en Anatolia."
+      }
+    },
+    "pasabag": {
+      "badge": "🏔️ Valle de los Monjes",
+      "title": "Chimeneas de Hadas de Pasabag",
+      "subtitle": "Espectaculares pilares rocosos con forma de hongo",
+      "description": "Explore las chimeneas de hadas más espectaculares de Capadocia, donde los monjes tallaron viviendas a 15 metros sobre el suelo en magníficos pilares coronados con conos.",
+      "gallery": {
+        "title": "Galería Fotográfica",
+        "subtitle": "Explore las chimeneas de hadas"
+      },
+      "about": {
+        "title": "Acerca de las Chimeneas de Pasabag",
+        "subtitle": "Historia e importancia",
+        "overview": "Visión general",
+        "paragraph1": "Pasabag, o Viñedo del Pachá, se sitúa en la carretera de Zelve entre el popular pueblo de Göreme y la localidad alfarera tradicional de Avanos. El viñedo está dominado por espectaculares pilares rocosos con forma de cono llamados chimeneas de hadas. ‘Pachá’ era un rango otomano importante durante la conquista de la región. Pasabag, conocido como Valle de los Monjes, fue un refugio tallado en conos de roca blanda.",
+        "simeon": "La Morada de San Simeón",
+        "paragraph2": "San Simeón, uno de los monjes que buscaron refugio en Capadocia, se sintió atraído por la belleza y la soledad del área. Construyó su hogar a 15 m de altura dentro de una chimenea de hadas y descendía para recibir las ofrendas de comida y agua de sus seguidores. El valle conserva muchas viviendas excavadas de monjes. Ya en el siglo IV había monjes en Capadocia que vaciaban el material volcánico blando para crear escaleras estrechas hacia sus refugios cónicos. Puede subir las escaleras para vistas excepcionales y explorar las antiguas cuevas y una capilla dedicada a San Simeón.",
+        "fairies": "Las Chimeneas de Hadas",
+        "paragraph3": "Las chimeneas del Valle de los Monjes son las más espectaculares de Capadocia. Algunos pilares alcanzan 15 metros y se dividen en chimeneas dobles; otros sostienen hasta tres ‘sombreros’. Su forma de hongo resulta de la acción de viento y lluvia sobre la roca blanda. Las leyendas dicen que fueron creadas por hadas para viviendas subterráneas.",
+        "visiting": "Visitar Pasabag",
+        "paragraph4": "El Valle de los Monjes está a pocos kilómetros de Göreme; puede combinarse con una visita al Museo al Aire Libre o a la ciudad de palomares de Valle de las Palomas. Los tours diarios por Capadocia suelen incluirlo como parada."
+      }
+    },
+    "uchisar": {
+      "badge": "🏰 Punto Más Alto de Capadocia",
+      "title": "Castillo de Uçhisar",
+      "subtitle": "Antigua fortaleza rocosa con vistas panorámicas",
+      "description": "Disfrute de vistas impresionantes desde el punto más alto de Capadocia, donde salas en varios niveles talladas en la roca se conectan por túneles y pasajes.",
+      "gallery": {
+        "title": "Galería Fotográfica",
+        "subtitle": "Explore la antigua fortaleza de roca"
+      },
+      "about": {
+        "title": "Acerca del Castillo de Uçhisar",
+        "subtitle": "Historia e importancia",
+        "overview": "Visión general",
+        "paragraph1": "Uçhisar, situado en el punto más alto de Capadocia en la carretera Nevşehir–Göreme, está a solo 5 km de Göreme. Desde lo alto del castillo se obtiene una vista magnífica de los alrededores con el Monte Erciyes a lo lejos.",
+        "architecture": "Arquitectura y Estructura",
+        "paragraph2": "Muchas salas están excavadas en la roca y conectadas mediante escaleras, túneles y pasajes. En las entradas se colocaban puertas de piedra tipo muela para restringir el acceso. La erosión impide alcanzar todos los espacios del castillo de múltiples niveles. La mayoría de habitaciones del lado norte se usan hoy como palomares. Los agricultores recogían el guano, excelente fertilizante natural para sus huertos.",
+        "pigeon": "Valle de las Palomas",
+        "paragraph3": "Otros palomares se encuentran en el Valle de las Palomas (Güvercinlik Vadisi en turco), que conecta Uçhisar y Göreme. Para atraer a las aves y sus valiosos excrementos, muchas de estas cuevas se pintaban de blanco.",
+        "roman": "Tumbas Romanas e Iglesias",
+        "paragraph4": "Las tres chimeneas de hadas al este, norte y oeste de Uçhisar fueron excavadas como tumbas en época romana. Las entradas miran al oeste y los cuerpos se depositaban sobre klinai (lechos de piedra).",
+        "paragraph5": "Numerosas iglesias excavadas se han descubierto tanto dentro como alrededor del castillo, posiblemente debido a la proximidad de Göreme, rica en iglesias y monasterios.",
+        "defense": "Túneles de Defensa y Leyenda",
+        "paragraph6": "Las simples tumbas bizantinas en la parte superior del castillo son poco llamativas debido a saqueos y erosión. Según la leyenda, ciudades ciudadelas como Uçhisar y Ortahisar protegían a sus habitantes mediante largos túneles defensivos que se extendían de Uçhisar a Ortahisar y Ürgüp (Başhisar). Aunque algunos se han derrumbado, la teoría sigue siendo popular por las grandes distancias que cubrían."
+      }
+    },
+    "cavusin": {
+      "badge": "🏘️ Aldea Histórica",
+      "title": "Aldea de Çavuşin",
+      "subtitle": "Antiguas viviendas rupestres e iglesias",
+      "description": "Explore una aldea encantadora con chimeneas de hadas, viviendas excavadas aún habitadas y iglesias históricas de la era de los monjes cristianos.",
+      "gallery": {
+        "title": "Galería Fotográfica",
+        "subtitle": "Explore la aldea histórica"
+      },
+      "about": {
+        "title": "Acerca de Çavuşin",
+        "subtitle": "Historia e importancia",
+        "overview": "Visión general",
+        "paragraph1": "Çavuşin, pintoresca y turística, se ubica en la carretera Göreme–Avanos. Los cristianos que vivieron aquí en época romana crearon espacios habitables en cavidades de las chimeneas de hadas para escapar de la presión romana y practicar su fe con mayor comodidad. Algunas viviendas rupestres siguen habitadas por locales.",
+        "historical": "Sitios Históricos",
+        "paragraph2": "La aldea alberga diversos sitios históricos, incluyendo ruinas de monjes cristianos y varias iglesias de Capadocia.",
+        "exploring": "Recorriendo la Aldea",
+        "paragraph3": "Çavuşin es pequeña y pintoresca; lo rodean chimeneas de hadas y elementos tallados en la roca. Inicie su visita con las iglesias y ruinas más conocidas.",
+        "churches": "Iglesias y Atracciones",
+        "paragraph4": "En los alrededores hay muchas iglesias. Otros puntos de interés incluyen las ruinas de Çavuşin y las iglesias de San Juan y Çavuşin."
+      }
+    },
+    "zelve": {
+      "badge": "🏛️ Valle Monástico",
+      "title": "Museo al Aire Libre de Zelve",
+      "subtitle": "Valle monástico más antiguamente habitado",
+      "description": "Descubra valles dramáticos, chimeneas de hadas y antiguos monasterios de los siglos IX–XIII en uno de los museos al aire libre más espectaculares de Capadocia.",
+      "gallery": {
+        "title": "Galería Fotográfica",
+        "subtitle": "Explore el valle monástico"
+      },
+      "about": {
+        "title": "Acerca de Zelve",
+        "subtitle": "Historia e importancia",
+        "overview": "Visión general",
+        "paragraph1": "El Valle de Zelve es hoy el Museo al Aire Libre de Zelve. Es uno de los valles monásticos más antiguamente habitados y posteriormente abandonados de Capadocia.",
+        "dramatic": "Paisaje Dramático",
+        "paragraph2": "Aunque sus iglesias no son tan numerosas ni tan impresionantes como las del Museo de Göreme, Zelve ofrece atractivos propios. Su topografía es más dramática: crestas, pináculos y valles empinados, con mayor libertad para trepar y explorar cada rincón.",
+        "valleys": "Tres Valles",
+        "paragraph3": "La mejor característica de Zelve son sus tres valles. Dos están conectados por túneles y contienen viviendas e iglesias abandonadas. A diferencia de Göreme, que se concentra en un área reducida, Zelve ofrece 1,5 km de recorrido. Entre los siglos IX y XIII fue un retiro monástico donde cristianos escapaban de invasiones persas y árabes. Sus paredes sinuosas y ‘antenas’ rocosas resultan pintorescas.",
+        "monastery": "Complejo Monástico e Iglesias",
+        "paragraph4": "Contiene numerosas salas y pasajes. El complejo incluye chimeneas de hadas puntiagudas con tallos altos a unos 12 m sobre el fondo del valle. El monasterio albergó los primeros seminarios de Capadocia para formar sacerdotes. La Iglesia Direkli (Columnada) data de los inicios de la vida monástica en Zelve y se halla al pie de la ladera. La decoración principal son cruces en alto relieve de doctrina iconoclasta y apenas unos patrones rojos. También están las iglesias Balıklı, Üzümlü y Geyikli, anteriores a la iconoclasia."
+      }
+    }
+  }
+}

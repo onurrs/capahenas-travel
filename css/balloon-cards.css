@@ -1,0 +1,150 @@
+.balloon-card {
+  background: white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+}
+
+.balloon-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+.balloon-card-header {
+  padding: 1.5rem;
+  border-bottom: 1px solid #f0f0f0;
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.balloon-brand {
+  color: #DCA47C;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.balloon-type {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #111827;
+}
+
+.balloon-content {
+  padding: 1.5rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.balloon-description {
+  color: #4B5563;
+  margin-bottom: 1.5rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  max-height: 150px;
+  overflow-y: auto;
+  padding-right: 0.5rem;
+  font-weight: 400;
+}
+
+/* Customize scrollbar for description */
+.balloon-description::-webkit-scrollbar {
+  width: 4px;
+}
+
+.balloon-description::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 2px;
+}
+
+.balloon-description::-webkit-scrollbar-thumb {
+  background: #DCA47C;
+  border-radius: 2px;
+}
+
+.balloon-sections {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+.balloon-section h4 {
+  font-weight: 600;
+  color: #111827;
+  margin-bottom: 1rem;
+}
+
+.balloon-features {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.balloon-feature {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  font-size: 0.875rem;
+  color: #4B5563;
+}
+
+.balloon-feature i {
+  width: 1.5rem;
+  height: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #E5E7EB;
+  border-radius: 50%;
+  color: #6B7280;
+}
+
+/* Make values and included items bold */
+.balloon-feature div[data-i18n] {
+  font-weight: 600;
+  color: #111827;
+}
+
+/* Make what's included items bold */
+.balloon-section:last-child .balloon-feature span {
+  font-weight: 600;
+  color: #111827;
+}
+
+.balloon-feature .label {
+  font-weight: 400;
+  color: #6B7280;
+  font-size: 0.75rem;
+  display: block;
+  margin-bottom: 0.125rem;
+}
+
+.balloon-feature div {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Popular Tours cards pop-on-hover effect */
+[aria-labelledby="popular-tours"] .rounded-soft {
+  transition: transform 0.22s ease, box-shadow 0.22s ease;
+  transform-origin: center;
+  will-change: transform;
+}
+
+[aria-labelledby="popular-tours"] .rounded-soft:hover,
+[aria-labelledby="popular-tours"] .rounded-soft:focus {
+  transform: translateY(-6px) scale(1.03);
+  box-shadow: 0 12px 24px rgba(2,6,23,0.08);
+  z-index: 6;
+}

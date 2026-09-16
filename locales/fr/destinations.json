@@ -1,0 +1,239 @@
+{
+  "destinations": {
+    "goreme": {
+      "badge": "🏛️ Site du patrimoine mondial de l'UNESCO",
+      "title": "Musée en plein air de Göreme",
+      "subtitle": "Anciennes églises rupestres et fresques byzantines",
+      "description": "Plongez dans l’histoire et découvrez l’une des collections les plus remarquables d’art et d’architecture byzantins de Turquie, taillée dans la roche volcanique.",
+      "gallery": {
+        "title": "Galerie photo",
+        "subtitle": "Anciennes églises rupestres et fresques byzantines"
+      },
+      "about": {
+        "title": "À propos du musée",
+        "subtitle": "Histoire et importance",
+        "paragraph1": "Le volcan du mont Erciyes, tout proche, est entré en éruption il y a des milliers d’années. Le paysage fut recouvert de cendres et de lave qui se solidifièrent en tuf. L’érosion éolienne a peu à peu sculpté, au fil des siècles, les cheminées de fées visibles aujourd’hui. Les habitants ont rapidement compris qu’ils pouvaient creuser la roche pour en faire des maisons et des églises.",
+        "paragraph2": "La Cappadoce a servi de refuge aux premiers chrétiens, qui l’ont décorée de symboles et d’art. Les églises prospérèrent également sous le patronage de saint Basile de Césarée, l’un des trois Pères cappadociens qui ont fait progresser la théologie chrétienne primitive.",
+        "paragraph3": "Si les sanctuaires du IVe siècle présentent de nombreux exemples d’art byzantin, les structures ultérieures offrent des fresques plus riches. Elles ornent murs et plafonds de scènes bibliques, destinées avant tout à instruire ceux qui ne savaient ni lire ni écrire.",
+        "paragraph4": "À l’époque ottomane, malgré leur importance historique, les grottes furent utilisées par les habitants comme pigeonniers. La restauration des fresques a demandé des années de travail. La plupart d’entre elles sont inscrites au patrimoine mondial de l’UNESCO depuis 1984 et datent des IXe au XIIe siècles."
+      },
+      "churches": {
+        "title": "Églises célèbres",
+        "subtitle": "Monuments emblématiques",
+        "tokali": {
+          "name": "Tokalı – Église de la Boucle",
+          "description": "Cette église abrite des fresques du IXe siècle représentant la vie de Jésus et des douze apôtres. Elle comprend quatre chambres, dont l’une est consacrée aux scènes du Nouveau Testament et à la vie de saint Basile."
+        },
+        "elmali": {
+          "name": "Elmalı – Église de la Pomme",
+          "description": "Édifiée vers 1050, cette église présente un plan en croix grecque gravé dans les piliers soutenant le dôme central. On y voit, entre autres scènes bibliques, la Cène."
+        },
+        "barbara": {
+          "name": "Église Sainte-Barbara",
+          "description": "Datant du XIe siècle, elle est dédiée à la martyre Barbara, tuée par son père pour avoir pratiqué le christianisme."
+        },
+        "yilanli": {
+          "name": "Yılanlı – Église du Serpent",
+          "description": "Son nom provient d’une fresque représentant saint Georges terrassant le dragon. Elle possède un plafond bas et une longue nef."
+        },
+        "carikli": {
+          "name": "Çarıklı – Église des Sandales",
+          "description": "Son nom vient de deux empreintes de pas visibles au bas de la fresque de l’Ascension. Les fresques murales illustrent divers thèmes, dont la Nativité, la Crucifixion, le Baptême et l’Adoration des Mages."
+        }
+      }
+    },
+    "kaymakli": {
+      "badge": "🏛️ Ancienne ville souterraine",
+      "title": "Ville souterraine de Kaymaklı",
+      "subtitle": "L’une des plus grandes villes souterraines de Cappadoce",
+      "description": "Découvrez un fascinant complexe souterrain de huit niveaux, avec un labyrinthe de tunnels, de pièces et d’anciens espaces de vie taillés dans la roche.",
+      "gallery": {
+        "title": "Galerie photo",
+        "subtitle": "Explorez le complexe souterrain"
+      },
+      "about": {
+        "title": "À propos de la ville souterraine de Kaymaklı",
+        "subtitle": "Histoire et importance",
+        "paragraph1": "Kaymaklı se trouve à 20 km de Nevşehir et était appelée Enegüp en grec. Elle est aujourd’hui réputée comme l’une des plus grandes villes souterraines de Cappadoce. Son histoire remonte aux périodes hittite et phrygienne et s’est enrichie au fil des siècles. Les invasions en Anatolie centrale ont poussé les habitants à se réfugier sous terre. Pendant la période républicaine, les agriculteurs utilisèrent ces grottes pour stocker leurs récoltes et abriter leur bétail. En 1964, leur potentiel touristique fut reconnu et le site fut ouvert au public.",
+        "paragraph2": "Kaymaklı est le deuxième plus grand complexe souterrain de Cappadoce. Il comprend un labyrinthe de tunnels et de pièces sur huit niveaux, dont seulement quatre sont accessibles au public. Ces zones sont électrifiées pour le confort des visiteurs. Après l’achat du billet, des flèches rouges indiquent la descente et des flèches bleues la remontée.",
+        "paragraph3": "Au premier niveau de la cité troglodytique se trouvait l’écurie. En parcourant les tunnels et les couloirs, on aperçoit des portes en meule qui obstruent les passages. Plus bas, on découvre une église, des espaces de vie et des zones de stockage, ainsi que des puits de ventilation qui descendent jusqu’au fond.",
+        "paragraph4": "Non loin de Kaymaklı se trouve Derinkuyu, une autre ville souterraine majeure – la plus grande cité troglodytique de Cappadoce."
+      }
+    },
+    "derinkuyu": {
+      "badge": "🏛️ Plus grande ville souterraine",
+      "title": "Ville souterraine de Derinkuyu",
+      "subtitle": "La plus grande ville souterraine de Cappadoce",
+      "description": "Explorez la plus profonde ville souterraine de Cappadoce, dont les origines remontent à 3000 av. J.-C., avec 13 niveaux atteignant 85 mètres sous terre.",
+      "gallery": {
+        "title": "Galerie photo",
+        "subtitle": "Explorez le complexe souterrain"
+      },
+      "about": {
+        "title": "À propos de la ville souterraine de Derinkuyu",
+        "subtitle": "Histoire et importance",
+        "overview": "Aperçu",
+        "paragraph1": "On pense que les villes souterraines de Cappadoce, établies à l’époque proto-hittite vers 3000 av. J.-C., furent largement utilisées durant la période byzantine. Une statue d’aigle en marbre datant de l’époque romaine, découverte dans une zone non accessible au public, le confirme. Les Turcs arrivèrent dans la région après la bataille de Manzikert en 1071.",
+        "paragraph2": "Les premiers chrétiens, fuyant l’oppression romaine, vinrent de Mésopotamie à Kayseri, puis en Cappadoce, et vécurent à Derinkuyu. On y trouve également des vestiges des colonies assyriennes. Difficile à repérer et à pénétrer, ce monde secret protégeait les premiers chrétiens des soldats romains et des raids arabes. Son architecture mystérieuse pousse certains voyageurs à évoquer des origines « extraterrestres ».",
+        "paragraph3": "Jusqu’aux années 1830, il n’y avait pas de peuplement en surface à Derinkuyu. La ville souterraine fut découverte par hasard en 1963 et ouverte aux visiteurs en 1967. Son nom vient de 52 puits d’eau potable profonds de 60 à 70 m. À ce jour, huit niveaux, couvrant environ 4 km², ont été ouverts. La profondeur des niveaux accessibles atteint 50 m, mais l’ensemble pourrait descendre à 85 m et compter 12 à 13 niveaux une fois totalement dégagé. Il est stupéfiant d’imaginer combien de personnes ont pu vivre si longtemps à une telle profondeur sans remonter.",
+        "paragraph4": "Rappelons que Derinkuyu compte huit niveaux accessibles. On peut descendre à 50 m par des tunnels étroits. Les personnes souffrant de claustrophobie peuvent éprouver des difficultés, mais l’expérience en vaut la peine."
+      }
+    },
+    "ihlara": {
+      "badge": "🏞️ Canyon majestueux",
+      "title": "Vallée d’Ihlara",
+      "subtitle": "L’un des canyons les plus remarquables du monde",
+      "description": "Parcourez un magnifique canyon de 14 km et de 120 m de profondeur, abritant des centaines d’églises rupestres et des milliers d’habitats historiques.",
+      "gallery": {
+        "title": "Galerie photo",
+        "subtitle": "Explorez le magnifique canyon"
+      },
+      "about": {
+        "title": "À propos de la vallée d’Ihlara",
+        "subtitle": "Histoire et importance",
+        "overview": "Aperçu",
+        "paragraph1": "Située dans le district de Güzelyurt (Aksaray), la vallée d’Ihlara est l’un des canyons les plus remarquables du monde. Longue de 14 km, profonde de 120 m, et parsemée de milliers d’habitats, elle est unique et considérée comme le plus grand canyon habité de l’histoire. On y trouve des centaines d’églises et d’abris, des cheminées de fées et des roches faciles à tailler, ce qui en fit un centre culturel et civilisationnel majeur.",
+        "paragraph2": "En sortant de la vallée, vous découvrirez la beauté singulière des cheminées de fées et la cathédrale de Selime. En Cappadoce, comme dans l’Égypte ancienne, des chats ont été momifiés : 17 momies ont été découvertes à Ihlara ; 12 sont exposées au musée d’Aksaray, 5 au musée de Niğde. La plupart datent des Xe–XIIIe siècles. La déesse à tête de chat « Bast » aurait été la première à momifier des chats – une tradition transmise en Anatolie et encore présente en Cappadoce.",
+        "agacalti": "Église d’Ağaçaltı",
+        "paragraph3": "Église d’Ağaçaltı (Daniel Pantanassa) : le plan en croix libre occupe la partie centrale. Un haut dôme annulaire repose sur des trompes ; les bras de la croix présentent des berceaux à trompes. Les fresques datent d’avant l’iconoclasme ou de la période comprise entre les IXe et XIe siècles. Elles représentent l’Annonciation, la Nativité, l’Adoration des Mages, la Fuite en Égypte, le Baptême et la Koimèsis (Dormition). L’église se trouve au village de Belisırma, dans la vallée d’Ihlara.",
+        "historical": "Importance historique",
+        "paragraph4": "L’église possède un plan hexagonal irrégulier et un toit plat. L’abside est creusée en concavité vers l’est. L’abside effondrée sert aujourd’hui d’entrée, l’accès d’origine se situant sur le mur nord. Lady Tamar, épouse d’Amirarzes Basileios, décora l’église sous le règne du sultan Mesut II. Les fresques représentent la Déisis, la Transfiguration et l’Ascension du sultan seldjoukide Mesut."
+      }
+    },
+    "soganli": {
+      "badge": "🏞️ Vallée paisible",
+      "title": "Vallée de Soğanlı",
+      "subtitle": "Anciens monastères et églises troglodytes",
+      "description": "Découvrez une vallée en V sereine, avec plus de 20 églises, des monastères à cour et des centaines de pigeonniers datant des Xe–XIe siècles.",
+      "gallery": {
+        "title": "Galerie photo",
+        "subtitle": "Explorez la vallée paisible"
+      },
+      "about": {
+        "title": "À propos de la vallée de Soğanlı",
+        "subtitle": "Histoire et importance",
+        "overview": "Aperçu",
+        "paragraph1": "Soğanlı est une vallée paisible qui abrite des monastères à cour et des églises troglodytes des Xe–XIe siècles. Située à 40 km au sud-est de Nevşehir, à environ une heure de route de Göreme, elle est comparable à la vallée d’Ihlara et au musée de Göreme par son importance historique et sa beauté naturelle, tout en recevant bien moins de visiteurs.",
+        "paragraph2": "On y compte plus de 20 églises, dont une dizaine particulièrement remarquables, ainsi que des centaines de pigeonniers et des tombes d’époque romaine creusées dans les falaises.",
+        "naturalbeauty": "Beauté naturelle & histoire",
+        "paragraph3": "La vallée de Soğanlı est un lieu idéal pour profiter d’anciennes églises et randonner en toute quiétude. La plupart des visiteurs n’y passent que deux heures, mais une journée complète en vaut la peine.",
+        "paragraph4": "Cette vallée verte, ouverte et en forme de V a été façonnée par deux ruisseaux. Le son de l’eau résonne sur les parois tandis que les oiseaux planent au-dessus. La vallée de Soğanlı séduit par sa riche histoire et son cadre.",
+        "ancient": "Ancien site villageois",
+        "paragraph5": "Il s’agissait d’un ancien site villageois, doté de centaines de pièces de pierre et de grottes au-dessus du centre. Les habitants creusèrent la colline et construisirent des pièces maçonnées en façade. Les fondations d’une église du VIe siècle subsistent sous les habitations. À distance de marche du centre se trouvent plusieurs églises et monastères."
+      }
+    },
+    "selime": {
+      "badge": "⛪ Merveille rupestre",
+      "title": "Monastère de Selime",
+      "subtitle": "Plus grande structure religieuse de Cappadoce",
+      "description": "Explorez un remarquable monastère rupestre avec une chapelle de taille cathédrale taillée dans le tuf volcanique, des fresques d’origine et des passages secrets.",
+      "gallery": {
+        "title": "Galerie photo",
+        "subtitle": "Explorez le monastère rupestre"
+      },
+      "about": {
+        "title": "À propos du monastère de Selime",
+        "subtitle": "Histoire et importance",
+        "overview": "Aperçu",
+        "paragraph1": "Le monastère de Selime, la plus grande structure religieuse de la région cappadocienne, possède une chapelle de taille cathédrale creusée directement dans le tuf volcanique. Des fresques d’origine sont encore visibles, bien que certaines aient été altérées par les intempéries. Le site porte les traces de civilisations anciennes : Hittites, Perses, Romains, premiers chrétiens, Byzantins, Seldjoukides et Ottomans. Deux colonnes rocheuses divisent l’église en trois nefs ; on y trouve aussi cuisines, écuries et cellules de moines ornées d’anciennes fresques.",
+        "historical": "Importance historique",
+        "paragraph2": "Le monastère remonte aux VIIIe–IXe siècles. La partie supérieure présente un aspect légèrement fortifié avec murs bien conservés, fossés, escaliers taillés dans la roche et passages cachés. Aux Xe–XIe siècles, il fut transformé en caravansérail pour abriter les marchands et voyageurs de la Route de la Soie. Les Seldjoukides l’aménagèrent afin de stimuler le commerce avant l’essor des routes maritimes. Le monastère fut abandonné au XVIe siècle.",
+        "location": "Localisation & accès",
+        "paragraph3": "Le monastère de Selime se trouve à 28 km d’Aksaray, près de la vallée d’Ihlara, en Cappadoce. Une randonnée de deux heures depuis Ihlara suit la rivière Melendiz, passe par le village de Belisırma et des églises rupestres jusqu’au monastère. Il est également possible de s’y rendre lors d’une excursion d’une journée depuis Göreme.",
+        "turbe": "Türbe de Selime Sultan",
+        "paragraph4": "Le village de Selime possède un tombeau monumental appelé « Selime Sultan Türbe », présentant un style architectural du XIIIe siècle – un exemple unique en Anatolie."
+      }
+    },
+    "pasabag": {
+      "badge": "🏔️ Vallée des Moines",
+      "title": "Cheminées de fées de Paşabağ",
+      "subtitle": "Spectaculaires piliers rocheux en forme de champignon",
+      "description": "Découvrez les cheminées de fées les plus spectaculaires de Cappadoce, où des moines creusèrent des habitations à 15 mètres du sol dans de majestueux piliers coiffés de cônes.",
+      "gallery": {
+        "title": "Galerie photo",
+        "subtitle": "Explorez les cheminées de fées"
+      },
+      "about": {
+        "title": "À propos des cheminées de fées de Paşabağ",
+        "subtitle": "Histoire et importance",
+        "overview": "Aperçu",
+        "paragraph1": "Paşabağ, « la vigne du pacha », se situe sur la route de Zelve entre le village de Göreme et la ville potière traditionnelle d’Avanos. Le vignoble est dominé par des piliers rocheux coiffés de cônes, appelés cheminées de fées. Un pacha était un haut dignitaire ottoman lors de la conquête de la région. Également appelée « vallée des Moines », Paşabağ servit de refuge à des moines qui creusèrent leurs ermitages dans les cônes de roche tendre.",
+        "simeon": "Ermitage de saint Siméon",
+        "paragraph2": "Saint Siméon, l’un des nombreux moines venus chercher refuge en Cappadoce, fut séduit par la beauté et la solitude du lieu. Il construisit sa cellule à 15 m de hauteur dans une cheminée de fées et descendait pour recevoir les offrandes de nourriture et d’eau de ses fidèles. La vallée abrite de nombreuses cellules creusées pour les moines. Dès le IVe siècle, des moines vivaient en Cappadoce ; ils creusaient le matériau volcanique pour tailler des escaliers étroits menant à leurs abris coniques, offrant de superbes vues. On peut aussi visiter des habitations troglodytes abandonnées et une chapelle dédiée à saint Siméon.",
+        "fairies": "Les cheminées de fées",
+        "paragraph3": "Les cheminées de la vallée des Moines sont les plus spectaculaires de la région. Certaines colonnes atteignent 15 m et se divisent en deux cheminées ; d’autres en supportent trois. Ces piliers en forme de champignon sont sculptés par le vent et la pluie dans la roche tendre – la légende les attribue aux fées, qui auraient créé des demeures souterraines.",
+        "visiting": "Visiter Paşabağ",
+        "paragraph4": "La vallée des Moines se trouve à quelques kilomètres de Göreme ; on peut l’associer à la visite du musée en plein air ou des pigeonniers de la vallée des Pigeons. Les excursions journalières en Cappadoce y font souvent halte."
+      }
+    },
+    "uchisar": {
+      "badge": "🏰 Point culminant de Cappadoce",
+      "title": "Château d’Uçhisar",
+      "subtitle": "Ancienne forteresse de roche avec vues panoramiques",
+      "description": "Profitez de vues à couper le souffle depuis le point culminant de la Cappadoce, où des pièces sur plusieurs niveaux creusées dans la roche sont reliées par des tunnels et des passages.",
+      "gallery": {
+        "title": "Galerie photo",
+        "subtitle": "Explorez l’ancienne forteresse de roche"
+      },
+      "about": {
+        "title": "À propos du château d’Uçhisar",
+        "subtitle": "Histoire et importance",
+        "overview": "Aperçu",
+        "paragraph1": "Uçhisar, situé au point le plus élevé de la Cappadoce sur la route Nevşehir–Göreme, se trouve à seulement 5 km de Göreme. Du sommet du château, la vue embrasse toute la région, avec le mont Erciyes au loin.",
+        "architecture": "Architecture & structure",
+        "paragraph2": "De nombreuses pièces sont creusées dans la roche et reliées par des escaliers, des tunnels et des passages. Des portes en pierre meulière ferment les entrées pour contrôler l’accès. L’érosion empêche l’accès à toutes les salles de cette forteresse à plusieurs niveaux. La majorité des pièces du côté nord servent aujourd’hui de pigeonniers. Les agriculteurs utilisaient le guano, excellent engrais naturel, pour leurs vergers.",
+        "pigeon": "Vallée des Pigeons",
+        "paragraph3": "D’autres pigeonniers se trouvent dans la vallée des Pigeons (Güvercinlik Vadisi en turc), qui relie Uçhisar à Göreme. Pour attirer les oiseaux et leurs précieuses fientes, la plupart de ces habitats troglodytes furent peints en blanc.",
+        "roman": "Tombes romaines & églises",
+        "paragraph4": "Les trois cheminées de fées situées à l’est, au nord et à l’ouest d’Uçhisar furent creusées à l’époque romaine pour servir de tombes. Les entrées sont orientées vers l’ouest ; les corps étaient déposés sur des klinai (banquettes) de pierre.",
+        "paragraph5": "De nombreuses églises rupestres ont été découvertes dans et autour de la forteresse, sans doute en raison de la proximité de Göreme, riche en églises et monastères.",
+        "defense": "Tunnels de défense & légende",
+        "paragraph6": "Les tombes byzantines simples au sommet du château, pillées et érodées, présentent peu d’intérêt. Selon la légende, des citadelles comme Uçhisar et Ortahisar protégeaient leurs habitants grâce à de longs tunnels de défense s’étendant d’Uçhisar à Ortahisar et Ürgüp (Başhisar). Bien que des parties soient effondrées, la théorie demeure populaire en raison des distances couvertes."
+      }
+    },
+    "cavusin": {
+      "badge": "🏘️ Village historique",
+      "title": "Village de Çavuşin",
+      "subtitle": "Anciennes habitations troglodytes & églises",
+      "description": "Découvrez un charmant village aux cheminées de fées, avec des habitations rupestres encore occupées et des églises historiques de l’époque des moines chrétiens.",
+      "gallery": {
+        "title": "Galerie photo",
+        "subtitle": "Explorez le village historique"
+      },
+      "about": {
+        "title": "À propos du village de Çavuşin",
+        "subtitle": "Histoire et importance",
+        "overview": "Aperçu",
+        "paragraph1": "Çavuşin, charmant village touristique, se situe le long de la route Göreme–Avanos en Cappadoce. À l’époque romaine, les chrétiens y aménagèrent des espaces de vie dans les cavités des cheminées de fées pour échapper aux persécutions et pratiquer leur foi plus sereinement. Des habitants occupent encore certaines demeures rupestres.",
+        "historical": "Sites historiques",
+        "paragraph2": "Le village abrite divers sites historiques, dont des ruines de moines chrétiens et des églises de Cappadoce.",
+        "exploring": "Découvrir le village",
+        "paragraph3": "Petit et pittoresque, Çavuşin est entouré de cheminées de fées et d’ouvrages creusés dans la roche. Commencez votre visite par ses églises emblématiques et ses ruines.",
+        "churches": "Églises & attractions",
+        "paragraph4": "De nombreuses églises se trouvent autour du village. Parmi les autres sites à voir : les ruines de Çavuşin, l’église Saint-Jean et l’église de Çavuşin."
+      }
+    },
+    "zelve": {
+      "badge": "🏛️ Vallée monastique",
+      "title": "Musée en plein air de Zelve",
+      "subtitle": "La vallée monastique la plus anciennement habitée",
+      "description": "Découvrez des vallées spectaculaires, des cheminées de fées et des monastères des IXe–XIIIe siècles dans l’un des musées de plein air les plus impressionnants de Cappadoce.",
+      "gallery": {
+        "title": "Galerie photo",
+        "subtitle": "Explorez la vallée monastique"
+      },
+      "about": {
+        "title": "À propos du musée de Zelve",
+        "subtitle": "Histoire et importance",
+        "overview": "Aperçu",
+        "paragraph1": "La vallée de Zelve est aujourd’hui le musée en plein air de Zelve. C’est l’une des vallées monastiques les plus anciennement habitées de Cappadoce, puis abandonnées.",
+        "dramatic": "Paysages dramatiques",
+        "paragraph2": "Bien que ses églises soient moins nombreuses et moins imposantes que celles du musée de Göreme, Zelve possède ses propres atouts. Sa topographie, plus dramatique, offre pics, aiguilles, vallées et pentes abruptes, et une plus grande liberté pour grimper et explorer tous les recoins.",
+        "valleys": "Trois vallées",
+        "paragraph3": "Le point fort de Zelve est son trio de vallées. Deux sont reliées par des tunnels et contiennent des habitations et des églises abandonnées. Contrairement à Göreme, plus concentré, Zelve propose 1,5 km de parcours. Du IXe au XIIIe siècle, c’était un refuge monastique où les chrétiens fuyaient les invasions perses et arabes. Les parois sinueuses et les antennes rocheuses de Zelve sont particulièrement pittoresques.",
+        "monastery": "Complexe monastique & églises",
+        "paragraph4": "On y trouve de nombreuses pièces et passages. Le complexe comprend des cheminées de fées élancées aux fûts imposants, culminant à environ 12 m au-dessus du fond de la vallée. Zelve abritait les premiers séminaires de Cappadoce pour la formation des prêtres. L’église Direkli (à colonnes) date des débuts de la vie monastique. Située au pied de la pente, elle présente des croix en haut-relief inspirées de la doctrine iconoclaste et, à part quelques motifs rouges, peu d’ornementation. On y trouve aussi les églises Balıklı, Üzümlü et Geyikli, antérieures à l’iconoclasme."
+      }
+    }
+  }
+}

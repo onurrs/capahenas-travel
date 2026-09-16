@@ -1,0 +1,301 @@
+{
+  "balloon": {
+    "standard": {
+      "hero": {
+        "badge": "✨ Premium-Erlebnis",
+        "title1": "Standardflug",
+        "title2": "Kappadokien-Träume werden wahr",
+        "subtitle": "Erleben Sie die magischen Landschaften Kappadokiens von oben bei unserem sorgfältig kuratierten Standard-Ballonflug. Wo jeder Moment zur unvergesslichen Erinnerung wird.",
+        "duration": "60‑Minuten‑Flug",
+        "capacity": "Bis zu 32 Gäste",
+        "launch": "Start bei Sonnenaufgang"
+      },
+      "main": {
+        "title": "Flugerlebnis",
+        "subtitle": "Ihre Reise durch die Wolken",
+        "premium": "Premium",
+        "experience": "Erlebnis",
+        "desc": {
+          "desc": "Begeben Sie sich mit unserem ",
+          "highlight": "Standard‑Ballonflug",
+          "rest": "auf eine außergewöhnliche Reise durch den Himmel. Dieses sorgfältig gestaltete Erlebnis ist der perfekte Einstieg in die atemberaubende Schönheit Kappadokiens und vereint Abenteuer und Komfort in unseren Premium‑Heißluftballons."
+        },
+        "inclusions": {
+          "title": "Premium‑Leistungen",
+          "transfer": {
+            "title": "Premium‑Transfer‑Service",
+            "desc": "Luxuriöse Hotelabholung und ‑rückfahrt"
+          },
+          "safety": {
+            "title": "Sicherheit & Versicherung",
+            "desc": "Umfassender Passagierschutz"
+          },
+          "champagne": {
+            "title": "Champagner‑Feier",
+            "desc": "Traditioneller Toast nach dem Flug"
+          },
+          "certificate": {
+            "title": "Flugzertifikat",
+            "desc": "Personalisierte Erinnerungsurkunde"
+          },
+          "breakfast": {
+            "title": "Leichtes Frühstück",
+            "desc": "Erfrischungen vor dem Flug inklusive"
+          }
+        },
+        "stats": {
+          "flight_duration": {
+            "label": "Minuten",
+            "desc": "Flugdauer"
+          },
+          "max_guests": {
+            "label": "Max. Gäste",
+            "desc": "Pro Korb"
+          },
+          "launch_time": {
+            "label": "Start am Morgen",
+            "desc": "Zeit des Sonnenaufgangs"
+          }
+        },
+        "gallery": {
+          "title": "Erlebnisgalerie",
+          "desc": "Sehen Sie, was Sie am Himmel erwartet"
+        }
+      },
+      "booking": {
+        "header": "Flug reservieren",
+        "desc": "Sichern Sie sich Ihren Platz im Paradies",
+        "date": "Datum auswählen",
+        "passengers": {
+          "title": "Passagiere wählen",
+          "adults": {
+            "title": "Erwachsene",
+            "desc": "Ab 13 Jahren"
+          },
+          "children": {
+            "title": "Kinder",
+            "desc": "6–12 Jahre"
+          }
+        },
+        "details": {
+          "title": "Ihre Angaben",
+          "name": "Vollständiger Name",
+          "email": "E‑Mail‑Adresse",
+          "phone": "Telefonnummer",
+          "phonedesc": "Dieses Feld ist optional. Wir empfehlen es auszufüllen, damit wir schneller antworten können."
+        },
+        "summary": {
+          "title": "Buchungsübersicht",
+          "date": "Ausgewähltes Datum:",
+          "guests": "Gesamtgäste:",
+          "price": "Preisdetails werden nach Anfrage mitgeteilt",
+          "reserve_button": "Ihr Abenteuer reservieren",
+          "secure_booking": "🔒 Sichere Buchung • Jetzt keine Zahlung erforderlich",
+          "cancellation": {
+            "title": "Kostenlose Stornierung & Rückerstattung",
+            "description": "Die Tour kann bis 24 Stunden vor Beginn storniert werden"
+          },
+          "whatsapp_contact": "Kontaktieren Sie uns per WhatsApp"
+        }
+      }
+    },
+    "comfort": {
+      "hero": {
+        "badge": "✨ Komfort‑Erlebnis der nächsten Stufe",
+        "title1": "Comfort‑Flug",
+        "title2": "Mehr Leistung & Komfort",
+        "subtitle": "Erleben Sie Kappadokiens beeindruckende Täler mit erhöhtem Komfort in unseren geräumigen 28‑Personen‑Körben und leistungsstarken Ballonen mit 500.000 Kubikfuß für maximale Stabilität.",
+        "duration": "60‑Minuten‑Flug",
+        "capacity": "Bis zu 28 Gäste",
+        "launch": "Start bei Sonnenaufgang"
+      },
+      "main": {
+        "title": "Comfort‑Flugerlebnis",
+        "subtitle": "Erhöhter Komfort und Leistung",
+        "premium": "Premium",
+        "experience": "Erlebnis",
+        "desc": {
+          "desc": "Genießen Sie den erweiterten ",
+          "highlight": "Comfort‑Ballonflug",
+          "rest": "mit geräumigen 28‑Personen‑Körben und unseren kraftvollen Ballonen mit 500.000 Kubikfuß. Dieses Premium‑Erlebnis bietet mindestens 1 Stunde in der Luft mit verbesserter Leistung und Stabilität – für eine komfortable und unvergessliche Reise über Kappadokiens einzigartige Formationen."
+        },
+        "inclusions": {
+          "title": "Premium‑Leistungen",
+          "transfer": {
+            "title": "Premium‑Transfer‑Service",
+            "desc": "Luxuriöse Hotelabholung und ‑rückfahrt"
+          },
+          "breakfast": {
+            "title": "Leichtes Frühstück",
+            "desc": "Erfrischungen vor dem Flug inklusive"
+          },
+          "safety": {
+            "title": "Sicherheit & Versicherung",
+            "desc": "Umfassender Passagierschutz"
+          },
+          "champagne": {
+            "title": "Champagner‑Feier",
+            "desc": "Traditioneller Toast nach dem Flug"
+          },
+          "certificate": {
+            "title": "Flugzertifikat",
+            "desc": "Personalisierte Erinnerungsurkunde"
+          }
+        },
+        "stats": {
+          "flight_duration": {
+            "label": "Minuten",
+            "desc": "Flugdauer"
+          },
+          "max_guests": {
+            "label": "Max. Gäste",
+            "desc": "Pro Korb"
+          },
+          "launch_time": {
+            "label": "Start am Morgen",
+            "desc": "Zeit des Sonnenaufgangs"
+          }
+        },
+        "gallery": {
+          "title": "Erlebnisgalerie",
+          "desc": "Sehen Sie, was Sie am Himmel erwartet"
+        }
+      },
+      "booking": {
+        "header": "Flug reservieren",
+        "desc": "Sichern Sie sich Ihren Platz im Paradies",
+        "date": "Datum auswählen",
+        "passengers": {
+          "title": "Passagiere wählen",
+          "adults": {
+            "title": "Erwachsene",
+            "desc": "Ab 13 Jahren"
+          },
+          "children": {
+            "title": "Kinder",
+            "desc": "6–12 Jahre"
+          }
+        },
+        "details": {
+          "title": "Ihre Angaben",
+          "name": "Vollständiger Name *",
+          "email": "E‑Mail‑Adresse *",
+          "phone": "Telefonnummer",
+          "phonedesc": "Dieses Feld ist optional. Wir empfehlen es auszufüllen, damit wir schneller antworten können."
+        },
+        "summary": {
+          "title": "Buchungsübersicht",
+          "date": "Ausgewähltes Datum:",
+          "guests": "Gesamtgäste:",
+          "price": "Preisdetails werden nach Anfrage mitgeteilt",
+          "reserve_button": "Ihr Abenteuer reservieren",
+          "secure_booking": "🔒 Sichere Buchung • Jetzt keine Zahlung erforderlich",
+          "cancellation": {
+            "title": "Kostenlose Stornierung & Rückerstattung",
+            "description": "Die Tour kann bis 24 Stunden vor Beginn storniert werden"
+          },
+          "whatsapp_contact": "Kontaktieren Sie uns per WhatsApp"
+        }
+      }
+    },
+    "private": {
+      "hero": {
+        "badge": "✨ Ultimatives Luxus‑Erlebnis",
+        "title1": "Privatflug",
+        "title2": "Intimes & exklusives Abenteuer",
+        "subtitle": "Genießen Sie das Nonplusultra an Luxus und Privatsphäre: Maximal 20 Gäste in einem speziell konzipierten 24‑Personen‑Korb – für höchsten Komfort und persönlichen Freiraum.",
+        "duration": "60‑Minuten‑Flug",
+        "capacity": "Max. 20 Gäste",
+        "launch": "Start bei Sonnenaufgang"
+      },
+      "main": {
+        "title": "Privatflug‑Erlebnis",
+        "subtitle": "Ultimativer Luxus und Intimität",
+        "premium": "Premium",
+        "experience": "Erlebnis",
+        "desc": {
+          "desc": "Entdecken Sie den Inbegriff von Luxus mit unserem ",
+          "highlight": "Privaten Ballonflug",
+          "rest": "Dieses exklusive Erlebnis bietet maximalen Komfort und persönlichen Freiraum in einem speziell entwickelten 24‑Personen‑Korb, der auf nur 20 Gäste begrenzt ist – das perfekte, intime Ambiente, um Kappadokiens Schönheit aus der Vogelperspektive zu erleben."
+        },
+        "inclusions": {
+          "title": "Exklusive Leistungen",
+          "transfer": {
+            "title": "Premium‑Transfer‑Service",
+            "desc": "Luxuriöse Hotelabholung und ‑rückfahrt"
+          },
+          "safety": {
+            "title": "Sicherheit & Versicherung",
+            "desc": "Umfassender Passagierschutz"
+          },
+          "champagne": {
+            "title": "Champagner‑Feier",
+            "desc": "Traditioneller Toast nach dem Flug"
+          },
+          "certificate": {
+            "title": "Flugzertifikat",
+            "desc": "Personalisierte Erinnerungsurkunde"
+          },
+          "breakfast": {
+            "title": "Leichtes Frühstück",
+            "desc": "Erfrischungen vor dem Flug inklusive"
+          }
+        },
+        "stats": {
+          "flight_duration": {
+            "label": "Minuten",
+            "desc": "Flugdauer"
+          },
+          "max_guests": {
+            "label": "Max. Gäste",
+            "desc": "Pro Korb"
+          },
+          "launch_time": {
+            "label": "Start am Morgen",
+            "desc": "Zeit des Sonnenaufgangs"
+          }
+        },
+        "gallery": {
+          "title": "Erlebnisgalerie",
+          "desc": "Sehen Sie, was Sie am Himmel erwartet"
+        }
+      },
+      "booking": {
+        "header": "Flug reservieren",
+        "desc": "Sichern Sie sich Ihren Platz im Paradies",
+        "date": "Datum auswählen",
+        "passengers": {
+          "title": "Passagiere wählen",
+          "adults": {
+            "title": "Erwachsene",
+            "desc": "Ab 13 Jahren"
+          },
+          "children": {
+            "title": "Kinder",
+            "desc": "6–12 Jahre"
+          }
+        },
+        "details": {
+          "title": "Ihre Angaben",
+          "name": "Vollständiger Name *",
+          "email": "E‑Mail‑Adresse *",
+          "phone": "Telefonnummer",
+          "phonedesc": "Dieses Feld ist optional. Wir empfehlen es auszufüllen, damit wir schneller antworten können."
+        },
+        "summary": {
+          "title": "Buchungsübersicht",
+          "date": "Ausgewähltes Datum:",
+          "guests": "Gesamtgäste:",
+          "price": "Preisdetails werden nach Anfrage mitgeteilt",
+          "reserve_button": "Ihr Abenteuer reservieren",
+          "secure_booking": "🔒 Sichere Buchung • Jetzt keine Zahlung erforderlich",
+          "cancellation": {
+            "title": "Kostenlose Stornierung & Rückerstattung",
+            "description": "Die Tour kann bis 24 Stunden vor Beginn storniert werden"
+          },
+          "whatsapp_contact": "Kontaktieren Sie uns per WhatsApp"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "hero": {
+    "badge": "Expérience de voyage premium",
+    "title1": "Profitez de la Turquie",
+    "title2": "avec Capahenas Travel",
+    "desc": "Nous offrons à nos invités une expérience authentique de la Turquie dont ils se souviendront toute leur vie !",
+    "discover": "Découvrir plus"
+  },
+  "value": {
+    "title": "Votre partenaire de voyage de confiance en Cappadoce et en Turquie",
+    "desc": "La Cappadoce, située en Anatolie centrale, est célèbre pour son paysage volcanique unique, ses anciennes villes troglodytes et ses magnifiques vols en montgolfière. Explorez Göreme, Kaymaklı et Derinkuyu avec Capahenas Travel, qui propose des services de voyage complets pour une expérience inoubliable.",
+    "years": "Années",
+    "guests": "Invités",
+    "rating": "Évaluation"
+  },
+  "balloon": {
+    "titleAccent": "Vol en ",
+    "titleRest": "Montgolfière",
+    "badge": "Expériences en vedette",
+    "desc": "Découvrez les paysages époustouflants de la Cappadoce depuis le ciel grâce à nos aventures en montgolfière premium.",
+    "standardTitle": "Standard",
+    "flight": "Vol",
+    "standardDesc": "Les vols standard de Capahenas offrent une manière simple mais inoubliable de découvrir la beauté à couper le souffle de la Cappadoce depuis le ciel. Parfait pour les voyageurs qui souhaitent se concentrer sur les paysages magiques sans fioritures, ces vols durent environ 1 heure — juste assez pour admirer les cheminées de fées, les vallées et les paysages surréalistes. Réalisés avec des paniers de 32 personnes, Capahenas garantit une expérience sûre, confortable et abordable sans compromis sur l’émerveillement.",
+    "highlights": "Moments forts du vol",
+    "capacity": "Capacité du ballon",
+    "capacity32": "24–32 passagers",
+    "flightTime": "Heure du vol",
+    "flightTimeSunrise": "Au lever du soleil",
+    "flightDuration": "Durée du vol",
+    "flightDuration60": "60 min",
+    "whatsIncluded": "Ce qui est inclus",
+    "pickupDropoff": "Service de prise en charge et de dépose",
+    "lightBreakfast": "Petit-déjeuner léger",
+    "passengerInsurance": "Assurance passager",
+    "champagneToast": "Toast au champagne",
+    "flightCertificate": "Certificat de vol",
+    "comfortTitle": "Confort",
+    "comfortDesc": "Les vols Confort de Capahenas offrent un minimum d'une heure dans les airs — suffisamment de temps pour admirer les vallées et formations uniques de la Cappadoce. Réalisés avec des paniers spacieux de 28 personnes, ils garantissent une expérience plus agréable et relaxante avec un nombre limité de passagers. Pour de meilleures performances et stabilité, nous utilisons des ballons de 500 000 pieds cubes offrant plus de portance et de contrôle. Les vols Confort fonctionnent toute l'année, sous réserve des conditions météorologiques, pour une expérience fluide et mémorable.",
+    "capacity28": "16–20 passagers",
+    "privateTitle": "Privé",
+    "privateDesc": "Le vol privé de Capahenas offre une manière plus intime et luxueuse de découvrir la beauté de la Cappadoce depuis le ciel. Réalisé avec un panier spécialement conçu pour 24 personnes et limité à 20 invités, il garantit un confort et un espace supplémentaires tout au long du vol. D’une durée d’environ 60 minutes, il vous laisse le temps d’admirer les vallées et formations rocheuses dans une atmosphère détendue. Idéal pour ceux qui recherchent confort, intimité et exclusivité, les vols privés de Capahenas offrent une expérience aérienne raffinée.",
+    "capacity20": "20 passagers"
+  },
+  "popular": {
+    "title": "Tours populaires en Cappadoce",
+    "redTitle": "Tour rouge Cappadoce",
+    "redDesc": "Visitez les cheminées de fées, les villes souterraines et les formations rocheuses.",
+    "greenTitle": "Tour vert Cappadoce",
+    "greenDesc": "Explorez la vallée d’Ihlara, le monastère de Selime et les merveilles naturelles.",
+    "blueTitle": "Tour bleu Cappadoce",
+    "blueDesc": "Découvrez des trésors cachés et des vallées méconnues de la Cappadoce.",
+    "mixTitle": "Tour combiné Cappadoce",
+    "mixDesc": "Les points forts des tours rouge et vert en une seule journée.",
+    "privateTitle": "Tour privé Cappadoce",
+    "privateDesc": "Visites privées personnalisées avec guide et véhicule personnels.",
+    "camelTitle": "Tour à dos de chameau",
+    "camelDesc": "Expérience unique de promenade à dos de chameau parmi les cheminées de fées.",
+    "horseTitle": "Balade à cheval",
+    "horseDesc": "Expérience magique à cheval dans les vallées au coucher du soleil.",
+    "atvTitle": "Tour en quad",
+    "atvDesc": "Aventure palpitante en quad à travers les vallées au coucher du soleil.",
+    "classicTitle": "Tours en voiture classique",
+    "classicDesc": "Parcourez les paysages dans de magnifiques voitures anciennes restaurées.",
+    "jeepTitle": "Safari en Jeep Cappadoce",
+    "jeepDesc": "Aventures hors route en jeep à travers vallées et canyons.",
+    "potteryTitle": "Fabrication de poterie",
+    "potteryDesc": "Ateliers pratiques de poterie avec des artisans experts.",
+    "photoshootTitle": "Tour photo",
+    "photoshootDesc": "Séances photo professionnelles dans les lieux les plus pittoresques.",
+    "dervishTitle": "Spectacle des derviches tourneurs",
+    "dervishDesc": "Cérémonie soufie mystique et danse traditionnelle tournoyante.",
+    "turkishBathTitle": "Hamam (bain turc)",
+    "turkishBathDesc": "Expérience authentique de bain turc avec traitements traditionnels.",
+    "turkishNightTitle": "Spectacle de la nuit turque",
+    "turkishNightDesc": "Soirée culturelle avec danses folkloriques, musique et dîner traditionnel."
+  },
+  "turkey": {
+    "title": "Circuits en Turquie",
+    "view-button": "Voir",
+    "pamukkale": {
+      "title": "Excursion d'une journée à Pamukkale",
+      "desc": "Château de coton & Ville antique"
+    },
+    "ephesus": {
+      "title": "Excursion d'une journée à Éphèse",
+      "desc": "Ancienne ville romaine"
+    },
+    "aspendos": {
+      "title": "Circuit Perge Aspendos Side",
+      "desc": "Villes antiques"
+    },
+    "antalya": {
+      "title": "Visite de la ville d'Antalya",
+      "desc": "Vieille ville & Cascades"
+    },
+    "demre": {
+      "title": "Circuit Demre Myra Kekova",
+      "desc": "Histoire & Croisière bleue"
+    },
+    "pamukkaleFromAntalya": {
+      "title": "Excursion à Pamukkale depuis Antalya",
+      "desc": "Château de coton & Ville antique (depuis Antalya)"
+    },
+    "mag1": {
+      "title": "Circuit de 4 jours : Cappadoce, Pamukkale & Éphèse",
+      "desc": "Circuit multi-villes"
+    },
+    "mag2": {
+      "title": "Istanbul & Cappadoce en 6 jours",
+      "desc": "Forfait Istanbul & Cappadoce"
+    },
+    "mag3": {
+      "title": "Circuit de 4 jours : Cappadoce, Pamukkale & Éphèse",
+      "desc": "Circuit multi-villes | Expérience guidée"
+    },
+    "mag4": {
+      "title": "5 jours à Istanbul & Éphèse",
+      "desc": "Richesses historiques"
+    },
+    "mag5": {
+      "title": "Circuit Turquie 6 jours",
+      "desc": "Découvrez les points forts de la Turquie en 6 jours."
+    },
+    "mag6": {
+      "title": "Circuit Turquie 8 jours",
+      "desc": "Istanbul, Cappadoce, Éphèse, Pamukkale"
+    },
+    "mag7": {
+      "title": "Circuit Istanbul 4 jours",
+      "desc": "Découvrez le meilleur d'Istanbul en 4 jours."
+    },
+    "mag8": {
+      "title": "Circuit 5 jours : Istanbul, Dolmabahçe & Bursa",
+      "desc": "Richesse culturelle et historique"
+    },
+    "mag9": {
+      "title": "Circuit 6 jours : Istanbul, Bursa & Îles des Princes",
+      "desc": "Profitez de la beauté paisible des Îles des Princes"
+    }
+  },
+  "destinations": {
+    "title": "Destinations",
+    "goreme": {
+      "title": "Musée en plein air de Göreme"
+    },
+    "kaymakli": {
+      "title": "Ville souterraine de Kaymakli"
+    },
+    "derinkuyu": {
+      "title": "Ville souterraine de Derinkuyu"
+    },
+    "ihlara": {
+      "title": "Vallée d'Ihlara"
+    },
+    "soganli": {
+      "title": "Vallée de Soğanlı"
+    },
+    "selime": {
+      "title": "Monastère de Selime"
+    },
+    "pasabag": {
+      "title": "Pasabag (Vallée des Moines)"
+    },
+    "uchisar": {
+      "title": "Château d'Uchisar"
+    },
+    "cavusin": {
+      "title": "Village de Çavuşin"
+    },
+    "zelve": {
+      "title": "Musée en plein air de Zelve"
+    }
+  },
+  "gallery": {
+    "title": "Galerie",
+    "subtitle": "Galerie photo",
+    "share": "Partager",
+    "posts": "Publications",
+    "followers": "Abonnés",
+    "following": "Abonnements"
+  },
+  "reviews": {
+    "title": "Avis",
+    "swipeHint": "Faites glisser pour en voir plus",
+    "leaveReview": "Laisser un avis sur Google"
+  },
+  "video": {
+    "title": "Découvrez la Cappadoce",
+    "description": "Admirez la beauté époustouflante de la Cappadoce à travers notre voyage immersif"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Pour toute question ou information, écrivez-nous.",
+    "workingHours": "Lun - Dim : 9h00 à 20h00",
+    "form": {
+      "name": "Nom complet",
+      "email": "E-mail",
+      "message": "Message",
+      "submit": "Envoyer par e-mail"
+    }
+  },
+  "transfer": {
+    "badge": "Transport Premium",
+    "titlePart1": "Besoin d'un Transfert Aéroport ou ",
+    "titlePart2": "Service Navette?",
+    "description": "Profitez de services de transport confortables et fiables dans toute la Cappadoce. Chauffeurs professionnels, véhicules modernes et prix compétitifs pour tous vos besoins de transfert.",
+    "feature1": "Transferts Aéroport 24/7",
+    "feature2": "Services de Navette Hôtel",
+    "feature3": "Options Privées et Partagées",
+    "feature4": "Chauffeurs Professionnels",
+    "ctaButton": "Réservez Votre Transfert Maintenant",
+    "badge1": "Disponible 24/7",
+    "badge2": "Meilleur Prix"
+  }
+}

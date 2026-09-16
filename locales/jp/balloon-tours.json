@@ -1,0 +1,301 @@
+{
+  "balloon": {
+    "standard": {
+      "hero": {
+        "badge": "✨ プレミアム体験",
+        "title1": "スタンダード・フライト",
+        "title2": "カッパドキアの夢が叶う",
+        "subtitle": "丁寧に設計されたスタンダード・フライトで、空から眺めるカッパドキアの魔法のような景観を。すべての瞬間が忘れられない思い出になります。",
+        "duration": "60分フライト",
+        "capacity": "最大32名",
+        "launch": "日の出フライト"
+      },
+      "main": {
+        "title": "フライト体験",
+        "subtitle": "雲の上の旅",
+        "premium": "プレミアム",
+        "experience": "体験",
+        "desc": {
+          "desc": "私たちの ",
+          "highlight": "スタンダード熱気球フライト",
+          "rest": "で、空の特別な旅へ。綿密に作り込まれたこの体験は、カッパドキアの息をのむ美しさを味わう最適な入口。プレミアム熱気球で、冒険と快適さを両立します。"
+        },
+        "inclusions": {
+          "title": "プレミアム特典",
+          "transfer": {
+            "title": "プレミアム送迎サービス",
+            "desc": "高級ホテル送迎"
+          },
+          "safety": {
+            "title": "安全＆保険",
+            "desc": "充実の乗客保護"
+          },
+          "champagne": {
+            "title": "シャンパン・セレブレーション",
+            "desc": "着陸後の伝統的な乾杯"
+          },
+          "certificate": {
+            "title": "フライト証明書",
+            "desc": "お名前入りの記念証"
+          },
+          "breakfast": {
+            "title": "軽食",
+            "desc": "フライト前のドリンク＆スナック"
+          }
+        },
+        "stats": {
+          "flight_duration": {
+            "label": "分",
+            "desc": "飛行時間"
+          },
+          "max_guests": {
+            "label": "最大人数",
+            "desc": "バスケットあたり"
+          },
+          "launch_time": {
+            "label": "朝の離陸",
+            "desc": "日の出時刻"
+          }
+        },
+        "gallery": {
+          "title": "体験ギャラリー",
+          "desc": "空であなたを待つ景色"
+        }
+      },
+      "booking": {
+        "header": "フライトを予約",
+        "desc": "天上の座席を確保",
+        "date": "日付を選択",
+        "passengers": {
+          "title": "搭乗者を選択",
+          "adults": {
+            "title": "大人",
+            "desc": "13歳以上"
+          },
+          "children": {
+            "title": "子ども",
+            "desc": "6〜12歳"
+          }
+        },
+        "details": {
+          "title": "お客様情報",
+          "name": "氏名",
+          "email": "メールアドレス",
+          "phone": "電話番号",
+          "phonedesc": "任意入力ですが、迅速なご連絡のためご記入をおすすめします。"
+        },
+        "summary": {
+          "title": "予約概要",
+          "date": "選択した日付:",
+          "guests": "合計人数:",
+          "price": "料金の詳細はお問い合わせ後にご案内します",
+          "reserve_button": "冒険を予約",
+          "secure_booking": "🔒 安全な予約 • 今はお支払い不要",
+          "cancellation": {
+            "title": "無料キャンセルと返金",
+            "description": "開始時刻の24時間前までキャンセル可能です"
+          },
+          "whatsapp_contact": "WhatsAppでお問い合わせ"
+        }
+      }
+    },
+    "comfort": {
+      "hero": {
+        "badge": "✨ コンフォート強化体験",
+        "title1": "コンフォート・フライト",
+        "title2": "快適性と性能を強化",
+        "subtitle": "ゆったり28名用のバスケットと、50万立方フィート級のバルーンで安定性と性能を高め、カッパドキアの谷をより快適に遊覧します。",
+        "duration": "60分フライト",
+        "capacity": "最大28名",
+        "launch": "日の出フライト"
+      },
+      "main": {
+        "title": "コンフォート・フライト体験",
+        "subtitle": "快適性と性能を両立",
+        "premium": "プレミアム",
+        "experience": "体験",
+        "desc": {
+          "desc": "強化された ",
+          "highlight": "コンフォート熱気球フライト",
+          "rest": "は、ゆとりある28名用バスケットと強力な50万立方フィート級バルーンを採用。最低1時間の滞空で、より高い安定性と快適さを実現し、カッパドキアの谷と奇岩群を心ゆくまで満喫できます。"
+        },
+        "inclusions": {
+          "title": "プレミアム特典",
+          "transfer": {
+            "title": "プレミアム送迎サービス",
+            "desc": "高級ホテル送迎"
+          },
+          "breakfast": {
+            "title": "軽食",
+            "desc": "フライト前のドリンク＆スナック"
+          },
+          "safety": {
+            "title": "安全＆保険",
+            "desc": "充実の乗客保護"
+          },
+          "champagne": {
+            "title": "シャンパン・セレブレーション",
+            "desc": "着陸後の伝統的な乾杯"
+          },
+          "certificate": {
+            "title": "フライト証明書",
+            "desc": "お名前入りの記念証"
+          }
+        },
+        "stats": {
+          "flight_duration": {
+            "label": "分",
+            "desc": "飛行時間"
+          },
+          "max_guests": {
+            "label": "最大人数",
+            "desc": "バスケットあたり"
+          },
+          "launch_time": {
+            "label": "朝の離陸",
+            "desc": "日の出時刻"
+          }
+        },
+        "gallery": {
+          "title": "体験ギャラリー",
+          "desc": "空であなたを待つ景色"
+        }
+      },
+      "booking": {
+        "header": "フライトを予約",
+        "desc": "天上の座席を確保",
+        "date": "日付を選択",
+        "passengers": {
+          "title": "搭乗者を選択",
+          "adults": {
+            "title": "大人",
+            "desc": "13歳以上"
+          },
+          "children": {
+            "title": "子ども",
+            "desc": "6〜12歳"
+          }
+        },
+        "details": {
+          "title": "お客様情報",
+          "name": "氏名 *",
+          "email": "メールアドレス *",
+          "phone": "電話番号",
+          "phonedesc": "任意入力ですが、迅速なご連絡のためご記入をおすすめします。"
+        },
+        "summary": {
+          "title": "予約概要",
+          "date": "選択した日付:",
+          "guests": "合計人数:",
+          "price": "料金の詳細はお問い合わせ後にご案内します",
+          "reserve_button": "冒険を予約",
+          "secure_booking": "🔒 安全な予約 • 今はお支払い不要",
+          "cancellation": {
+            "title": "無料キャンセルと返金",
+            "description": "開始時刻の24時間前までキャンセル可能です"
+          },
+          "whatsapp_contact": "WhatsAppでお問い合わせ"
+        }
+      }
+    },
+    "private": {
+      "hero": {
+        "badge": "✨ 究極のラグジュアリー",
+        "title1": "プライベート・フライト",
+        "title2": "親密で独占的なアドベンチャー",
+        "subtitle": "特別設計の24名用バスケットを20名に限定。最大限の快適さとパーソナルスペースで、最上級のラグジュアリーとプライバシーをお届けします。",
+        "duration": "60分フライト",
+        "capacity": "最大20名",
+        "launch": "日の出フライト"
+      },
+      "main": {
+        "title": "プライベート・フライト体験",
+        "subtitle": "最上級の贅沢と親密さ",
+        "premium": "プレミアム",
+        "experience": "体験",
+        "desc": {
+          "desc": "私たちの ",
+          "highlight": "プライベート熱気球フライト",
+          "rest": "で、贅沢の極みを。特別設計の24名用バスケットを20名に制限し、パーソナルスペースを確保。空から眺めるカッパドキアの絶景を、理想的なプライベート空間でお楽しみください。"
+        },
+        "inclusions": {
+          "title": "エクスクルーシブ特典",
+          "transfer": {
+            "title": "プレミアム送迎サービス",
+            "desc": "高級ホテル送迎"
+          },
+          "safety": {
+            "title": "安全＆保険",
+            "desc": "充実の乗客保護"
+          },
+          "champagne": {
+            "title": "シャンパン・セレブレーション",
+            "desc": "着陸後の伝統的な乾杯"
+          },
+          "certificate": {
+            "title": "フライト証明書",
+            "desc": "お名前入りの記念証"
+          },
+          "breakfast": {
+            "title": "軽食",
+            "desc": "フライト前のドリンク＆スナック"
+          }
+        },
+        "stats": {
+          "flight_duration": {
+            "label": "分",
+            "desc": "飛行時間"
+          },
+          "max_guests": {
+            "label": "最大人数",
+            "desc": "バスケットあたり"
+          },
+          "launch_time": {
+            "label": "朝の離陸",
+            "desc": "日の出時刻"
+          }
+        },
+        "gallery": {
+          "title": "体験ギャラリー",
+          "desc": "空であなたを待つ景色"
+        }
+      },
+      "booking": {
+        "header": "フライトを予約",
+        "desc": "天上の座席を確保",
+        "date": "日付を選択",
+        "passengers": {
+          "title": "搭乗者を選択",
+          "adults": {
+            "title": "大人",
+            "desc": "13歳以上"
+          },
+          "children": {
+            "title": "子ども",
+            "desc": "6〜12歳"
+          }
+        },
+        "details": {
+          "title": "お客様情報",
+          "name": "氏名 *",
+          "email": "メールアドレス *",
+          "phone": "電話番号",
+          "phonedesc": "任意入力ですが、迅速なご連絡のためご記入をおすすめします。"
+        },
+        "summary": {
+          "title": "予約概要",
+          "date": "選択した日付:",
+          "guests": "合計人数:",
+          "price": "料金の詳細はお問い合わせ後にご案内します",
+          "reserve_button": "冒険を予約",
+          "secure_booking": "🔒 安全な予約 • 今はお支払い不要",
+          "cancellation": {
+            "title": "無料キャンセルと返金",
+            "description": "開始時刻の24時間前までキャンセル可能です"
+          },
+          "whatsapp_contact": "WhatsAppでお問い合わせ"
+        }
+      }
+    }
+  }
+}

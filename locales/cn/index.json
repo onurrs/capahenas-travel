@@ -1,0 +1,215 @@
+{
+  "hero": {
+    "badge": "高端旅行体验",
+    "title1": "畅游土耳其",
+    "title2": "与 Capahenas Travel 一起",
+    "desc": "我们为宾客提供真实的土耳其体验，让他们终生难忘！",
+    "discover": "了解更多"
+  },
+  "value": {
+    "title": "您在卡帕多奇亚和土耳其值得信赖的旅行伙伴",
+    "desc": "卡帕多奇亚位于中安纳托利亚，以独特的火山地貌、古老的洞穴城市和壮观的热气球飞行而闻名。与 Capahenas Travel 一起探索格雷梅、凯马克勒和代林库尤，我们提供全方位的旅行服务，为您带来难忘的体验。",
+    "years": "年",
+    "guests": "宾客",
+    "rating": "评分"
+  },
+  "balloon": {
+    "titleAccent": "热气球",
+    "titleRest": "之旅",
+    "badge": "精选体验",
+    "desc": "通过我们的高端热气球探险，从空中欣赏卡帕多奇亚令人叹为观止的景色。",
+    "standardTitle": "标准",
+    "flight": "飞行",
+    "standardDesc": "Capahenas 标准热气球之旅是一种简单却令人难忘的方式，从高空欣赏卡帕多奇亚的壮丽景色。非常适合希望专注于奇幻风景的旅客，这些航班约持续 1 小时，让您充分领略精灵烟囱、峡谷和梦幻般的地貌。采用 32 人篮筐操作，Capahenas 确保安全、舒适且经济实惠的体验。",
+    "highlights": "飞行亮点",
+    "capacity": "热气球容量",
+    "capacity32": "24–32 名乘客",
+    "flightTime": "飞行时间",
+    "flightTimeSunrise": "日出时",
+    "flightDuration": "飞行时长",
+    "flightDuration60": "60 分钟",
+    "whatsIncluded": "包含内容",
+    "pickupDropoff": "接送服务",
+    "lightBreakfast": "简易早餐",
+    "passengerInsurance": "乘客保险",
+    "champagneToast": "香槟祝酒",
+    "flightCertificate": "飞行证书",
+    "comfortTitle": "舒适",
+    "comfortDesc": "Capahenas 舒适热气球之旅提供至少 1 小时的飞行时间，让您充分欣赏卡帕多奇亚的壮丽山谷和独特地貌。使用宽敞的 28 人篮筐，提供更舒适、愉快的体验。我们使用 50 万立方英尺的热气球，以获得更好的升力和控制。Capahenas 舒适航班全年运营（视天气情况而定），为您带来平稳且难忘的飞行体验。",
+    "capacity28": "16–20 名乘客",
+    "privateTitle": "私人",
+    "privateDesc": "Capahenas 私人热气球之旅为您提供更私密、高端的卡帕多奇亚空中体验。采用特别设计的 24 人篮筐，最多仅限 20 位客人，确保充足空间与舒适度。约 60 分钟的飞行时间，让您尽情欣赏迷人的山谷和岩石地貌。非常适合重视舒适与私密性的旅客，Capahenas 私人航班为您带来精致的空中体验。",
+    "capacity20": "20 名乘客"
+  },
+  "popular": {
+    "title": "卡帕多奇亚热门旅行团",
+    "redTitle": "红色之旅 卡帕多奇亚",
+    "redDesc": "参观精灵烟囱、地下城市和奇特岩石地貌。",
+    "greenTitle": "绿色之旅 卡帕多奇亚",
+    "greenDesc": "探索伊赫拉拉峡谷、塞利梅修道院和自然奇观。",
+    "blueTitle": "蓝色之旅 卡帕多奇亚",
+    "blueDesc": "发现卡帕多奇亚鲜为人知的山谷与隐藏景点。",
+    "mixTitle": "混合之旅 卡帕多奇亚",
+    "mixDesc": "红色与绿色路线的精华合并在一天内完成。",
+    "privateTitle": "私人之旅 卡帕多奇亚",
+    "privateDesc": "配备私人导游和车辆的定制行程。",
+    "camelTitle": "骆驼骑行之旅",
+    "camelDesc": "穿越精灵烟囱的独特骆驼体验。",
+    "horseTitle": "骑马之旅",
+    "horseDesc": "在日落时分穿越山谷的神奇骑行体验。",
+    "atvTitle": "全地形车之旅",
+    "atvDesc": "刺激的日落全地形车探险之旅。",
+    "classicTitle": "经典汽车之旅",
+    "classicDesc": "乘坐精心修复的复古汽车穿越美丽风景。",
+    "jeepTitle": "吉普车探险 卡帕多奇亚",
+    "jeepDesc": "驾驶吉普穿越崎岖的山谷与峡谷。",
+    "potteryTitle": "制陶体验",
+    "potteryDesc": "与大师工匠一起进行动手制陶课程。",
+    "photoshootTitle": "摄影之旅",
+    "photoshootDesc": "在最美景点进行专业摄影拍摄。",
+    "dervishTitle": "旋转舞者表演",
+    "dervishDesc": "神秘的苏菲仪式与传统旋转舞表演。",
+    "turkishBathTitle": "土耳其浴（哈曼）",
+    "turkishBathDesc": "体验带有传统疗法的正宗土耳其浴。",
+    "turkishNightTitle": "土耳其之夜表演",
+    "turkishNightDesc": "民俗舞蹈、音乐与传统晚餐的文化之夜。"
+  },
+  "turkey": {
+    "title": "土耳其旅行团",
+    "view-button": "查看",
+    "pamukkale": {
+      "title": "帕穆克卡莱一日游",
+      "desc": "棉花堡与古城遗址"
+    },
+    "ephesus": {
+      "title": "以弗所一日游",
+      "desc": "古罗马城市"
+    },
+    "aspendos": {
+      "title": "佩尔盖 阿斯潘多斯 西代 之旅",
+      "desc": "古老城市"
+    },
+    "antalya": {
+      "title": "安塔利亚城市之旅",
+      "desc": "老城区与瀑布"
+    },
+    "demre": {
+      "title": "代姆雷 米拉 凯科瓦 之旅",
+      "desc": "历史与蓝色航线"
+    },
+    "pamukkaleFromAntalya": {
+      "title": "从安塔利亚出发的帕穆克卡莱之旅",
+      "desc": "棉花堡与古城遗址（从安塔利亚出发）"
+    },
+    "mag1": {
+      "title": "4日游：卡帕多奇亚、帕穆克卡莱与以弗所",
+      "desc": "多城市套餐行程"
+    },
+    "mag2": {
+      "title": "6日游：伊斯坦布尔与卡帕多奇亚",
+      "desc": "伊斯坦布尔与卡帕多奇亚套餐"
+    },
+    "mag3": {
+      "title": "4日游：卡帕多奇亚、帕穆克卡莱与以弗所",
+      "desc": "多城市套餐 | 含导游服务"
+    },
+    "mag4": {
+      "title": "5日游：伊斯坦布尔与以弗所",
+      "desc": "丰富的历史探索"
+    },
+    "mag5": {
+      "title": "6日土耳其之旅",
+      "desc": "6天畅游土耳其精华景点。"
+    },
+    "mag6": {
+      "title": "8日土耳其之旅",
+      "desc": "伊斯坦布尔、卡帕多奇亚、以弗所、帕穆克卡莱"
+    },
+    "mag7": {
+      "title": "4日伊斯坦布尔之旅",
+      "desc": "4天探索伊斯坦布尔的最佳景点。"
+    },
+    "mag8": {
+      "title": "5日游：伊斯坦布尔、多尔玛巴赫切与布尔萨",
+      "desc": "文化与历史的丰富体验"
+    },
+    "mag9": {
+      "title": "6日游：伊斯坦布尔、布尔萨与王子群岛",
+      "desc": "享受王子群岛的宁静之美。"
+    }
+  },
+  "destinations": {
+    "title": "目的地",
+    "goreme": {
+      "title": "格雷梅露天博物馆"
+    },
+    "kaymakli": {
+      "title": "凯马克勒地下城"
+    },
+    "derinkuyu": {
+      "title": "代林库尤地下城"
+    },
+    "ihlara": {
+      "title": "伊赫拉拉峡谷"
+    },
+    "soganli": {
+      "title": "索甘勒峡谷"
+    },
+    "selime": {
+      "title": "塞利梅修道院"
+    },
+    "pasabag": {
+      "title": "帕萨巴（僧侣谷）"
+    },
+    "uchisar": {
+      "title": "乌奇希萨尔城堡"
+    },
+    "cavusin": {
+      "title": "恰武辛村"
+    },
+    "zelve": {
+      "title": "泽尔韦露天博物馆"
+    }
+  },
+  "gallery": {
+    "title": "图库",
+    "subtitle": "照片画廊",
+    "share": "分享",
+    "posts": "帖子",
+    "followers": "关注者",
+    "following": "关注中"
+  },
+  "reviews": {
+    "title": "评论",
+    "swipeHint": "滑动查看更多",
+    "leaveReview": "在 Google 上留下评论"
+  },
+  "video": {
+    "title": "体验卡帕多奇亚",
+    "description": "通过我们的沉浸式旅程欣赏卡帕多奇亚的壮丽美景"
+  },
+  "contact": {
+    "title": "联系我们",
+    "description": "如有疑问或需要信息，请与我们联系。",
+    "workingHours": "周一 - 周日：上午9点至晚上8点",
+    "form": {
+      "name": "全名",
+      "email": "电子邮箱",
+      "message": "留言",
+      "submit": "通过电子邮件发送"
+    }
+  },
+  "transfer": {
+    "badge": "优质交通服务",
+    "titlePart1": "需要机场接送或",
+    "titlePart2": "班车服务吗？",
+    "description": "在卡帕多西亚全境享受舒适可靠的交通服务。专业司机、现代车辆、满足您所有接送需求的具有竞争力的价格。",
+    "feature1": "24/7机场接送",
+    "feature2": "酒店班车服务",
+    "feature3": "私人和共享选项",
+    "feature4": "专业司机",
+    "ctaButton": "立即预订您的接送",
+    "badge1": "24小时营业",
+    "badge2": "最优价格"
+  }
+}

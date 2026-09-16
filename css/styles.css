@@ -1,0 +1,437 @@
+.international-tour-card {
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+[data-i18n^="international."][data-i18n$=".desc"] {
+  white-space: pre-line;
+}
+
+.international-tour-route {
+  display: block;
+  margin-top: 0.35rem;
+  font-size: 0.75em;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+
+.international-tour-card:hover {
+  transform: translateY(-3px);
+}
+
+.international-tour-card--popular {
+  border: 1.5px solid #e28755;
+  box-shadow: 0 8px 24px rgba(226, 135, 85, 0.2);
+}
+
+.international-tour-card__media {
+  position: relative;
+}
+
+.international-tour-card__badge {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 1;
+  padding: 5px 9px;
+  border-radius: 999px;
+  background: #e28755;
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  line-height: 1.2;
+  box-shadow: 0 3px 8px rgba(15, 23, 42, 0.2);
+}
+
+.international-tour-card__cta {
+  border: 1px solid #e28755;
+  color: #b85f32;
+  background: transparent;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.international-tour-card__cta:hover {
+  color: #081025;
+  background: rgba(226, 135, 85, 0.12);
+}
+
+.international-tour-card__cta--filled {
+  border-color: #e28755;
+  color: #081025;
+  background: linear-gradient(to right, #dca47c, #ffd3b6);
+}
+
+.international-tour-card__cta--filled:hover {
+  border-color: #c96f3f;
+  color: #081025;
+  background: linear-gradient(to right, #dca47c, #ffeadb, #ffeadb, #ffeadb, #dca47c);
+  box-shadow: 0 0 0 2px rgba(226, 135, 85, 0.22), 0 4px 10px rgba(226, 135, 85, 0.24);
+}
+
+:root {
+  --radius: 12px;
+  --color-text: #0F172A;
+  --color-muted: #64748B;
+  --color-accent1: #BE185D;
+}
+
+/* SweetAlert2 Custom Styles */
+.swal2-popup {
+  border-radius: 12px;
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+.swal2-title {
+  font-family: 'Playfair Display', serif;
+  color: var(--color-text);
+}
+
+.swal-html-container {
+  margin: 1rem 0;
+}
+
+.swal-html-container .bg-gray-50 {
+  background-color: #f9fafb;
+  border-radius: 8px;
+}
+
+.swal2-confirm {
+  background: linear-gradient(to right, #DCA47C, #FFD3B6) !important;
+  border: none !important;
+  border-radius: 8px !important;
+  font-weight: 600 !important;
+}
+
+/* Sticky header support */
+header {
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 40 !important;
+}
+
+.container-max {
+  max-width: 1200px;
+}
+
+.text-text {
+  color: var(--color-text);
+}
+
+.text-muted {
+  color: var(--color-muted);
+}
+
+.text-accent1 {
+  color: var(--color-accent1);
+}
+
+.font-playfair {
+  font-family: 'Playfair Display', serif;
+}
+
+/* GLightbox fit-to-viewport for images */
+.glightbox-container { overflow: hidden; outline: none; }
+
+/* Custom Swiper Navigation */
+.swiper-button-next,
+.swiper-button-prev {
+    width: 40px !important;
+    height: 40px !important;
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    color: #0F172A !important;
+}
+
+.swiper-button-next:after,
+.swiper-button-prev:after {
+    font-size: 18px !important;
+    font-weight: bold;
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+    background-color: #f8f8f8;
+}
+
+/* Reviews Section Container - Position buttons relative to this */
+section[aria-labelledby="reviews-title"] {
+    position: relative;
+}
+
+section[aria-labelledby="reviews-title"] .container-max {
+    position: relative;
+    padding: 0 60px; /* Add padding to make space for buttons */
+}
+
+/* Reviews Swiper Navigation - Keep content overflow hidden */
+#reviews-swiper {
+    position: relative;
+    overflow: hidden !important; /* Hide overflowing slides */
+    margin: 0; /* Remove margin, use container padding instead */
+}
+
+/* Position buttons relative to the section, not the swiper */
+section[aria-labelledby="reviews-title"] .swiper-button-next,
+section[aria-labelledby="reviews-title"] .swiper-button-prev {
+    position: absolute !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+    z-index: 10 !important;
+    margin-top: 0 !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    width: 40px !important;
+    height: 40px !important;
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    color: #0F172A !important;
+}
+
+section[aria-labelledby="reviews-title"] .swiper-button-prev {
+    left: 10px !important;
+}
+
+section[aria-labelledby="reviews-title"] .swiper-button-next {
+    right: 10px !important;
+}
+
+/* Responsive button positioning */
+@media (max-width: 1024px) {
+    section[aria-labelledby="reviews-title"] .container-max {
+        padding: 0 50px; /* Reduce padding on medium screens */
+    }
+}
+
+@media (max-width: 768px) {
+    section[aria-labelledby="reviews-title"] .container-max {
+        padding: 0 16px; /* Reset to normal padding on mobile */
+    }
+    
+    section[aria-labelledby="reviews-title"] .swiper-button-next,
+    section[aria-labelledby="reviews-title"] .swiper-button-prev {
+        display: none !important;
+    }
+}
+.glightbox-open { overflow: hidden; }
+.glightbox .ginner-container,
+.glightbox-clean .ginner-container,
+.glightbox-modern .ginner-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+.glightbox .gslide,
+.glightbox-clean .gslide,
+.glightbox-modern .gslide {
+  width: 100vw;
+  height: 100vh;
+}
+.glightbox-clean .gslide-media,
+.glightbox-modern .gslide-media,
+.glightbox .gslide-media {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  max-height: 100%;
+}
+.glightbox-clean .gslide-image img,
+.glightbox-modern .gslide-image img,
+.glightbox .gslide-image img {
+  width: auto !important;
+  height: auto !important;
+  max-width: calc(100vw - 32px) !important;
+  max-height: calc(100vh - 32px) !important;
+  object-fit: contain !important;
+}
+
+
+/* ---- Scroll reveal animations ---- */
+.animate-init { opacity: 0; transform: translateY(24px); }
+.animate-in { opacity: 1; transform: translateY(0); }
+.anim-fade-in.animate-init { transform: none; }
+.anim-slide-left.animate-init { transform: translateX(-28px); }
+.anim-slide-right.animate-init { transform: translateX(28px); }
+.anim-zoom.animate-init { transform: scale(.96); }
+.animate-init, .animate-in {
+  transition: opacity .7s ease, transform .7s ease;
+}
+/* Stagger helper */
+[data-anim-child] { transition-delay: var(--d, 0ms); }
+
+/* Swipe Indicator Animations */
+@keyframes slide-left {
+  0% { 
+    opacity: 0.3; 
+    transform: translateX(0px); 
+  }
+  50% { 
+    opacity: 1; 
+    transform: translateX(-8px); 
+  }
+  100% { 
+    opacity: 0.3; 
+    transform: translateX(-16px); 
+  }
+}
+
+.animate-slide-left {
+  animation: slide-left 2s ease-in-out infinite;
+}
+
+#swipe-hint {
+  animation: fadeInOut 4s ease-in-out infinite;
+}
+
+@keyframes fadeInOut {
+  0%, 100% { 
+    opacity: 0.4; 
+  }
+  50% { 
+    opacity: 0.8; 
+  }
+}
+
+/* Hide swipe hint after interaction */
+#reviews-swiper.swiper-initialized ~ * #swipe-hint {
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+/* Reviews Swiper Custom Styles */
+.reviews-swiper {
+  padding: 20px 0 50px 0 !important;
+  overflow: visible;
+}
+
+.reviews-swiper .swiper-slide {
+  height: auto;
+}
+
+/* External Navigation Buttons */
+.reviews-prev-external,
+.reviews-next-external {
+  transition: all 0.3s ease;
+}
+
+.reviews-prev-external:hover,
+.reviews-next-external:hover {
+  transform: scale(1.05);
+}
+
+.reviews-prev-external:disabled,
+.reviews-next-external:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+.reviews-prev-external:disabled:hover,
+.reviews-next-external:disabled:hover {
+  background: white !important;
+  border-color: #e5e7eb !important;
+  transform: none !important;
+}
+
+/* Custom Pagination */
+.reviews-swiper .swiper-pagination {
+  position: relative;
+  margin-top: 20px;
+}
+
+.reviews-swiper .swiper-pagination-bullet {
+  width: 8px;
+  height: 8px;
+  background: #cbd5e1;
+  opacity: 1;
+  transition: all 0.3s ease;
+}
+
+.reviews-swiper .swiper-pagination-bullet-active {
+  background: #DCA47C;
+  transform: scale(1.2);
+}
+
+/* Review Card Styling */
+.line-clamp-6 {
+  display: -webkit-box;
+  -webkit-line-clamp: 6;
+  line-clamp: 6;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  .reviews-swiper {
+    padding: 10px 0 40px 0 !important;
+  }
+  
+  .reviews-swiper .swiper-button-next,
+  .reviews-swiper .swiper-button-prev {
+    width: 36px;
+    height: 36px;
+    margin-top: -18px;
+  }
+  
+  .reviews-swiper .swiper-button-next::after,
+  .reviews-swiper .swiper-button-prev::after {
+    font-size: 14px;
+  }
+}
+
+/* Customize scrollbar for review text */
+.review-text-container::-webkit-scrollbar {
+  width: 4px;
+}
+
+.review-text-container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 2px;
+}
+
+.review-text-container::-webkit-scrollbar-thumb {
+  background: #DCA47C;
+  border-radius: 2px;
+}
+
+/* Turkey Tours Cards Alignment */
+#turkey-tours .grid {
+  align-items: stretch;
+}
+
+#turkey-tours article {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+#turkey-tours article .p-3 {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+#turkey-tours article .mt-3 {
+  margin-top: auto;
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .animate-init, .animate-in { transition: none; opacity: 1 !important; transform: none !important; }
+  .animate-slide-left, #swipe-hint { animation: none !important; }
+  .reviews-swiper .swiper-button-next,
+  .reviews-swiper .swiper-button-prev,
+  .reviews-swiper .swiper-pagination-bullet {
+    transition: none !important;
+  }
+  .review-text-container::-webkit-scrollbar-thumb,
+  .review-text-container::after {
+    transition: none !important;
+  }
+}
+

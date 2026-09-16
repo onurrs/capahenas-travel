@@ -1,0 +1,301 @@
+{
+  "balloon": {
+    "standard": {
+      "hero": {
+        "badge": "✨ Expérience Premium",
+        "title1": "Vol Standard",
+        "title2": "Les rêves de Cappadoce deviennent réalité",
+        "subtitle": "Vivez les paysages magiques de la Cappadoce depuis le ciel grâce à notre vol standard soigneusement conçu. Chaque instant devient un souvenir inoubliable.",
+        "duration": "Vol de 60 minutes",
+        "capacity": "Jusqu’à 32 passagers",
+        "launch": "Décollage au lever du soleil"
+      },
+      "main": {
+        "title": "Expérience de vol",
+        "subtitle": "Votre voyage au‑dessus des nuages",
+        "premium": "Premium",
+        "experience": "Expérience",
+        "desc": {
+          "desc": "Embarquez pour un voyage extraordinaire dans le ciel avec notre ",
+          "highlight": "Vol en montgolfière Standard",
+          "rest": "Cette expérience pensée avec soin offre l’introduction idéale à la beauté à couper le souffle de la Cappadoce, alliant aventure et confort dans nos montgolfières premium."
+        },
+        "inclusions": {
+          "title": "Prestations Premium",
+          "transfer": {
+            "title": "Service de transfert Premium",
+            "desc": "Prise en charge et dépose à l’hôtel (luxe)"
+          },
+          "safety": {
+            "title": "Sécurité & Assurance",
+            "desc": "Protection complète des passagers"
+          },
+          "champagne": {
+            "title": "Célébration au champagne",
+            "desc": "Toast traditionnel après le vol"
+          },
+          "certificate": {
+            "title": "Certificat de vol",
+            "desc": "Souvenir personnalisé de votre réussite"
+          },
+          "breakfast": {
+            "title": "Petit‑déjeuner léger",
+            "desc": "Collations avant le vol incluses"
+          }
+        },
+        "stats": {
+          "flight_duration": {
+            "label": "Minutes",
+            "desc": "Durée du vol"
+          },
+          "max_guests": {
+            "label": "Max. passagers",
+            "desc": "Par nacelle"
+          },
+          "launch_time": {
+            "label": "Décollage (matin)",
+            "desc": "Heure du lever du soleil"
+          }
+        },
+        "gallery": {
+          "title": "Galerie d’expérience",
+          "desc": "Ce qui vous attend dans le ciel"
+        }
+      },
+      "booking": {
+        "header": "Réservez votre vol",
+        "desc": "Assurez‑vous une place au paradis",
+        "date": "Sélectionnez la date",
+        "passengers": {
+          "title": "Choisir les passagers",
+          "adults": {
+            "title": "Adultes",
+            "desc": "Âge 13+"
+          },
+          "children": {
+            "title": "Enfants",
+            "desc": "Âge 6–12"
+          }
+        },
+        "details": {
+          "title": "Vos informations",
+          "name": "Nom complet",
+          "email": "Adresse e‑mail",
+          "phone": "Numéro de téléphone",
+          "phonedesc": "Ce champ est facultatif, mais nous vous conseillons de le renseigner pour une réponse plus rapide."
+        },
+        "summary": {
+          "title": "Récapitulatif de réservation",
+          "date": "Date sélectionnée :",
+          "guests": "Nombre total de passagers :",
+          "price": "Les détails tarifaires seront fournis sur demande",
+          "reserve_button": "Réserver votre aventure",
+          "secure_booking": "🔒 Réservation sécurisée • Aucun paiement requis maintenant",
+          "cancellation": {
+            "title": "Annulation & Remboursement gratuits",
+            "description": "La visite peut être annulée jusqu’à 24 h avant l’heure de départ"
+          },
+          "whatsapp_contact": "Contactez‑nous sur WhatsApp"
+        }
+      }
+    },
+    "comfort": {
+      "hero": {
+        "badge": "✨ Confort renforcé",
+        "title1": "Vol Comfort",
+        "title2": "Performances et confort améliorés",
+        "subtitle": "Découvrez les vallées de Cappadoce avec un confort accru dans nos nacelles spacieuses de 28 personnes, équipées de ballons de 500 000 pieds³ pour une stabilité supérieure.",
+        "duration": "Vol de 60 minutes",
+        "capacity": "Jusqu’à 28 passagers",
+        "launch": "Décollage au lever du soleil"
+      },
+      "main": {
+        "title": "Expérience Vol Comfort",
+        "subtitle": "Confort et performances accrus",
+        "premium": "Premium",
+        "experience": "Expérience",
+        "desc": {
+          "desc": "Profitez du ",
+          "highlight": "Vol en montgolfière Comfort",
+          "rest": "avec des nacelles spacieuses de 28 personnes et nos ballons puissants de 500 000 pieds³. Cette expérience premium garantit au minimum 1 heure en l’air avec une stabilité renforcée, pour un voyage confortable et mémorable au‑dessus des vallées et formations uniques de Cappadoce."
+        },
+        "inclusions": {
+          "title": "Prestations Premium",
+          "transfer": {
+            "title": "Service de transfert Premium",
+            "desc": "Prise en charge et dépose à l’hôtel (luxe)"
+          },
+          "breakfast": {
+            "title": "Petit‑déjeuner léger",
+            "desc": "Collations avant le vol incluses"
+          },
+          "safety": {
+            "title": "Sécurité & Assurance",
+            "desc": "Protection complète des passagers"
+          },
+          "champagne": {
+            "title": "Célébration au champagne",
+            "desc": "Toast traditionnel après le vol"
+          },
+          "certificate": {
+            "title": "Certificat de vol",
+            "desc": "Souvenir personnalisé de votre réussite"
+          }
+        },
+        "stats": {
+          "flight_duration": {
+            "label": "Minutes",
+            "desc": "Durée du vol"
+          },
+          "max_guests": {
+            "label": "Max. passagers",
+            "desc": "Par nacelle"
+          },
+          "launch_time": {
+            "label": "Décollage (matin)",
+            "desc": "Heure du lever du soleil"
+          }
+        },
+        "gallery": {
+          "title": "Galerie d’expérience",
+          "desc": "Ce qui vous attend dans le ciel"
+        }
+      },
+      "booking": {
+        "header": "Réservez votre vol",
+        "desc": "Assurez‑vous une place au paradis",
+        "date": "Sélectionnez la date",
+        "passengers": {
+          "title": "Choisir les passagers",
+          "adults": {
+            "title": "Adultes",
+            "desc": "Âge 13+"
+          },
+          "children": {
+            "title": "Enfants",
+            "desc": "Âge 6–12"
+          }
+        },
+        "details": {
+          "title": "Vos informations",
+          "name": "Nom complet *",
+          "email": "Adresse e‑mail *",
+          "phone": "Numéro de téléphone",
+          "phonedesc": "Ce champ est facultatif, mais nous vous conseillons de le renseigner pour une réponse plus rapide."
+        },
+        "summary": {
+          "title": "Récapitulatif de réservation",
+          "date": "Date sélectionnée :",
+          "guests": "Nombre total de passagers :",
+          "price": "Les détails tarifaires seront fournis sur demande",
+          "reserve_button": "Réserver votre aventure",
+          "secure_booking": "🔒 Réservation sécurisée • Aucun paiement requis maintenant",
+          "cancellation": {
+            "title": "Annulation & Remboursement gratuits",
+            "description": "La visite peut être annulée jusqu’à 24 h avant l’heure de départ"
+          },
+          "whatsapp_contact": "Contactez‑nous sur WhatsApp"
+        }
+      }
+    },
+    "private": {
+      "hero": {
+        "badge": "✨ Expérience de luxe ultime",
+        "title1": "Vol Privé",
+        "title2": "Aventure intime et exclusive",
+        "subtitle": "Profitez du summum du luxe et de l’intimité avec notre Vol Privé. Limité à 20 passagers dans une nacelle spécialement conçue pour 24, afin d’offrir un espace personnel maximal.",
+        "duration": "Vol de 60 minutes",
+        "capacity": "Max 20 passagers",
+        "launch": "Décollage au lever du soleil"
+      },
+      "main": {
+        "title": "Expérience Vol Privé",
+        "subtitle": "Luxe et intimité ultimes",
+        "premium": "Premium",
+        "experience": "Expérience",
+        "desc": {
+          "desc": "Découvrez le summum du luxe avec notre ",
+          "highlight": "Vol en montgolfière Privé",
+          "rest": "Cette expérience exclusive offre un confort maximal et un grand espace personnel dans une nacelle de 24 places, limitée à seulement 20 passagers, créant une atmosphère intime pour admirer la beauté de la Cappadoce vue du ciel."
+        },
+        "inclusions": {
+          "title": "Prestations Exclusives",
+          "transfer": {
+            "title": "Service de transfert Premium",
+            "desc": "Prise en charge et dépose à l’hôtel (luxe)"
+          },
+          "safety": {
+            "title": "Sécurité & Assurance",
+            "desc": "Protection complète des passagers"
+          },
+          "champagne": {
+            "title": "Célébration au champagne",
+            "desc": "Toast traditionnel après le vol"
+          },
+          "certificate": {
+            "title": "Certificat de vol",
+            "desc": "Souvenir personnalisé de votre réussite"
+          },
+          "breakfast": {
+            "title": "Petit‑déjeuner léger",
+            "desc": "Collations avant le vol incluses"
+          }
+        },
+        "stats": {
+          "flight_duration": {
+            "label": "Minutes",
+            "desc": "Durée du vol"
+          },
+          "max_guests": {
+            "label": "Max. passagers",
+            "desc": "Par nacelle"
+          },
+          "launch_time": {
+            "label": "Décollage (matin)",
+            "desc": "Heure du lever du soleil"
+          }
+        },
+        "gallery": {
+          "title": "Galerie d’expérience",
+          "desc": "Ce qui vous attend dans le ciel"
+        }
+      },
+      "booking": {
+        "header": "Réservez votre vol",
+        "desc": "Assurez‑vous une place au paradis",
+        "date": "Sélectionnez la date",
+        "passengers": {
+          "title": "Choisir les passagers",
+          "adults": {
+            "title": "Adultes",
+            "desc": "Âge 13+"
+          },
+          "children": {
+            "title": "Enfants",
+            "desc": "Âge 6–12"
+          }
+        },
+        "details": {
+          "title": "Vos informations",
+          "name": "Nom complet *",
+          "email": "Adresse e‑mail *",
+          "phone": "Numéro de téléphone",
+          "phonedesc": "Ce champ est facultatif, mais nous vous conseillons de le renseigner pour une réponse plus rapide."
+        },
+        "summary": {
+          "title": "Récapitulatif de réservation",
+          "date": "Date sélectionnée :",
+          "guests": "Nombre total de passagers :",
+          "price": "Les détails tarifaires seront fournis sur demande",
+          "reserve_button": "Réserver votre aventure",
+          "secure_booking": "🔒 Réservation sécurisée • Aucun paiement requis maintenant",
+          "cancellation": {
+            "title": "Annulation & Remboursement gratuits",
+            "description": "La visite peut être annulée jusqu’à 24 h avant l’heure de départ"
+          },
+          "whatsapp_contact": "Contactez‑nous sur WhatsApp"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "destinations": {
+    "goreme": {
+      "badge": "🏛️ UNESCO Dünya Mirası",
+      "title": "Göreme Açık Hava Müzesi",
+      "subtitle": "Antik Kaya Kiliseleri ve Bizans Freskleri",
+      "description": "Tarihe adım atın ve volkanik kayalara oyulmuş Türkiye'nin en dikkat çekici Bizans sanatı ve mimarisi koleksiyonlarından birini keşfedin.",
+      "gallery": {
+        "title": "Fotoğraf Galerisi",
+        "subtitle": "Antik kaya kiliseleri ve Bizans freskleri"
+      },
+      "about": {
+        "title": "Müze Hakkında",
+        "subtitle": "Tarih ve önemi",
+        "paragraph1": "Yakınlardaki Erciyes Dağı yanardağı binlerce yıl önce patladı. Manzara, tüf kayalarına sertleşen kül ve lavla kaplandı. Rüzgar erozyonu, yüzyıllar boyunca bugün gördüğümüz peri bacalarını yavaş yavaş oluşturdu. Ancak, yerel halkın kayaları evlere ve kiliselere oyabileceğini fark etmeleri uzun sürmedi.",
+        "paragraph2": "Kapadokya, erken dönem Hıristiyanlar için bir sığınak yeriydi ve onlar burayı semboller ve sanatla süslediler. Kiliseler ayrıca, erken Hıristiyan teolojisini geliştiren üç Kapadokyalı Peder'den biri olan Kayseri'li Aziz Basil'in himayesi altında gelişti.",
+        "paragraph3": "4. yüzyıl kutsal alanları birçok Bizans sanatı örneği içerirken, sonraki yapılar daha zengin fresklere sahiptir. Bunlar duvarları ve tavanları İncil sahneleriyle süslerler. Birincil amaçları okuma yazma bilmeyenlere yardımcı olmaktı.",
+        "paragraph4": "Kapadokya'da Osmanlı yönetimi kurulduğunda mağaralar yerel halk tarafından güvercinlik olarak kullanıldı. Bu, tarihsel önemlerine rağmen oldu. Freskleri orijinal durumlarına geri döndürmek, birçok tarihçiye yıllar aldı. Fresklerin çoğu 1984'ten beri UNESCO Dünya Mirası Listesi'nin bir parçası. 9. yüzyıldan 12. yüzyıla kadar uzanırlar."
+      },
+      "churches": {
+        "title": "Ünlü Kiliseler",
+        "subtitle": "Tanınmış yerler",
+        "tokali": {
+          "name": "Tokalı Kilise - Tokali Church",
+          "description": "Bu kilise, İsa'nın ve 12 havarinin hayatını tasvir eden 9. yüzyıl fresklerini içerir. Dört bölme içerir, bunlardan biri Yeni Ahit sahnelerine ve Aziz Basil'in hayatına ve zamanlarına odaklanır."
+        },
+        "elmali": {
+          "name": "Elmalı Kilise - Apple Church",
+          "description": "Aynı derecede önemli olan bu yapı yaklaşık 1050 yılında inşa edilmiştir ve merkezi kubbeyi destekleyen sütunlara oyulmuş bir Yunan haçına sahiptir. Diğer İncil sahneleri arasında Son Akşam Yemeği'ni tasvir eder."
+        },
+        "barbara": {
+          "name": "Barbara Kilisesi",
+          "description": "11. yüzyıl Barbara Kilisesi, Hristiyanlığı uyguladığı için babası tarafından öldürülen Barbara adlı bir şehit onuruna yapılmıştır."
+        },
+        "yilanli": {
+          "name": "Yılanlı Kilise - Snake Church",
+          "description": "Bu kilise, George'un ejderhayı öldürmesini tasvir eden bir freskten dolayı adını alır. Alçak tavanı ve uzun bir nef'i vardır."
+        },
+        "carikli": {
+          "name": "Çarıklı Kilise - Sandals Church",
+          "description": "İsim, Göğe Yükseliş freskinin altında bulunan iki ayak izinden türetilmiştir. Duvar freskleri, Doğuş, Çarmıha Germe, Vaftiz ve Mecusilerin Tapınması dahil olmak üzere çeşitli temaları gösterir."
+        }
+      }
+    },
+    "kaymakli": {
+      "badge": "🏛️ Antik Yeraltı Şehri",
+      "title": "Kaymaklı Yeraltı Şehri",
+      "subtitle": "Kapadokya'nın En Büyük Yeraltı Şehirlerinden Biri",
+      "description": "8 katlı yeraltı şehri kompleksini, tüneller, odalar ve kayalara oyulmuş antik yaşam alanları labirentini keşfedin.",
+      "gallery": {
+        "title": "Fotoğraf Galerisi",
+        "subtitle": "Yeraltı şehri kompleksini keşfedin"
+      },
+      "about": {
+        "title": "Kaymaklı Yeraltı Şehri Hakkında",
+        "subtitle": "Tarih ve önemi",
+        "paragraph1": "Kaymaklı, Nevşehir'den 20 km uzakta bulunabilir. Bir zamanlar Yunanca'da Enegup olarak adlandırılıyordu. Bugün Kapadokya'nın en büyük yeraltı şehirlerinden biri olarak ünlüdür. Hitit, Frig dönemlerine kadar uzanan bir geçmişe sahiptir ve yıllar içinde genişletilmiştir. Orta Anadolu'dan ganimet ve esir arayan istilacılar, evlerini soymak için Orta Anadolu'ya geldiler. Bu mağaralar Cumhuriyet döneminde yerel çiftçiler tarafından ürünleri için depolama alanları ve hayvanları için ahır olarak kullanıldı. Daha sonra 1964'te turizm potansiyellerini fark ettiklerinde halka tanıtıldı.",
+        "paragraph2": "Kaymaklı Yeraltı Şehri, Kapadokya'nın ikinci en büyük yeraltı şehri kompleksi, Kapadokya'da bulunmaktadır. Sekiz katlı yeraltı şehri kompleksi, bir labirent, tüneller ve odalardan oluşur. Ancak, odaların yalnızca dördü halka açıktır. Bu alanlar ziyaretçiler için konfor sağlamak üzere elektriğe sahiptir. Giriş biletinizi aldıktan sonra aşağıyı gösteren kırmızı oklar ve yukarıyı gösteren mavi oklar göreceksiniz.",
+        "paragraph3": "Troglodyt mağara şehrinin birinci katında ahır vardı. Tüneller ve koridorlardan geçerken geçitleri kapatan yuvarlak değirmen taşı kapılar görülebilir. Daha derine indikçe bir kilise, yaşam alanları ve depolama yerleri bulacaksınız. Ayrıca en alta kadar inen havalandırma bacaları vardır.",
+        "paragraph4": "Kaymaklı yakınında Derinkuyu'da bulunan bir başka önemli yeraltı şehri bulunmaktadır. Bu, Kapadokya'daki en büyük troglodyt-mağara şehridir."
+      }
+    },
+    "derinkuyu": {
+      "badge": "🏛️ En Büyük Yeraltı Şehri",
+      "title": "Derinkuyu Yeraltı Şehri",
+      "subtitle": "Kapadokya'nın En Büyük Yeraltı Şehri",
+      "description": "MÖ 3000'e uzanan, 13 katlı ve yerin 85 metre altına ulaşan Kapadokya'nın en derin yeraltı şehrini keşfedin.",
+      "gallery": {
+        "title": "Fotoğraf Galerisi",
+        "subtitle": "Yeraltı şehri kompleksini keşfedin"
+      },
+      "about": {
+        "title": "Derinkuyu Yeraltı Şehri Hakkında",
+        "subtitle": "Tarih ve önemi",
+        "overview": "Genel Bakış",
+        "paragraph1": "MÖ 3000'deki Proto Hitit döneminde kurulan Kapadokya yeraltı şehirlerinin Bizans döneminde yoğun olarak kullanıldığına inanılmaktadır. Bu fikir, Roma dönemine ait olan ve Derinkuyu Yeraltı Şehri'nin bir bölgesinde bulunan mermer kartal heykeli ile doğrulanmaktadır. Halka açık değildir. 1071 Malazgirt Savaşı, Türklerin bölgeye geldiği zamandır.",
+        "paragraph2": "Roma zulmünden kaçan ilk Hıristiyanların Mezopotamya üzerinden Kayseri'ye ve oradan Kapadokya'ya geldikleri iyi bilinmektedir. Derinkuyu Yeraltı Şehri'nde yaşadılar. Bu Yeraltı Şehri ayrıca Asur Kolonilerinin kalıntılarını içerir. Bu gizli dünya, bulunması zor ve içeri girmesi zor olup ilk Hıristiyanları Roma askerleri ve Arap akıncılarına karşı korur. Ancak, gizemli mimarisi gezginlerin uzaylılar tarafından mı yaratıldığını merak etmesini sağlar.",
+        "paragraph3": "1830'lara kadar Kapadokya Derinkuyu'da yer üstünde yerleşim yoktu. Derinkuyu Yeraltı Şehri 1963'te tesadüfen bulundu ve 1967'de ziyaretçilere açıldı. Adı, 60-70m derinliğindeki 52 içme kuyusundan türemiştir. O zamandan beri toplam 4 km2'yi kapsayan sadece 8 kat açılmıştır. Halka açılan 8 katın derinliği 50m'dir. Ancak, tüm katlar temizlenmişse derinlik 85m'ye ve 12-13 kata ulaşabilir. Mimarideki uzaylılar hakkında en endişe verici şey, neredeyse 50 milyon insanın evlerinden hiç çıkmadan bu kadar uzun süre bu kadar derinlerde yaşayabilmesidir.",
+        "paragraph4": "Derinkuyu Yeraltı Şehri'nin 8 katı olduğunu hatırlatırız. Bazen dar tünellerden 50m aşağıya ulaşabilirsiniz. Klaustrofobiniz varsa bazı zorluklar yaşayabilirsiniz. Ancak, işiniz bittiğinde buna değdiğini söyleyebileceksiniz."
+      }
+    },
+    "ihlara": {
+      "badge": "🏞️ Görkemli Kanyon",
+      "title": "Ihlara Vadisi",
+      "subtitle": "Dünyanın En Önemli Kanyonlarından Biri",
+      "description": "Yüzlerce kayaya oyulmuş kilise ve binlerce tarihi yaşam alanı içeren 14 kilometre uzunluğunda ve 120 metre derinliğindeki muhteşem kanyonu keşfedin.",
+      "gallery": {
+        "title": "Fotoğraf Galerisi",
+        "subtitle": "Muhteşem kanyonu keşfedin"
+      },
+      "about": {
+        "title": "Ihlara Vadisi Hakkında",
+        "subtitle": "Tarih ve önemi",
+        "overview": "Genel Bakış",
+        "paragraph1": "Ihlara Vadisi, Aksaray'ın Güzelyurt İlçesi'nde yer almaktadır. Dünyanın en önemli kanyonlarından birine sahiptir. Ihlara Vadisi, 14 kilometrelik uzunluğu, 120 metrelik derinliği ve binlerce yaşam alanı ile diğer kanyonlardan farklıdır. Tarihte insanların yaşadığı en büyük kanyon olma özelliğine sahiptir. Ihlara Vadisi, yüzlerce kilise ve sığınağın yanı sıra peri bacaları ve vadi çevresindeki kayaların kolay kazılarına ev sahipliği yapmaktadır. Önemli bir kültür ve medeniyet merkezi olmuştur.",
+        "paragraph2": "Vadiyi terk ettiğinizde, peri bacalarında ve Selime Katedrali'nde eşsiz güzelliklerle karşılaşacaksınız. Kapadokya bölgesinde, geçmişte kedilerin mumyalanması keşfedildi. Bu, tıpkı antik Mısır'da olduğu gibiydi. Ihlara Vadisi'nde şimdiye kadar 17 mumya bulunmuştur. Mumyaların on ikisi Aksaray Müzesi'nde sergilenmektedir. Kalan beşi Niğde Müzesi'nde sergilenmektedir. Çoğu mumya 13. ve 10. yüzyıllara tarihlenmektedir. Kedi başlı bir tanrıça olan \"Bast\", kedileri mumyalayan ilk kişiydi. Bu gelenek Anadolu'ya aktarıldı ve Kapadokya bölgesinde hala uygulanmaktadır.",
+        "agacalti": "Ağaçaltı Kilisesi",
+        "paragraph3": "Ağaçaltı Kilisesi, Daniel Pantanassa. Yapının merkezi alanı serbest haç planlıdır. Yüksek kasnaklı bir kubbe pandantiflere yerleştirilmiştir. Haçın kolları beşik tonozludur. Bu freskler İkonoklazm öncesi döneme veya 9. ve 11. yüzyıllar arasındaki döneme tarihlenmektedir. Bu figürler Müjde ve Doğuş, Üç Mecusla Tapınma (Meryem'in ölümü), Mısır'a Kaçış, Kutsal Vaftiz ve Koimesis (ölüm) gibi sahneleri tasvir etmektedir. Belisırma Köyü, Ihlara Vadisi'nde bulunmaktadır.",
+        "historical": "Tarihsel Önem",
+        "paragraph4": "Kilisenin düzensiz altıgen planı ve düz bir çatısı vardır. Doğuya doğru apsis yönünde içbükey oyulmuştur. Yıkılmış apsis giriş olarak bir bariyer görevi görmektedir. Orijinal giriş kapısı kuzey duvarında bulunabilir. Amirarzes Basileios'un eşi Leydi Tamar, Sultan Mesut II'nin saltanatı sırasında kiliseyi süsledi. Bu figürler, Deesis ve Metamorfoz sahnelerinin yanı sıra Selçuklu Sultanı Mesut'un Göğe Yükselişini tasvir etmektedir."
+      }
+    },
+    "soganli": {
+      "badge": "🏞️ Huzurlu Vadi",
+      "title": "Soğanlı Vadisi",
+      "subtitle": "Antik Manastırlar & Kayaya Oyulmuş Kiliseler",
+      "description": "10-11. yüzyıla kadar uzanan, 20'den fazla kilise, avlulu manastır ve yüzlerce güvercin evi bulunan huzurlu bir V şeklindeki vadiyi keşfedin.",
+      "gallery": {
+        "title": "Fotoğraf Galerisi",
+        "subtitle": "Huzurlu vadiyi keşfedin"
+      },
+      "about": {
+        "title": "Soğanlı Vadisi Hakkında",
+        "subtitle": "Tarih ve önemi",
+        "overview": "Genel Bakış",
+        "paragraph1": "Soğanlı, hem 10. ve 11. yüzyıllara kadar uzanan avlulu manastırlara hem de kayaya oyulmuş kiliselere sahip huzurlu bir vadi. Bu ıssız vadi, Nevşehir'in güneydoğusunda kırk kilometre uzakta ve Göreme'den yaklaşık bir saatlik sürüş mesafesinde bulunmaktadır. Vadi, tarihi önem ve doğal güzellik açısından Ihlara Vadisi ve Göreme Açık Hava Müzesi'ne kıyasla olsa da, çok daha az turist çekmektedir.",
+        "paragraph2": "Bu alan 20'den fazla kiliseye, bunların yaklaşık 10 tanesi önemlidir. Vadi uçurumlarında yüzlerce güvercin evi ve Roma döneminden kalma mezarlar vardır.",
+        "naturalbeauty": "Doğal Güzellik & Tarih",
+        "paragraph3": "Soğanlı Vadisi, antik kiliseleri keşfetmek ve huzurlu yürüyüşler yapmak için huzurlu bir yerdir. Çoğu ziyaretçi burada sadece iki saat geçirse de, bu günlük yapılabilecek değerli bir gezi.",
+        "paragraph4": "Bu açık hava, yeşil V şeklindeki vadi, iki dere tarafından oyulmuştur. Kuşlar uçarken, suyun sesi vadi duvarlarından yankılanır. Soğanlı Vadisi, zengin tarihi ve ortamı nedeniyle şaşırtıcı bir destinasyondur.",
+        "ancient": "Antik Köy Sitesi",
+        "paragraph5": "Şehir merkezinin üzerinde yüzlerce taş oda ve mağara bulunan antik bir köy sitesiydi. Yamaç, insanlar tarafından kazılmış ve ön tarafına yığma odalar inşa edilmiştir. Evlerin altında altıncı yüzyıldan kalma bir kilisenin temeli bulunmaktadır. Köy merkezinden yürüyüş mesafesinde birkaç kilise ve manastır bulunmaktadır."
+      }
+    },
+    "selime": {
+      "badge": "⛪ Kayaya Oyulmuş Harika Eser",
+      "title": "Selime Manastırı",
+      "subtitle": "Kapadokya'nın En Büyük Dini Yapısı",
+      "description": "Orijinal freskleri ve gizli pasajları içeren, volkanik tufaya oyulmuş katedral boyutunda şapeli olan dikkat çekici kayaya oyulmuş manastırı keşfedin.",
+      "gallery": {
+        "title": "Fotoğraf Galerisi",
+        "subtitle": "Kayaya oyulmuş manastırı keşfedin"
+      },
+      "about": {
+        "title": "Selime Manastırı Hakkında",
+        "subtitle": "Tarih ve önemi",
+        "overview": "Genel Bakış",
+        "paragraph1": "Selime Manastırı, dikkate değer kayaya oyulmuş bir yapı ve Kapadokya Bölgesi'nin en büyük dini yapısıdır. Doğrudan volkanik tufaya oyulmuş katedral boyutunda bir şapele sahiptir. Orijinal freskler hala içinde görünür olsa da, bazıları hava koşullarından zarar görmüştür. Salantta erken medeniyetlerin izleri vardır. Hititler ve Persler, Romalılar. Erken Hristiyanlar. Bizanslılar. Selçuklu Türkleri. Osmanlılar. İki kaya sütunu kiliseyi üç bölüme ayırır. Ayrıca eski tarz fresklerle dekore edilmiş mutfaklar, ahırlar ve rahiplerin yaşam alanları da bulunmaktadır.",
+        "historical": "Tarihsel Önem",
+        "paragraph2": "Selime Manastırı, MÖ 8. veya 9. yüzyıllara kadar uzanmaktadır. Üst kısım, iyi korunmuş duvarları, hendekleri, dik kayalı merdivenleri ve gizli pasajları olan hafif kale benzeri bir görünüme sahiptir. Manastır, 10. / 11. yüzyıllarda bir Kervansaraya dönüştürülmüştür. Bu, İpek Yolu boyunca seyahat eden tüccar ve yolcular için sığınak sağlamak içindi. Selçuklu Türkleri tarafından daha hızlı deniz yolları keşfedilmeden önce eski yolda ticareti teşvik etmek amacıyla yapılmıştır. Selime Manastırı 16. yüzyılda terk edilmiştir.",
+        "location": "Konum & Erişim",
+        "paragraph3": "Selime Manastırı, Aksaray'dan 28 km uzakta Ihlara Vadisi'nde, Kapadokya bölgesinde bulunabilir. Ihlara'dan başlayan 2 saatlik bir yürüyüş, sizi vadi boyunca, Melendiz Nehri'ni takip ederek, Belisırma Köyü ve kayaya oyulmuş kiliseler geçerek Selime manastırına götürür. Ayrıca Göreme'den bir Kapadokya Günü Turu ile de ziyaret edebilirsiniz.",
+        "turbe": "Selime Sultan Türbesi",
+        "paragraph4": "Selime Köyü, Selime Sultan Türbesi adında anıtsal bir türbeye sahiptir. Miladi 13. yüzyıla kadar uzanan bir mimari tarzı sergiler. Bu, Anadolu'daki tek örnektir."
+      }
+    },
+    "pasabag": {
+      "badge": "🏔️ Rahipler Vadisi",
+      "title": "Paşabağ Peri Bacaları",
+      "subtitle": "Görkemli Mantar Şeklindeki Kaya Sütunları",
+      "description": "Kapadokya'nın en iyi peri bacalarını keşfedin; rahiplerin yerde 15 metre yükseklikte görkemli koni şeklindeki kaya sütunlarına oyduğu evleri bulunmaktadır.",
+      "gallery": {
+        "title": "Fotoğraf Galerisi",
+        "subtitle": "Peri bacalarını keşfedin"
+      },
+      "about": {
+        "title": "Paşabağ Peri Bacaları Hakkında",
+        "subtitle": "Tarih ve önemi",
+        "overview": "Genel Bakış",
+        "paragraph1": "Paşabağ veya Paşa'nın Bahçesi, Zelve Yolu'nda, popüler Göreme köyü ve geleneksel çömlekçilik topluluğu Avanos arasında yer almaktadır. Bahçe, Peri Bacası adı verilen görkemli koni şeklindeki kaya sütunları tarafından domine edilmektedir. Paşa, bölgenin ele geçirilmesi sırasında önemli bir Osmanlı subayıydı. Paşabağ, daha yaygın olarak Rahipler Vadisi olarak bilinir, yumuşak kaya konilerine oyulmuş bir rahip sığınağıdır.",
+        "simeon": "Aziz Simeon'un Evi",
+        "paragraph2": "Aziz Simeon, Kapadokya'dan sığınak aramak için kaçan birçok rahipten biri, bölgenin güzelliği ve yalnızlığından etkilendi. Peri bacalarından birinin içine yerde 15 metre yükseklikte evini inşa etti. Sonra takipçilerinden gıda ve su yardımını almak için aşağı indi. Bu vadi, rahiplerin oyduğu birçok eve ev sahipliği yapmaktadır. Kapadokya zaten 4. yüzyılda rahiplerle doluydu. Rahipler, sütunlar içindeki yumuşak volkanik materyali koni şeklindeki barınaklarına çıkan dar merdivenler oluşturmak için oyabiliyorlardı. Harika alan manzaraları görmek için merdivenlerden tırmanabilir ve kayaya girebilirsiniz. Ayrıca vadiyi terk edilmiş hermitler ve Aziz Simeon'a adanmış bir şapel ziyaret edebilirsiniz.",
+        "fairies": "Peri Bacaları",
+        "paragraph3": "Rahipler Vadisi'nin Peri Bacaları, Kapadokya bölgesinde en görkemli olanıdır. Bazı sütunlar 15 metre yüksekliğinde ve ikiz bacaya bölünmüştür. Diğerleri üç bacayı destekleyebilir. Mantar şeklindeki bu sütunlar, yumuşak kayaya rüzgar ve yağmur tarafından oluşturulmuştur. Ancak onlar peri bacaları olarak bilinir hale gelmiştir. Efsaneler, yeraltı evleri için periler tarafından yaratıldıklarını söylemektedir.",
+        "visiting": "Paşabağ'ı Ziyaret Etmek",
+        "paragraph4": "Rahipler Vadisi, Göreme'den sadece birkaç kilometre uzaklıktadır. Açık Hava Müzesi ziyareti ile birleştirebilir veya Güvercinler Vadisi'nin insan yapımı taş güvercin evi gezisine çıkabilirsiniz. Günlük Kapadokya Turları da durup geçebilir."
+      }
+    },
+    "uchisar": {
+      "badge": "🏰 Kapadokya'nın En Yüksek Noktası",
+      "title": "Uçhisar Kalesi",
+      "subtitle": "Panoramik Manzaralı Antik Kaya Kalesi",
+      "description": "Kapadokya'nın en yüksek noktasında bulunan, kayaya oyulmuş çok katlı odaların tüneller ve pasajlarla bağlı olduğu yerden soluk kesici manzaralar yaşayın.",
+      "gallery": {
+        "title": "Fotoğraf Galerisi",
+        "subtitle": "Antik kaya kalesini keşfedin"
+      },
+      "about": {
+        "title": "Uçhisar Kalesi Hakkında",
+        "subtitle": "Tarih ve önemi",
+        "overview": "Genel Bakış",
+        "paragraph1": "Uçhisar, Kapadokya'nın en yüksek noktasında, Nevşehir–Göreme yolunda yer almakta olup, Göreme'den sadece 5 km uzaklıktadır. Uçhisar Kalesi'nin tepesinden harika manzara, çevresindeki alanların etkileyici bir görüntüsünü sunarken, Erciyes Dağı mesafede görülebilir.",
+        "architecture": "Mimari & Yapı",
+        "paragraph2": "Birçok oda kayaya oyulmuş ve merdivenler, tüneller ve pasajlarla bağlanmıştır. Odaların kapılarında değirmen taşı kapılar bulunmaktadır. Bu kapılar bu alanlara erişimi kısıtlamak için kullanılabilir. Ne yazık ki, çok katlı kalenin erozyonu nedeniyle tüm odalar erişilemiyor. Kuzey tarafındaki odaların çoğu bugün güvercin evleri (güvercinlik) olarak kullanılmaktadır. Bu kaya güvercin evleri, çiftçiler tarafından güvercinlerden gelen dışkılarını toplamak için kullanılmıştır; bu da bahçeleri için harika doğal bir gübredir.",
+        "pigeon": "Güvercinler Vadisi",
+        "paragraph3": "Diğer güvercin evleri, Uçhisar ve Göreme'yi bağlayan Pigeon Valley (Türkçe'de Güvercinlik Vadisi) içinde bulunabilir. Kuşları ve değerli dışkılarını çekmek için, bu kaya konutlarının çoğu beyaz boyanmıştır.",
+        "roman": "Roma Mezarları & Kiliseler",
+        "paragraph4": "Uçhisar'ın doğu, kuzey ve batısında yer alan üç peri bacası, Roma döneminde kazılmış ve mezar olarak kullanılmıştır. Bu kayaya oyulmuş mezarlar batıya bakan girişlere sahiptir. Cesetler daha sonra kline'lere veya taş levhalara yerleştirilmiştir.",
+        "paragraph5": "Kalenin dışında ve içinde çok sayıda kayaya oyulmuş kilise keşfedilmiştir. Bunun nedeni, birçok kilise ve manastıra sahip olan Göreme'nin Uçhisar'a yakın olması olabilir.",
+        "defense": "Savunma Tünelleri & Efsane",
+        "paragraph6": "Bu kale üzerinde olan basit Bizans mezarları yağmalanmış ve aşınmış olduğundan çok ilginç değildir. Efsaneye göre, Uçhisar ve Ortahisar gibi kale şehirleri, vatandaşlarını koruyan kalelere sahiptir. Uçhisar'dan Ortahisar'a Ürgüp'e (Başhisar) uzanan uzun savunma tünelleri çevre alanına uzanmıştır. Bu teori, tünellerin bazı yerlerde çökmüş olduğu gerçeği tarafından desteklenmemektedir. Ancak, kapladıkları geniş mesafeler nedeniyle popüler olmaya devam etmektedir."
+      }
+    },
+    "cavusin": {
+      "badge": "🏘️ Tarihi Köy",
+      "title": "Çavuşin Köyü",
+      "subtitle": "Antik Kaya Evleri & Kiliseler",
+      "description": "Peri bacaları, hala yerel halkın yaşadığı kaya evleri ve Hıristiyan rahipler döneminden kalan tarihi kiliseleri olan büyüleyici bir köyü keşfedin.",
+      "gallery": {
+        "title": "Fotoğraf Galerisi",
+        "subtitle": "Tarihi köyü keşfedin"
+      },
+      "about": {
+        "title": "Çavuşin Köyü Hakkında",
+        "subtitle": "Tarih ve önemi",
+        "overview": "Genel Bakış",
+        "paragraph1": "Çavuşin, büyüleyici ve turist çeken bir köydür ve Kapadokya'daki Göreme - Avanos yolunda yer almaktadır. Bu bölgede Roma döneminde yaşayan Hıristiyanlar, Romalıların baskısından kaçmak ve inançlarında daha rahat yaşamak için peri bacalarına oyulmuş boşluklara yaşam alanları oluşturdular. Kaya evleri hala yerel halk tarafından kullanılmaktadır.",
+        "historical": "Tarihi Siteler",
+        "paragraph2": "Çavuşin köyü, Hıristiyan rahipleri tarafından bırakılan harabelerin yanı sıra Kapadokya'daki kiliseleri içeren çeşitli tarihi sitelerin evi niteliğindedir.",
+        "exploring": "Köyü Keşfetmek",
+        "paragraph3": "Çavuşin Köyü, sizi peri bacaları ve kayalara oyulmuş diğer yapılarla çevreleyen küçük, pitoresk bir köydür. Ünlü kiliseleri ve harabeyi ziyaret ederek köy turunuza buradan başlayın.",
+        "churches": "Kiliseler & Çekicilikler",
+        "paragraph4": "Köy çevresinde birçok kilise vardır. Ziyaret etmeye değer diğer popüler yerler arasında Çavuşin harabesi ve Aziz John Kilisesi veya Çavuşin Kilisesi gibi kiliseler yer almaktadır."
+      }
+    },
+    "zelve": {
+      "badge": "🏛️ Manastır Vadisi",
+      "title": "Zelve Açık Hava Müzesi",
+      "subtitle": "En Eski Yerleşim Monastır Vadisi",
+      "description": "Kapadokya'nın en görkemli açık hava müzelerinden birinde 9.-13. yüzyıllara ait dramatik vadileri, peri bacalarını ve antik manastırları keşfedin.",
+      "gallery": {
+        "title": "Fotoğraf Galerisi",
+        "subtitle": "Manastır vadisini keşfedin"
+      },
+      "about": {
+        "title": "Zelve Açık Hava Müzesi Hakkında",
+        "subtitle": "Tarih ve önemi",
+        "overview": "Genel Bakış",
+        "paragraph1": "Zelve Vadisi şimdi Zelve Açık Hava Müzesi'dir. Kapadokya'daki en eski yerleşim ve en terk edilmiş manastır vadilerinden biridir.",
+        "dramatic": "Dramatik Manzara",
+        "paragraph2": "Kiliseler Göreme Açık Hava Müzesi'ndekiler kadar çok olmasa ve etkileyici olmasa da, Zelve'nin kendine özgü çekicilikleri vardır. Zelve'nin topografyası kayalıklar, tepeler, dik vadiler ve dik zirvelerle daha dramatiktir. Ayrıca etrafını dolaşmak ve tüm köşeleri ve çatlakları görmek için daha fazla özgürlük vardır.",
+        "valleys": "Üç Vadi",
+        "paragraph3": "Zelve'nin en iyi özelliği üç vadisidir. Bunlardan ikisi tünellerle bağlanmış ve terkedilmiş evler ve kiliseler içerir. Zelve, küçük bir alan içinde sınırlandırılan Göreme'nin aksine, 1,5 km turizm sunar. 9. yüzyıldan 13. yüzyıla kadar, Hıristiyanların Pers ve Arap istilaları kaçtıkları bir manastır saygınlığıydı. Zelve'nin esnekliğini kaybetmiş vadi duvarları ve kaya antenleri şaşırtıcı derecede güzeldir ve insanları izlemek için harika bir yerdir.",
+        "monastery": "Manastır Kompleksi & Kiliseler",
+        "paragraph4": "Birçok oda ve geçit içerir. Kompleks ayrıca vadi tabanının yaklaşık 12 m (40 ft) üzerinde büyük saplarla keskin peri bacalarını barındırır. Manastır, rahipleri eğiten Kapadokya'nın ilk seminerlerinin evi olmuştur. Direkli Kilise (Sütunlu Kilise), Zelve manastır yaşamının ilk yıllarına kadar uzanır. Direkli Kilise, yamaçlığın tabanında bulunabilir. Ana dekorasyon, ikonoklastik doktrin yüksek kabartma haçları ve kırmızı desenleri hariç hiç dekorasyon değildir. Ayrıca Balikli Kilise, Uzumlu Kilise ve Geyikli Kilise kiliselerini de bulacaksınız. Bu kiliseler İkon öncesi döneme kadar uzanırlar."
+      }
+    }
+  }
+}

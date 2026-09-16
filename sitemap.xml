@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://capahenastravel.com/</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://capahenastravel.com/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://capahenastravel.com/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://capahenastravel.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://capahenastravel.com/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://capahenastravel.com/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://capahenastravel.com/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://capahenastravel.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://capahenastravel.com/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://capahenastravel.com/"/>
+  </url>
+
+  <!-- Balloon Tours -->
+  <url>
+    <loc>https://capahenastravel.com/balloon-tours/balloon-standard.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://capahenastravel.com/images/balloon-tours/balloon-standard/hero.jpg</image:loc>
+      <image:title>Cappadocia Standard Balloon Flight</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/balloon-tours/balloon-comfort.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://capahenastravel.com/images/balloon-tours/balloon-comfort/hero.jpg</image:loc>
+      <image:title>Cappadocia Comfort Balloon Flight</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/balloon-tours/balloon-private.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://capahenastravel.com/images/balloon-tours/balloon-private/hero.jpg</image:loc>
+      <image:title>Cappadocia Private Balloon Flight</image:title>
+    </image:image>
+  </url>
+
+  <!-- Cappadocia Tours -->
+  <url>
+    <loc>https://capahenastravel.com/cappadocia-tours/red-tour.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/cappadocia-tours/green-tour.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/cappadocia-tours/blue-tour.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/cappadocia-tours/mix-tour.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/cappadocia-tours/private-tour.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/cappadocia-tours/jeep-safari.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/cappadocia-tours/atv-tour.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/cappadocia-tours/horse-riding.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/cappadocia-tours/camel-tour.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/cappadocia-tours/classic-car.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/cappadocia-tours/pottery-making.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/cappadocia-tours/photoshoot-tour.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/cappadocia-tours/dervish-show.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/cappadocia-tours/turkish-bath.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/cappadocia-tours/turkish-night.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Turkey Tours -->
+  <url>
+    <loc>https://capahenastravel.com/turkiye-tours/pamukkale.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/turkiye-tours/ephesus.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/turkiye-tours/aspendos.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/turkiye-tours/antalya.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/turkiye-tours/demre.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/turkiye-tours/pamukkale-from-antalya.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Destinations -->
+  <url>
+    <loc>https://capahenastravel.com/destinations/goreme-museum.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/destinations/kaymakli-underground.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/destinations/derinkuyu-underground.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/destinations/ihlara-valley.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/destinations/soganli-valley.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/destinations/selime-monastery.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/destinations/pasabag.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/destinations/uchisar-castle.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/destinations/cavusin-village.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/destinations/zelve-museum.html</loc>
+    <lastmod>2025-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- International Tours -->
+  <url>
+    <loc>https://capahenastravel.com/international-tours/japan-express.html</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/international-tours/6-day-7-night-japan.html</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/international-tours/7-day-8-night-japan.html</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/international-tours/japan-big-tokyo.html</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://capahenastravel.com/international-tours/japan-big-osaka.html</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>

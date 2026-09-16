@@ -1,0 +1,301 @@
+{
+  "balloon": {
+    "standard": {
+      "hero": {
+        "badge": "✨ Premium Deneyim",
+        "title1": "Standart Uçuş",
+        "title2": "Kapadokya Hayalleri Gerçekleşiyor",
+        "subtitle": "Özenle hazırlanmış standart balon uçuşumuzda Kapadokya'nın büyülü manzaralarını yukarıdan deneyimleyin. Her an unutulmaz bir anıya dönüşüyor.",
+        "duration": "60 Dakika Uçuş",
+        "capacity": "32 Kişiye Kadar",
+        "launch": "Gün Doğumu Kalkışı"
+      },
+      "main": {
+        "title": "Uçuş Deneyimi",
+        "subtitle": "Bulutların arasında yolculuğunuz",
+        "premium": "Premium",
+        "experience": "Deneyim",
+        "desc": {
+          "desc": "Gökyüzünde olağanüstü bir yolculuğa çıkın: ",
+          "highlight": "Standart Balon Uçuşu",
+          "rest": "Bu özenle hazırlanmış deneyim, Kapadokya'nın nefes kesen güzelliğine mükemmel bir giriş sunar; macera ve konforu premium balonlarımızda birleştirir."
+        },
+        "inclusions": {
+          "title": "Premium Dahil Olanlar",
+          "transfer": {
+            "title": "Premium Transfer Hizmeti",
+            "desc": "Lüks otel alım ve bırakma"
+          },
+          "safety": {
+            "title": "Güvenlik & Sigorta",
+            "desc": "Kapsamlı yolcu koruması"
+          },
+          "champagne": {
+            "title": "Şampanya Kutlaması",
+            "desc": "Geleneksel uçuş sonrası kutlama"
+          },
+          "certificate": {
+            "title": "Uçuş Sertifikası",
+            "desc": "Kişiye özel başarı belgesi"
+          },
+          "breakfast": {
+            "title": "Hafif Kahvaltı",
+            "desc": "Uçuş öncesi ikramlar dahildir"
+          }
+        },
+        "stats": {
+          "flight_duration": {
+            "label": "Dakika",
+            "desc": "Uçuş Süresi"
+          },
+          "max_guests": {
+            "label": "Maksimum Kişi",
+            "desc": "Sepet Başına"
+          },
+          "launch_time": {
+            "label": "Sabah Kalkış",
+            "desc": "Gün Doğumu Zamanı"
+          }
+        },
+        "gallery": {
+          "title": "Galeriyi Keşfedin",
+          "desc": "Gökyüzünde sizi neler bekliyor görün"
+        }
+      },
+      "booking": {
+        "header": "Uçuşunuzu Rezerve Edin",
+        "desc": "Cennette yerinizi ayırtın",
+        "date": "Tarihinizi Seçin",
+        "passengers": {
+          "title": "Yolcuları Seçin",
+          "adults": {
+            "title": "Yetişkinler",
+            "desc": "13+ Yaş"
+          },
+          "children": {
+            "title": "Çocuklar",
+            "desc": "6-12 Yaş"
+          }
+        },
+        "details": {
+          "title": "Bilgileriniz",
+          "name": "Ad Soyad",
+          "email": "E-posta Adresi",
+          "phone": "Telefon Numarası",
+          "phonedesc": "Bu alan isteğe bağlıdır, ancak daha hızlı yanıt alabilmeniz için doldurmanızı öneririz."
+        },
+        "summary": {
+          "title": "Rezervasyon Özeti",
+          "date": "Seçilen Tarih:",
+          "guests": "Toplam Kişi:",
+          "price": "Fiyat detayları başvuru sonrası verilecektir",
+          "reserve_button": "Maceranı Rezerve Et",
+          "secure_booking": "🔒 Güvenli rezervasyon • Şimdi ödeme gerekmiyor",
+          "cancellation": {
+            "title": "Ücretsiz İptal & İade",
+            "description": "Tur başlangıç saatinden 24 saat öncesine kadar iptal edilebilir"
+          },
+          "whatsapp_contact": "WhatsApp ile iletişime geçin"
+        }
+      }
+    },
+    "comfort": {
+      "hero": {
+        "badge": "✨ Gelişmiş Konfor Deneyimi",
+        "title1": "Konfor Uçuşu",
+        "title2": "Gelişmiş Performans & Konfor",
+        "subtitle": "Kapadokya'nın muhteşem vadilerini, üstün performans ve denge için 500,000 cuft balonlara sahip geniş 28 kişilik sepetlerimizde gelişmiş konforla deneyimleyin.",
+        "duration": "60 Dakika Uçuş",
+        "capacity": "28 Kişiye Kadar",
+        "launch": "Gün Doğumu Kalkışı"
+      },
+      "main": {
+        "title": "Konfor Uçuş Deneyimi",
+        "subtitle": "Gelişmiş konfor ve performans",
+        "premium": "Premium",
+        "experience": "Deneyim",
+        "desc": {
+          "desc": "Gelişmiş",
+          "highlight": "Konfor Balon Uçuşu",
+          "rest": "deneyimini yaşayın; geniş 28 kişilik sepetler ve güçlü 500,000 cuft balonlarımız ile. Bu premium deneyim, gelişmiş performans ve denge ile havada minimum 1 saat sunarak Kapadokya'nın muhteşem vadileri ve eşsiz formasyonları arasında konforlu ve unutulmaz bir yolculuk sağlar."
+        },
+        "inclusions": {
+          "title": "Premium Dahil Olanlar",
+          "transfer": {
+            "title": "Premium Transfer Hizmeti",
+            "desc": "Lüks otel alım ve bırakma"
+          },
+          "breakfast": {
+            "title": "Hafif Kahvaltı",
+            "desc": "Uçuş öncesi ikramlar dahildir"
+          },
+          "safety": {
+            "title": "Güvenlik & Sigorta",
+            "desc": "Kapsamlı yolcu koruması"
+          },
+          "champagne": {
+            "title": "Şampanya Kutlaması",
+            "desc": "Geleneksel uçuş sonrası kutlama"
+          },
+          "certificate": {
+            "title": "Uçuş Sertifikası",
+            "desc": "Kişiye özel başarı belgesi"
+          }
+        },
+        "stats": {
+          "flight_duration": {
+            "label": "Dakika",
+            "desc": "Uçuş Süresi"
+          },
+          "max_guests": {
+            "label": "Maksimum Kişi",
+            "desc": "Sepet Başına"
+          },
+          "launch_time": {
+            "label": "Sabah Kalkış",
+            "desc": "Gün Doğumu Zamanı"
+          }
+        },
+        "gallery": {
+          "title": "Deneyim Galerisi",
+          "desc": "Gökyüzünde sizi neler bekliyor görün"
+        }
+      },
+      "booking": {
+        "header": "Uçuşunuzu Rezerve Edin",
+        "desc": "Cennette yerinizi ayırtın",
+        "date": "Tarihinizi Seçin",
+        "passengers": {
+          "title": "Yolcuları Seçin",
+          "adults": {
+            "title": "Yetişkinler",
+            "desc": "13+ Yaş"
+          },
+          "children": {
+            "title": "Çocuklar",
+            "desc": "6-12 Yaş"
+          }
+        },
+        "details": {
+          "title": "Bilgileriniz",
+          "name": "Ad Soyad *",
+          "email": "E-posta Adresi *",
+          "phone": "Telefon Numarası",
+          "phonedesc": "Bu alan isteğe bağlıdır, ancak daha hızlı yanıt alabilmeniz için doldurmanızı öneririz."
+        },
+        "summary": {
+          "title": "Rezervasyon Özeti",
+          "date": "Seçilen Tarih:",
+          "guests": "Toplam Kişi:",
+          "price": "Fiyat detayları başvuru sonrası verilecektir",
+          "reserve_button": "Maceranı Rezerve Et",
+          "secure_booking": "🔒 Güvenli rezervasyon • Şimdi ödeme gerekmiyor",
+          "cancellation": {
+            "title": "Ücretsiz İptal & İade",
+            "description": "Tur başlangıç saatinden 24 saat öncesine kadar iptal edilebilir"
+          },
+          "whatsapp_contact": "WhatsApp ile iletişime geçin"
+        }
+      }
+    },
+    "private": {
+      "hero": {
+        "badge": "✨ En Üst Seviye Lüks Deneyim",
+        "title1": "Özel Uçuş",
+        "title2": "Samimi & Özel Macera",
+        "subtitle": "Özel Uçuşumuz ile lüks ve samimiyetin zirvesini deneyimleyin. Maksimum konfor ve kişisel alan için özel olarak tasarlanmış 24 kişilik sepette sadece 20 misafir ile sınırlıdır.",
+        "duration": "60 Dakika Uçuş",
+        "capacity": "Maksimum 20 Kişi",
+        "launch": "Gün Doğumu Kalkışı"
+      },
+      "main": {
+        "title": "Özel Uçuş Deneyimi",
+        "subtitle": "En üst seviye lüks ve samimiyet",
+        "premium": "Premium",
+        "experience": "Deneyim",
+        "desc": {
+          "desc": "Lüksün zirvesini keşfedin:",
+          "highlight": "Özel Balon Uçuşu",
+          "rest": "Bu özel deneyim, sadece 20 misafir ile sınırlandırılmış, özel olarak tasarlanmış 24 kişilik sepette maksimum konfor ve kişisel alan sunar; Kapadokya'nın nefes kesen güzelliğine yukarıdan tanıklık etmek için mükemmel samimi bir atmosfer yaratır."
+        },
+        "inclusions": {
+          "title": "Özel Dahil Olanlar",
+          "transfer": {
+            "title": "Premium Transfer Hizmeti",
+            "desc": "Lüks otel alım ve bırakma"
+          },
+          "safety": {
+            "title": "Güvenlik & Sigorta",
+            "desc": "Kapsamlı yolcu koruması"
+          },
+          "champagne": {
+            "title": "Şampanya Kutlaması",
+            "desc": "Geleneksel uçuş sonrası kutlama"
+          },
+          "certificate": {
+            "title": "Uçuş Sertifikası",
+            "desc": "Kişiye özel başarı belgesi"
+          },
+          "breakfast": {
+            "title": "Hafif Kahvaltı",
+            "desc": "Uçuş öncesi ikramlar dahildir"
+          }
+        },
+        "stats": {
+          "flight_duration": {
+            "label": "Dakika",
+            "desc": "Uçuş Süresi"
+          },
+          "max_guests": {
+            "label": "Maksimum Kişi",
+            "desc": "Sepet Başına"
+          },
+          "launch_time": {
+            "label": "Sabah Kalkış",
+            "desc": "Gün Doğumu Zamanı"
+          }
+        },
+        "gallery": {
+          "title": "Deneyim Galerisi",
+          "desc": "Gökyüzünde sizi neler bekliyor görün"
+        }
+      },
+      "booking": {
+        "header": "Uçuşunuzu Rezerve Edin",
+        "desc": "Cennette yerinizi ayırtın",
+        "date": "Tarihinizi Seçin",
+        "passengers": {
+          "title": "Yolcuları Seçin",
+          "adults": {
+            "title": "Yetişkinler",
+            "desc": "13+ Yaş"
+          },
+          "children": {
+            "title": "Çocuklar",
+            "desc": "6-12 Yaş"
+          }
+        },
+        "details": {
+          "title": "Bilgileriniz",
+          "name": "Ad Soyad *",
+          "email": "E-posta Adresi *",
+          "phone": "Telefon Numarası",
+          "phonedesc": "Bu alan isteğe bağlıdır, ancak daha hızlı yanıt alabilmeniz için doldurmanızı öneririz."
+        },
+        "summary": {
+          "title": "Rezervasyon Özeti",
+          "date": "Seçilen Tarih:",
+          "guests": "Toplam Kişi:",
+          "price": "Fiyat detayları başvuru sonrası verilecektir",
+          "reserve_button": "Maceranı Rezerve Et",
+          "secure_booking": "🔒 Güvenli rezervasyon • Şimdi ödeme gerekmiyor",
+          "cancellation": {
+            "title": "Ücretsiz İptal & İade",
+            "description": "Tur başlangıç saatinden 24 saat öncesine kadar iptal edilebilir"
+          },
+          "whatsapp_contact": "WhatsApp ile iletişime geçin"
+        }
+      }
+    }
+  }
+}

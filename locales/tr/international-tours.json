@@ -1,0 +1,550 @@
+{
+  "header": {
+    "internationalTours": "Uluslararası Turlar"
+  },
+  "international": {
+    "title": "Uluslararası Turlar",
+    "view": "İncele",
+    "popularBadge": "★ En Popüler",
+    "japan-express": {
+      "title": "Japonya Express Turu",
+      "desc": "8 Gün • 7 Gece",
+      "metaTitle": "Japonya Express Turu - Capahenas Travel",
+      "metaDescription": "İstanbul, Tokyo, Kyoto, Tokyo rotasında 8 gün 7 gece Japonya Express turu; Odaiba, TeamLab, Tokyo Kulesi, Asakusa, Meiji Jingu, Shibuya ve Ginza dahil keyifli bir seyahat programı.",
+      "badge": "Japonya Express Turu",
+      "galleryTitle": "Tur Galerisi",
+      "gallerySubtitle": "İstanbul • Tokyo • Kyoto • Tokyo",
+      "aboutTitle": "Tura Genel Bakış",
+      "aboutSubtitle": "8 Gün • 7 Gece",
+      "aboutDuration": "8 Gün • 7 Gece",
+      "aboutDestinations": "İstanbul, Tokyo, Kyoto, Tokyo",
+      "introText": "<span class=\"inline-block px-3 py-1 bg-green-100 text-green-700 rounded-full text-sm font-medium mr-2\">Günlük Uygun</span><span class=\"inline-block px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm font-medium\">Özelleştirilebilir</span>",
+      "highlights": [
+        "Tokyo’nun modern yüzünü Odaiba, Rainbow Bridge ve Tokyo Kulesi manzarasıyla keşfedin.",
+        "TeamLab dijital sanat deneyimi, Shibuya ve Harajuku’nun hareketli atmosferiyle birlikte yaşayın.",
+        "Kyoto’nun ikonik tapınakları, bambu ormanı ve Gion’daki geleneksel kültürü görün.",
+        "Asakusa, Fushimi Inari ve Kiyomizu-dera arasında keyifli bir yürüyüş rotası deneyimleyin.",
+        "Rehberli şehir turu, alışveriş ve serbest zaman imkânıyla konforlu bir Japonya seyahati yaşayın."
+      ],
+      "itinerary": [
+        {
+          "title": "1. GÜN | İstanbul – Tokyo",
+          "content": "İstanbul Havalimanı’nda buluşma ve bilet, bagaj ile pasaport işlemlerinin ardından Tokyo uçuşu."
+        },
+        {
+          "title": "2. GÜN | Tokyo’ya Varış – Odaiba – TeamLab – Tokyo Kulesi",
+          "content": "Tokyo’ya varışın ardından şehir turumuza başlıyoruz. İlk olarak Tokyo Körfezi’nin modern yüzünü yansıtan Odaiba bölgesini ziyaret ediyor, Özgürlük Anıtı, Rainbow Bridge manzarası eşliğinde keyifli vakit geçiriyoruz. Ardından dünyanın en etkileyici dijital sanat müzelerinden TeamLab’ı ziyaret ederek ışık, renk ve teknolojinin buluştuğu benzersiz bir dijital sanat deneyimi yaşıyoruz. Günün sonunda ışıklandırılmış haliyle Tokyo Kulesi önünde fotoğraf molası veriyor, ardından otelimize yerleşiyoruz."
+        },
+        {
+          "title": "3. GÜN | Asakusa – Meiji Jingu – Harajuku – Shibuya",
+          "content": "Sabah otelde alacağımız kahvaltının ardından Tokyo’nun tarihi merkezi Asakusa’ya hareket ediyoruz. Senso-ji Tapınağı’nı ziyaret ediyor, tarihi Nakamise Alışveriş Caddesi’nde yürüyüş yapıyor ve alışveriş için serbest zaman veriyoruz. Öğleden sonra Meiji Jingu Tapınağı’nı ziyaret ediyor, Harajuku’nun simgesi Takeshita Caddesi’nde yürüyüş yapıyoruz. Günün finalinde Shibuya bölgesine geçiyor, Hachiko Anıtı ve akşam ışıklarıyla büyüleyen dünyaca ünlü Shibuya Kavşağı’nı keşfediyoruz. Akşam otele dönüş."
+        },
+        {
+          "title": "4. GÜN | Tokyo – Kyoto – Kinkaku-ji – Arashiyama – Gion",
+          "content": "Sabah erken saatlerde Shinkansen hızlı treni ile Kyoto’ya hareket ediyoruz. Varışımızın ardından Kyoto’nun simgesi Altın Tapınak (Kinkaku-ji)’ni ziyaret ediyoruz. Ardından Arashiyama Bambu Ormanı ve tarihi Togetsukyo Köprüsü’nü görüyor, bölgenin eşsiz doğal atmosferini keşfediyoruz. Günün devamında geleneksel Japon kültürünün kalbi Gion Geisha Mahallesi’ni geziyor, tarihi sokaklarında keyifli bir yürüyüş gerçekleştiriyoruz. Akşam otelimize yerleşiyoruz."
+        },
+        {
+          "title": "5. GÜN | Fushimi Inari – Kiyomizu-dera – Sannenzaka",
+          "content": "Sabah kahvaltısının ardından binlerce kırmızı torii kapısıyla ünlü Fushimi Inari Taisha Tapınağı’nı ziyaret ediyoruz. Ardından UNESCO Dünya Mirası Listesi’nde yer alan Kiyomizu-dera Tapınağı’nı geziyor, tarihi Sannenzaka sokaklarında yürüyüş yaparak Kyoto’nun geleneksel atmosferini yakından hissediyoruz. Akşam otele dönüş."
+        },
+        {
+          "title": "6. GÜN | Kyoto – Tokyo – Kisarazu Outlet – Ginza",
+          "content": "Sabah Shinkansen hızlı treni ile Tokyo’ya hareket ediyoruz. Varışımızın ardından Kisarazu Outlet’te dünyaca ünlü markaların mağazalarında alışveriş için serbest zaman veriyoruz. Alışverişimizin ardından Tokyo’nun en prestijli alışveriş ve yaşam merkezi Ginza’ya geçiyor, ışıl ışıl caddeleri ve seçkin mağazaları arasında keyifli vakit geçiriyoruz. Akşam otelimize yerleşiyoruz."
+        },
+        {
+          "title": "7. GÜN | İmparatorluk Sarayı – Tokyo İstasyonu – Akihabara – Ueno – Ameyoko – Shinjuku",
+          "content": "Sabah otelde alacağımız kahvaltının ardından Japon İmparatorluk Sarayı çevresinde yürüyüş yapıyor ve tarihi Tokyo Garı önünde fotoğraf molası veriyoruz. Ardından elektronik ürünleri, anime ve manga kültürüyle ünlü Akihabara bölgesini keşfediyoruz. Günün devamında Ueno Parkı ve Tokyo’nun en hareketli açık hava pazarlarından biri olan Ameyoko’da serbest zaman geçiriyoruz. Turumuzun son durağında modern Tokyo’nun simgelerinden Shinjuku bölgesini geziyor, gökdelenleri, alışveriş caddeleri ve hareketli şehir atmosferini keşfediyoruz. Akşam otele dönüş."
+        },
+        {
+          "title": "8. GÜN | Tokyo – İstanbul",
+          "content": "Sabah otelden ayrılış. Rehberimiz eşliğinde havalimanına transferimizin ardından dönüş uçuşumuz için hareket ediyoruz. Unutulmaz anılarla tamamladığımız Japonya turumuzun ardından İstanbul’a varıyor, bir sonraki seyahatte yeniden buluşmak dileğiyle sizlere veda ediyoruz."
+        }
+      ],
+      "inclusions": [
+        "Gidiş dönüş ekonomi sınıfı uçak bileti (THY – ANA – China)",
+        "Türkçe rehberlik hizmeti",
+        "Shinkansen hızlı tren bileti",
+        "Oteller 3* ve 4 yıldız",
+
+        "1 Akşam yemeği",
+        "Havaalanı transferleri",
+        "Müze giriş ücretleri",
+        "Günlük turlar",
+        "Günlük turlardaki Araç"
+      ],
+      "exclusions": [
+        "Yurtdışı çıkış Harcı",
+        "Yemek ve içecekler",
+        "Kişisel harcamalar",
+        "Tura dahil olmayan müze ve tapınakların giriş ücreti",
+        "Opsiyonel olarak belirtilen turlar"
+      ],
+      "cancellationPolicy": [
+        {
+          "title": "Cezasız İptal Hakkı",
+          "content": "Tur başlangıç tarihinden 30 gün (1 ay) öncesine kadar cezasız iptal hakkı bulunmaktadır."
+        },
+        {
+          "title": "Minimum Misafir Sayısı",
+          "content": "Tur başlangıç tarihinden 20 gün öncesine kadar yeterli misafir bulunmadığı takdirde tur iptal edilecektir ve siz değerli misafirlerimize bildirilecektir."
+        },
+        {
+          "title": "Bağımsız Değişiklikler",
+          "content": "Acentamızın bilgisi dahilinde olamayan yapacağınız (uçak, otel vb.) değişikliklerden acentamız kesinlikle sorumlu olmayacaktır."
+        },
+        {
+          "title": "Doğa Şartları ve Hükümet Kararları",
+          "content": "Hava şartlarından, Japonya hükümeti veya yerel yönetim tarafından gezilecek yerlerin ve güzergahın kapatılmasından dolayı gezilemeyecek olmasından acentamız sorumlu değildir."
+        }
+      ],
+      "visaInfo": [
+        {
+          "title": "Türk Vatandaşları için Vize",
+          "content": "Türk vatandaşlarına vize uygulaması bulunmamaktadır (90 gün muaf)."
+        },
+        {
+          "title": "Pasaport Şartları",
+          "content": "Pasaportunuzun kullanım süresinin en az 6 ay ve 6 sayfa kaldığına emin olun. Yıpranmış ve yırtık olan pasaportlar kabul edilmemektedir."
+        },
+        {
+          "title": "E-Vize Başvurusu",
+          "content": "Japonya'ya gitmeden önce e-vize başvurusu yapmanız Japonya'ya girişinizde kolaylık sağlayacaktır. https://www.evisa.mofa.go.jp/index"
+        }
+      ],
+      "cancellationPolicyTitle": "İptal Koşulları",
+      "visaInfoTitle": "Vize Bilgileri"
+    },
+    "7-day-8-night-japan": {
+      "title": "7 Gece 8 Gün Japonya",
+      "desc": "Tokyo - Osaka - Kyoto - Nara",
+      "metaTitle": "7 Gece 8 Gün Japonya - Capahenas Travel",
+      "metaDescription": "Tokyo, Osaka, Kyoto ve Nara'yı kapsayan 7 gece 8 günlük Japonya turu; tapınaklar, alışveriş bölgeleri ve şehir manzaralarıyla dolu bir program sunar.",
+      "badge": "Klasik Japonya Turu",
+      "galleryTitle": "Tur Galerisi",
+      "gallerySubtitle": "Tokyo • Kyoto • Nara • Osaka",
+      "aboutTitle": "Tura Genel Bakış",
+      "aboutSubtitle": "7 Gece / 8 Gün Paket",
+      "aboutDuration": "7 Gece / 8 Gün",
+      "aboutDestinations": "Tokyo, Osaka, Kyoto, Nara",
+      "introText": "<span class=\"inline-block px-3 py-1 bg-green-100 text-green-700 rounded-full text-sm font-medium mr-2\">Günlük Uygun</span><span class=\"inline-block px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm font-medium\">Özelleştirilebilir</span>",
+      "highlights": [
+        "Tokyo’ya varış ve Odaiba, TeamLab, Tokyo Kulesi keşfi.",
+        "Kisarazu Outlet ve Ginza alışveriş günü.",
+        "Gotokuji, Nakano, Shinjuku, Kabukicho ve Tokyo Skytree ile modern Tokyo deneyimi.",
+        "Kyoto’nun Kinkaku-ji, Arashiyama ve Gion gibi önemli noktaları.",
+        "Nara’da Todai-ji tapınağı ve geyik parkı keyfi."
+      ],
+      "itinerary": [
+        {
+          "title": "1. GÜN | İstanbul – Tokyo",
+          "content": "İstanbul Havalimanı’nda buluşma ve bilet, bagaj ile pasaport işlemlerinin ardından Tokyo uçuşu."
+        },
+        {
+          "title": "2. GÜN | Tokyo’ya Varış – Odaiba – TeamLab – Tokyo Kulesi",
+          "content": "Tokyo’ya varışın ardından şehir turumuza başlıyoruz. İlk olarak Tokyo Körfezi’nin modern yüzünü yansıtan Odaiba bölgesini ziyaret ediyor, Özgürlük Anıtı, Rainbow Bridge manzarası ve sahil boyunca keyifli vakit geçiriyoruz. Ardından dünyanın en etkileyici dijital sanat müzelerinden TeamLab’ı ziyaret ederek ışık, renk ve teknolojinin buluştuğu benzersiz bir dijital sanat deneyimi yaşıyoruz. Günün sonunda ışıklandırılmış haliyle Tokyo’nun simgelerinden Tokyo Kulesi önünde fotoğraf molası veriyor, ardından otelimize yerleşiyoruz."
+        },
+        {
+          "title": "3. GÜN | Kisarazu Outlet – Ginza",
+          "content": "Sabah kahvaltısının ardından Tokyo Körfezi’nin karşı kıyısında bulunan Kisarazu Outlet’e hareket ediyoruz. Dünyaca ünlü markaların mağazalarında alışveriş için serbest zamanın ardından Tokyo’nun en prestijli alışveriş ve yaşam merkezi Ginza’ya geçiyoruz. Işıl ışıl caddeleri, lüks mağazaları ve modern şehir atmosferi eşliğinde keyifli vakit geçiriyoruz. Akşam otele dönüş."
+        },
+        {
+          "title": "4. GÜN | Gotokuji – Nakano – Shinjuku – Kabukicho – Tokyo Skytree – Asakusa",
+          "content": "Sabah kahvaltısının ardından Japon kültüründe şansın simgesi kabul edilen Maneki Neko’nun doğduğu Gotokuji Tapınağı’nı ziyaret ediyoruz. Ardından anime, manga ve koleksiyon mağazalarıyla ünlü Nakano bölgesini keşfediyoruz. Modern Tokyo’nun kalbi Shinjuku’da yürüyüş yapıyor, Kabukicho’nun renkli atmosferini yakından tanıyoruz. Daha sonra Tokyo’nun en eski Budist tapınaklarından Senso-ji Tapınağı’nı ziyaret ediyor, tarihi Nakamise Alışveriş Caddesi’nde keyifli vakit geçiriyoruz. Günün sonunda Tokyo Skytree bölgesini ziyaret ederek şehrin etkileyici gece manzarasını görüyoruz. Akşam otele dönüş."
+        },
+        {
+          "title": "5. GÜN | Tokyo – Kyoto",
+          "content": "Sabah hızlı tren yolculuğuyla Kyoto’ya hareket ediyoruz. Kyoto’nun simgesi Altın Tapınak (Kinkaku-ji)’ni ziyaret ediyor, Arashiyama Bambu Ormanı ve tarihi Togetsukyo Köprüsü’nü görüyoruz. Günün devamında geleneksel Japon kültürünün en önemli merkezlerinden Gion Geisha Mahallesi’ni geziyor, Kawaramachi ve Pontocho’nun tarihi sokaklarında keyifli bir yürüyüş yapıyoruz. Akşam otelimize yerleşiyoruz."
+        },
+        {
+          "title": "6. GÜN | Kyoto",
+          "content": "Sabah kahvaltısının ardından binlerce kırmızı torii kapısıyla ünlü Fushimi Inari Taisha Tapınağı’nı ziyaret ediyoruz. UNESCO Dünya Mirası Listesi’nde yer alan Kiyomizu-dera Tapınağı’nı geziyor, tarihi Sannenzaka sokaklarını keşfediyoruz. Akşam saatlerinde Gion’un geleneksel atmosferini yeniden yaşayarak Kyoto’nun büyüleyici akşamını deneyimliyoruz. Akşam otele dönüş."
+        },
+        {
+          "title": "7. GÜN | Nara – Osaka",
+          "content": "Sabah Kyoto’dan hareket ederek Japonya’nın ilk başkentlerinden Nara’yı ziyaret ediyoruz. Todai-ji Tapınağı’nı geziyor, serbest dolaşan geyikleriyle ünlü Nara Parkı’nda keyifli vakit geçiriyoruz. Ardından Osaka’ya geçerek şehrin simgesi Osaka Kalesi’ni ziyaret ediyoruz. Günün devamında neon ışıkları, restoranları ve hareketli atmosferiyle ünlü Dotonbori bölgesini keşfediyoruz. Akşam otelimize yerleşiyoruz."
+        },
+        {
+          "title": "8. GÜN | Osaka – İstanbul",
+          "content": "Sabah otelden ayrılış. Havalimanına transferimizin ardından dönüş uçuşumuz için hareket ediyoruz. Bir sonraki Japonya seyahatinde yeniden buluşmak dileğiyle sizlere veda ediyoruz."
+        }
+      ],
+      "cancellationPolicy": [
+        {
+          "title": "Cezasız İptal Hakkı",
+          "content": "Tur başlangıç tarihinden 30 gün (1 ay) öncesine kadar cezasız iptal hakkı bulunmaktadır."
+        },
+        {
+          "title": "Minimum Misafir Sayısı",
+          "content": "Tur başlangıç tarihinden 20 gün öncesine kadar yeterli misafir bulunmadığı takdirde tur iptal edilecektir ve siz değerli misafirlerimize bildirilecektir."
+        },
+        {
+          "title": "Bağımsız Değişiklikler",
+          "content": "Acentamızın bilgisi dahilinde olamayan yapacağınız (uçak, otel vb.) değişikliklerden acentamız kesinlikle sorumlu olmayacaktır."
+        },
+        {
+          "title": "Doğa Şartları ve Hükümet Kararları",
+          "content": "Hava şartlarından, Japonya hükümeti veya yerel yönetim tarafından gezilecek yerlerin ve güzergahın kapatılmasından dolayı gezilemeyecek olmasından acentamız sorumlu değildir."
+        }
+      ],
+      "visaInfo": [
+        {
+          "title": "Türk Vatandaşları için Vize",
+          "content": "Türk vatandaşlarına vize uygulaması bulunmamaktadır (90 gün muaf)."
+        },
+        {
+          "title": "Pasaport Şartları",
+          "content": "Pasaportunuzun kullanım süresinin en az 6 ay ve 6 sayfa kaldığına emin olun. Yıpranmış ve yırtık olan pasaportlar kabul edilmemektedir."
+        },
+        {
+          "title": "E-Vize Başvurusu",
+          "content": "Japonya'ya gitmeden önce e-vize başvurusu yapmanız Japonya'ya girişinizde kolaylık sağlayacaktır. https://www.evisa.mofa.go.jp/index"
+        }
+      ],
+      "inclusions": [
+        "Gidiş dönüş ekonomi sınıfı uçak bileti (THY – ANA – China)",
+        "Türkçe rehberlik hizmeti",
+        "Shinkansen hızlı tren bileti",
+        "Oteller 3* ve 4 yıldız",
+        "1 Akşam yemeği",
+        "Havaalanı transferleri",
+        "Müze giriş ücretleri",
+        "Günlük turlar",
+        "Günlük turlardaki Araç"
+      ],
+      "exclusions": [
+        "Yurtdışı çıkış Harcı",
+        "Yemek ve içecekler",
+        "Kişisel harcamalar",
+        "Tura dahil olmayan müze ve tapınakların giriş ücreti",
+        "Opsiyonel olarak belirtilen turlar"
+      ],
+      "cancellationPolicyTitle": "İptal Koşulları",
+      "visaInfoTitle": "Vize Bilgileri"
+    },
+    "6-day-7-night-japan": {
+      "title": "7 Gün / 6 Gece Japonya",
+      "desc": "Tokyo keşfi ve şehir deneyimi",
+      "metaTitle": "7 Gün / 6 Gece Japonya - Capahenas Travel",
+      "metaDescription": "Tokyo odaklı 7 gün 6 gece Japonya keşif turunda Odaiba, Asakusa, Meiji Jingu, Shibuya, Ginza ve modern şehir deneyimi yer alır.",
+      "badge": "Japonya Keşif Turu",
+      "galleryTitle": "Tur Galerisi",
+      "gallerySubtitle": "Tokyo • Odaiba • Ginza • Shibuya",
+      "aboutTitle": "Tura Genel Bakış",
+      "aboutSubtitle": "7 Gün / 6 Gece Paket",
+      "aboutDuration": "7 Gün / 6 Gece",
+      "aboutDestinations": "Tokyo",
+      "introText": "<span class=\"inline-block px-3 py-1 bg-green-100 text-green-700 rounded-full text-sm font-medium mr-2\">Günlük Uygun</span><span class=\"inline-block px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm font-medium\">Özelleştirilebilir</span>",
+      "highlights": [
+        "Odaiba ve Tokyo Kulesi keyfi.",
+        "Asakusa, Meiji Jingu, Harajuku ve Shibuya turu.",
+        "Kisarazu Outlet ve Ginza alışveriş rotası.",
+        "Akihabara, Tsukiji ve Japon mutfağı deneyimi.",
+        "Kısacık ve yoğun Tokyo keşfi."
+      ],
+      "itinerary": [
+        {
+          "title": "1. GÜN | İstanbul – Tokyo",
+          "content": "Turumuz, İstanbul Havalimanı’nda buluşmamızla başlıyor. Havalimanı asistanımız eşliğinde bilet işlemleri, bagaj teslimi ve pasaport işlemlerinin tamamlanmasının ardından Tokyo uçuşumuza hareket ediyoruz."
+        },
+        {
+          "title": "2. GÜN | Tokyo’ya Varış – Odaiba – Tokyo Kulesi – TeamLab",
+          "content": "08:55’te Tokyo Narita/Haneda Uluslararası Havalimanı’na varış. Pasaport ve bagaj işlemlerimizin ardından Tokyo keşfimize başlıyoruz. İlk durağımız, modern Tokyo’nun simgelerinden biri olan Odaiba. Burada Özgürlük Anıtı’nın Japonya versiyonunu, Tokyo Körfezi’nin eşsiz manzarasını ve Rainbow Bridge’i fotoğraflama fırsatı buluyoruz. Öğle yemeğimizin ardından Tokyo’nun sembollerinden biri olan Tokyo Kulesi’ni ziyaret ediyoruz. Daha sonra dünyanın en etkileyici dijital sanat müzelerinden biri olan TeamLab Azabudai Hills’te ışık, ses ve teknolojinin buluştuğu benzersiz bir sanat deneyimi yaşıyoruz. Otele giriş."
+        },
+        {
+          "title": "3. GÜN | Asakusa – Meiji Jingu – Harajuku – Shibuya",
+          "content": "Sabah otelde alacağımız kahvaltının ardından şehir turumuza başlıyoruz. 09:30 Asakusa bölgesine hareket. Tokyo’nun en eski ve en önemli Budist tapınaklarından Senso-ji Tapınağı’nı ziyaret ediyor, ardından geleneksel Japon kültürünü yansıtan tarihi Nakamise Alışveriş Caddesi’nde keyifli bir yürüyüş yapıyoruz. Öğle yemeğimizin ardından Tokyo’nun en önemli Şinto tapınaklarından Meiji Jingu’yu ziyaret ediyoruz. Sonrasında gençlik modasının merkezi Harajuku ve lüks alışveriş caddesi Omotesando’da yürüyüş gerçekleştiriyoruz. Günün devamında Tokyo’nun simgesi haline gelen Sadık Köpek Hachiko Anıtı’nı görüyor, dünyanın en yoğun yaya geçitlerinden biri olan ünlü Shibuya Kavşağı’nı ve çevresindeki alışveriş caddelerini keşfediyoruz. 19:30 – Otele dönüş."
+        },
+        {
+          "title": "4. GÜN | Kisarazu Outlet – Shinjuku",
+          "content": "Sabah otelde alacağımız kahvaltının ardından alışveriş tutkunlarının vazgeçilmez duraklarından Kisarazu Outlet’e hareket ediyoruz. Dünyaca ünlü markaların mağazalarında alışveriş için serbest zamanın ardından Tokyo’nun en hareketli semtlerinden Shinjuku’ya geçiyoruz. Modern gökdelenleri, neon ışıkları ve canlı şehir atmosferiyle Shinjuku’yu keşfediyoruz. 19:30 – Otele dönüş."
+        },
+        {
+          "title": "5. GÜN | Akihabara – Tsukiji – Ginza – Gonpachi Restaurant",
+          "content": "09:30 Akihabara bölgesine hareket. Elektronik ürünleri, anime ve manga kültürüyle dünya çapında ün kazanmış Akihabara’da gezi ve alışveriş için serbest zaman veriyoruz. Ardından Japon mutfağının en sevilen lezzetlerini tadabileceğiniz Tsukiji Eski Balık Pazarı’nı ziyaret ediyor ve öğle yemeğimizi burada alıyoruz. Günün devamında Tokyo’nun lüks alışveriş ve yaşam merkezi Ginza’yı geziyoruz. 18:00 – Gonpachi Restaurant’ta akşam yemeği. Quentin Tarantino’nun Kill Bill filmine ilham veren atmosferiyle ün kazanan bu özel restoranda unutulmaz bir Japon akşamı yaşıyoruz. 20:30 – Otele dönüş."
+        },
+        {
+          "title": "6. GÜN | Tokyo – İstanbul",
+          "content": "05:00 Otelimizden Narita Uluslararası Havalimanı’na hareket. Havalimanına varışın ardından rehberimiz eşliğinde bilet, bagaj ve pasaport işlemlerimizi tamamlıyor, İstanbul uçuşumuz için sizleri uğurluyoruz."
+        },
+        {
+          "title": "7. GÜN | İstanbul",
+          "content": "İstanbul Havalimanı’na varış. Bir sonraki Japonya seyahatinde yeniden buluşmak dileğiyle, sizlere hoşça kalın diyoruz."
+        }
+      ],
+      "cancellationPolicy": [
+        {
+          "title": "Cezasız İptal Hakkı",
+          "content": "Tur başlangıç tarihinden 30 gün (1 ay) öncesine kadar cezasız iptal hakkı bulunmaktadır."
+        },
+        {
+          "title": "Minimum Misafir Sayısı",
+          "content": "Tur başlangıç tarihinden 20 gün öncesine kadar yeterli misafir bulunmadığı takdirde tur iptal edilecektir ve siz değerli misafirlerimize bildirilecektir."
+        },
+        {
+          "title": "Bağımsız Değişiklikler",
+          "content": "Acentamızın bilgisi dahilinde olamayan yapacağınız (uçak, otel vb.) değişikliklerden acentamız kesinlikle sorumlu olmayacaktır."
+        },
+        {
+          "title": "Doğa Şartları ve Hükümet Kararları",
+          "content": "Hava şartlarından, Japonya hükümeti veya yerel yönetim tarafından gezilecek yerlerin ve güzergahın kapatılmasından dolayı gezilemeyecek olmasından acentamız sorumlu değildir."
+        }
+      ],
+      "visaInfo": [
+        {
+          "title": "Türk Vatandaşları için Vize",
+          "content": "Türk vatandaşlarına vize uygulaması bulunmamaktadır (90 gün muaf)."
+        },
+        {
+          "title": "Pasaport Şartları",
+          "content": "Pasaportunuzun kullanım süresinin en az 6 ay ve 6 sayfa kaldığına emin olun. Yıpranmış ve yırtık olan pasaportlar kabul edilmemektedir."
+        },
+        {
+          "title": "E-Vize Başvurusu",
+          "content": "Japonya'ya gitmeden önce e-vize başvurusu yapmanız Japonya'ya girişinizde kolaylık sağlayacaktır. https://www.evisa.mofa.go.jp/index"
+        }
+      ],
+      "inclusions": [
+        "Gidiş dönüş ekonomi sınıfı uçak bileti (THY – ANA – China)",
+        "Türkçe rehberlik hizmeti",
+        "Shinkansen hızlı tren bileti",
+        "Oteller 3* ve 4 yıldız",
+        "1 Akşam yemeği",
+        "Havaalanı transferleri",
+        "Müze giriş ücretleri",
+        "Günlük turlar",
+        "Günlük turlardaki Araç"
+      ],
+      "exclusions": [
+        "Yurtdışı çıkış Harcı",
+        "Yemek ve içecekler",
+        "Kişisel harcamalar",
+        "Tura dahil olmayan müze ve tapınakların giriş ücreti",
+        "Opsiyonel olarak belirtilen turlar"
+      ],
+      "cancellationPolicyTitle": "İptal Koşulları",
+      "visaInfoTitle": "Vize Bilgileri"
+    },
+    "japan-big-tokyo": {
+      "title": "Büyük Tur (Tokyo)",
+      "desc": "Tokyo ile başlayan büyük 8 gece 9 günlük gezi\nTOKYO - KYOTO - NARA - OSAKA",
+      "metaTitle": "Büyük Tur (Tokyo) - Capahenas Travel",
+      "metaDescription": "Tokyo, Kyoto, Nara ve Osaka'yı içeren 8 gece 9 günlük Japonya turu; tapınaklar, alışveriş, şehir manzaraları ve kültürel keşifler sunar.",
+      "badge": "Japonya Büyük Turu",
+      "galleryTitle": "Tur Galerisi",
+      "gallerySubtitle": "Tokyo • Kyoto • Nara • Osaka",
+      "aboutTitle": "Tura Genel Bakış",
+      "aboutSubtitle": "8 Gece / 9 Gün Paket",
+      "aboutDuration": "8 Gece / 9 Gün",
+      "aboutDestinations": "Tokyo, Kyoto, Nara, Osaka",
+      "introText": "<span class=\"inline-block px-3 py-1 bg-green-100 text-green-700 rounded-full text-sm font-medium mr-2\">Günlük Uygun</span><span class=\"inline-block px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm font-medium\">Özelleştirilebilir</span>",
+      "highlights": [
+        "Tokyo’da Odaiba, TeamLab ve Tokyo Kulesi keşfi.",
+        "İmparatorluk Sarayı, Tokyo İstasyonu, Tsukiji, Meiji Jingu ve Shibuya rotası.",
+        "Kisarazu Outlet ve Ginza alışveriş günü.",
+        "Kyoto’da Kinkaku-ji, Arashiyama ve Gion.",
+        "Nara ve Osaka’da Todai-ji, Osaka Kalesi ve Dotonbori."
+      ],
+      "itinerary": [
+        {
+          "title": "1. GÜN | İstanbul – Tokyo",
+          "content": "İstanbul Havalimanı’nda buluşma ve bilet, bagaj ile pasaport işlemlerinin ardından Tokyo uçuşu."
+        },
+        {
+          "title": "2. GÜN | Tokyo’ya Varış – Odaiba – TeamLab – Tokyo Kulesi",
+          "content": "Tokyo’ya varışın ardından şehir turumuza başlıyoruz. İlk olarak Tokyo Körfezi’nin modern yüzünü yansıtan Odaiba bölgesini ziyaret ediyor, Özgürlük Anıtı, Rainbow Bridge manzarası ve sahil boyunca keyifli vakit geçiriyoruz. Ardından dünyanın en etkileyici dijital sanat müzelerinden TeamLab’ı ziyaret ederek ışık, renk ve teknolojinin buluştuğu benzersiz bir dijital sanat deneyimi yaşıyoruz. Günün sonunda ışıklandırılmış haliyle Tokyo’nun simgelerinden Tokyo Kulesi önünde fotoğraf molası veriyor, ardından otelimize yerleşiyoruz."
+        },
+        {
+          "title": "3. GÜN | İmparatorluk Sarayı – Tokyo İstasyonu – Tsukiji – Meiji Jingu – Harajuku – Omotesando – Shibuya",
+          "content": "Sabah otelde alacağımız kahvaltının ardından Japon İmparatorluk Sarayı çevresinde yürüyüş yapıyor ve tarihi Tokyo Garı önünde fotoğraf molası veriyoruz. Ardından Japon mutfağının en sevilen duraklarından Tsukiji Eski Balık Pazarı’na geçerek öğle yemeğimizi alıyor ve sokak lezzetlerini keşfediyoruz. Öğleden sonra Meiji Jingu Tapınağı’nı ziyaret ediyor, Harajuku’nun simgesi Takeshita Caddesi’nde yürüyüş yapıyoruz. Sonrasında Omotesando’nun şık mağazaları ve modern şehir atmosferini keşfediyoruz. Günün finalinde Tokyo’nun en hareketli noktası Shibuya’ya geçiyor, Sadık Köpek Hachiko Anıtı’nı görüyor ve akşam ışıkları altında dünyaca ünlü Shibuya Kavşağı’nın büyüleyici atmosferini deneyimliyoruz. Akşam otele dönüş."
+        },
+        {
+          "title": "4. GÜN | Kisarazu Outlet – Ginza",
+          "content": "Sabah kahvaltısının ardından Tokyo Körfezi’nin karşı kıyısında bulunan Kisarazu Outlet’e hareket ediyoruz. Dünyaca ünlü markaların mağazalarında alışveriş için serbest zamanın ardından Tokyo’nun en prestijli alışveriş ve yaşam merkezi Ginza’ya geçiyoruz. Işıl ışıl caddeleri, lüks mağazaları ve modern şehir atmosferi eşliğinde keyifli vakit geçiriyoruz. Akşam otele dönüş."
+        },
+        {
+          "title": "5. GÜN | Gotokuji – Nakano – Shinjuku – Kabukicho – Tokyo Skytree – Asakusa",
+          "content": "Sabah kahvaltısının ardından Japon kültüründe şansın simgesi kabul edilen Maneki Neko’nun doğduğu Gotokuji Tapınağı’nı ziyaret ediyoruz. Ardından anime, manga ve koleksiyon mağazalarıyla ünlü Nakano bölgesini keşfediyoruz. Modern Tokyo’nun kalbi Shinjuku’da yürüyüş yapıyor, Kabukicho’nun renkli atmosferini yakından tanıyoruz. Daha sonra Tokyo’nun en eski Budist tapınaklarından Senso-ji Tapınağı’nı ziyaret ediyor, tarihi Nakamise Alışveriş Caddesi’nde keyifli vakit geçiriyoruz. Günün sonunda Tokyo Skytree bölgesini ziyaret ederek şehrin etkileyici gece manzarasını görüyoruz. Akşam otele dönüş."
+        },
+        {
+          "title": "6. GÜN | Tokyo – Kyoto",
+          "content": "Sabah hızlı tren yolculuğuyla Kyoto’ya hareket ediyoruz. Kyoto’nun simgesi Altın Tapınak (Kinkaku-ji)’ni ziyaret ediyor, Arashiyama Bambu Ormanı ve tarihi Togetsukyo Köprüsü’nü görüyoruz. Günün devamında geleneksel Japon kültürünün en önemli merkezlerinden Gion Geisha Mahallesi’ni geziyor, Kawaramachi ve Pontocho’nun tarihi sokaklarında keyifli bir yürüyüş yapıyoruz. Akşam otelimize yerleşiyoruz."
+        },
+        {
+          "title": "7. GÜN | Kyoto",
+          "content": "Sabah kahvaltısının ardından binlerce kırmızı torii kapısıyla ünlü Fushimi Inari Taisha Tapınağı’nı ziyaret ediyoruz. UNESCO Dünya Mirası Listesi’nde yer alan Kiyomizu-dera Tapınağı’nı geziyor, tarihi Sannenzaka sokaklarını keşfediyoruz. Akşam saatlerinde Gion’un geleneksel atmosferini yeniden yaşayarak Kyoto’nun büyüleyici akşamını deneyimliyoruz. Akşam otele dönüş."
+        },
+        {
+          "title": "8. GÜN | Nara – Osaka",
+          "content": "Sabah Kyoto’dan hareket ederek Japonya’nın ilk başkentlerinden Nara’yı ziyaret ediyoruz. Todai-ji Tapınağı’nı geziyor, serbest dolaşan geyikleriyle ünlü Nara Parkı’nda keyifli vakit geçiriyoruz. Ardından Osaka’ya geçerek şehrin simgesi Osaka Kalesi’ni ziyaret ediyoruz. Günün devamında neon ışıkları, restoranları ve hareketli atmosferiyle ünlü Dotonbori bölgesini keşfediyoruz. Akşam otelimize yerleşiyoruz."
+        },
+        {
+          "title": "9. GÜN | Osaka – İstanbul",
+          "content": "Sabah otelden ayrılış. Havalimanına transferimizin ardından dönüş uçuşumuz için hareket ediyoruz. Bir sonraki Japonya seyahatinde yeniden buluşmak dileğiyle sizlere veda ediyoruz."
+        }
+      ],
+      "cancellationPolicy": [
+        {
+          "title": "Cezasız İptal Hakkı",
+          "content": "Tur başlangıç tarihinden 30 gün (1 ay) öncesine kadar cezasız iptal hakkı bulunmaktadır."
+        },
+        {
+          "title": "Minimum Misafir Sayısı",
+          "content": "Tur başlangıç tarihinden 20 gün öncesine kadar yeterli misafir bulunmadığı takdirde tur iptal edilecektir ve siz değerli misafirlerimize bildirilecektir."
+        },
+        {
+          "title": "Bağımsız Değişiklikler",
+          "content": "Acentamızın bilgisi dahilinde olamayan yapacağınız (uçak, otel vb.) değişikliklerden acentamız kesinlikle sorumlu olmayacaktır."
+        },
+        {
+          "title": "Doğa Şartları ve Hükümet Kararları",
+          "content": "Hava şartlarından, Japonya hükümeti veya yerel yönetim tarafından gezilecek yerlerin ve güzergahın kapatılmasından dolayı gezilemeyecek olmasından acentamız sorumlu değildir."
+        }
+      ],
+      "visaInfo": [
+        {
+          "title": "Türk Vatandaşları için Vize",
+          "content": "Türk vatandaşlarına vize uygulaması bulunmamaktadır (90 gün muaf)."
+        },
+        {
+          "title": "Pasaport Şartları",
+          "content": "Pasaportunuzun kullanım süresinin en az 6 ay ve 6 sayfa kaldığına emin olun. Yıpranmış ve yırtık olan pasaportlar kabul edilmemektedir."
+        },
+        {
+          "title": "E-Vize Başvurusu",
+          "content": "Japonya'ya gitmeden önce e-vize başvurusu yapmanız Japonya'ya girişinizde kolaylık sağlayacaktır. https://www.evisa.mofa.go.jp/index"
+        }
+      ],
+      "inclusions": [
+        "Gidiş dönüş ekonomi sınıfı uçak bileti (THY – ANA – China)",
+        "Türkçe rehberlik hizmeti",
+        "Shinkansen hızlı tren bileti",
+        "Oteller 3* ve 4 yıldız",
+        "1 Akşam yemeği",
+        "Havaalanı transferleri",
+        "Müze giriş ücretleri",
+        "Günlük turlar",
+        "Günlük turlardaki Araç"
+      ],
+      "exclusions": [
+        "Yurtdışı çıkış Harcı",
+        "Yemek ve içecekler",
+        "Kişisel harcamalar",
+        "Tura dahil olmayan müze ve tapınakların giriş ücreti",
+        "Opsiyonel olarak belirtilen turlar"
+      ],
+      "cancellationPolicyTitle": "İptal Koşulları",
+      "visaInfoTitle": "Vize Bilgileri"
+    },
+    "japan-big-osaka": {
+      "title": "Büyük Tur (Osaka)",
+      "desc": "Osaka ile başlayan büyük 8 gece 9 günlük gezi\nOSAKA - NARA - KYOTO - TOKYO",
+      "metaTitle": "Büyük Tur (Osaka) - Capahenas Travel",
+      "metaDescription": "Osaka, Kyoto, Nara ve Tokyo’yu kapsayan 8 gece 9 günlük Japonya turunda tapınaklar, alışveriş ve şehrin simge noktaları keşfedilir.",
+      "badge": "Japonya Büyük Turu",
+      "galleryTitle": "Tur Galerisi",
+      "gallerySubtitle": "Osaka • Kyoto • Tokyo",
+      "aboutTitle": "Tura Genel Bakış",
+      "aboutSubtitle": "8 Gece / 9 Gün Paket",
+      "aboutDuration": "8 Gece / 9 Gün",
+      "aboutDestinations": "Osaka, Kyoto, Nara, Tokyo",
+      "introText": "<span class=\"inline-block px-3 py-1 bg-green-100 text-green-700 rounded-full text-sm font-medium mr-2\">Günlük Uygun</span><span class=\"inline-block px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-sm font-medium\">Özelleştirilebilir</span>",
+      "highlights": [
+        "Osaka Kalesi ve Dotonbori’nin canlı atmosferi.",
+        "Nara’da Todai-ji Tapınağı ve geyikleriyle ünlü Nara Parkı.",
+        "Kyoto’da Fushimi Inari Taisha, Kiyomizu-dera ve Gion.",
+        "Kisarazu Outlet, Asakusa, Meiji Jingu, Harajuku ve Shibuya.",
+        "Tokyo’da Tsukiji, Ginza, teamLab, Tokyo Kulesi, Akihabara ve Ueno."
+      ],
+      "itinerary": [
+        {
+          "title": "1. GÜN | İstanbul – Osaka",
+          "content": "İstanbul Havalimanı’nda buluşma ve bilet, bagaj ile pasaport işlemlerinin ardından Osaka uçuşu."
+        },
+        {
+          "title": "2. GÜN | Osaka’ya Varış – Osaka Kalesi – Dotonbori",
+          "content": "Osaka’ya varışın ardından şehir turumuza başlıyoruz. İlk olarak şehrin simgelerinden Osaka Kalesi’ni ziyaret ediyor, çevresindeki park alanında kısa bir yürüyüş yapıyoruz. Ardından Osaka’nın en canlı bölgelerinden Dotonbori’ye geçiyor, kanal boyunca yürüyüş yapıyor ve renkli neon tabelalar eşliğinde serbest zaman geçiriyoruz. Akşam otelimize yerleşiyoruz."
+        },
+        {
+          "title": "3. GÜN | Nara – Kyoto",
+          "content": "Sabah kahvaltısının ardından kısa bir yolculukla Nara’ya hareket ediyoruz. Todai-ji Tapınağı’nı ziyaret ediyor, serbest dolaşan geyikleriyle ünlü Nara Parkı’nda keyifli vakit geçiriyoruz. Öğleden sonra Kyoto’ya geçiyor, otelimize yerleşiyoruz. Akşam Kyoto’da serbest zaman geçiriyoruz."
+        },
+        {
+          "title": "4. GÜN | Kyoto",
+          "content": "Sabah kahvaltısının ardından Kyoto’nun en önemli simgelerinden Fushimi Inari Taisha’yı ziyaret ediyor, binlerce kırmızı torii kapısı arasında yürüyüş yapıyoruz. Ardından Kiyomizu-dera Tapınağı’nı geziyor, tarihi Sannenzaka ve Ninenzaka sokaklarında keyifli bir yürüyüş yapıyoruz. Günün devamında geleneksel atmosferiyle Gion bölgesini keşfediyor, akşam otelimize yerleşiyoruz."
+        },
+        {
+          "title": "5. GÜN | Kyoto – Tokyo – Kisarazu Outlet",
+          "content": "Sabah hızlı tren yolculuğuyla Kyoto’dan Tokyo’ya hareket ediyoruz. Tokyo’ya varışın ardından Kisarazu Outlet’e geçiyor, alışveriş için serbest zaman veriyoruz. Daha sonra otelimize geçiyor ve giriş işlemlerimizi tamamlıyoruz."
+        },
+        {
+          "title": "6. GÜN | Asakusa – Meiji Jingu – Harajuku – Shibuya",
+          "content": "Sabah kahvaltısının ardından Tokyo’nun tarihi yüzünü keşfetmek üzere Asakusa bölgesine gidiyoruz. Önce Senso-ji Tapınağı’nı ziyaret ediyor, ardından geleneksel Nakamise Alışveriş Caddesi’nde sabah yürüyüşü ve alışveriş için serbest zaman geçiriyoruz. Öğle sonrası Meiji Jingu Tapınağı’na geçiyor, ardından Harajuku’nun simgesi Takeshita Caddesi’nde yürüyüş yapıyoruz. Günün devamında Harajuku ve Shibuya bölgelerini keşfediyor, Hachiko Anıtı ve dünyaca ünlü Shibuya Kavşağı’nda akşam atmosferini yaşıyoruz. Akşam otele dönüş."
+        },
+        {
+          "title": "7. GÜN | İmparatorluk Sarayı – Tokyo İstasyonu – Tsukiji – Ginza – teamLab – Tokyo Kulesi",
+          "content": "Sabah otelde alacağımız kahvaltının ardından Japon İmparatorluk Sarayı çevresinde yürüyüş yapıyor ve tarihi Tokyo İstasyonu önünde fotoğraf molası veriyoruz. Ardından Tsukiji bölgesine geçiyor, öğle yemeği ve serbest zamanın ardından Tokyo’nun en prestijli alışveriş ve yaşam merkezi Ginza’yı keşfediyoruz. Akşam saatlerinde teamLab Planets Tokyo’yu ziyaret ederek ışık, renk ve dijital sanatın buluştuğu etkileyici bir deneyim yaşıyoruz. Günün sonunda Tokyo Kulesi’ne geçiyor, akşam ışıkları altında fotoğraf molası veriyoruz. Akşam otele dönüş."
+        },
+        {
+          "title": "8. GÜN | Akihabara – Ueno – Ameyoko",
+          "content": "Sabah kahvaltısının ardından Tokyo’nun elektronik ve anime kültürüyle ünlü bölgesi Akihabara’ya gidiyoruz. Sonrasında Ueno Parkı ve hareketli Ameyoko alışveriş caddesinde serbest zaman geçiriyoruz. Akşam otele dönüş."
+        },
+        {
+          "title": "9. GÜN | Tokyo – İstanbul",
+          "content": "Sabah otelden ayrılış. Havalimanına transferimizin ardından dönüş uçuşumuz için hareket ediyoruz. Bir sonraki Japonya seyahatinde yeniden buluşmak dileğiyle sizlere veda ediyoruz."
+        }
+      ],
+      "cancellationPolicy": [
+        {
+          "title": "Cezasız İptal Hakkı",
+          "content": "Tur başlangıç tarihinden 30 gün (1 ay) öncesine kadar cezasız iptal hakkı bulunmaktadır."
+        },
+        {
+          "title": "Minimum Misafir Sayısı",
+          "content": "Tur başlangıç tarihinden 20 gün öncesine kadar yeterli misafir bulunmadığı takdirde tur iptal edilecektir ve siz değerli misafirlerimize bildirilecektir."
+        },
+        {
+          "title": "Bağımsız Değişiklikler",
+          "content": "Acentamızın bilgisi dahilinde olamayan yapacağınız (uçak, otel vb.) değişikliklerden acentamız kesinlikle sorumlu olmayacaktır."
+        },
+        {
+          "title": "Doğa Şartları ve Hükümet Kararları",
+          "content": "Hava şartlarından, Japonya hükümeti veya yerel yönetim tarafından gezilecek yerlerin ve güzergahın kapatılmasından dolayı gezilemeyecek olmasından acentamız sorumlu değildir."
+        }
+      ],
+      "visaInfo": [
+        {
+          "title": "Türk Vatandaşları için Vize",
+          "content": "Türk vatandaşlarına vize uygulaması bulunmamaktadır (90 gün muaf)."
+        },
+        {
+          "title": "Pasaport Şartları",
+          "content": "Pasaportunuzun kullanım süresinin en az 6 ay ve 6 sayfa kaldığına emin olun. Yıpranmış ve yırtık olan pasaportlar kabul edilmemektedir."
+        },
+        {
+          "title": "E-Vize Başvurusu",
+          "content": "Japonya'ya gitmeden önce e-vize başvurusu yapmanız Japonya'ya girişinizde kolaylık sağlayacaktır. https://www.evisa.mofa.go.jp/index"
+        }
+      ],
+      "inclusions": [
+        "Gidiş dönüş ekonomi sınıfı uçak bileti (THY – ANA – China)",
+        "Türkçe rehberlik hizmeti",
+        "Shinkansen hızlı tren bileti",
+        "Oteller 3* ve 4 yıldız",
+        "1 Akşam yemeği",
+        "Havaalanı transferleri",
+        "Müze giriş ücretleri",
+        "Günlük turlar",
+        "Günlük turlardaki Araç"
+      ],
+      "exclusions": [
+        "Yurtdışı çıkış Harcı",
+        "Yemek ve içecekler",
+        "Kişisel harcamalar",
+        "Tura dahil olmayan müze ve tapınakların giriş ücreti",
+        "Opsiyonel olarak belirtilen turlar"
+      ],
+      "cancellationPolicyTitle": "İptal Koşulları",
+      "visaInfoTitle": "Vize Bilgileri"
+    }
+  }
+}

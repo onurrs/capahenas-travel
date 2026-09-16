@@ -1,0 +1,301 @@
+{
+  "balloon": {
+    "standard": {
+      "hero": {
+        "badge": "✨ 高端尊享体验",
+        "title1": "标准飞行",
+        "title2": "卡帕多奇亚梦境成真",
+        "subtitle": "通过我们精心策划的标准热气球飞行，从空中俯瞰卡帕多奇亚的魔幻景致。让每一刻都化作难忘回忆。",
+        "duration": "60分钟飞行",
+        "capacity": "最多32位乘客",
+        "launch": "日出起飞"
+      },
+      "main": {
+        "title": "飞行体验",
+        "subtitle": "穿云之旅",
+        "premium": "尊享",
+        "experience": "体验",
+        "desc": {
+          "desc": "与我们的",
+          "highlight": "标准热气球飞行",
+          "rest": "一起踏上非凡的天空之旅。此精心打造的体验将冒险与舒适完美结合，为您开启探索卡帕多奇亚绝美风光的理想起点。"
+        },
+        "inclusions": {
+          "title": "尊享包含",
+          "transfer": {
+            "title": "尊享接送服务",
+            "desc": "豪华酒店上门接送"
+          },
+          "safety": {
+            "title": "安全与保险",
+            "desc": "全面乘客保障"
+          },
+          "champagne": {
+            "title": "香槟庆祝",
+            "desc": "飞行后传统祝酒"
+          },
+          "certificate": {
+            "title": "飞行证书",
+            "desc": "个性化成就纪念"
+          },
+          "breakfast": {
+            "title": "简易早餐",
+            "desc": "飞行前茶点包含"
+          }
+        },
+        "stats": {
+          "flight_duration": {
+            "label": "分钟",
+            "desc": "飞行时长"
+          },
+          "max_guests": {
+            "label": "最多乘客",
+            "desc": "每个篮舱"
+          },
+          "launch_time": {
+            "label": "清晨起飞",
+            "desc": "日出时间"
+          }
+        },
+        "gallery": {
+          "title": "体验画廊",
+          "desc": "先睹为快，天空在等你"
+        }
+      },
+      "booking": {
+        "header": "预订您的飞行",
+        "desc": "锁定天堂中的座位",
+        "date": "选择日期",
+        "passengers": {
+          "title": "选择乘客",
+          "adults": {
+            "title": "成人",
+            "desc": "13岁及以上"
+          },
+          "children": {
+            "title": "儿童",
+            "desc": "6–12岁"
+          }
+        },
+        "details": {
+          "title": "您的信息",
+          "name": "姓名",
+          "email": "电子邮箱",
+          "phone": "电话号码",
+          "phonedesc": "此项为可选，但建议填写以便我们更快回复您。"
+        },
+        "summary": {
+          "title": "预订摘要",
+          "date": "选择的日期：",
+          "guests": "总人数：",
+          "price": "价格详情将在咨询后提供",
+          "reserve_button": "预订您的冒险",
+          "secure_booking": "🔒 安全预订 • 目前无需付款",
+          "cancellation": {
+            "title": "免费取消与退款",
+            "description": "行程开始前24小时内可免费取消"
+          },
+          "whatsapp_contact": "通过 WhatsApp 联系我们"
+        }
+      }
+    },
+    "comfort": {
+      "hero": {
+        "badge": "✨ 舒享升级体验",
+        "title1": "舒享飞行",
+        "title2": "更强性能与更高舒适",
+        "subtitle": "搭配宽敞的28人篮舱与500,000立方英尺热气球，性能与稳定性大幅提升，在舒适中饱览卡帕多奇亚的壮丽峡谷。",
+        "duration": "60分钟飞行",
+        "capacity": "最多28位乘客",
+        "launch": "日出起飞"
+      },
+      "main": {
+        "title": "舒享飞行体验",
+        "subtitle": "舒适与性能全面提升",
+        "premium": "尊享",
+        "experience": "体验",
+        "desc": {
+          "desc": "体验升级版的",
+          "highlight": "舒享热气球飞行",
+          "rest": "，配备宽敞的28人篮舱与强劲的500,000立方英尺热气球。该尊享体验保证至少1小时空中游览，提升的性能与稳定性让旅程更加舒适难忘。"
+        },
+        "inclusions": {
+          "title": "尊享包含",
+          "transfer": {
+            "title": "尊享接送服务",
+            "desc": "豪华酒店上门接送"
+          },
+          "breakfast": {
+            "title": "简易早餐",
+            "desc": "飞行前茶点包含"
+          },
+          "safety": {
+            "title": "安全与保险",
+            "desc": "全面乘客保障"
+          },
+          "champagne": {
+            "title": "香槟庆祝",
+            "desc": "飞行后传统祝酒"
+          },
+          "certificate": {
+            "title": "飞行证书",
+            "desc": "个性化成就纪念"
+          }
+        },
+        "stats": {
+          "flight_duration": {
+            "label": "分钟",
+            "desc": "飞行时长"
+          },
+          "max_guests": {
+            "label": "最多乘客",
+            "desc": "每个篮舱"
+          },
+          "launch_time": {
+            "label": "清晨起飞",
+            "desc": "日出时间"
+          }
+        },
+        "gallery": {
+          "title": "体验画廊",
+          "desc": "先睹为快，天空在等你"
+        }
+      },
+      "booking": {
+        "header": "预订您的飞行",
+        "desc": "锁定天堂中的座位",
+        "date": "选择日期",
+        "passengers": {
+          "title": "选择乘客",
+          "adults": {
+            "title": "成人",
+            "desc": "13岁及以上"
+          },
+          "children": {
+            "title": "儿童",
+            "desc": "6–12岁"
+          }
+        },
+        "details": {
+          "title": "您的信息",
+          "name": "姓名 *",
+          "email": "电子邮箱 *",
+          "phone": "电话号码",
+          "phonedesc": "此项为可选，但建议填写以便我们更快回复您。"
+        },
+        "summary": {
+          "title": "预订摘要",
+          "date": "选择的日期：",
+          "guests": "总人数：",
+          "price": "价格详情将在咨询后提供",
+          "reserve_button": "预订您的冒险",
+          "secure_booking": "🔒 安全预订 • 目前无需付款",
+          "cancellation": {
+            "title": "免费取消与退款",
+            "description": "行程开始前24小时内可免费取消"
+          },
+          "whatsapp_contact": "通过 WhatsApp 联系我们"
+        }
+      }
+    },
+    "private": {
+      "hero": {
+        "badge": "✨ 终极奢享体验",
+        "title1": "私人飞行",
+        "title2": "私密尊享之旅",
+        "subtitle": "以私密与奢华为核心的私人飞行：特别设计的24人篮舱仅限20位宾客，最大化舒适度与私密空间。",
+        "duration": "60分钟飞行",
+        "capacity": "最多20位乘客",
+        "launch": "日出起飞"
+      },
+      "main": {
+        "title": "私人飞行体验",
+        "subtitle": "极致奢华与私密",
+        "premium": "尊享",
+        "experience": "体验",
+        "desc": {
+          "desc": "通过我们的",
+          "highlight": "私人热气球飞行",
+          "rest": "，体验奢华的巅峰。在仅限20位宾客的特别设计24人篮舱中，尽享最大舒适与私密，一同从云端见证卡帕多奇亚的惊艳之美。"
+        },
+        "inclusions": {
+          "title": "专属包含",
+          "transfer": {
+            "title": "尊享接送服务",
+            "desc": "豪华酒店上门接送"
+          },
+          "safety": {
+            "title": "安全与保险",
+            "desc": "全面乘客保障"
+          },
+          "champagne": {
+            "title": "香槟庆祝",
+            "desc": "飞行后传统祝酒"
+          },
+          "certificate": {
+            "title": "飞行证书",
+            "desc": "个性化成就纪念"
+          },
+          "breakfast": {
+            "title": "简易早餐",
+            "desc": "飞行前茶点包含"
+          }
+        },
+        "stats": {
+          "flight_duration": {
+            "label": "分钟",
+            "desc": "飞行时长"
+          },
+          "max_guests": {
+            "label": "最多乘客",
+            "desc": "每个篮舱"
+          },
+          "launch_time": {
+            "label": "清晨起飞",
+            "desc": "日出时间"
+          }
+        },
+        "gallery": {
+          "title": "体验画廊",
+          "desc": "先睹为快，天空在等你"
+        }
+      },
+      "booking": {
+        "header": "预订您的飞行",
+        "desc": "锁定天堂中的座位",
+        "date": "选择日期",
+        "passengers": {
+          "title": "选择乘客",
+          "adults": {
+            "title": "成人",
+            "desc": "13岁及以上"
+          },
+          "children": {
+            "title": "儿童",
+            "desc": "6–12岁"
+          }
+        },
+        "details": {
+          "title": "您的信息",
+          "name": "姓名 *",
+          "email": "电子邮箱 *",
+          "phone": "电话号码",
+          "phonedesc": "此项为可选，但建议填写以便我们更快回复您。"
+        },
+        "summary": {
+          "title": "预订摘要",
+          "date": "选择的日期：",
+          "guests": "总人数：",
+          "price": "价格详情将在咨询后提供",
+          "reserve_button": "预订您的冒险",
+          "secure_booking": "🔒 安全预订 • 目前无需付款",
+          "cancellation": {
+            "title": "免费取消与退款",
+            "description": "行程开始前24小时内可免费取消"
+          },
+          "whatsapp_contact": "通过 WhatsApp 联系我们"
+        }
+      }
+    }
+  }
+}

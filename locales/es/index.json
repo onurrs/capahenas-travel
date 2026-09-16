@@ -1,0 +1,215 @@
+{
+  "hero": {
+    "badge": "Experiencia de viaje premium",
+    "title1": "Disfruta Turquía",
+    "title2": "con Capahenas Travel",
+    "desc": "¡Ofrecemos a nuestros huéspedes una experiencia auténtica en Turquía que recordarán por el resto de sus vidas!",
+    "discover": "Descubrir más"
+  },
+  "value": {
+    "title": "Tu socio de viaje de confianza en Capadocia y Turquía",
+    "desc": "Capadocia, en el centro de Anatolia, es famosa por su paisaje volcánico único, sus antiguas ciudades subterráneas y sus impresionantes paseos en globo aerostático. Explora Göreme, Kaymaklı y Derinkuyu con Capahenas Travel, que ofrece servicios de viaje completos para una experiencia inolvidable.",
+    "years": "Años",
+    "guests": "Huéspedes",
+    "rating": "Valoración"
+  },
+  "balloon": {
+    "titleAccent": "Paseo en ",
+    "titleRest": "Globo",
+    "badge": "Experiencias destacadas",
+    "desc": "Experimenta los paisajes impresionantes de Capadocia desde el aire con nuestras aventuras en globo premium.",
+    "standardTitle": "Estándar",
+    "flight": "Vuelo",
+    "standardDesc": "Los vuelos estándar de Capahenas ofrecen una forma sencilla pero inolvidable de contemplar la asombrosa belleza de Capadocia desde el cielo. Perfectos para los viajeros que desean centrarse en el paisaje mágico sin lujos adicionales. Estos vuelos duran alrededor de 1 hora, el tiempo ideal para disfrutar de las chimeneas de hadas, los valles y los paisajes surrealistas. Operados con cestas de 32 personas, Capahenas garantiza una experiencia segura, cómoda y económica sin sacrificar la maravilla.",
+    "highlights": "Aspectos destacados del vuelo",
+    "capacity": "Capacidad del globo",
+    "capacity32": "24–32 pasajeros",
+    "flightTime": "Hora del vuelo",
+    "flightTimeSunrise": "Al amanecer",
+    "flightDuration": "Duración del vuelo",
+    "flightDuration60": "60 min",
+    "whatsIncluded": "Qué incluye",
+    "pickupDropoff": "Servicio de recogida y regreso",
+    "lightBreakfast": "Desayuno ligero",
+    "passengerInsurance": "Seguro de pasajero",
+    "champagneToast": "Brindis con champán",
+    "flightCertificate": "Certificado de vuelo",
+    "comfortTitle": "Confort",
+    "comfortDesc": "Los vuelos Comfort de Capahenas ofrecen un mínimo de 1 hora en el aire, tiempo suficiente para contemplar los impresionantes valles y formaciones únicas de Capadocia. Estos vuelos se realizan con cestas amplias de 28 personas, garantizando una experiencia más cómoda y relajada con un número limitado de pasajeros. Para mejorar la estabilidad, utilizamos globos de 500,000 pies cúbicos que proporcionan mayor elevación y control. Operamos durante todo el año, sujetos a condiciones meteorológicas, para brindarte una experiencia fluida y memorable.",
+    "capacity28": "16–20 pasajeros",
+    "privateTitle": "Privado",
+    "privateDesc": "El vuelo privado de Capahenas ofrece una forma más íntima y lujosa de experimentar la belleza de Capadocia desde el aire. Operado con una cesta especialmente diseñada para 24 personas, el vuelo se limita a un máximo de 20 huéspedes para garantizar más espacio y comodidad. Con aproximadamente 60 minutos en el aire, tendrás tiempo para admirar los impresionantes valles y formaciones rocosas en un ambiente relajado. Ideal para quienes valoran la comodidad, la privacidad y la exclusividad, los vuelos privados de Capahenas ofrecen una experiencia de globo refinada.",
+    "capacity20": "20 pasajeros"
+  },
+  "popular": {
+    "title": "Tours populares en Capadocia",
+    "redTitle": "Tour rojo Capadocia",
+    "redDesc": "Visita chimeneas de hadas, ciudades subterráneas y formaciones rocosas.",
+    "greenTitle": "Tour verde Capadocia",
+    "greenDesc": "Explora el Valle de Ihlara, el Monasterio de Selime y maravillas naturales.",
+    "blueTitle": "Tour azul Capadocia",
+    "blueDesc": "Descubre joyas ocultas y valles poco conocidos de Capadocia.",
+    "mixTitle": "Tour combinado Capadocia",
+    "mixDesc": "Combina lo mejor de los tours rojo y verde en un solo día.",
+    "privateTitle": "Tour privado Capadocia",
+    "privateDesc": "Tours privados personalizados con guía y vehículo propio.",
+    "camelTitle": "Tour en camello",
+    "camelDesc": "Única experiencia montando camellos entre las chimeneas de hadas.",
+    "horseTitle": "Tour a caballo",
+    "horseDesc": "Mágica experiencia a caballo por los valles al atardecer.",
+    "atvTitle": "Tour en ATV",
+    "atvDesc": "Aventura emocionante en ATV por los valles al atardecer.",
+    "classicTitle": "Tours en autos clásicos",
+    "classicDesc": "Recorre los paisajes en autos antiguos bellamente restaurados.",
+    "jeepTitle": "Safari en Jeep Capadocia",
+    "jeepDesc": "Aventuras todoterreno en jeep por valles y cañones.",
+    "potteryTitle": "Fabricación de cerámica",
+    "potteryDesc": "Talleres prácticos de cerámica con artesanos expertos.",
+    "photoshootTitle": "Tour fotográfico",
+    "photoshootDesc": "Sesiones fotográficas profesionales en los lugares más pintorescos.",
+    "dervishTitle": "Espectáculo de derviches giróvagos",
+    "dervishDesc": "Ceremonia sufí mística y danza tradicional giratoria.",
+    "turkishBathTitle": "Hamam (Baño turco)",
+    "turkishBathDesc": "Auténtica experiencia de baño turco con tratamientos tradicionales.",
+    "turkishNightTitle": "Noche turca",
+    "turkishNightDesc": "Velada cultural con danzas folclóricas, música y cena tradicional."
+  },
+  "turkey": {
+    "title": "Tours por Turquía",
+    "view-button": "Ver",
+    "pamukkale": {
+      "title": "Tour diario a Pamukkale",
+      "desc": "Castillo de algodón y ciudad antigua"
+    },
+    "ephesus": {
+      "title": "Tour diario a Éfeso",
+      "desc": "Antigua ciudad romana"
+    },
+    "aspendos": {
+      "title": "Tour Perge Aspendos Side",
+      "desc": "Ciudades antiguas"
+    },
+    "antalya": {
+      "title": "Tour por la ciudad de Antalya",
+      "desc": "Ciudad vieja y cascadas"
+    },
+    "demre": {
+      "title": "Tour Demre Myra Kekova",
+      "desc": "Historia y crucero azul"
+    },
+    "pamukkaleFromAntalya": {
+      "title": "Tour a Pamukkale desde Antalya",
+      "desc": "Castillo de algodón y ciudad antigua (desde Antalya)"
+    },
+    "mag1": {
+      "title": "Tour de 4 días: Capadocia, Pamukkale y Éfeso",
+      "desc": "Tour por varias ciudades"
+    },
+    "mag2": {
+      "title": "6 días en Estambul y Capadocia",
+      "desc": "Paquete Estambul y Capadocia"
+    },
+    "mag3": {
+      "title": "Tour de 4 días: Capadocia, Pamukkale y Éfeso",
+      "desc": "Tour por varias ciudades | Experiencia guiada"
+    },
+    "mag4": {
+      "title": "Tour de 5 días: Estambul y Éfeso",
+      "desc": "Rica experiencia histórica"
+    },
+    "mag5": {
+      "title": "Tour de 6 días por Turquía",
+      "desc": "Explora lo mejor de Turquía en 6 días."
+    },
+    "mag6": {
+      "title": "Tour de 8 días por Turquía",
+      "desc": "Estambul, Capadocia, Éfeso, Pamukkale"
+    },
+    "mag7": {
+      "title": "Tour de 4 días por Estambul",
+      "desc": "Descubre lo mejor de Estambul en 4 días."
+    },
+    "mag8": {
+      "title": "Tour de 5 días: Estambul, Dolmabahçe y Bursa",
+      "desc": "Riqueza cultural e histórica"
+    },
+    "mag9": {
+      "title": "Tour de 6 días: Estambul, Bursa e Islas del Príncipe",
+      "desc": "Disfruta de la belleza tranquila de las Islas del Príncipe."
+    }
+  },
+  "destinations": {
+    "title": "Destinos",
+    "goreme": {
+      "title": "Museo al aire libre de Göreme"
+    },
+    "kaymakli": {
+      "title": "Ciudad subterránea de Kaymakli"
+    },
+    "derinkuyu": {
+      "title": "Ciudad subterránea de Derinkuyu"
+    },
+    "ihlara": {
+      "title": "Valle de Ihlara"
+    },
+    "soganli": {
+      "title": "Valle de Soğanlı"
+    },
+    "selime": {
+      "title": "Monasterio de Selime"
+    },
+    "pasabag": {
+      "title": "Pasabag (Valle de los Monjes)"
+    },
+    "uchisar": {
+      "title": "Castillo de Uchisar"
+    },
+    "cavusin": {
+      "title": "Pueblo de Çavuşin"
+    },
+    "zelve": {
+      "title": "Museo al aire libre de Zelve"
+    }
+  },
+  "gallery": {
+    "title": "Galería",
+    "subtitle": "Galería de fotos",
+    "share": "Compartir",
+    "posts": "Publicaciones",
+    "followers": "Seguidores",
+    "following": "Siguiendo"
+  },
+  "reviews": {
+    "title": "Opiniones",
+    "swipeHint": "Desliza para ver más",
+    "leaveReview": "Deja una reseña en Google"
+  },
+  "video": {
+    "title": "Experimenta Capadocia",
+    "description": "Descubre la impresionante belleza de Capadocia a través de nuestro viaje inmersivo"
+  },
+  "contact": {
+    "title": "Contacto",
+    "description": "Para preguntas e información, escríbenos.",
+    "workingHours": "Lun - Dom: 9:00 a.m. a 8:00 p.m.",
+    "form": {
+      "name": "Nombre completo",
+      "email": "Correo electrónico",
+      "message": "Mensaje",
+      "submit": "Enviar por correo electrónico"
+    }
+  },
+  "transfer": {
+    "badge": "Transporte Premium",
+    "titlePart1": "¿Necesita Traslado al Aeropuerto o ",
+    "titlePart2": "Servicio de Shuttle?",
+    "description": "Disfrute de servicios de transporte cómodos y confiables en toda Capadocia. Conductores profesionales, vehículos modernos y precios competitivos para todas sus necesidades de traslado.",
+    "feature1": "Traslados al Aeropuerto 24/7",
+    "feature2": "Servicios de Shuttle del Hotel",
+    "feature3": "Opciones Privadas y Compartidas",
+    "feature4": "Conductores Profesionales",
+    "ctaButton": "Reserve Su Traslado Ahora",
+    "badge1": "Disponible 24/7",
+    "badge2": "Mejor Precio"
+  }
+}

@@ -1,0 +1,592 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10943689966"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-10943689966');
+</script>
+
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Pasabag Fairy Chimneys — Capahenas Travel</title>
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="32x32" href="../images/favicon.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../images/favicon.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="../images/favicon.png">
+  <link rel="shortcut icon" href="../images/favicon.png">
+
+  <!-- Meta / SEO -->
+  <meta name="description" content="Discover Pasabag Fairy Chimneys, also known as Monks Valley. Explore spectacular cone-topped rock pillars and hermit cave homes carved into soft volcanic rock." />
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet" />
+  
+  <!-- Tailwind CSS (CDN) -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            bg: '#FBFBFB',
+            text: '#0F172A',
+            accent1: '#DCA47C',
+            accent2: '#FFD3B6',
+            muted: '#6B7280'
+          },
+          borderRadius: { 
+            soft: '12px',
+            '2xl': '16px' 
+          },
+          boxShadow: {
+            card: '0 4px 20px rgba(0,0,0,0.08)',
+            cardLg: '0 10px 40px rgba(0,0,0,0.1)',
+            premium: '0 20px 60px rgba(220,164,124,.15)'
+          },
+          fontFamily: {
+            inter: ['Inter', 'system-ui', 'Segoe UI', 'Roboto', 'Arial'],
+            playfair: ['"Playfair Display"', 'serif']
+          },
+          animation: {
+            'fade-in': 'fadeIn 0.6s ease-out',
+            'slide-up': 'slideUp 0.6s ease-out',
+            'glow': 'glow 2s ease-in-out infinite alternate'
+          },
+          keyframes: {
+            fadeIn: {
+              '0%': { opacity: '0' },
+              '100%': { opacity: '1' }
+            },
+            slideUp: {
+              '0%': { transform: 'translateY(20px)', opacity: '0' },
+              '100%': { transform: 'translateY(0)', opacity: '1' }
+            },
+            glow: {
+              '0%': { boxShadow: '0 0 20px rgba(220,164,124,0.3)' },
+              '100%': { boxShadow: '0 0 40px rgba(220,164,124,0.6)' }
+            }
+          }
+        }
+      }
+    }
+  </script>
+
+  <style>
+    /* Base mobile-first styles */
+    html, body {
+      width: 100%;
+      position: relative;
+    }
+
+    /* Container constraints */
+    .container-max {
+      width: 100%;
+      max-width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+
+    @media (min-width: 640px) {
+      .container-max {
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+      }
+    }
+
+    @media (min-width: 1024px) {
+      .container-max {
+        max-width: 1280px;
+        padding-left: 2rem;
+        padding-right: 2rem;
+      }
+    }
+
+    .premium-glass {
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      background: rgba(255, 255, 255, 0.9);
+    }
+    
+    .hover-lift {
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    
+    .hover-lift:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+    }
+    
+    .gradient-text {
+      background: linear-gradient(135deg, #DCA47C, #FFD3B6);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-20px); }
+    }
+
+    .float-animation {
+      animation: float 3s ease-in-out infinite;
+    }
+
+    /* Swiper Navigation Buttons - Show Arrows */
+    .museumGallerySwiper .swiper-button-next,
+    .museumGallerySwiper .swiper-button-prev {
+      user-select: none;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+    }
+
+    .museumGallerySwiper .swiper-button-next::after,
+    .museumGallerySwiper .swiper-button-prev::after {
+      content: '' !important;
+      display: block !important;
+      width: 10px;
+      height: 10px;
+      border-top: 2px solid white;
+      border-right: 2px solid white;
+      user-select: none;
+      pointer-events: none;
+    }
+
+    .museumGallerySwiper .swiper-button-next::after {
+      transform: rotate(45deg);
+      margin-left: -2px;
+    }
+
+    .museumGallerySwiper .swiper-button-prev::after {
+      transform: rotate(-135deg);
+      margin-right: -2px;
+    }
+
+    /* Prevent image selection */
+    .museumGallerySwiper img {
+      user-select: none;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      pointer-events: none;
+    }
+
+    /* Enhanced hover effect for navigation */
+    .museumGallerySwiper .swiper-button-next:hover,
+    .museumGallerySwiper .swiper-button-prev:hover {
+      transform: scale(1.1);
+      box-shadow: 0 8px 20px rgba(220, 164, 124, 0.4) !important;
+    }
+  </style>
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="../css/styles.css" />
+
+  <!-- Swiper CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+</head>
+
+<body class="bg-bg text-text font-inter antialiased overflow-x-hidden">
+    <header
+    class="sticky top-0 z-50 bg-white/85 backdrop-blur-xl supports-[backdrop-filter]:bg-white/70 border-b border-white/20 shadow-lg">
+    <nav class="mx-auto container-max px-4 md:px-6 flex items-center justify-between h-18 py-2">
+      <div class="flex-shrink-0">
+        <a href="../index.html" class="group flex items-center space-x-3">
+          <!-- Premium Logo Container -->
+          <div class="relative">
+            <img src="../images/logo.png" alt="Capahenas Logo"
+              class="h-20 w-auto transform group-hover:scale-105 transition-transform duration-300 filter-none"
+              style="image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges;">
+            <!-- Premium Glow Effect -->
+            <div
+              class="absolute inset-0 bg-gradient-to-r from-accent1/20 to-accent2/20 rounded-full blur-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="flex items-center gap-3">
+        <span class="md:hidden text-sm font-medium text-gray-700">Menu</span>
+        <button id="mobile-menu-btn" aria-label="Menu"
+          class="md:hidden inline-flex items-center justify-center w-12 h-12 rounded-2xl bg-gradient-to-r from-accent1/10 to-accent2/10 border border-accent1/20 hover:from-accent1/20 hover:to-accent2/20 transition-all duration-300 shadow-lg">
+          <svg class="w-6 h-6 text-accent1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+          </svg>
+        </button>
+      </div>
+      <ul id="main-nav" class="hidden md:flex items-center gap-8 text-sm font-medium">
+          <li><a href="../index.html#turkey-tours"
+            class="relative text-text hover:text-accent1 transition-colors duration-300 py-2 group"
+            data-i18n="header.turkeyTours">
+            Turkey Tours
+            <span
+              class="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-accent1 to-accent2 group-hover:w-full transition-all duration-300"></span>
+          </a></li>
+            <li><a href="../index.html#cappadocia-tours"
+            class="relative text-text hover:text-accent1 transition-colors duration-300 py-2 group"
+            data-i18n="header.cappadociaTours">
+            Cappadocia Tours
+            <span
+              class="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-accent1 to-accent2 group-hover:w-full transition-all duration-300"></span>
+          </a></li>
+  <li><a href="../index.html#featured-balloon"
+            class="relative text-text hover:text-accent1 transition-colors duration-300 py-2 group"
+            data-i18n="header.balloonTours">
+            Balloon Tours
+            <span
+              class="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-accent1 to-accent2 group-hover:w-full transition-all duration-300"></span>
+          </a></li>
+        <li><a href="../index.html#destinations"
+            class="relative text-text hover:text-accent1 transition-colors duration-300 py-2 group"
+            data-i18n="header.destinations">
+            Destinations
+            <span
+              class="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-accent1 to-accent2 group-hover:w-full transition-all duration-300"></span>
+          </a></li>
+        <li><a href="../index.html#gallery" class="relative text-text hover:text-accent1 transition-colors duration-300 py-2 group"
+            data-i18n="header.gallery">
+            Gallery
+            <span
+              class="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-accent1 to-accent2 group-hover:w-full transition-all duration-300"></span>
+          </a></li>
+        <li><a href="../index.html#contact" class="relative text-text hover:text-accent1 transition-colors duration-300 py-2 group"
+            data-i18n="header.contact">
+            Contact
+            <span
+              class="absolute bottom-0 left-0 w-0 h-0.5 bg-gradient-to-r from-accent1 to-accent2 group-hover:w-full transition-all duration-300"></span>
+          </a></li>
+        <li><a href="mailto:info@capahenastravel.com?subject=Premium%20Travel%20Inquiry"
+            class="inline-flex items-center px-6 py-3 font-semibold text-[#081025] rounded-2xl shadow-lg bg-gradient-to-r from-accent1 to-accent2 hover:shadow-2xl transform hover:scale-105 transition-all duration-300 group">
+            <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z">
+              </path>
+            </svg>
+            <span data-i18n="header.getInfo">Get Info</span>
+            <svg class="ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" fill="none"
+              stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
+            </svg>
+          </a></li>
+        <li>
+          <div class="relative">
+            <button id="lang-switch" class="ml-2 flex items-center gap-2 px-4 py-2 rounded-lg border border-gray-300 hover:border-accent1 transition-colors" type="button">
+              <svg class="w-5 h-5 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129"></path>
+              </svg>
+              <span id="current-lang-text" class="font-medium text-gray-700">English</span>
+              <svg class="w-4 h-4 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+              </svg>
+            </button>
+            <div id="lang-menu"
+              class="hidden absolute mt-2 right-0 bg-white rounded-lg shadow-lg border border-gray-200 z-50 py-2 min-w-[180px]">
+              <!-- JS ile doldurulacak -->
+            </div>
+          </div>
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Compact Hero Section -->
+  <section class="relative h-[50vh] flex items-center justify-center overflow-hidden">
+    <!-- Background Image -->
+    <div class="absolute inset-0">
+      <img src="../images/destinations/pasabag/hero.jpg" 
+           alt="Pasabag Fairy Chimneys" 
+           class="w-full h-full object-cover">
+      <div class="absolute inset-0 bg-gradient-to-b from-black/40 via-black/20 to-black/60"></div>
+    </div>
+    
+    <!-- Hero Content -->
+    <div class="relative z-10 text-center text-white px-4 max-w-4xl mx-auto">
+      <div class="mb-4">
+        <span class="inline-block px-4 py-2 bg-white/20 backdrop-blur-sm rounded-full text-sm font-medium border border-white/30" data-i18n="destinations.pasabag.badge">
+          🏔️ Monks Valley
+        </span>
+      </div>
+      <h1 class="text-4xl md:text-6xl font-playfair font-bold mb-4 leading-tight">
+        <span data-i18n="destinations.pasabag.title">Pasabag Fairy Chimneys</span>
+        <span class="block text-2xl md:text-3xl font-normal mt-2 text-accent2" data-i18n="destinations.pasabag.subtitle">
+          Spectacular Mushroom-Shaped Rock Pillars
+        </span>
+      </h1>
+      <p class="text-lg md:text-xl text-white/90 mb-6 max-w-2xl mx-auto leading-relaxed" data-i18n="destinations.pasabag.description">
+        Explore the most spectacular fairy chimneys in Cappadocia, where monks carved homes 15 meters above ground in magnificent cone-topped rock pillars.
+      </p>
+    </div>
+  </section>
+
+  <!-- Main Content -->
+  <main class="py-8 md:py-16 bg-gradient-to-b from-gray-50 to-white">
+    <div class="mx-auto container-max">
+      
+      <!-- Single Column Layout -->
+      <div class="max-w-5xl mx-auto space-y-8">
+        
+        <!-- Photo Gallery -->
+        <div class="bg-white rounded-2xl shadow-cardLg overflow-hidden border border-gray-100">
+          <div class="px-6 md:px-8 py-5 border-b border-gray-100 bg-gradient-to-r from-accent1/10 to-accent2/10">
+            <div class="flex items-center gap-3">
+              <div class="w-10 h-10 rounded-full bg-white shadow-md flex items-center justify-center">
+                <svg class="w-5 h-5 text-accent1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+                </svg>
+              </div>
+              <div>
+                <h2 class="text-xl md:text-2xl font-playfair font-bold text-gray-900 pt-2" data-i18n="destinations.pasabag.gallery.title">Photo Gallery</h2>
+                <p class="text-sm text-gray-600 pb-2" data-i18n="destinations.pasabag.gallery.subtitle">Explore the fairy chimneys</p>
+              </div>
+            </div>
+          </div>
+          <div class="p-6 md:p-8">
+            <!-- Swiper Carousel -->
+            <div class="swiper museumGallerySwiper">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <div class="aspect-video rounded-xl overflow-hidden shadow-lg">
+                    <img src="../images/destinations/pasabag/pasabag1.jpg" 
+                         alt="Pasabag Fairy Chimneys" 
+                         class="w-full h-full object-cover">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="aspect-video rounded-xl overflow-hidden shadow-lg">
+                    <img src="../images/destinations/pasabag/pasabag2.jpg" 
+                         alt="Pasabag Monks Valley" 
+                         class="w-full h-full object-cover">
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="aspect-video rounded-xl overflow-hidden shadow-lg">
+                    <img src="../images/destinations/pasabag/pasabag3.jpg" 
+                         alt="Pasabag Rock Formations" 
+                         class="w-full h-full object-cover">
+                  </div>
+                </div>
+              </div>
+              
+              <!-- Premium Navigation -->
+              <div class="swiper-button-next !text-white !w-12 !h-12 !bg-accent1 hover:!bg-accent2 !rounded-full !shadow-xl after:!text-lg after:!font-bold transition-colors duration-300"></div>
+              <div class="swiper-button-prev !text-white !w-12 !h-12 !bg-accent1 hover:!bg-accent2 !rounded-full !shadow-xl after:!text-lg after:!font-bold transition-colors duration-300"></div>
+              
+              <!-- Elegant Pagination -->
+              <div class="swiper-pagination !bottom-4"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- About Section -->
+        <div class="bg-white rounded-2xl shadow-cardLg overflow-hidden border border-gray-100">
+          <div class="px-6 md:px-8 py-5 border-b border-gray-100 bg-gradient-to-r from-accent1/10 to-accent2/10">
+            <div class="flex items-center gap-3">
+              <div class="w-10 h-10 rounded-full bg-white shadow-md flex items-center justify-center">
+                <svg class="w-5 h-5 text-accent1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                </svg>
+              </div>
+              <div>
+                <h2 class="text-xl md:text-2xl font-playfair font-bold text-gray-900 pt-2" data-i18n="destinations.pasabag.about.title">About Pasabag Fairy Chimneys</h2>
+                <p class="text-sm text-gray-600 pb-2" data-i18n="destinations.pasabag.about.subtitle">History and significance</p>
+              </div>
+            </div>
+          </div>
+          <div class="p-6 md:p-8">
+            <div class="prose prose-lg max-w-none">
+              <h3 class="text-xl font-playfair font-semibold mb-4 text-gray-900" data-i18n="destinations.pasabag.about.overview">Overview</h3>
+              
+              <p class="text-gray-700 leading-relaxed mb-6" data-i18n="destinations.pasabag.about.paragraph1">
+                Pasabag, or Pasha's Vineyard, is located on the Zelve Road between the popular village of Göreme (and the traditional pottery-making community Avanos). The vineyard is dominated by spectacular cone-topped rock pillars called Fairy Chimneys. Pasha was an important Ottoman officer during the capture of the region. Pasabag, more commonly called Monks Valley is a monk refuge that was carved into soft rock cones.
+              </p>
+              
+              <h3 class="text-xl font-playfair font-semibold mb-4 text-gray-900 mt-8" data-i18n="destinations.pasabag.about.simeon">St. Simeon's Home</h3>
+              
+              <p class="text-gray-700 leading-relaxed mb-6" data-i18n="destinations.pasabag.about.paragraph2">
+                St Simeon, one of many monks who fled Cappadocia to seek refuge, was attracted to the beauty and solitude of the area. He built his home 15m above the ground, in one of the fairy chimneys. Then he climbed down to receive the food and water offerings from his followers. This valley contains many of the monks' excavated homes. Cappadocia was already populated by monks in the 4th century. Monks were able hollow out the soft volcanic material within the pillars to create narrow staircases that led to their cone-shaped shelters. You can climb the stairs to get amazing views of the area and crawl into the rock. You can also visit the abandoned cave homes of hermits and a chapel to St Simeon in the valley.
+              </p>
+              
+              <h3 class="text-xl font-playfair font-semibold mb-4 text-gray-900 mt-8" data-i18n="destinations.pasabag.about.fairies">The Fairy Chimneys</h3>
+              
+              <p class="text-gray-700 leading-relaxed mb-6" data-i18n="destinations.pasabag.about.paragraph3">
+                The Fairy Chimneys of Monks Valley are the most spectacular in the Cappadocia region. Some pillars measure 15 meters high and are split into twin chimneys. Others can support three chimneys. These pillars, which are mushroom-shaped, have been formed by wind and rain on soft rock. However they have come to be known as fairy chimneys. Legends say that they were created by fairies for underground homes.
+              </p>
+              
+              <h3 class="text-xl font-playfair font-semibold mb-4 text-gray-900 mt-8" data-i18n="destinations.pasabag.about.visiting">Visiting Pasabag</h3>
+              
+              <p class="text-gray-700 leading-relaxed" data-i18n="destinations.pasabag.about.paragraph4">
+                Monks Valley is just a few kilometers from Göreme. You could combine it with a visit at the Open Air Museum, or a trip in the man-made stone dovecote of Pigeons Valley. Daily Cappadocia Tours can also stop by.
+              </p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="py-16 bg-[#FAF7F0]">
+    <div class="mx-auto container-max px-4 md:px-6">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <!-- Our Company -->
+        <div>
+          <h3 class="text-xl font-playfair mb-4" data-i18n="footer.company">Our Company</h3>
+          <img src="../images/logo.png" alt="Capahenas Travel" class="h-24 mb-4">
+          <p class="text-muted text-sm text-justify" data-i18n="footer.companyDesc">We are small boutique travel agency
+            located in the heart of Cappadocia, in Göreme. Our agency members have more than 15 years experience in
+            tourism business and we will be more than happy to help you.</p>
+          <div class="mt-4">
+            <h4 class="font-medium mb-2" data-i18n="footer.followUs">Follow Us</h4>
+            <div class="flex gap-3">
+              <a href="#" class="text-text hover:text-accent1" aria-label="Facebook">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                  <title data-i18n="footer.facebook">Facebook</title>
+                  <path fill-rule="evenodd"
+                    d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z"
+                    clip-rule="evenodd" />
+                </svg>
+              </a>
+              <a href="#" class="text-text hover:text-accent1" aria-label="Instagram">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                  <title data-i18n="footer.instagram">Instagram</title>
+                  <path fill-rule="evenodd"
+                    d="M12.315 2c2.43 0 2.784.013 3.808.06 1.064.049 1.791.218 2.427.465a4.902 4.902 0 011.772 1.153 4.902 4.902 0 011.153 1.772c.247.636.416 1.363.465 2.427.048 1.067.06 1.407.06 4.123v.08c0 2.643-.012 2.987-.06 4.043-.049 1.064-.218 1.791-.465 2.427a4.902 4.902 0 01-1.153 1.772 4.902 4.902 0 01-1.772 1.153c-.636.247-1.363.416-2.427.465-1.067.048-1.407.06-4.123.06h-.08c-2.643 0-2.987-.012-4.043-.06-1.064-.049-1.791-.218-2.427-.465a4.902 4.902 0 01-1.772-1.153 4.902 4.902 0 01-1.153-1.772c-.247-.636-.416-1.363-.465-2.427-.047-1.024-.06-1.379-.06-3.808v-.63c0-2.43.013-2.784.06-3.808.049-1.064.218-1.791.465-2.427a4.902 4.902 0 011.153-1.772A4.902 4.902 0 015.45 2.525c.636-.247 1.363-.416 2.427-.465C8.901 2.013 9.256 2 11.685 2h.63zm-.081 1.802h-.468c-2.456 0-2.784.011-3.807.058-.975.045-1.504.207-1.857.344-.467.182-.8.398-1.15.748-.35.35-.566.683-.748 1.15-.137.353-.3.882-.344 1.857-.047 1.023-.058 1.351-.058 3.807v.468c0 2.456.011 2.784.058 3.807.045.975.207 1.504.344 1.857.182.466.399.8.748 1.15.35.35.683.566 1.15.748.353.137.882.3 1.857.344 1.054.048 1.37.058 4.041.058h.08c2.597 0 2.917-.01 3.96-.058.976-.045 1.505-.207 1.858-.344.466-.182.8-.398 1.15-.748.35-.35.566-.683.748-1.15.137-.353.3-.882.344-1.857.048-1.055.058-1.37.058-4.041v-.08c0-2.597-.01-2.917-.058-3.96-.045-.976-.207-1.505-.344-1.858a3.097 3.097 0 00-.748-1.15 3.098 3.098 0 00-1.15-.748c-.353-.137-.882-.3-1.857-.344-1.023-.047-1.351-.058-3.807-.058zM12 6.865a5.135 5.135 0 110 10.27 5.135 5.135 0 010-10.27zm0 1.802a3.333 3.333 0 100 6.666 3.333 3.333 0 000-6.666zm5.338-3.205a1.2 1.2 0 110 2.4 1.2 1.2 0 010-2.4z"
+                    clip-rule="evenodd" />
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Member of TURSAB -->
+        <div>
+          <h3 class="text-xl font-playfair mb-4" data-i18n="footer.tursab">Member Of TURSAB</h3>
+          <p class="text-muted text-sm mb-4" data-i18n="footer.tursabDesc">We are A member of TURSAB with 14105 member
+            number</p>
+          <a href="https://www.tursab.org.tr/homepage" target="_blank" rel="noopener noreferrer">
+            <img src="../images/logos/tursab.png" alt="TURSAB Logo" class="h-24 hover:opacity-80 transition-opacity">
+          </a>
+        </div>
+
+        <!-- Contact Us -->
+        <div>
+          <h3 class="text-xl font-playfair mb-4" data-i18n="footer.contactUs">Contact Us</h3>
+          <address class="text-muted text-sm not-italic">
+            <p class="" data-i18n="footer.address1">Isali Gaferli Avcılar mah Fatih sok No 16/A</p>
+            <p class="" data-i18n="footer.address2">Goreme / Nevsehir</p>
+          </address>
+          <div class="mt-2 space-y-2 text-sm">
+            <p><a href="tel:+905340208677" class="text-text hover:text-accent1">+90 534 020 86 77</a></p>
+            <p><a href="mailto:info@capahenastravel.com"
+                class="text-text hover:text-accent1">info@capahenastravel.com</a></p>
+            <p class="text-muted" data-i18n="footer.workingHours">Mon - Sun: 9.00am To 8.00pm</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Copyright -->
+      <div class="mt-12 pt-8 border-t border-slate-200">
+        <div class="text-sm text-center text-muted">
+          © <span id="y"></span> Capahenas Travel. <span data-i18n="footer.copyright">All rights reserved.</span>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+   <script>
+    window.I18N_BASE_PATH = '../locales/';
+  </script>
+  <script src="../js/i18n.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+  <script src="../js/main.js"></script>
+
+  <script>
+    // Set current year in footer
+    document.getElementById('y').textContent = new Date().getFullYear();
+
+    // Initialize Museum Gallery Swiper (same as Cappadocia tours)
+    document.addEventListener('DOMContentLoaded', function() {
+      const museumGallerySwiper = new Swiper('.museumGallerySwiper', {
+        init: false,
+        slidesPerView: 1,
+        spaceBetween: 0,
+        loop: false,
+        centeredSlides: true,
+        watchOverflow: true,
+        observer: false,
+        observeParents: false,
+        resizeObserver: false,
+        updateOnWindowResize: false,
+        preventInteractionOnTransition: true,
+        pagination: {
+          el: '.swiper-pagination',
+          clickable: true,
+        },
+        navigation: {
+          nextEl: '.swiper-button-next',
+          prevEl: '.swiper-button-prev',
+        },
+        on: {
+          init: function () {
+            // Force correct width on init
+            this.$el[0].style.width = '100%';
+            this.$el[0].style.maxWidth = '100%';
+            
+            // Force slides to correct width
+            this.slides.forEach(slide => {
+              slide.style.width = '100%';
+            });
+          }
+        }
+      });
+
+      // Initialize after a brief delay to ensure proper sizing
+      setTimeout(() => {
+        museumGallerySwiper.init();
+      }, 100);
+    });
+  </script>
+
+  <!-- Premium Floating WhatsApp Button -->
+  <a id="whatsapp-fab" href="https://wa.me/905340208677?text=Hello%20Capahenas%20Travel!" target="_blank" rel="noopener"
+    aria-label="WhatsApp"
+    class="group fixed bottom-5 right-5 md:bottom-6 md:right-6 z-50 w-16 h-16 rounded-2xl shadow-2xl bg-gradient-to-br from-accent1 via-accent2 to-accent1 hover:shadow-[0_25px_60px_-5px_rgba(220,164,124,0.4)] flex items-center justify-center transform hover:scale-110 hover:-translate-y-1 transition-all duration-300 border border-white/20 backdrop-blur-sm">
+    <!-- Premium Glow Effect -->
+    <div
+      class="absolute inset-0 bg-gradient-to-br from-accent1/20 to-accent2/20 rounded-2xl blur-xl opacity-0 group-hover:opacity-100 transition-opacity duration-300 scale-110">
+    </div>
+
+    <!-- Enhanced WhatsApp Icon -->
+    <div class="relative z-10 flex items-center justify-center">
+      <svg viewBox="0 0 32 32" width="32" height="32" fill="none" xmlns="http://www.w3.org/2000/svg"
+        class="drop-shadow-lg group-hover:scale-105 transition-transform duration-300">
+        <!-- Background Circle with Gradient -->
+        <circle cx="16" cy="16" r="14" fill="white" stroke="rgba(255,255,255,0.3)" stroke-width="0.5" />
+
+        <!-- WhatsApp Logo -->
+        <path
+          d="M16 4C9.4 4 4 9.4 4 16c0 2.1.5 4.1 1.5 5.9L4 28l6.2-1.5c1.8.9 3.8 1.4 5.8 1.4 6.6 0 12-5.4 12-12S22.6 4 16 4z"
+          fill="#25D366" />
+
+        <!-- Phone Shape -->
+        <path
+          d="M22.5 18.7c-.3-.2-2-.9-2.3-1.1-.3-.2-.5-.3-.7.3-.2.5-.9 1.1-1.1 1.3-.2.2-.4.3-.7.1-.3-.2-1.4-.5-2.6-1.6-.9-.8-1.6-1.9-1.8-2.2-.2-.3 0-.5.2-.6.2-.2.4-.4.5-.6.2-.2.2-.4.4-.6.1-.2.1-.5 0-.7-.1-.2-.7-1.8-1-2.4-.3-.6-.6-.5-.8-.5h-.6c-.2 0-.6.1-.9.5-.3.4-1.1 1.1-1.1 2.6s1.1 3 1.3 3.3c.2.2 2.4 3.7 5.8 5.2.8.3 1.4.5 1.9.7.8.3 1.6.2 2.2.1.7-.1 2-.8 2.3-1.6.3-.8.3-1.4.2-1.6-.1-.1-.3-.2-.6-.3z"
+          fill="white" />
+      </svg>
+    </div>
+  </a>
+</body>
+</html>

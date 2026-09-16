@@ -1,0 +1,215 @@
+{
+  "hero": {
+    "badge": "Premium-Reiseerlebnis",
+    "title1": "Genieße die Türkei",
+    "title2": "mit Capahenas Travel",
+    "desc": "Wir bieten unseren Gästen ein authentisches Türkei-Erlebnis, an das sie sich ein Leben lang erinnern werden!",
+    "discover": "Mehr entdecken"
+  },
+  "value": {
+    "title": "Ihr vertrauenswürdiger Reisepartner in Kappadokien und der Türkei",
+    "desc": "Kappadokien, in Zentralanatolien, ist bekannt für seine einzigartige vulkanische Landschaft, antiken Höhlenstädte und atemberaubenden Heißluftballonfahrten. Entdecken Sie Göreme, Kaymaklı und Derinkuyu mit Capahenas Travel, das umfassende Reisedienstleistungen für ein unvergessliches Erlebnis bietet.",
+    "years": "Jahre",
+    "guests": "Gäste",
+    "rating": "Bewertung"
+  },
+  "balloon": {
+    "titleAccent": "Ballon ",
+    "titleRest": "Touren",
+    "badge": "Empfohlene Erlebnisse",
+    "desc": "Erleben Sie die atemberaubenden Landschaften Kappadokiens aus der Vogelperspektive mit unseren Premium-Ballonabenteuern.",
+    "standardTitle": "Standard",
+    "flight": "Flug",
+    "standardDesc": "Capahenas Standardflüge bieten eine einfache, aber unvergessliche Möglichkeit, die atemberaubende Schönheit Kappadokiens von oben zu erleben. Perfekt für Reisende, die sich auf die magische Landschaft konzentrieren möchten, ohne zusätzlichen Luxus. Diese Flüge dauern etwa 1 Stunde – genau die richtige Zeit, um die Feenkamine, Täler und surrealen Landschaften zu genießen. Mit 32-Personen-Körben durchgeführt, garantiert Capahenas ein sicheres, komfortables und preisgünstiges Erlebnis ohne Abstriche beim Staunen.",
+    "highlights": "Flug-Highlights",
+    "capacity": "Ballonkapazität",
+    "capacity32": "24–32 Passagiere",
+    "flightTime": "Flugzeit",
+    "flightTimeSunrise": "Bei Sonnenaufgang",
+    "flightDuration": "Flugdauer",
+    "flightDuration60": "60 Min.",
+    "whatsIncluded": "Inklusive Leistungen",
+    "pickupDropoff": "Abhol- und Bringservice",
+    "lightBreakfast": "Leichtes Frühstück",
+    "passengerInsurance": "Passagier-Versicherung",
+    "champagneToast": "Champagner-Anstoßen",
+    "flightCertificate": "Flugzertifikat",
+    "comfortTitle": "Komfort",
+    "comfortDesc": "Capahenas Komfortflüge bieten mindestens 1 Stunde in der Luft – genug Zeit, um die atemberaubenden Täler und einzigartigen Formationen Kappadokiens zu genießen. Diese Flüge werden in geräumigen 28-Personen-Körben durchgeführt, um ein komfortableres Erlebnis mit weniger Gästen zu gewährleisten. Für bessere Leistung und Stabilität verwenden wir Ballons mit 500.000 Kubikfuß, die dem Flug mehr Auftrieb und Kontrolle geben. Capahenas Komfortflüge finden das ganze Jahr über statt (wetterabhängig) und bieten eine reibungslose und unvergessliche Reise durch den Himmel.",
+    "capacity28": "16–20 Passagiere",
+    "privateTitle": "Privat",
+    "privateDesc": "Capahenas Privatflüge bieten eine exklusivere und luxuriösere Möglichkeit, die Schönheit Kappadokiens aus der Luft zu erleben. Mit einem speziell entwickelten 24-Personen-Korb durchgeführt, ist der Flug auf maximal 20 Gäste begrenzt, um zusätzlichen Raum und Komfort zu bieten. Mit etwa 60 Minuten Flugzeit haben Sie reichlich Gelegenheit, die beeindruckenden Täler und Felsformationen in entspannter Atmosphäre zu genießen. Ideal für Reisende, die Wert auf Komfort, Privatsphäre und Exklusivität legen – Capahenas Privatflüge bieten ein raffiniertes Ballonerlebnis.",
+    "capacity20": "20 Passagiere"
+  },
+  "popular": {
+    "title": "Beliebte Touren in Kappadokien",
+    "redTitle": "Rote Tour Kappadokien",
+    "redDesc": "Besuchen Sie Feenkamine, unterirdische Städte und Felsformationen.",
+    "greenTitle": "Grüne Tour Kappadokien",
+    "greenDesc": "Erkunden Sie das Ihlara-Tal, das Selime-Kloster und Naturwunder.",
+    "blueTitle": "Blaue Tour Kappadokien",
+    "blueDesc": "Entdecken Sie verborgene Schätze und weniger bekannte Täler Kappadokiens.",
+    "mixTitle": "Mix-Tour Kappadokien",
+    "mixDesc": "Kombinierte Highlights der Roten und Grünen Tour an einem Tag.",
+    "privateTitle": "Private Tour Kappadokien",
+    "privateDesc": "Individuelle Privattouren mit persönlichem Guide und Fahrzeug.",
+    "camelTitle": "Kamelreiten-Tour",
+    "camelDesc": "Einzigartiges Kamelreiterlebnis durch die Feenkamine.",
+    "horseTitle": "Reittour zu Pferd",
+    "horseDesc": "Magisches Reiterlebnis durch Täler bei Sonnenuntergang.",
+    "atvTitle": "ATV-Tour",
+    "atvDesc": "Spannendes ATV-Abenteuer durch Täler bei Sonnenuntergang.",
+    "classicTitle": "Klassische Autotouren",
+    "classicDesc": "Fahren Sie durch die Landschaften in wunderschön restaurierten Oldtimern.",
+    "jeepTitle": "Jeep-Safari Kappadokien",
+    "jeepDesc": "Offroad-Jeep-Abenteuer durch zerklüftete Täler und Canyons.",
+    "potteryTitle": "Töpferkurs",
+    "potteryDesc": "Praktische Töpferworkshops mit Meisterhandwerkern.",
+    "photoshootTitle": "Fotoshooting-Tour",
+    "photoshootDesc": "Professionelle Fotosessions an den schönsten Orten.",
+    "dervishTitle": "Derwisch-Show",
+    "dervishDesc": "Mystische Sufi-Zeremonie und traditioneller Wirbeltanz.",
+    "turkishBathTitle": "Hamam (Türkisches Bad)",
+    "turkishBathDesc": "Authentisches türkisches Badeerlebnis mit traditionellen Behandlungen.",
+    "turkishNightTitle": "Türkische Nachtshow",
+    "turkishNightDesc": "Kultureller Abend mit Volkstänzen, Musik und traditionellem Abendessen."
+  },
+  "turkey": {
+    "title": "Türkei-Touren",
+    "view-button": "Ansehen",
+    "pamukkale": {
+      "title": "Tagesausflug Pamukkale",
+      "desc": "Baumwollschloss & Antike Stadt"
+    },
+    "ephesus": {
+      "title": "Tagesausflug Ephesos",
+      "desc": "Antike römische Stadt"
+    },
+    "aspendos": {
+      "title": "Perge Aspendos Side Tour",
+      "desc": "Antike Städte"
+    },
+    "antalya": {
+      "title": "Antalya-Stadttour",
+      "desc": "Altstadt & Wasserfälle"
+    },
+    "demre": {
+      "title": "Demre Myra Kekova Tour",
+      "desc": "Geschichte & Blaue Reise"
+    },
+    "pamukkaleFromAntalya": {
+      "title": "Pamukkale-Tour ab Antalya",
+      "desc": "Baumwollschloss & Antike Stadt (ab Antalya)"
+    },
+    "mag1": {
+      "title": "4-tägige Tour: Kappadokien, Pamukkale & Ephesos",
+      "desc": "Mehrstädtige Pauschalreise"
+    },
+    "mag2": {
+      "title": "Istanbul & Kappadokien in 6 Tagen",
+      "desc": "Istanbul & Kappadokien Paket"
+    },
+    "mag3": {
+      "title": "4-tägige Tour: Kappadokien, Pamukkale & Ephesos",
+      "desc": "Mehrstädtige Pauschalreise | Geführtes Erlebnis"
+    },
+    "mag4": {
+      "title": "5-tägige Tour: Istanbul & Ephesos",
+      "desc": "Reiche historische Einblicke"
+    },
+    "mag5": {
+      "title": "6-tägige Türkei-Tour",
+      "desc": "Entdecken Sie die Höhepunkte der Türkei in 6 Tagen."
+    },
+    "mag6": {
+      "title": "8-tägige Türkei-Tour",
+      "desc": "Istanbul, Kappadokien, Ephesos, Pamukkale"
+    },
+    "mag7": {
+      "title": "4-tägige Istanbul-Tour",
+      "desc": "Entdecken Sie das Beste von Istanbul in 4 Tagen."
+    },
+    "mag8": {
+      "title": "5-tägige Tour: Istanbul, Dolmabahçe & Bursa",
+      "desc": "Kultureller und historischer Reichtum"
+    },
+    "mag9": {
+      "title": "6-tägige Tour: Istanbul, Bursa & Prinzeninseln",
+      "desc": "Genießen Sie die ruhige Schönheit der Prinzeninseln"
+    }
+  },
+  "destinations": {
+    "title": "Reiseziele",
+    "goreme": {
+      "title": "Göreme Freilichtmuseum"
+    },
+    "kaymakli": {
+      "title": "Kaymakli Untergrundstadt"
+    },
+    "derinkuyu": {
+      "title": "Derinkuyu Untergrundstadt"
+    },
+    "ihlara": {
+      "title": "Ihlara-Tal"
+    },
+    "soganli": {
+      "title": "Soganli-Tal"
+    },
+    "selime": {
+      "title": "Selime-Kloster"
+    },
+    "pasabag": {
+      "title": "Pasabag (Mönchstal)"
+    },
+    "uchisar": {
+      "title": "Uchisar-Burg"
+    },
+    "cavusin": {
+      "title": "Cavusin-Dorf"
+    },
+    "zelve": {
+      "title": "Zelve Freilichtmuseum"
+    }
+  },
+  "gallery": {
+    "title": "Galerie",
+    "subtitle": "Fotogalerie",
+    "share": "Teilen",
+    "posts": "Beiträge",
+    "followers": "Follower",
+    "following": "Folge ich"
+  },
+  "reviews": {
+    "title": "Bewertungen",
+    "swipeHint": "Wischen, um mehr zu sehen",
+    "leaveReview": "Eine Bewertung auf Google hinterlassen"
+  },
+  "video": {
+    "title": "Erleben Sie Kappadokien",
+    "description": "Erleben Sie die atemberaubende Schönheit Kappadokiens auf unserer immersiven Reise"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "description": "Für Fragen und Informationen schreiben Sie uns.",
+    "workingHours": "Mo - So: 9.00 bis 20.00 Uhr",
+    "form": {
+      "name": "Vollständiger Name",
+      "email": "E-Mail",
+      "message": "Nachricht",
+      "submit": "Per E-Mail senden"
+    }
+  },
+  "transfer": {
+    "badge": "Premium Transport",
+    "titlePart1": "Brauchen Sie Flughafentransfer oder ",
+    "titlePart2": "Shuttle-Service?",
+    "description": "Genießen Sie komfortable und zuverlässige Transportdienste in ganz Kappadokien. Professionelle Fahrer, moderne Fahrzeuge und wettbewerbsfähige Preise für alle Ihre Transferbedürfnisse.",
+    "feature1": "24/7 Flughafentransfers",
+    "feature2": "Hotel-Shuttle-Services",
+    "feature3": "Private & Geteilte Optionen",
+    "feature4": "Professionelle Fahrer",
+    "ctaButton": "Buchen Sie Ihren Transfer Jetzt",
+    "badge1": "24/7 Verfügbar",
+    "badge2": "Bester Preis"
+  }
+}

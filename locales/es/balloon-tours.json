@@ -1,0 +1,301 @@
+{
+  "balloon": {
+    "standard": {
+      "hero": {
+        "badge": "✨ Experiencia Premium",
+        "title1": "Vuelo Estándar",
+        "title2": "Los sueños de Capadocia se hacen realidad",
+        "subtitle": "Viva los paisajes mágicos de Capadocia desde el cielo con nuestro vuelo estándar cuidadosamente diseñado. Cada momento se convierte en un recuerdo inolvidable.",
+        "duration": "Vuelo de 60 minutos",
+        "capacity": "Hasta 32 pasajeros",
+        "launch": "Despegue al amanecer"
+      },
+      "main": {
+        "title": "Experiencia de Vuelo",
+        "subtitle": "Su viaje entre las nubes",
+        "premium": "Premium",
+        "experience": "Experiencia",
+        "desc": {
+          "desc": "Emprenda un viaje extraordinario por el cielo con nuestro ",
+          "highlight": "Vuelo en Globo Estándar",
+          "rest": "Esta experiencia cuidadosamente elaborada ofrece la introducción perfecta a la impresionante belleza de Capadocia, combinando aventura y comodidad en nuestros globos premium."
+        },
+        "inclusions": {
+          "title": "Incluye Premium",
+          "transfer": {
+            "title": "Servicio de Transfer Premium",
+            "desc": "Recogida y regreso al hotel de lujo"
+          },
+          "safety": {
+            "title": "Seguridad y Seguro",
+            "desc": "Protección integral para pasajeros"
+          },
+          "champagne": {
+            "title": "Brindis con Champagne",
+            "desc": "Brindis tradicional tras el vuelo"
+          },
+          "certificate": {
+            "title": "Certificado de Vuelo",
+            "desc": "Recuerdo personalizado de logro"
+          },
+          "breakfast": {
+            "title": "Desayuno Ligero",
+            "desc": "Refrigerio previo al vuelo incluido"
+          }
+        },
+        "stats": {
+          "flight_duration": {
+            "label": "Minutos",
+            "desc": "Duración del vuelo"
+          },
+          "max_guests": {
+            "label": "Máx. pasajeros",
+            "desc": "Por canasta"
+          },
+          "launch_time": {
+            "label": "Despegue (mañana)",
+            "desc": "Hora del amanecer"
+          }
+        },
+        "gallery": {
+          "title": "Galería de Experiencias",
+          "desc": "Vea lo que le espera en el cielo"
+        }
+      },
+      "booking": {
+        "header": "Reserve su Vuelo",
+        "desc": "Asegure su lugar en el paraíso",
+        "date": "Seleccione la fecha",
+        "passengers": {
+          "title": "Elegir pasajeros",
+          "adults": {
+            "title": "Adultos",
+            "desc": "Edad 13+"
+          },
+          "children": {
+            "title": "Niños",
+            "desc": "Edad 6–12"
+          }
+        },
+        "details": {
+          "title": "Sus Datos",
+          "name": "Nombre completo",
+          "email": "Correo electrónico",
+          "phone": "Número de teléfono",
+          "phonedesc": "Este campo es opcional, pero recomendamos completarlo para poder responderle más rápido."
+        },
+        "summary": {
+          "title": "Resumen de la Reserva",
+          "date": "Fecha seleccionada:",
+          "guests": "Total de pasajeros:",
+          "price": "Los detalles de precio se proporcionarán al realizar la consulta",
+          "reserve_button": "Reserve su aventura",
+          "secure_booking": "🔒 Reserva segura • No se requiere pago ahora",
+          "cancellation": {
+            "title": "Cancelación y Reembolso Gratuitos",
+            "description": "El tour puede cancelarse hasta 24 horas antes del inicio"
+          },
+          "whatsapp_contact": "Contáctanos por WhatsApp"
+        }
+      }
+    },
+    "comfort": {
+      "hero": {
+        "badge": "✨ Experiencia de Confort Mejorada",
+        "title1": "Vuelo Comfort",
+        "title2": "Rendimiento y confort mejorados",
+        "subtitle": "Descubra los valles de Capadocia con mayor comodidad en nuestras canastas espaciosas para 28 personas, con globos de 500,000 pies³ para un rendimiento y estabilidad superiores.",
+        "duration": "Vuelo de 60 minutos",
+        "capacity": "Hasta 28 pasajeros",
+        "launch": "Despegue al amanecer"
+      },
+      "main": {
+        "title": "Experiencia Vuelo Comfort",
+        "subtitle": "Confort y rendimiento elevados",
+        "premium": "Premium",
+        "experience": "Experiencia",
+        "desc": {
+          "desc": "Viva el ",
+          "highlight": "Vuelo en Globo Comfort",
+          "rest": "con canastas espaciosas para 28 personas y nuestros globos de 500,000 pies³. Esta experiencia premium garantiza un mínimo de 1 hora en el aire con mayor rendimiento y estabilidad, asegurando un viaje cómodo e inolvidable sobre los valles y formaciones únicas de Capadocia."
+        },
+        "inclusions": {
+          "title": "Incluye Premium",
+          "transfer": {
+            "title": "Servicio de Transfer Premium",
+            "desc": "Recogida y regreso al hotel de lujo"
+          },
+          "breakfast": {
+            "title": "Desayuno Ligero",
+            "desc": "Refrigerio previo al vuelo incluido"
+          },
+          "safety": {
+            "title": "Seguridad y Seguro",
+            "desc": "Protección integral para pasajeros"
+          },
+          "champagne": {
+            "title": "Brindis con Champagne",
+            "desc": "Brindis tradicional tras el vuelo"
+          },
+          "certificate": {
+            "title": "Certificado de Vuelo",
+            "desc": "Recuerdo personalizado de logro"
+          }
+        },
+        "stats": {
+          "flight_duration": {
+            "label": "Minutos",
+            "desc": "Duración del vuelo"
+          },
+          "max_guests": {
+            "label": "Máx. pasajeros",
+            "desc": "Por canasta"
+          },
+          "launch_time": {
+            "label": "Despegue (mañana)",
+            "desc": "Hora del amanecer"
+          }
+        },
+        "gallery": {
+          "title": "Galería de Experiencias",
+          "desc": "Vea lo que le espera en el cielo"
+        }
+      },
+      "booking": {
+        "header": "Reserve su Vuelo",
+        "desc": "Asegure su lugar en el paraíso",
+        "date": "Seleccione la fecha",
+        "passengers": {
+          "title": "Elegir pasajeros",
+          "adults": {
+            "title": "Adultos",
+            "desc": "Edad 13+"
+          },
+          "children": {
+            "title": "Niños",
+            "desc": "Edad 6–12"
+          }
+        },
+        "details": {
+          "title": "Sus Datos",
+          "name": "Nombre completo *",
+          "email": "Correo electrónico *",
+          "phone": "Número de teléfono",
+          "phonedesc": "Este campo es opcional, pero recomendamos completarlo para poder responderle más rápido."
+        },
+        "summary": {
+          "title": "Resumen de la Reserva",
+          "date": "Fecha seleccionada:",
+          "guests": "Total de pasajeros:",
+          "price": "Los detalles de precio se proporcionarán al realizar la consulta",
+          "reserve_button": "Reserve su aventura",
+          "secure_booking": "🔒 Reserva segura • No se requiere pago ahora",
+          "cancellation": {
+            "title": "Cancelación y Reembolso Gratuitos",
+            "description": "El tour puede cancelarse hasta 24 horas antes del inicio"
+          },
+          "whatsapp_contact": "Contáctanos por WhatsApp"
+        }
+      }
+    },
+    "private": {
+      "hero": {
+        "badge": "✨ Experiencia de Lujo Máxima",
+        "title1": "Vuelo Privado",
+        "title2": "Aventura íntima y exclusiva",
+        "subtitle": "Viva el máximo lujo y privacidad con nuestro Vuelo Privado. Limitado a 20 pasajeros en una canasta especialmente diseñada para 24, para ofrecer máximo confort y espacio personal.",
+        "duration": "Vuelo de 60 minutos",
+        "capacity": "Máx. 20 pasajeros",
+        "launch": "Despegue al amanecer"
+      },
+      "main": {
+        "title": "Experiencia Vuelo Privado",
+        "subtitle": "Lujo e intimidad definitivos",
+        "premium": "Premium",
+        "experience": "Experiencia",
+        "desc": {
+          "desc": "Descubra la cúspide del lujo con nuestro ",
+          "highlight": "Vuelo en Globo Privado",
+          "rest": "Esta experiencia exclusiva ofrece máximo confort y espacio personal en una canasta de 24 plazas limitada a solo 20 pasajeros, creando la atmósfera perfecta para contemplar desde el cielo la belleza de Capadocia."
+        },
+        "inclusions": {
+          "title": "Incluye Exclusivo",
+          "transfer": {
+            "title": "Servicio de Transfer Premium",
+            "desc": "Recogida y regreso al hotel de lujo"
+          },
+          "safety": {
+            "title": "Seguridad y Seguro",
+            "desc": "Protección integral para pasajeros"
+          },
+          "champagne": {
+            "title": "Brindis con Champagne",
+            "desc": "Brindis tradicional tras el vuelo"
+          },
+          "certificate": {
+            "title": "Certificado de Vuelo",
+            "desc": "Recuerdo personalizado de logro"
+          },
+          "breakfast": {
+            "title": "Desayuno Ligero",
+            "desc": "Refrigerio previo al vuelo incluido"
+          }
+        },
+        "stats": {
+          "flight_duration": {
+            "label": "Minutos",
+            "desc": "Duración del vuelo"
+          },
+          "max_guests": {
+            "label": "Máx. pasajeros",
+            "desc": "Por canasta"
+          },
+          "launch_time": {
+            "label": "Despegue (mañana)",
+            "desc": "Hora del amanecer"
+          }
+        },
+        "gallery": {
+          "title": "Galería de Experiencias",
+          "desc": "Vea lo que le espera en el cielo"
+        }
+      },
+      "booking": {
+        "header": "Reserve su Vuelo",
+        "desc": "Asegure su lugar en el paraíso",
+        "date": "Seleccione la fecha",
+        "passengers": {
+          "title": "Elegir pasajeros",
+          "adults": {
+            "title": "Adultos",
+            "desc": "Edad 13+"
+          },
+          "children": {
+            "title": "Niños",
+            "desc": "Edad 6–12"
+          }
+        },
+        "details": {
+          "title": "Sus Datos",
+          "name": "Nombre completo *",
+          "email": "Correo electrónico *",
+          "phone": "Número de teléfono",
+          "phonedesc": "Este campo es opcional, pero recomendamos completarlo para poder responderle más rápido."
+        },
+        "summary": {
+          "title": "Resumen de la Reserva",
+          "date": "Fecha seleccionada:",
+          "guests": "Total de pasajeros:",
+          "price": "Los detalles de precio se proporcionarán al realizar la consulta",
+          "reserve_button": "Reserve su aventura",
+          "secure_booking": "🔒 Reserva segura • No se requiere pago ahora",
+          "cancellation": {
+            "title": "Cancelación y Reembolso Gratuitos",
+            "description": "El tour puede cancelarse hasta 24 horas antes del inicio"
+          },
+          "whatsapp_contact": "Contáctanos por WhatsApp"
+        }
+      }
+    }
+  }
+}
